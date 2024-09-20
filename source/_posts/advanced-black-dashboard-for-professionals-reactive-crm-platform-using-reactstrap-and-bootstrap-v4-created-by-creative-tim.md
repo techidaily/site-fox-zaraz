@@ -1,7 +1,7 @@
 ---
 title: "Advanced Black Dashboard for Professionals: Reactive CRM Platform Using Reactstrap and Bootstrap v4 - Created by Creative Tim"
-date: 2024-09-19 22:36:47
-updated: 2024-09-20 10:47:37
+date: 2024-09-13T23:27:52.727Z
+updated: 2024-09-19T16:49:18.469Z
 tags:
   - product
 categories:
@@ -31,11 +31,17 @@ thumbnail: https://thmb.techidaily.com/85d1b13c1ebb0877b2226a27f70682a117714d804
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

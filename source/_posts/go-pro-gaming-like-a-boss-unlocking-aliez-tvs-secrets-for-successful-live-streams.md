@@ -1,7 +1,7 @@
 ---
 title: "Go Pro Gaming Like a Boss: Unlocking Aliez TV's Secrets for Successful Live Streams"
-date: 2024-09-18 12:48:19
-updated: 2024-09-20 11:22:25
+date: 2024-09-16T19:59:04.678Z
+updated: 2024-09-19T16:02:45.183Z
 tags:
   - product
 categories:
@@ -66,6 +66,13 @@ Action Tutorials
 
 ![Mirillis Action! - Start your Aliez broadcast](https://mirillis.com/res/old/gfx/tutorials/live/mirillis_action_live_aliez_start_your_broadcast.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  On the next page select **Computer Game** and choose your existing channel or create a new channel if required. **Details for Broadcast** page displays all broadcast details required to setup Action! Streaming service settings. 
 
 ![Mirillis Action! - Aliez broadcast details](https://mirillis.com/res/old/gfx/tutorials/live/mirillis_action_live_aliez_details.jpg) 
@@ -97,9 +104,30 @@ Action Tutorials
 
 ![Mirillis Action! - Streaming gameplay to Aliez](https://mirillis.com/res/old/gfx/tutorials/live/mirillis_action_live_streaming_hud.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Press CTRL+F9 hotkey again to stop gameplay streaming. HUD status changes showing that your gameplay streaming has finished. 
 
 ![Mirillis Action! - Streaming finished](https://mirillis.com/res/old/gfx/tutorials/basics/mirillis_action_HUD_normal_status_game.jpg) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Check your brodcasts
 
@@ -110,8 +138,6 @@ Action Tutorials
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

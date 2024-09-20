@@ -1,7 +1,7 @@
 ---
 title: Beginner's Guide to Building a Flutter Application for the Web Using Material-UI and Code Samples From CreativeTim
-date: 2024-09-18 12:22:36
-updated: 2024-09-20 11:30:55
+date: 2024-09-19T04:42:04.046Z
+updated: 2024-09-20T02:50:58.446Z
 tags:
   - product
 categories:
@@ -31,11 +31,17 @@ thumbnail: https://thmb.techidaily.com/70c37a7401073f1bcbf47eb7a020f3d12c21a20e9
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

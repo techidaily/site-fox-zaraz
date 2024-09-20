@@ -1,7 +1,7 @@
 ---
 title: 1. Pro Version of Horizon AI with Enhanced Chakra UI and NextJS by Creative Tim
-date: 2024-09-17 21:32:39
-updated: 2024-09-20 10:59:43
+date: 2024-09-13T19:36:29.648Z
+updated: 2024-09-19T22:05:37.904Z
 tags:
   - product
 categories:
@@ -31,11 +31,17 @@ thumbnail: https://thmb.techidaily.com/34105a367409817e108368ea9b44a6be3f4efc35b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

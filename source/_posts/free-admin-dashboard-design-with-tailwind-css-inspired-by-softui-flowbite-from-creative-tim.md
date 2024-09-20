@@ -1,7 +1,7 @@
 ---
 title: Free Admin Dashboard Design with Tailwind CSS - Inspired by SoftUI FlowBite From Creative Tim
-date: 2024-09-18 11:18:55
-updated: 2024-09-20 11:34:31
+date: 2024-09-17T01:46:35.633Z
+updated: 2024-09-19T18:43:50.149Z
 tags:
   - product
 categories:
@@ -31,11 +31,17 @@ thumbnail: https://thmb.techidaily.com/d8d350936386f188a2d4be816539be2eaee7c3069
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: Advanced VueJS 3 & Bootstrap 5 Admin Dashboard with Vue Soft UI Dashboard Pro - Exclusive Pre-Built Templates
-date: 2024-09-19 14:52:43
-updated: 2024-09-20 10:59:20
+date: 2024-09-18T00:53:37.545Z
+updated: 2024-09-19T18:51:06.051Z
 tags:
   - product
 categories:
@@ -31,11 +31,23 @@ thumbnail: https://thmb.techidaily.com/c9a47d41b34d7090487ad8a1c43825738349119fb
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

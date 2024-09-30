@@ -1,7 +1,7 @@
 ---
 title: "Section 3A: Understanding Proportional Reasoning in Scale Models"
-date: 2024-09-21T22:05:47.358Z
-updated: 2024-09-25T17:36:14.030Z
+date: 2024-09-25T17:37:52.414Z
+updated: 2024-09-29T23:34:31.723Z
 tags:
   - product
 categories:
@@ -20,19 +20,19 @@ thumbnail: https://thmb.techidaily.com/18d207b3da44fd0fc8250931249da5dc2af6883d5
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -54,18 +54,24 @@ thumbnail: https://thmb.techidaily.com/18d207b3da44fd0fc8250931249da5dc2af6883d5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ltimate-guide-to-best-youtube-banner-size-and-channel-art-dimension/"><u>[New] Ultimate Guide to Best YouTube Banner Size and Channel Art Dimension</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-boosting-narrative-pace-in-vlogging-through-jump-cuts/"><u>2024 Approved Boosting Narrative Pace in Vlogging Through Jump Cuts</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/convert-your-collections-of-photos-or-graphics-into-a-single-pdf-for-free-efficient-image-to-pdf-conversion-by-expert-software/"><u>Convert Your Collections of Photos or Graphics Into a Single PDF for Free - Efficient Image to PDF Conversion by Expert Software</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/craft-chic-designs-with-easy-to-use-templates-at-flipbuildercom/"><u>Craft Chic Designs with Easy-to-Use Templates at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/crafting-enchanting-sound-stories-for-young-listeners-using-flipbuilder-the-ultimate-tutorial/"><u>Crafting Enchanting Sound Stories for Young Listeners Using FlipBuilder - The Ultimate Tutorial</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ng-through-the-clutter-youtubes-copyright-evolution-for-2024/"><u>Cutting Through the Clutter YouTube's Copyright Evolution for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-beginners-path-to-screen-casting-with-apple-devices/"><u>In 2024, Beginner’s Path to Screen Casting with Apple Devices</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Oppo Reno 9A | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/professional-pro-version-unlocked-exclusive-access-to-premium-bootstrap-4-reactstrap-and-paper-design-ui-kit-by-creative-tim/"><u>Professional Pro Version Unlocked: Exclusive Access to Premium Bootstrap 4, Reactstrap & Paper Design UI Kit by Creative Tim!</u></a></li>
-<li><a href="https://howto.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/ten-simple-steps-for-fixing-def5-onedrive-woes-on-win11/"><u>Ten Simple Steps for Fixing DEF5: OneDrive Woes on Win11</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-v30-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo V30? | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-top-rated-avi-editor-for-windows-8-advanced-video-editing-features/"><u>Updated Top-Rated AVI Editor for Windows 8 Advanced Video Editing Features</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-seamless-addition-of-youtube-video-selections-for-sites/"><u>[New] 2024 Approved Seamless Addition of YouTube Video Selections for Sites</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-artist-writes-an-ipad-guide-to-time-lapse-photography/"><u>[New] In 2024, The Artist' Writes An iPad Guide to Time-Lapse Photography</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-how-to-record-minecraft-gameplay-complete-guide-for-2024/"><u>[Updated] How to Record Minecraft Gameplay [Complete Guide] for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/breaking-down-vimeo-streaming-giants-secrets-revealed-for-2024/"><u>Breaking Down Vimeo Streaming Giant's Secrets Revealed for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-y100i-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-nokia-c12-plus-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Nokia C12 Plus Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-melding-music-and-media-the-reel-rhythm-guide/"><u>In 2024, Melding Music and Media The Reel Rhythm Guide</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/integrating-videos-and-flash-into-interactive-flipbook-ebooks-using-flipbuilder/"><u>Integrating Videos & Flash Into Interactive Flipbook eBooks Using FlipBuilder</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-epub-format-reading-with-flippingbooks-user-friendly-guide/"><u>Mastering ePub Format Reading with FlippingBook's User-Friendly Guide</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-flippdf-a-complete-tutorial-for-dynamic-digital-books-on-flipbuildercom/"><u>Mastering FlipPDF: A Complete Tutorial for Dynamic Digital Books on FlipBuilder.com</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/quick-guide-to-producing-single-person-flipbooks-in-batches-using-flipbuilders-features/"><u>Quick Guide to Producing Single-Person Flipbooks in Batches Using FlipBuilder's Features</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-setup-guide-installing-the-surface-dock-faultless-connection/"><u>Quick Setup Guide: Installing the Surface Dock - Faultless Connection</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/read-your-digital-magazine-pages-from-rearranged-directions-with-flipbook-creator/"><u>Read Your Digital Magazine Pages From Rearranged Directions with FlipBook Creator</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/resize-and-customize-your-books-effortlessly-using-flipbuilders-features/"><u>Resize and Customize Your Books Effortlessly Using FlipBuilder's Features</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/seamless-language-support-with-comprehensive-layout-options-master-reading-clarity-on-flipbuildercom/"><u>Seamless Language Support with Comprehensive Layout Options – Master Reading Clarity on FlipBuilder.com</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/transform-several-text-files-simultaneously-into-interactive-flash-ebooks-on-flipbuildercom/"><u>Transform Several Text Files Simultaneously Into Interactive Flash eBooks on FlipBuilder.com</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/transform-your-pictures-into-a-stunning-mac-photo-library-with-image-mac-converter-discover-the-ultimate-tool-at-flipbuildercom/"><u>Transform Your Pictures Into a Stunning Mac Photo Library with Image Mac Converter - Discover the Ultimate Tool at FlipBuilder.com</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-xiaomi-redmi-13c-5g-by-drfone-android/"><u>Universal Unlock Pattern for Xiaomi Redmi 13C 5G</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleash-creativity-in-photography-no-cost-some-pay-luts/"><u>Unleash Creativity in Photography No Cost, Some Pay LUTs</u></a></li>
 </ul></div>
 

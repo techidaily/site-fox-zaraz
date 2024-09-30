@@ -1,7 +1,7 @@
 ---
 title: Easy Steps for Hardware Installation & Adjusting Action! Control Options
-date: 2024-09-18T21:15:30.745Z
-updated: 2024-09-25T16:18:23.279Z
+date: 2024-09-29T09:35:23.941Z
+updated: 2024-09-29T16:52:10.871Z
 tags:
   - product
 categories:
@@ -45,29 +45,36 @@ Action Tutorials
 
  All tutorials about Action! settings and hardware setup. 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Tutorials about hardware acceleration setup for game and screen recording
 
 [![Game recording using H.265/HEVC with NVIDIA NVENC](https://mirillis.com/res/old/gfx/tutorials/thumbnail_gameplay_recording_h265_hevc_nvidia_nvenc_action.jpg) NVIDIA NVENC acceleration for H.265./HEVC gameplay recording Learn how to enable NVIDIA NVENC acceleration for H.265/HEVC gameplay recording and what are NVIDIA NVENC H.265/HEVC recording requirements.](https://tools.techidaily.com/mirillis/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [![Screen recording using H.265/HEVC with NVIDIA NVENC](https://mirillis.com/res/old/gfx/tutorials/thumbnail_desktop_recording_h265_hevc_nvidia_nvenc_action.jpg) NVIDIA NVENC acceleration for H.265/HEVC screen recording Learn how to enable acceleration with NVIDIA NVENC for H.265/HEVC Windows screen recording and what are NVIDIA NVENC H.265/HEVC recording requirements.](https://tools.techidaily.com/mirillis/products/) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [![Game and screen recording with NVIDIA NVENC](https://mirillis.com/res/old/gfx/tutorials/thumbnail_remote_action_nvidia_nvenc_acceleration.jpg) Using NVIDIA NVENC acceleration for games and desktop recording Learn how to enable NVIDIA NVENC acceleration for games and Windows desktop recording and streaming and what are NVIDIA NVENC requirements.](https://tools.techidaily.com/mirillis/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [![Screen and game recording with AMD VCE / AMD APP acceleration](https://mirillis.com/res/old/gfx/tutorials/thumbnail_remote_action_amd_app_vce_acceleration.jpg) AMD APP VCE acceleration for gameplay and desktop recording Learn how to enable AMD APP VCE acceleration for real-time desktop and gameplay recording and streaming and what are AMD APP VCE requirements.](https://tools.techidaily.com/mirillis/products/) 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [![Game and screen recording with Action! using Intel Quick Sync](https://mirillis.com/res/old/gfx/tutorials/thumbnail_intel_quicksync.jpg) Setup Intel® Quick Sync on desktop PC with additional PCI-E card without connecting Intel® HD Graphics card to monitor This tutorial is designed for desktop PCs with Intel processors supporting Intel® Quick Sync Video and with additional PCI-E graphics card installed.](https://tools.techidaily.com/mirillis/products/) 
 
@@ -75,25 +82,18 @@ Action Tutorials
 
 [![Screen and game recording on PC with NVIDIA Optimus](https://mirillis.com/res/old/gfx/tutorials/thumbnail_nvidia_optimus.jpg) Setup Intel® Quick Sync on PC with NVIDIA Optimus technology With this tutorial you will learn how to manage 3D settings in NVIDIA control panel to enable Intel® Quick Sync Video technology for Action! This tutorial is dedicated for PCs with NVIDIA Optimus technology.](https://tools.techidaily.com/mirillis/products/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Tutorials about Action! settings
 
 [![Adding processes to Action! exclude list](https://mirillis.com/res/old/gfx/tutorials/thumbnail_exclude.jpg) Adding processes / applications to Action! exclude list With this tutorial you will learn how to create and manage Action! exlude list. If you do not want Action! to connect to specific application, use exclude list.](https://tools.techidaily.com/mirillis/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [![Recording microphone with Action!](https://mirillis.com/res/old/gfx/tutorials/thumbnail_microphone_recording.jpg) How to record microphone to separate audio file With this tutorial you will learn how to record microphone (or any other audio device) to separate audio file for your screen and game screen recordings](https://tools.techidaily.com/mirillis/products/) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Share this page:
 
@@ -112,24 +112,18 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-gamers-top-nine-live-video-destinations-for-2024/"><u>[New] Gamer’s Top Nine Live Video Destinations for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-peek-into-fb-episodes-unseen/"><u>[Updated] 2024 Approved Peek Into FB Episodes, Unseen</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-expert-recommendations-high-quality-mac-video-grabber-tools/"><u>[Updated] Expert Recommendations High-Quality Mac Video Grabber Tools</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-step-by-step-approach-to-measuring-yt-popularity-and-revenue/"><u>[Updated] In 2024, Step-by-Step Approach to Measuring YT Popularity & Revenue</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-easy-way-to-download-and-use-the-ifunny-meme-app/"><u>2024 Approved The Easy Way to Download and Use the iFunny Meme App</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-quintessential-toptiktok-tweets-in-popularity/"><u>2024 Approved The Quintessential #TopTikTok Tweets in Popularity</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-honor-90-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/creative-tims-elite-ghost-elementor-themes-and-plugins-for-powerful-wordpress-sites/"><u>Creative Tim's Elite Ghost Elementor Themes & Plugins for Powerful WordPress Sites</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/creative-tims-no-cost-flutter-prototype-with-material-theme-for-easy-development/"><u>Creative Tim's No-Cost Flutter Prototype with Material Theme for Easy Development</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/creative-tims-ultimate-admin-template-reactive-paper-dashboard-powered-by-bootstrap-cuatro/"><u>Creative Tim's Ultimate Admin Template: Reactive Paper Dashboard Powered by Bootstrap Cuatro</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/creative-tims-vue-argon-dashboard-pro-elite-bootstrap-5-and-vuejs-template-for-advanced-admin-panels/"><u>Creative Tim's Vue Argon Dashboard PRO: Elite Bootstrap 5 and Vue.js Template for Advanced Admin Panels</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/discover-9-innovative-nuxtjs-template-collection-by-creative-tim-for-effortless-web-development/"><u>Discover 9 Innovative NuxtJS Template Collection by Creative Tim for Effortless Web Development</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/discover-the-ultimate-free-bootstrap-vue-admin-theme-elegant-paper-style-by-creative-tim/"><u>Discover the Ultimate Free Bootstrap Vue Admin Theme, Elegant Paper Style by Creative Tim</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/free-admin-dashboard-design-with-tailwind-css-inspired-by-softui-flowbite-from-creative-tim/"><u>Free Admin Dashboard Design with Tailwind CSS - Inspired by SoftUI FlowBite From Creative Tim</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/free-customizable-tailwind-css-management-with-argon-ui-the-ultimate-tool-by-creative-tim/"><u>Free, Customizable Tailwind CSS Management with Argon UI: The Ultimate Tool by Creative Tim</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/get-your-hands-on-exclusive-tailwind-css-templates-from-creative-tim-over-10-options-available-now/"><u>Get Your Hands on Exclusive Tailwind CSS Templates From Creative Tim – Over 10 Options Available Now!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-xiaomi-civi-3-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Xiaomi Civi 3 Phone Now with These Tips</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/what-are-ai-black-boxes-and-how-do-they-work/"><u>What Are AI Black Boxes and How Do They Work?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-active-screen-capture-pro-does-it-reign-supreme/"><u>[New] Active Screen Capture Pro Does It Reign Supreme?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-audience-connection-mastering-the-art-of-viewpoint-based-youtube-reaction-vids-2-pov-method/"><u>[New] Audience Connection – Mastering the Art of Viewpoint-Based YouTube Reaction Vids (2 POV Method)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-creepy-comic-composer/"><u>[Updated] In 2024, Creepy Comic Composer</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-farm-team-time-top-10-agricultural-games-to-share-and-compete/"><u>[Updated] In 2024, Farm Team Time Top 10 Agricultural Games to Share & Compete</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-rookies-guide-to-youtube-entrepreneurship-and-earnings/"><u>[Updated] The Rookie's Guide to YouTube Entrepreneurship and Earnings</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/easy-online-cd-baby-extractor-convert-tracks-from-cd-baby-directly-into-various-audio-formats/"><u>Easy Online CD Baby Extractor: Convert Tracks From CD Baby Directly Into Various Audio Formats</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/effortlessly-save-your-favorite-yahoo7-series-episodes-as-mp4-downloads-for-windows-and-macos-systems/"><u>Effortlessly Save Your Favorite Yahoo7 Series Episodes as MP4 Downloads for Windows and macOS Systems</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/enhancing-social-media-presence-with-spotify-tracks-how-to-share-music-on-instagram-effortlessly/"><u>Enhancing Social Media Presence with Spotify Tracks: How to Share Music on Instagram Effortlessly</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/free-download-kuwo-music-album-single-full-track-collection-in-mp3-and-wav-formats/"><u>Free Download: Kuwo Music Album, Single, Full Track Collection in MP3 & WAV Formats</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/free-zedge-ringtone-downloads-access-premium-soundtracks-and-tunes-from-zedge/"><u>Free Zedge Ringtone Downloads: Access Premium Soundtracks and Tunes From Zedge</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y100-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Vivo Y100 5G Phone Without Password?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/stream-and-watch-in-stunning-detail-hitachis-4k-uhd-tvs-equipped-with-roku-buy-now/"><u>Stream and Watch in Stunning Detail: Hitachi's 4K UHD TVs Equipped with Roku - Buy Now</u></a></li>
 </ul></div>
 

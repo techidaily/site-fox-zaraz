@@ -1,7 +1,7 @@
 ---
 title: 1. Pro Version of Horizon AI with Enhanced Chakra UI and NextJS by Creative Tim
-date: 2024-09-21T19:59:59.407Z
-updated: 2024-09-25T17:07:57.242Z
+date: 2024-09-23T01:14:19.053Z
+updated: 2024-09-30T07:38:55.606Z
 tags:
   - product
 categories:
@@ -20,19 +20,19 @@ thumbnail: https://thmb.techidaily.com/34105a367409817e108368ea9b44a6be3f4efc35b
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -54,24 +54,17 @@ thumbnail: https://thmb.techidaily.com/34105a367409817e108368ea9b44a6be3f4efc35b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-efficient-image-capture-try-these-top-5-pc-tools-in-2024/"><u>[New] Efficient Image Capture? Try These Top 5 PC Tools, In 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-photos-app-magic-crafting-stunningly-slow-motion-videos-online/"><u>[New] Photos App Magic Crafting Stunningly Slow-Motion Videos Online</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-what-are-the-best-site-to-promote-youtube-videos/"><u>[Updated] 2024 Approved What Are the Best Site to Promote YouTube Videos</u></a></li>
-<li><a href="https://win-net.techidaily.com/access-kissasian-tv-shows-stream-free-episodes-from-kissasiancom/"><u>Access Kissasian TV Shows - Stream Free Episodes From kissasian.com</u></a></li>
-<li><a href="https://video-capture.techidaily.com/complete-tutorial-for-integrating-the-apex-sports-plugin-into-your-kodi-interface-ensuring-compatibility-with-matrix/"><u>Complete Tutorial for Integrating the Apex Sports Plugin Into Your Kodi Interface, Ensuring Compatibility with Matrix</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/create-a-page-turning-illusion-for-your-online-book-with-corner-flips-learn-the-art-at-flipbuildercom/"><u>Create a Page-Turning Illusion for Your Online Book with Corner Flips: Learn the Art at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/disabling-thumbnails-on-your-flipbook-a-step-by-step-guide-using-flipbuilder/"><u>Disabling Thumbnails on Your FlipBook: A Step-by-Step Guide Using FlipBuilder</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/download-free-interactive-animation-and-zoom-featured-templates-with-visual-previews-try-now-at-flipbuilder/"><u>Download FREE: Interactive Animation & Zoom Featured Templates with Visual Previews - Try Now at FlipBuilder</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/easy-steps-to-add-background-songs-using-flipbuilder-a-comprehensive-guide/"><u>Easy Steps to Add Background Songs Using FlipBuilder: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/elons-next-move-unraveling-gpt-secrets/"><u>Elon's Next Move: Unraveling GPT Secrets</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/enhance-readability-create-oversized-flipbooks-easily-at-flipbuildercom/"><u>Enhance Readability: Create Oversized Flipbooks Easily at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/enhancing-digital-reads-a-guide-to-embedding-flash-and-video-files-in-page-turning-ebooks-using-flipbuilder-technology/"><u>Enhancing Digital Reads: A Guide to Embedding Flash and Video Files in Page-Turning eBooks Using FlipBuilder Technology</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/explore-the-comprehensive-flippdf-guide-and-tutorials-on-mac-your-ultimate-resource-at-flipbuildercom/"><u>Explore the Comprehensive FlipPDF Guide & Tutorials on Mac - Your Ultimate Resource at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/exploring-the-variety-of-control-buttons-available-in-output-flipbooks-with-flipbuilder/"><u>Exploring the Variety of Control Buttons Available in Output Flipbooks with FlipBuilder</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/guide-how-to-properly-set-your-bookmarks-on-flipbuildercom/"><u>Guide: How To Properly Set Your Bookmarks on FlipBuilder.com</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-samsung-galaxy-s24-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Samsung Galaxy S24 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-the-key-to-attracting-views-youtube-image-marketing/"><u>In 2024, The Key to Attracting Views YouTube Image Marketing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/summit-masterpiece-lab-check/"><u>Summit Masterpiece Lab Check</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/the-great-dvr-debate-tivo-vs-comcast-which-one-reigns-supreme-for-2024/"><u>The Great DVR Debate TiVo vs Comcast - Which One Reigns Supreme for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-keep-them-coming-back-top-6-ways-to-enhance-your-audiences-staying-power-on-youtube/"><u>[Updated] 2024 Approved Keep Them Coming Back Top 6 Ways To Enhance Your Audience's Staying Power on YouTube</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-how-to-save-cinemassacre-videos-in-various-formats-mp4-wmv-mov-etc-macwindows-compatible/"><u>1. How to Save Cinemassacre Videos in Various Formats: MP4, WMV, MOV, Etc. (Mac/Windows Compatible)</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-how-to-save-your-favorite-youtube-videos-in-high-quality-wma-format/"><u>1. How to Save Your Favorite YouTube Videos in High-Quality WMA Format</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-video-grabber-effortless-downloads-from-femcom-onto-your-apple-or-pc/"><u>1. Video Grabber: Effortless Downloads From Fem.com Onto Your Apple or PC</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-still-faces-picsarts-motion-blur-magic/"><u>2024 Approved Transforming Still Faces Picsart's Motion Blur Magic</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/access-diverse-gay-content-save-videos-as-mp4movavi-for-private-viewing/"><u>Access Diverse Gay Content – Save Videos as MP4/MOV/AVI for Private Viewing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/buy-movavi-business-video-editor-now-ultimate-toolset-for-professional-videography/"><u>Buy Movavi Business Video Editor Now: Ultimate Toolset for Professional Videography</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fixes-for-windows-11-bluetooth-disappearance-errors/"><u>Effortless Fixes for Windows 11 Bluetooth Disappearance Errors</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-samsung-galaxy-f04-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Samsung Galaxy F04 Through Google Earth?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-itel-p55t-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Itel P55T Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-rise-of-prompt-engineering-in-ai-unveiling-a-new-career-landscape/"><u>The Rise of Prompt Engineering in AI: Unveiling a New Career Landscape</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/transforming-camera-snaps-into-an-interactive-flipbook-a-guide-with-flipbuilder/"><u>Transforming Camera Snaps Into an Interactive Flipbook: A Guide with FlipBuilder</u></a></li>
 </ul></div>
 

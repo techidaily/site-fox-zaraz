@@ -1,7 +1,7 @@
 ---
 title: "Installer Project: Mastering the Permissions Tab"
-date: 2024-09-27T07:43:09.510Z
-updated: 2024-09-30T05:58:21.185Z
+date: 2024-10-03T19:40:30.367Z
+updated: 2024-10-05T16:06:47.177Z
 tags:
   - user-guide
 categories:
@@ -102,10 +102,10 @@ Table of Contents
 ![Permissions Dialog](https://cdn.advancedinstaller.com/img/dialog/folder-permission.png "Permissions Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New...
@@ -113,41 +113,53 @@ Table of Contents
  This button creates a new permission for the selected file, folder, registry key or value. You will be able to edit the newly created permission in the popped up [Permission Dialog](https://tools.techidaily.com/advancedinstaller/products/). You can use the Insert key while the "Groups or user names" list is focused to create a new share permission. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Edit...
 
  Shows you the selected permission's properties and allows you to change them. You can use the Space key while en element is selected, to edit its properties.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Remove
 
  Removes the selected permission. You can use theDelete key while an element from the list is selected to delete that entry.
+
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Keep existing permissions
 
 The default permissions from target folder on disk at install time will be preserved and the new permissions will be added on top of them.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Apply to all subfolders
 
 The current folder permissions are inherited by all subfolders in the project.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -187,18 +199,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-transforming-followers-into-loyalists-with-instagram-videos-for-2024/"><u>[New] Transforming Followers Into Loyalists with Instagram Videos for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-assemble-your-unique-google-cardboard-virtual-reality/"><u>[Updated] Assemble Your Unique Google Cardboard Virtual Reality</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-secrets-to-streamlining-lone-broadcasts-a-practical-guide-for-2024/"><u>[Updated] Secrets to Streamlining Lone Broadcasts A Practical Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-speedy-setup-procedures-for-personalized-youtube-shorts-images/"><u>[Updated] Speedy Setup Procedures for Personalized YouTube Shorts Images</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/creative-tims-argon-ui-framework-a-complimentary-react-and-bootstrap-compatible-design-toolkit/"><u>Creative Tim's Argon UI Framework: A Complimentary React & Bootstrap-Compatible Design Toolkit</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/creative-tims-elite-ghost-elementor-themes-and-plugins-for-powerful-wordpress-sites/"><u>Creative Tim's Elite Ghost Elementor Themes & Plugins for Powerful WordPress Sites</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/creative-tims-no-cost-flutter-prototype-with-material-theme-for-easy-development/"><u>Creative Tim's No-Cost Flutter Prototype with Material Theme for Easy Development</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/creative-tims-ultimate-admin-template-reactive-paper-dashboard-powered-by-bootstrap-cuatro/"><u>Creative Tim's Ultimate Admin Template: Reactive Paper Dashboard Powered by Bootstrap Cuatro</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/creative-tims-vue-argon-dashboard-pro-elite-bootstrap-5-and-vuejs-template-for-advanced-admin-panels/"><u>Creative Tim's Vue Argon Dashboard PRO: Elite Bootstrap 5 and Vue.js Template for Advanced Admin Panels</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-your-star-wars-squadrons-freezes-and-crashes-expert-guide-to-troubleshoot/"><u>Fix Your STAR WARS Squadrons Freezes and Crashes – Expert Guide to Troubleshoot</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-12-pro-max-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 12 Pro Max Data Completely | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-6-plus-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone 6 Plus</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-beginners-blueprint-for-effective-involvement-in-x-chats-on-twitter/"><u>The Beginner’s Blueprint for Effective Involvement in #X Chats on Twitter</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-10-chucklesome-tiktok-riddles-for-2024/"><u>[New] 10 Chucklesome TikTok Riddles for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-secure-your-preference-with-these-9-leading-websites-offering-3d-typography/"><u>[New] In 2024, Secure Your Preference With These 9 Leading Websites Offering 3D Typography</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/choosing-a-gimbal-for-smooth-drone-photos-and-videos/"><u>Choosing a Gimbal for Smooth Drone Photos and Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-overview-simple-hdr-excellence-for-2024/"><u>Comprehensive Overview Simple HDR Excellence for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/cookiebot-enhanced-personalization-technology/"><u>Cookiebot-Enhanced Personalization Technology</u></a></li>
+<li><a href="https://techtrends.techidaily.com/decoding-the-sustainability-of-electric-vehicles-are-they-really-eco-friendly/"><u>Decoding the Sustainability of Electric Vehicles – Are They Really Eco-Friendly?</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/exploring-how-viruses-differ-from-worms-in-computing-unveiled-through-a-side-by-side-breakdown/"><u>Exploring How Viruses Differ From Worms in Computing - Unveiled Through a Side-by-Side Breakdown</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/exploring-the-features-of-your-objects-settings-menu/"><u>Exploring the Features of Your Object's Settings Menu</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-revolutionizing-presentation-content-with-automated-transcription/"><u>In 2024, Revolutionizing Presentation Content with Automated Transcription</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/key-components-in-microsofts-windows-suite/"><u>Key Components in Microsoft's Windows Suite</u></a></li>
+<li><a href="https://program-issues.techidaily.com/national-pesticide-information-center-2016-glyphosate-retrieved-from-(httpsnpicorsteduhazardspestfactsgpshtml)/"><u>National Pesticide Information Center (2016). Glyphosate. Retrieved From <https://npic.orst.edu/hazards/pestfacts/gps.html></u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/one-click-installation-effortless-android-app-setup-on-your-pc/"><u>One-Click Installation: Effortless Android App Setup on Your PC!</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/seamless-auto-capture-mastering-hands-free-screen-shots/"><u>Seamless Auto-Capture: Mastering Hands-Free Screen Shots</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Use Special Character Entities in XML Documents Effectively
-date: 2024-09-24T05:18:09.222Z
-updated: 2024-09-29T17:19:34.336Z
+date: 2024-10-04T19:14:59.038Z
+updated: 2024-10-05T16:36:02.453Z
 tags:
   - user-guide
 categories:
@@ -106,10 +106,10 @@ At build time, Advanced Installer will automatically perform the XML special cha
 For example, if you add an existing XML file or create a new one in your project and insert a special XML character in one of its elements, let's say < character, when you will build the project, Advanced Installer will automatically escape this character, replacing it with &lt;. The result is that the XML document installed by the built package will contain the escaped character making possible the correct interpretation of the XML code.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## XML special characters that get escaped at install time
@@ -123,10 +123,10 @@ For example, if you add an existing XML file or create a new one in your project
 | **Apostrophe**        | **&apos;**       | **'**                |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Video tutorial
@@ -164,24 +164,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-fb-video-highlights-our-top-5-favorites/"><u>[New] FB Video Highlights Our Top 5 Favorites</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-unlocking-full-potential-watching-facebook-videos-on-your-apple-devices/"><u>[Updated] 2024 Approved Unlocking Full Potential Watching Facebook Videos on Your Apple Devices</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-free-intro-templates-for-videos/"><u>[Updated] Exclusive Free Intro Templates for Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-scrutinizing-how-content-makers-get-paid-from-youtube-shorts-videos/"><u>[Updated] Scrutinizing How Content Makers Get Paid From YouTube Shorts Videos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-down-top-7-video-streaming-tools-that-revolutionize-youtube-broadcasts-iphonesandroid-for-2024/"><u>Break Down Top 7 Video Streaming Tools that Revolutionize YouTube Broadcasts (iPhones/Android) for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/dissecting-jabra-talk-45s-audio-precision-and-longevity-in-charging/"><u>Dissecting Jabra Talk 45'S Audio Precision & Longevity in Charging</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-realme-v30t-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Realme V30T FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-easily-capturing-iphone-screens-on-the-go/"><u>In 2024, Easily Capturing iPhone Screens on the Go</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-oppo-a38-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Oppo A38 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/integrating-videos-and-flash-into-interactive-flipbook-ebooks-using-flipbuilder/"><u>Integrating Videos & Flash Into Interactive Flipbook eBooks Using FlipBuilder</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-epub-format-reading-with-flippingbooks-user-friendly-guide/"><u>Mastering ePub Format Reading with FlippingBook's User-Friendly Guide</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-flippdf-a-complete-tutorial-for-dynamic-digital-books-on-flipbuildercom/"><u>Mastering FlipPDF: A Complete Tutorial for Dynamic Digital Books on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/quick-guide-to-producing-single-person-flipbooks-in-batches-using-flipbuilders-features/"><u>Quick Guide to Producing Single-Person Flipbooks in Batches Using FlipBuilder's Features</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/read-your-digital-magazine-pages-from-rearranged-directions-with-flipbook-creator/"><u>Read Your Digital Magazine Pages From Rearranged Directions with FlipBook Creator</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/resize-and-customize-your-books-effortlessly-using-flipbuilders-features/"><u>Resize and Customize Your Books Effortlessly Using FlipBuilder's Features</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/seamless-language-support-with-comprehensive-layout-options-master-reading-clarity-on-flipbuildercom/"><u>Seamless Language Support with Comprehensive Layout Options – Master Reading Clarity on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/transform-several-text-files-simultaneously-into-interactive-flash-ebooks-on-flipbuildercom/"><u>Transform Several Text Files Simultaneously Into Interactive Flash eBooks on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/transform-your-pictures-into-a-stunning-mac-photo-library-with-image-mac-converter-discover-the-ultimate-tool-at-flipbuildercom/"><u>Transform Your Pictures Into a Stunning Mac Photo Library with Image Mac Converter - Discover the Ultimate Tool at FlipBuilder.com</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unmarked-image-accumulation-essentials-for-2024/"><u>Unmarked Image Accumulation Essentials for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-chromium-connection-pixel-phone-rhythms/"><u>[New] The Chromium Connection Pixel Phone Rhythms</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-creating-captivating-thumbnails-for-youtube/"><u>[Updated] 2024 Approved Creating Captivating Thumbnails for YouTube</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-how-to-unearth-your-secret-snapshots/"><u>[Updated] 2024 Approved How to Unearth Your Secret Snapshots</u></a></li>
+<li><a href="https://video-capture.techidaily.com/addressing-disrupted-video-in-obs-studio-for-2024/"><u>Addressing Disrupted Video in OBS Studio for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/best-video-converter-applications-transforming-footage-into-gifs-successfully/"><u>Best Video Converter Applications: Transforming Footage Into GIFs Successfully</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/efficient-searching-techniques-with-xquery-language-elements/"><u>Efficient Searching Techniques with XQuery Language Elements</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-install-a-digital-certificate-on-your-device/"><u>How to Install a Digital Certificate on Your Device</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/improving-interaction-quality-through-effective-preferences-configuration-interface/"><u>Improving Interaction Quality Through Effective 'Preferences Configuration Interface'</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/launch-in-pc-no-fee-clone-of-chatgpt-on-windows/"><u>Launch In-PC, No-Fee Clone of ChatGPT on Windows.</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/optimize-your-privacy-with-stellar-secureerase-pro-setting-up-windows-regular-sweep-cycles/"><u>Optimize Your Privacy with Stellar SecureErase Pro - Setting Up Windows Regular Sweep Cycles</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-vivo-v29e-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Vivo V29e FRP Bypass</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/understanding-product-language-exploring-the-importance-of-localization/"><u>Understanding Product Language: Exploring the Importance of Localization</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/understanding-the-various-categories-of-programs-on-microsofts-windows-marketplace/"><u>Understanding the Various Categories of Programs on Microsoft's Windows Marketplace</u></a></li>
 </ul></div>
 

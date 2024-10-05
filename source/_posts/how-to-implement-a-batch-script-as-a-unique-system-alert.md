@@ -1,7 +1,7 @@
 ---
 title: How to Implement a Batch Script as a Unique System Alert
-date: 2024-09-28T00:50:54.203Z
-updated: 2024-09-29T23:15:15.162Z
+date: 2024-09-30T19:35:10.314Z
+updated: 2024-10-05T19:19:04.740Z
 tags:
   - user-guide
 categories:
@@ -89,10 +89,10 @@ Table of Contents
 ## Add a command-line batch file as a custom event
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Introduction
@@ -102,10 +102,10 @@ A batch file is a script file that contains a list of commands that are executed
 .bat files are frequently used to load applications, execute numerous processes at the same time, and complete routine or repetitive activities in an automated way.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Add a bat file as an event
@@ -115,10 +115,10 @@ It is possible to create a custom event based on a batch file you created. Depen
 ![Bat file event](https://cdn.advancedinstaller.com/img/dialog/bat-file-event.png "Bat file event")  
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 This event is equivalent to running the sample.bat param1 param2 from a command-line console, prior or post build-time depending on how you created the event.
@@ -126,10 +126,16 @@ This event is equivalent to running the sample.bat param1 param2 from a command-
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)In case your script doesn't require command-line arguments leave the "Arguments" field blank.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -165,16 +171,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-top-tips-for-sharper-images-on-google-meet-calls/"><u>[Updated] Top Tips for Sharper Images on Google Meet Calls</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-boosting-your-youtube-presence-key-tips-for-popularity/"><u>2024 Approved Boosting Your YouTube Presence Key Tips for Popularity</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-clear-and-consistent-slug-lines/"><u>2024 Approved Crafting Clear and Consistent Slug Lines</u></a></li>
-<li><a href="https://driver-install.techidaily.com/fixing-discord-connection-woes-overcoming-packet-loss-challenges/"><u>Fixing Discord Connection Woes: Overcoming Packet Loss Challenges</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oneplus-11r-drfone-by-drfone-android/"><u>How to Screen Mirroring OnePlus 11R? | Dr.fone</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-top-tier-ae-templates-for-poetic-visual-storytelling-for-2024/"><u>New Top-Tier AE Templates for Poetic Visual Storytelling for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-on-downloading-pokemon-go-videos-in-various-formats/"><u>Step-by-Step Guide on Downloading Pokémon GO Videos in Various Formats</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/top-ranking-downloadhelper-substitute-for-macos-and-windows-discover-allavsoft/"><u>Top Ranking DownloadHelper Substitute for macOS & Windows: Discover Allavsoft!</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/transferring-ximalaya-audio-content-as-mp3s-for-pc-and-mac-users/"><u>Transferring Ximalaya Audio Content as MP3s for PC & Mac Users</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/transform-nashua-tour-footage-into-multiple-file-types-mp4movavi-for-pcs-and-macbook-users/"><u>Transform Nashua Tour Footage Into Multiple File Types (MP4/MOV/AVI) for PCs & MacBook Users</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/troubleshooting-vdownloader-issues-on-macpc-discover-effective-solutions-and-reliable-substitutes/"><u>Troubleshooting Vdownloader Issues on Mac/PC - Discover Effective Solutions & Reliable Substitutes</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-photo-fusion-mastery-windows-users-guide/"><u>[New] 2024 Approved Photo Fusion Mastery Windows Users Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-maximizing-video-reach-sharing-youtube-content-via-facebook-network-for-2024/"><u>[New] Maximizing Video Reach Sharing YouTube Content via Facebook Network for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-screen-commanders-face-off/"><u>[Updated] 2024 Approved Screen Commanders Face-Off</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-seamless-screen-record-for-windows-11/"><u>[Updated] In 2024, Seamless Screen Record for Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-nokia-105-classic-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Nokia 105 Classic Activity | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-a-guide-to-the-best-5-book-tt-examples/"><u>2024 Approved A Guide to the Best 5 Book TT Examples</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-samsung-galaxy-z-fold-5-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Samsung Galaxy Z Fold 5 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diagnosing-and-repairing-the-infamous-ls-0013-error-in-borderlands-3-expert-advice/"><u>Diagnosing and Repairing the Infamous LS-0013 Error in Borderlands 3: Expert Advice</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-the-latest-hp-officejet-4655-printer-drivers/"><u>Download and Install the Latest HP Officejet 4655 Printer Drivers</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/exploring-how-viruses-differ-from-worms-in-computing-unveiled-through-a-side-by-side-breakdown/"><u>Exploring How Viruses Differ From Worms in Computing - Unveiled Through a Side-by-Side Breakdown</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/exploring-the-features-of-your-objects-settings-menu/"><u>Exploring the Features of Your Object's Settings Menu</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/guide-to-creating-and-testing-an-xml-file-best-practices/"><u>Guide to Creating and Testing an XML File: Best Practices</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-fully-remove-macs-apowerrec-and-virtual-sound-card-software-a-step-by-step-guide/"><u>How to Fully Remove Mac's ApowerREC and Virtual Sound Card Software: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-instant-inspiration-the-easy-guide-to-building-custom-youtube-music-mixes-webapp/"><u>In 2024, Instant Inspiration The Easy Guide to Building Custom YouTube Music Mixes (Web/App)</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/key-components-in-microsofts-windows-suite/"><u>Key Components in Microsoft's Windows Suite</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/one-click-installation-effortless-android-app-setup-on-your-pc/"><u>One-Click Installation: Effortless Android App Setup on Your PC!</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/proven-strategies-for-securing-your-iphones-information-through-efficient-backups/"><u>Proven Strategies for Securing Your iPhone's Information Through Efficient Backups</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/speedy-setup-comprehensive-steps-for-obtaining-and-configuring-videomaker-elite-suite/"><u>Speedy Setup: Comprehensive Steps for Obtaining and Configuring Videomaker Elite Suite</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-ranking-free-tools-ultimate-alternatives-to-snagit/"><u>Top-Ranking Free Tools: Ultimate Alternatives to Snagit</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Folder Synchronization: Step-by-Step Tips for a Harmonized Digital Experience"
-date: 2024-09-24T03:53:42.962Z
-updated: 2024-09-30T08:01:23.327Z
+date: 2024-10-03T20:54:38.808Z
+updated: 2024-10-05T18:14:56.721Z
 tags:
   - user-guide
 categories:
@@ -107,6 +107,13 @@ Table of Contents
  \- in [Patch](https://tools.techidaily.com/advancedinstaller/products/) packages because the synchronization may re-create some components when refreshed and therefore new GUIDs will be generated for them;  
  \- in Upgrade packages when using the [Install new version first and then uninstall old version](https://tools.techidaily.com/advancedinstaller/products/) option because the synchronization may create new GUIDs for components when refreshed resulting in the files being deleted when upgrading the product.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### General
 
 #### Synchronized content with folder from disk
@@ -116,13 +123,6 @@ Enable this option in order to activate the synchronization of a folder from the
 #### Source Folder
 
 Use the \[... \] button to select the source folder from the disk. Synchronized folders will be marked visually with this icon:![Synchronized Folder](https://cdn.advancedinstaller.com/img/gfx/synchronized-folder.png "Synchronized Folder").
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You can [edit filters](https://tools.techidaily.com/advancedinstaller/products/) that will allow you to specify which files will be added to the package. Use the \[Edit filters... \] button to do that.
 
@@ -137,16 +137,10 @@ If you want to use the same filters for multiple synchronized folders, use the\[
 Select the feature that will contain the components resulted after the synchronization process.
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Options
@@ -170,10 +164,10 @@ If this option is enabled, the files contained by the synchronized folder will n
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)When this option is set for a synchronized folder, the synchronized files that were present in that folder before will be removed from the project.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Component Options
@@ -190,10 +184,10 @@ When a file is added to the project by synchronization, a component is selected 
     Extensions can be added in the exception list without leading "." and separated by a blank space " ". The rules recommended by Windows Installer are applied for these exceptions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -234,16 +228,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-top-ten-lady-gamers-on-youtube-rising/"><u>[New] 2024 Approved Top Ten Lady Gamers on YouTube Rising</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-streamlining-google-meets-with-efficient-snap-photography-tips/"><u>[New] In 2024, Streamlining Google Meets with Efficient Snap Photography Tips</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-unveiling-facebooks-forgotten-archive-easy-guide-for-devices/"><u>[New] Unveiling Facebook's Forgotten Archive Easy Guide for Devices</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-exploring-the-finest-wedding-cinematography-youtube-and-vimeos-selection/"><u>[Updated] In 2024, Exploring the Finest Wedding Cinematography - Youtube & Vimeo's Selection</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/guide-how-to-properly-set-your-bookmarks-on-flipbuildercom/"><u>Guide: How To Properly Set Your Bookmarks on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-and-where-to-effectively-present-your-flipbooks-on-various-platforms-using-flipbuilder/"><u>How and Where to Effectively Present Your Flipbooks on Various Platforms Using FlipBuilder</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-does-flipbuilder-handle-upgrades-essential-info-for-optimized-usage/"><u>How Does FlipBuilder Handle Upgrades? Essential Info for Optimized Usage</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-easily-flip-images-in-macos-using-flipbuilder-pro-flipbuildecom-a-comprehensive-tutorial/"><u>How to Easily Flip Images in macOS Using FlipBuilder Pro (flipbuilde.com) - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://facebook.techidaily.com/january-hearing-trumps-facebook-prohibition/"><u>January Hearing: Trump's Facebook Prohibition</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/mastering-snapchat-posts-top-15-game-changers/"><u>Mastering Snapchat Posts Top 15 Game-Changers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/scout-out-best-spots-for-vr-experiences/"><u>Scout Out Best Spots for VR Experiences</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/onetizing-popularity-pay-per-million-views/"><u>[New] Monetizing Popularity Pay Per Million Views</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-from-still-life-to-stirring-storytelling/"><u>[Updated] 2024 Approved From Still Life to Stirring Storytelling</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlocking-creativity-in-youtube-video-splitting/"><u>[Updated] Unlocking Creativity in YouTube Video Splitting</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-understanding-file-attributes-a-comprehensive-guide/"><u>1. Understanding File Attributes: A Comprehensive Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-iphone-tips-free-techniques-to-incorporate-music-in-video-projects/"><u>2024 Approved IPhone Tips Free Techniques to Incorporate Music in Video Projects</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/a-step-by-step-guide-to-using-youtubes-creative-commons-license/"><u>A Step-by-Step Guide to Using YouTube's Creative Commons License</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/bring-snapchat-to-your-desktop-a-comprehensive-tutorial/"><u>Bring Snapchat to Your Desktop: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/complete-how-to-mastering-the-art-of-screen-shots-on-toshiba-laptopstelevisions/"><u>Complete How-To: Mastering the Art of Screen Shots on Toshiba Laptops/Televisions</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/guide-to-creating-and-testing-an-xml-file-best-practices/"><u>Guide to Creating and Testing an XML File: Best Practices</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-fully-remove-macs-apowerrec-and-virtual-sound-card-software-a-step-by-step-guide/"><u>How to Fully Remove Mac's ApowerREC and Virtual Sound Card Software: A Step-by-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/pacing-your-content-the-importance-of-regularity-in-a-successful-youtube-channel-for-2024/"><u>Pacing Your Content The Importance of Regularity in a Successful YouTube Channel for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/proven-strategies-for-securing-your-iphones-information-through-efficient-backups/"><u>Proven Strategies for Securing Your iPhone's Information Through Efficient Backups</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/revealing-the-hidden-a-guide-to-displaying-windows-mouse-cursor-during-recordings/"><u>Revealing the Hidden: A Guide to Displaying Windows Mouse Cursor During Recordings</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/speedy-setup-comprehensive-steps-for-obtaining-and-configuring-videomaker-elite-suite/"><u>Speedy Setup: Comprehensive Steps for Obtaining and Configuring Videomaker Elite Suite</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-ranking-free-tools-ultimate-alternatives-to-snagit/"><u>Top-Ranking Free Tools: Ultimate Alternatives to Snagit</u></a></li>
+<li><a href="https://win-best.techidaily.com/top-rated-winners-best-reviewed-movies-from-the-88th-annual-oscars-in-2/"><u>Top-Rated Winners: Best Reviewed Movies From the 88Th Annual Oscars in 2</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/1721099269689-your-seagate-hdd-on-the-fence-in-win10-heres-what-to-do/"><u>Your Seagate HDD on the Fence in Win10? Here's What To Do!</u></a></li>
 </ul></div>
 

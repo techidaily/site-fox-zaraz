@@ -1,7 +1,7 @@
 ---
 title: Discover Components Fast and Easy Search Hub
-date: 2024-09-23T11:14:29.683Z
-updated: 2024-09-29T17:48:28.756Z
+date: 2024-09-28T17:58:53.200Z
+updated: 2024-10-05T16:47:40.288Z
 tags:
   - user-guide
 categories:
@@ -125,16 +125,10 @@ Table of Contents
 ## IComponentSearch
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -142,10 +136,10 @@ Table of Contents
 IComponentSearch: IBaseSearch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -154,16 +148,10 @@ This interface is meant to search for an installed component.
 The search operation is performed on the target machine only if the specified property is not set (other searches didn't set that property). In case of success, the property will be set.
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -171,10 +159,10 @@ The search operation is performed on the target machine only if the specified pr
 **String GUID** \- Gets or sets the GUID of the component which will be searched. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -216,20 +204,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-comprehensive-analysis-bublcams-360-vision/"><u>[New] Comprehensive Analysis Bublcam's 360 Vision</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-mastering-hashtags-with-leading-apps-on-fb-twitter-and-instagram-for-2024/"><u>[New] Mastering Hashtags with Leading Apps on FB, Twitter & Instagram for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-optimize-your-audio-content-expert-tips-for-editing-in-garageband/"><u>[Updated] Optimize Your Audio Content Expert Tips for Editing in GarageBand</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/convert-your-blog-video-files-into-mp4movavi-formats-easily-on-both-mac-and-pc/"><u>Convert Your Blog Video Files Into MP4/MOV/AVI Formats Easily on Both Mac & PC</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/convert-your-porntube-downloads-into-different-file-types-mp4-mov-flv-avi-wmv-mkv-instructions/"><u>Convert Your PornTube Downloads Into Different File Types - MP4, MOV, FLV, AVI, WMV, MKV Instructions</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/convert-your-video-content-easy-mp4-extraction-from-digitalmarketer/"><u>Convert Your Video Content: Easy MP4 Extraction From DigitalMarketer</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/converting-sportys-flight-lessons-steps-to-save-as-mp4mp3-files/"><u>Converting Sporty's Flight Lessons: Steps to Save as MP4/MP3 Files</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/discover-how-easy-it-is-to-watch-or-save-the-latest-movies-and-tv-episodes-from-tunes-extensive-libraryyour-perfect-entertainment-solution/"><u>Discover How Easy It Is to Watch or Save the Latest Movies and TV Episodes From Tune's Extensive Library—Your Perfect Entertainment Solution!</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/download-anytime-convert-and-save-your-favorite-videos-from-zaq1-in-high-quality-mp4-mov-or-avi-using-zaq1-downloader/"><u>Download Anytime: Convert and Save Your Favorite Videos From ZAQ1 in High-Quality MP4, MOV or AVI Using ZAQ1 Downloader.</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/download-content-from-1upcom-in-high-quality-formats-like-mp4-and-avi-with-our-simple-guide/"><u>Download Content From 1UP.com in High-Quality Formats Like MP4 and AVI with Our Simple Guide!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-honor-x50i-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Honor X50i Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/networking-galore-places-for-youtube-affiliate-marketing-for-2024/"><u>Networking Galore Places for YouTube Affiliate Marketing for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-top-rated-free-video-editors-for-mp4-files-for-2024/"><u>New Top-Rated Free Video Editors for MP4 Files for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/setting-up-pip-mode-in-the-youtube-app-for-ios-devices/"><u>Setting up PIP Mode in the YouTube App for iOS Devices</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-mastering-instagram-videos-for-marketing-top-10-strategic-plans/"><u>[New] 2024 Approved Mastering Instagram Videos for Marketing Top 10 Strategic Plans</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-understanding-file-attributes-a-comprehensive-guide/"><u>1. Understanding File Attributes: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-swift-image-adaptation-techniques-for-iphone-users/"><u>2024 Approved Swift Image Adaptation Techniques for iPhone Users</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-7-plus-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 7 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/bring-snapchat-to-your-desktop-a-comprehensive-tutorial/"><u>Bring Snapchat to Your Desktop: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/complete-how-to-mastering-the-art-of-screen-shots-on-toshiba-laptopstelevisions/"><u>Complete How-To: Mastering the Art of Screen Shots on Toshiba Laptops/Televisions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-15-pro-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-fully-remove-macs-apowerrec-and-virtual-sound-card-software-a-step-by-step-guide/"><u>How to Fully Remove Mac's ApowerREC and Virtual Sound Card Software: A Step-by-Step Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-design-mastery-creating-flawless-3d-structures-in-mc/"><u>In 2024, Design Mastery Creating Flawless 3D Structures in MC</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-key-screenshot-utilities-1-8/"><u>In 2024, Key Screenshot Utilities #1-8</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/leading-passport-photography-apps-ranked-for-ios-and-android-how-to-get-your-travel-document-photos-on-a-budget/"><u>Leading Passport Photography Apps Ranked for iOS & Android: How to Get Your Travel Document Photos on a Budget!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/los-5-mejores-editores-de-imagenes-raw-sin-costo-comparativa-detallada-para-la-fotografia-perfeccionista/"><u>Los 5 Mejores Editores De Imágenes RAW Sin Costo: Comparativa Detallada Para La Fotografía Perfeccionista</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-audio-switches-in-adobe-premiere/"><u>Mastering Audio Switches in Adobe Premiere</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/proven-strategies-for-securing-your-iphones-information-through-efficient-backups/"><u>Proven Strategies for Securing Your iPhone's Information Through Efficient Backups</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/revealing-the-hidden-a-guide-to-displaying-windows-mouse-cursor-during-recordings/"><u>Revealing the Hidden: A Guide to Displaying Windows Mouse Cursor During Recordings</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-biggest-tweet-waves-of-2023-decoded-for-2024/"><u>The Biggest Tweet Waves of 2023 Decoded for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-8-secure-password-tools-compatible-with-windows-11/"><u>Top 8 Secure Password Tools Compatible with Windows 11</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-ranking-free-tools-ultimate-alternatives-to-snagit/"><u>Top-Ranking Free Tools: Ultimate Alternatives to Snagit</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-frame-rate-issues-in-dying-light-2-pc-performance-tips/"><u>Troubleshooting Frame Rate Issues in Dying Light 2: PC Performance Tips</u></a></li>
 </ul></div>
 

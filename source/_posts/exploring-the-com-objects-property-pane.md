@@ -1,7 +1,7 @@
 ---
 title: Exploring the COM Objects Property Pane
-date: 2024-09-26T20:42:24.431Z
-updated: 2024-09-30T07:06:24.763Z
+date: 2024-10-02T19:18:33.872Z
+updated: 2024-10-05T17:00:18.324Z
 tags:
   - user-guide
 categories:
@@ -84,28 +84,15 @@ This view allows you to specify the settings of the COM that will register.
 
 ## General
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### File
 
 This field displays the COM file to be registered. Use the\[... \] to change it.
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Context
@@ -113,10 +100,10 @@ This field displays the COM file to be registered. Use the\[... \] to change it.
 Select the server context from the drop-down list.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Threading Model
@@ -129,15 +116,22 @@ If you select the option “<Unspecified>” the installation package will not w
 
 Select the default Program ID associated with this Class ID. The Program IDs are defined in [File Associations Page](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### VerIndepProgId
 
 Specify the version independent Program ID associated with this Class ID. The version independent Program IDs can be defined in [File Associations Page](https://tools.techidaily.com/advancedinstaller/products/) or [Registry Page - Installer Project](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Description
@@ -162,28 +156,28 @@ Select an icon that will be associated with this CLSID. Use the\[... \] and \[Re
 
 Specify information for this CLSID.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### DefaultInProcHandler
 
 Select the default in-process handler for the server context specified in the Context field.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If a LocalServer or LocalServer32 CLSID key appears in the Context field, the value in the DefInprocHandler field identifies the default in-process handler.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Argument
 
 If a LocalServer or LocalServer32 CLSID key appears in the Context field, the text in this field is registered as the argument against the server and is used by COM to invoke the server. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited using[Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Feature
@@ -194,14 +188,14 @@ Select the feature that provides the COM server. Use the\[... \] to do that.
 
 Specify if the register path is relative or absolute.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Location
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Registry path
 
@@ -240,22 +234,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fast-fortnite-cover-art-techniques/"><u>[New] 2024 Approved Fast Fortnite Cover Art Techniques</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-mastering-mobile-and-professional-camera-capture-for-impressive-igtv/"><u>[New] Mastering Mobile and Professional Camera Capture for Impressive IGTV</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2023-compendium-of-techniques-to-archive-your-online-interactions-for-2024/"><u>[Updated] 2023 Compendium of Techniques to Archive Your Online Interactions for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-personalizing-your-profile-with-fb-slideshow-content-for-2024/"><u>[Updated] Personalizing Your Profile with FB Slideshow Content for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-honor-90-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-screen-scenarios-simplified-a-novices-guide-to-pixels/"><u>2024 Approved Screen Scenarios Simplified A Novice's Guide to Pixels</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/download-top-rated-gaming-insights-access-metacritics-comprehensive-video-game-reviews-and-previews/"><u>Download Top Rated Gaming Insights - Access Metacritic's Comprehensive Video Game Reviews & Previews</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/download-tutorials-from-yourupload-platform/"><u>Download Tutorials From YourUpload Platform</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/download-youtube-videos-in-compatible-format-directly-to-your-playstation-portable-psp/"><u>Download YouTube Videos in Compatible Format Directly to Your PlayStation Portable (PSP)</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/easy-online-cd-baby-extractor-convert-tracks-from-cd-baby-directly-into-various-audio-formats/"><u>Easy Online CD Baby Extractor: Convert Tracks From CD Baby Directly Into Various Audio Formats</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/effortlessly-save-your-favorite-yahoo7-series-episodes-as-mp4-downloads-for-windows-and-macos-systems/"><u>Effortlessly Save Your Favorite Yahoo7 Series Episodes as MP4 Downloads for Windows and macOS Systems</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/enhancing-social-media-presence-with-spotify-tracks-how-to-share-music-on-instagram-effortlessly/"><u>Enhancing Social Media Presence with Spotify Tracks: How to Share Music on Instagram Effortlessly</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/free-download-kuwo-music-album-single-full-track-collection-in-mp3-and-wav-formats/"><u>Free Download: Kuwo Music Album, Single, Full Track Collection in MP3 & WAV Formats</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/free-zedge-ringtone-downloads-access-premium-soundtracks-and-tunes-from-zedge/"><u>Free Zedge Ringtone Downloads: Access Premium Soundtracks and Tunes From Zedge</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Lava Agni 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone 13 mini</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-honor-100-by-fonelab-android-recover-data/"><u>The way to get back lost data from Honor 100</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-a-critical-look-at-itop-for-tech-enthusiasts-for-2024/"><u>[Updated] A Critical Look at ITop for Tech Enthusiasts for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-initiating-a-new-beginning-easy-steps-for-changing-your-tiktok-handle/"><u>[Updated] In 2024, Initiating a New Beginning Easy Steps for Changing Your TikTok Handle</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-undercover-guide-to-enhancing-your-window-11-experience/"><u>2024 Approved The Undercover Guide to Enhancing Your WINDOW 11 Experience</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-itel-p40-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/best-techniques-to-transform-mp3-files-into-high-quality-aac-format/"><u>Best Techniques to Transform MP3 Files Into High-Quality AAC Format</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/compreranal-guide-to-best-free-budget-friendly-lut-sources-for-2024/"><u>Compreranal Guide to Best Free, Budget-Friendly LUT Sources for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/exploring-app-id-in-icomclass-a-deep-dive-into-systemic-code-recognition/"><u>Exploring App ID in iComClass: A Deep Dive Into Systemic Code Recognition</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-an-easy-to-follow-guide-adding-youtube-playlists-to-your-online-platform/"><u>In 2024, An Easy-to-Follow Guide Adding YouTube Playlists to Your Online Platform</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gopro-hero5-black-vs-yi-4k-action-camera-which-is-better-2023-update/"><u>In 2024, GoPro Hero5 Black Vs. Yi 4K Action Camera Which Is Better? -2023 Update</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/language-settings-and-preferences-customizing-your-user-experience/"><u>Language Settings & Preferences: Customizing Your User Experience</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/maximizing-efficiency-with-microsoft-application-virtualization-app-v-version-4/"><u>Maximizing Efficiency with Microsoft Application Virtualization App-V Version 4</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/measuring-space-understanding-app-impact-on-windows/"><u>Measuring Space: Understanding App Impact on Windows</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/pc-users-handbook-how-to-effortlessly-join-and-navigate-clubhouse-online/"><u>PC Users' Handbook: How to Effortlessly Join and Navigate Clubhouse Online</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/simple-steps-for-retrieving-erased-pictures-from-an-iphone-4s-or-ipod-touch-5th-generation/"><u>Simple Steps for Retrieving Erased Pictures From an iPhone 4S or iPod Touch 5Th Generation</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-guide-to-modify-mp3-file-id3-metadata-across-windows-and-mac-with-premier-tagging-tools/"><u>Step-by-Step Guide to Modify MP3 File ID3 Metadata Across Windows and Mac with Premier Tagging Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016606425-stereo-speaker-mix-malfunction-repairs-get-your-left-and-right-channels-back-on-track/"><u>Stereo Speaker Mix Malfunction Repairs: Get Your Left and Right Channels Back on Track</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/understanding-property-attributes-in-application-maps/"><u>Understanding Property Attributes in Application Maps</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/understanding-the-risk-can-malware-lurk-in-bios-files-essential-steps-for-defending-your-pc-from-cyber-threats/"><u>Understanding the Risk: Can Malware Lurk in BIOS Files? Essential Steps for Defending Your PC From Cyber Threats</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/whats-new-discover-our-latest-features-and-improvements/"><u>What's New? Discover Our Latest Features and Improvements!</u></a></li>
 </ul></div>
 

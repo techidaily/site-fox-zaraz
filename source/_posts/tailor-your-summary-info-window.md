@@ -1,7 +1,7 @@
 ---
 title: Tailor Your Summary Info Window
-date: 2024-09-27T19:44:25.298Z
-updated: 2024-09-30T06:54:13.241Z
+date: 2024-10-02T18:51:50.726Z
+updated: 2024-10-05T17:46:15.721Z
 tags:
   - user-guide
 categories:
@@ -96,10 +96,10 @@ This dialog allows you to edit MSI summary information fields.
 After selecting an item in the list either double-click it, access its “Edit...” context menu(right-click) or press theEdit field link button on the bottom right corner to show the [Edit MSI Summary Information Field Dialog](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -140,20 +140,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-bringing-clarity-to-online-meetings-free-and-paid-zoom-transcribing-pros/"><u>[New] Bringing Clarity to Online Meetings Free & Paid Zoom Transcribing Pros</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-prominent-comment-spotlights/"><u>[New] In 2024, Finding Prominent Comment Spotlights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-haste-in-playlist-distribution-youtube-guide/"><u>[Updated] 2024 Approved Haste in Playlist Distribution YouTube Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-installation-of-updated-sas-drives-for-enhanced-performance-in-windows-os/"><u>Easy Installation of Updated SAS Drives for Enhanced Performance in Windows OS</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Motorola Moto G24? | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-top-10-best-free-online-screen-recorders/"><u>In 2024, Top 10 Best Free Online Screen Recorders</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-moving-your-iphone-or-ipad-images-to-an-outside-hard-disk/"><u>Step-by-Step Guide: Moving Your iPhone or iPad Images to an Outside Hard Disk</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-future-is-here-how-chatgpt-is-driving-innovation-across-six-areas-of-smartwatch-design/"><u>The Future Is Here: How ChatGPT Is Driving Innovation Across Six Areas of Smartwatch Design</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/top-ranking-downloadhelper-substitute-for-macos-and-windows-discover-allavsoft/"><u>Top Ranking DownloadHelper Substitute for macOS & Windows: Discover Allavsoft!</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/transferring-ximalaya-audio-content-as-mp3s-for-pc-and-mac-users/"><u>Transferring Ximalaya Audio Content as MP3s for PC & Mac Users</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/transform-nashua-tour-footage-into-multiple-file-types-mp4movavi-for-pcs-and-macbook-users/"><u>Transform Nashua Tour Footage Into Multiple File Types (MP4/MOV/AVI) for PCs & MacBook Users</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/troubleshooting-vdownloader-issues-on-macpc-discover-effective-solutions-and-reliable-substitutes/"><u>Troubleshooting Vdownloader Issues on Mac/PC - Discover Effective Solutions & Reliable Substitutes</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/ultimate-guide-to-online-education-access-the-best-sites-with-comprehensive-video-tutorials/"><u>Ultimate Guide to Online Education: Access the Best Sites with Comprehensive Video Tutorials</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/ultimate-mac-toolkit-comprehensive-screen-and-voice-logging-for-2024/"><u>Ultimate Mac Toolkit Comprehensive Screen & Voice Logging for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/watch-hgtv-free-complete-shows-and-extras-in-video-format-on-your-computer-or-laptop/"><u>Watch HGTV FREE – Complete Shows & Extras in Video Format on Your Computer or Laptop</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-easy-to-follow-guide-recording-non-root-android-sounds/"><u>[Updated] 2024 Approved Easy-to-Follow Guide Recording Non-Root Android Sounds</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-beyondbaselinecameras-whats-upnext-for-2024/"><u>[Updated] BeyondBaselineCameras What's UpNext for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-choose-your-final-assembly-location-a-comprehensive-guide/"><u>1. Choose Your Final Assembly Location - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-mastering-pdf-text-extraction-a-comprehensive-guide/"><u>1. Mastering PDF Text Extraction: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/achieve-smooth-frame-rates-in-ark-scorched-earth-optimizing-pc-settings-for-the-ultimate-fps-boost/"><u>Achieve Smooth Frame Rates in ARK: Scorched Earth - Optimizing PC Settings for the Ultimate FPS Boost</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/awesome-unveil-apowerunlock-launches-revolutionary-functions/"><u>Awesome Unveil: ApowerUnlock Launches Revolutionary Functions</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/creating-a-customized-look-with-unique-ceramic-tiles-pages/"><u>Creating a Customized Look with Unique Ceramic Tiles Pages</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/exploring-the-com-objects-property-pane/"><u>Exploring the COM Objects Property Pane</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/is-your-google-drive-vulnerable-to-ransomware-insights-from-malwarefox/"><u>Is Your Google Drive Vulnerable to Ransomware: Insights From MalwareFox</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastering-drone-racing-insights-and-best-fpv-models/"><u>Mastering Drone Racing Insights & Best FPV Models</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ready-set-repair-comprehensive-solutions-for-a-nonfunctional-rust-microphone/"><u>Ready, Set, Repair! Comprehensive Solutions for a Nonfunctional Rust Microphone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-on-using-apowersoft-software-for-effective-watermark-removal/"><u>Step-by-Step Guide on Using Apowersoft Software for Effective Watermark Removal</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/subscribednomore-chatgpt-timeline-question/"><u>SubscribedNoMore: ChatGPT Timeline Question</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-tecno-spark-20-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Tecno Spark 20 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

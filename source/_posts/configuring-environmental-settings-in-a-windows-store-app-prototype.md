@@ -1,7 +1,7 @@
 ---
 title: Configuring Environmental Settings in a Windows Store App Prototype
-date: 2024-09-26T06:39:22.307Z
-updated: 2024-09-30T11:13:15.439Z
+date: 2024-09-29T20:45:14.797Z
+updated: 2024-10-05T17:38:26.113Z
 tags:
   - user-guide
 categories:
@@ -76,17 +76,23 @@ In this page you can add environment variables to the MSIX package. These variab
 ![New Environment Variable](https://cdn.advancedinstaller.com/img/toolbar/environment-variables-new.png "New Environment Variable") Use the \[New Variable... \] toolbar button, the “New Variable...” context menu item or press the Insert key while the list is focused. In the [Edit Environment Variable Dialog](https://tools.techidaily.com/advancedinstaller/products/) you can set the variable's properties. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Editing an environment variable
@@ -94,10 +100,10 @@ In this page you can add environment variables to the MSIX package. These variab
 ![Properties](https://cdn.advancedinstaller.com/img/toolbar/properties.png "Properties") Use the\[Properties... \] toolbar button, the “Properties...” context menu item or press theEnter key to activate the [Edit Environment Variable Dialog](https://tools.techidaily.com/advancedinstaller/products/), where you can set the variable's properties. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Removing environment variables
@@ -105,10 +111,10 @@ In this page you can add environment variables to the MSIX package. These variab
 ![Remove](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove") Use the \[Delete \] toolbar button, the “Delete” context menu item or press theDelete key while an element is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -149,21 +155,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-navigating-notes-an-introduction-to-youtube-list-making/"><u>[New] 2024 Approved Navigating Notes An Introduction to YouTube List Making</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/rand-makeover-made-easy-revel-in-our-array-of-over-50-free-online-promotional-artwork-in-2024/"><u>[New] Brand Makeover Made Easy Revel in Our Array of over 50 Free Online Promotional Artwork, In 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unearthing-the-potential-in-magixs-image-sorter/"><u>[New] Unearthing the Potential in MAGIX's Image Sorter</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-solving-obs-high-bitrate-issues/"><u>[Updated] 2024 Approved Solving OBS High Bitrate Issues</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-illuminating-insights-your-comprehensive-buying-guide-for-a-4k-display/"><u>2024 Approved Illuminating Insights Your Comprehensive Buying Guide for a 4K Display</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723205957602-dealing-with-touchless-screens-learn-quick-fixes-for-activating-interactive-controls/"><u>Dealing with Touchless Screens? Learn Quick Fixes for Activating Interactive Controls</u></a></li>
-<li><a href="https://windows11.techidaily.com/diminishing-drain-techniques-to-limit-vanguards-user-mode-cpu-use/"><u>Diminishing Drain: Techniques to Limit Vanguard's User-Mode CPU Use</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-xcover-6-pro-tactical-edition-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy XCover 6 Pro Tactical Edition by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-max-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro Max To Other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-on-downloading-pokemon-go-videos-in-various-formats/"><u>Step-by-Step Guide on Downloading Pokémon GO Videos in Various Formats</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/top-ranking-downloadhelper-substitute-for-macos-and-windows-discover-allavsoft/"><u>Top Ranking DownloadHelper Substitute for macOS & Windows: Discover Allavsoft!</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/transferring-ximalaya-audio-content-as-mp3s-for-pc-and-mac-users/"><u>Transferring Ximalaya Audio Content as MP3s for PC & Mac Users</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/transform-nashua-tour-footage-into-multiple-file-types-mp4movavi-for-pcs-and-macbook-users/"><u>Transform Nashua Tour Footage Into Multiple File Types (MP4/MOV/AVI) for PCs & MacBook Users</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/troubleshooting-vdownloader-issues-on-macpc-discover-effective-solutions-and-reliable-substitutes/"><u>Troubleshooting Vdownloader Issues on Mac/PC - Discover Effective Solutions & Reliable Substitutes</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/ultimate-guide-to-online-education-access-the-best-sites-with-comprehensive-video-tutorials/"><u>Ultimate Guide to Online Education: Access the Best Sites with Comprehensive Video Tutorials</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/watch-hgtv-free-complete-shows-and-extras-in-video-format-on-your-computer-or-laptop/"><u>Watch HGTV FREE – Complete Shows & Extras in Video Format on Your Computer or Laptop</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-demystifying-instagram-story-sections/"><u>[New] 2024 Approved Demystifying Instagram Story Sections</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-enhancing-your-youtube-content-basic-premiere-pro-edits-for-2024/"><u>[New] Enhancing Your YouTube Content Basic Premiere Pro Edits for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-enhancing-content-reach-keeping-creative-commons-engagement-high/"><u>[New] In 2024, Enhancing Content Reach Keeping Creative Commons Engagement High</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-skyrocket-your-channel-to-over-a-million-subscribers/"><u>[Updated] Skyrocket Your Channel to Over a Million Subscribers</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/complete-guide-restoring-lost-files-on-your-samsung-galaxy-using-the-galaxy-data-recovery-app/"><u>Complete Guide: Restoring Lost Files on Your Samsung Galaxy Using the Galaxy Data Recovery App</u></a></li>
+<li><a href="https://win-web3.techidaily.com/elevate-your-productivity-essential-gadgets-to-complement-your-standing-desk-tips-by-zdnet/"><u>Elevate Your Productivity: Essential Gadgets to Complement Your Standing Desk - Tips by ZDNET</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/frustrating-tips-and-tricks-to-watch-your-dvds-on-windows-8/"><u>Frustrating Tips and Tricks to Watch Your DVDs on Windows 8</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-from-apple-iphone-xs-max-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud From Apple iPhone XS Max Smoothly</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/samsung-laptop-drivers-download-and-update-for-windows-easily/"><u>Samsung Laptop Drivers Download and Update for Windows Easily</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/streamline-your-event-planning-with-advanced-editing-tools-and-features/"><u>Streamline Your Event Planning with Advanced Editing Tools and Features</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-rated-windows-11-screen-recording-tools-a-comprehensive-guide/"><u>Top-Rated Windows 11 Screen Recording Tools: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/ultimate-tutorial-how-to-stream-and-watch-flv-videos-on-your-android-device/"><u>Ultimate Tutorial: How to Stream and Watch FLV Videos on Your Android Device</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/wireless-connection-guide-linking-your-google-pixel-smartphone-with-a-windowsmac-computer/"><u>Wireless Connection Guide: Linking Your Google Pixel Smartphone with a Windows/Mac Computer</u></a></li>
 </ul></div>
 

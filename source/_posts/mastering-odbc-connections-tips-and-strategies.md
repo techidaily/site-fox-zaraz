@@ -1,7 +1,7 @@
 ---
 title: "Mastering ODBC Connections: Tips and Strategies"
-date: 2024-09-24T10:54:48.546Z
-updated: 2024-09-30T04:13:45.213Z
+date: 2024-09-29T19:35:49.914Z
+updated: 2024-10-05T17:02:56.081Z
 tags:
   - user-guide
 categories:
@@ -84,36 +84,29 @@ There are three ODBC components you can add in this page: drivers, data sources 
 
 ![Add ODBC Driver](https://cdn.advancedinstaller.com/img/toolbar/driver-add.png "Add ODBC Driver") Use the \[Add Driver... \] toolbar button, the “Add Driver...” tree/list context menu item or press the + key while the tree control is focused. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)When adding a driver, please make sure it corresponds with the server architecture it's designed for (x86 or x64). The driver's encoding must also be compatible with the server (UNICODE or ANSI).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating a new data source
 
 ![New ODBC Data Source](https://cdn.advancedinstaller.com/img/toolbar/data-source-new.png "New ODBC Data Source") Use the \[New Data Source \] toolbar button, the “New Data Source” tree context menu item or press the Insert key while the tree control is focused. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Importing an existing data source
 
 ![Import ODBC Data Source](https://cdn.advancedinstaller.com/img/toolbar/data-source-import.png "Import ODBC Data Source") Use the \[Data Source \] toolbar button or the “Import Data Source” tree context menu item. You can import DSN files directly or DSNs registered on your development machine, listed in the [Import Data Source Dialog](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Only the data source's name and attributes will be imported. You will need to set the ODBC driver yourself.
 
@@ -121,22 +114,16 @@ There are three ODBC components you can add in this page: drivers, data sources 
 
 ![Add ODBC Translator](https://cdn.advancedinstaller.com/img/toolbar/translator-add.png "Add ODBC Translator") Use the \[Add Translator... \] toolbar button, the “Add Translator...” tree context menu item or press the \* key while the tree control is focused. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Locating the attached component for a driver, data source or translator
 
  Use the “Go To Component” tree context menu item or press theF8 key while an element from the tree control is selected. This command will activate the [Organization](https://tools.techidaily.com/advancedinstaller/products/) page with the appropriate component selected in the left tree control.
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Setting the Current Feature
 
@@ -147,10 +134,23 @@ There are three ODBC components you can add in this page: drivers, data sources 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This feature is not available for Merge Module projects. For more details see the [Merge Module Organization](https://tools.techidaily.com/advancedinstaller/products/) page.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -197,24 +197,16 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mystery-maneuvers-effortless-enhancement-techniques/"><u>[New] Mystery Maneuvers Effortless Enhancement Techniques</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1-how-to-save-cinemassacre-videos-in-various-formats-mp4-wmv-mov-etc-macwindows-compatible/"><u>1. How to Save Cinemassacre Videos in Various Formats: MP4, WMV, MOV, Etc. (Mac/Windows Compatible)</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1-how-to-save-your-favorite-youtube-videos-in-high-quality-wma-format/"><u>1. How to Save Your Favorite YouTube Videos in High-Quality WMA Format</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1-video-grabber-effortless-downloads-from-femcom-onto-your-apple-or-pc/"><u>1. Video Grabber: Effortless Downloads From Fem.com Onto Your Apple or PC</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-mobile-friendly-youtubing-with-no-high-subscriber-count/"><u>2024 Approved Mobile-Friendly YouTubing with No High Subscriber Count</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/access-diverse-gay-content-save-videos-as-mp4movavi-for-private-viewing/"><u>Access Diverse Gay Content – Save Videos as MP4/MOV/AVI for Private Viewing</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/convert-bbc-radio-podcasts-into-mp3-files-with-ease/"><u>Convert BBC Radio Podcasts Into MP3 Files with Ease</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/convert-your-blog-video-files-into-mp4movavi-formats-easily-on-both-mac-and-pc/"><u>Convert Your Blog Video Files Into MP4/MOV/AVI Formats Easily on Both Mac & PC</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/convert-your-porntube-downloads-into-different-file-types-mp4-mov-flv-avi-wmv-mkv-instructions/"><u>Convert Your PornTube Downloads Into Different File Types - MP4, MOV, FLV, AVI, WMV, MKV Instructions</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/convert-your-video-content-easy-mp4-extraction-from-digitalmarketer/"><u>Convert Your Video Content: Easy MP4 Extraction From DigitalMarketer</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721267860260-easyjpg-fixer-professional-software-to-repair-corrupt-jpeg-images-fast/"><u>EasyJPG Fixer - Professional Software to Repair Corrupt JPEG Images Fast</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/explore-in-depth-it-skills-with-ines-training-video-series-now-available-for-download/"><u>Explore In-Depth IT Skills with INE's Training Video Series - Now Available for Download</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-samsung-galaxy-m14-4g-is-unlocked-by-drfone-android/"><u>How To Check if Your Samsung Galaxy M14 4G Is Unlocked</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Infinix Hot 30 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/iphone-lens-mastery-essential-photography-hacks/"><u>IPhone Lens Mastery Essential Photography Hacks</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/snappy-screens-the-windows-way/"><u>Snappy Screens The Windows Way</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/transforming-camera-snaps-into-an-interactive-flipbook-a-guide-with-flipbuilder/"><u>Transforming Camera Snaps Into an Interactive Flipbook: A Guide with FlipBuilder</u></a></li>
-<li><a href="https://article-helps.techidaily.com/unveiling-the-best-video-player-apps-for-idevices-top-10/"><u>Unveiling the Best Video Player Apps for iDevices (Top 10)</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-finest-digital-voice-recorders/"><u>[New] In 2024, Finest Digital Voice Recorders</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-mp4-downloader-pro-facebook-video-hacks/"><u>[Updated] 2024 Approved MP4 Downloader Pro - Facebook Video Hacks</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-detailed-insights-into-youtubes-monthly-income-model/"><u>[Updated] Detailed Insights Into YouTube's Monthly Income Model</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-best-alternative-editors-for-youtube-creators-seeking-new-horizons/"><u>[Updated] In 2024, Best Alternative Editors for YouTube Creators Seeking New Horizons</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-choose-your-final-assembly-location-a-comprehensive-guide/"><u>1. Choose Your Final Assembly Location - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/creating-a-customized-look-with-unique-ceramic-tiles-pages/"><u>Creating a Customized Look with Unique Ceramic Tiles Pages</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/custom-regional-chat-features-for-enhanced-engagement/"><u>Custom Regional Chat Features for Enhanced Engagement</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/exploring-the-com-objects-property-pane/"><u>Exploring the COM Objects Property Pane</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/flashcapture-critique-plus-backup-software-for-2024/"><u>FlashCapture Critique + Backup Software for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-efficiently-transfer-music-the-best-mp3-downloading-techniques-from-rhapsody-for-pc-users/"><u>How to Efficiently Transfer Music: The Best MP3 Downloading Techniques From Rhapsody for PC Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-the-network-error-0x800704b3-in-windows-11-and-11/"><u>How to Fix the Network Error 0X800704b3 in Windows 11 & 11</u></a></li>
 </ul></div>
 

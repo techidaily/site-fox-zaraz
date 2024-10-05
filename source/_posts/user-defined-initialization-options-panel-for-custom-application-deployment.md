@@ -1,7 +1,7 @@
 ---
 title: User-Defined Initialization Options Panel for Custom Application Deployment
-date: 2024-09-29T03:17:50.807Z
-updated: 2024-09-30T05:00:58.251Z
+date: 2024-10-03T19:54:36.917Z
+updated: 2024-10-05T20:56:21.115Z
 tags:
   - user-guide
 categories:
@@ -77,10 +77,16 @@ In this tab you can define custom launch conditions by using[installer propertie
 ![Custom launch conditions](https://cdn.advancedinstaller.com/img/ui/custom-launch-conditions.png "Custom launch conditions")  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Creating a new launch condition
@@ -88,22 +94,15 @@ In this tab you can define custom launch conditions by using[installer propertie
 Use the \[New \] button, the “New” list context menu item or press the Insert key while the list control is focused. The [Edit Launch Condition Dialog](https://tools.techidaily.com/advancedinstaller/products/) will pop up allowing you to specify a launch condition.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Modifying a launch condition
 
  Use the \[Edit \] button, the “Edit” list context menu item or press the Space key while an element from the list control is selected. The [Edit Launch Condition Dialog](https://tools.techidaily.com/advancedinstaller/products/) will pop up allowing you to edit a launch condition.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Removing a launch condition
 
@@ -112,10 +111,23 @@ Use the \[New \] button, the “New” list context menu item or press the Inser
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The installation will run only if the custom launch conditions are**True**. Otherwise, the launch condition description will be showed to the user.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -156,14 +168,14 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-m1-advantages-in-high-quality-video-production-workstations/"><u>[Updated] M1 Advantages in High-Quality Video Production Workstations</u></a></li>
-<li><a href="https://win-dash.techidaily.com/brother-mfc7360n-drivers-download-and-update-in-windows-1087-easily/"><u>Brother MFC7360N Drivers Download & Update in Windows 10/8/7 EASILY</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/download-free-interactive-animation-and-zoom-featured-templates-with-visual-previews-try-now-at-flipbuilder/"><u>Download FREE: Interactive Animation & Zoom Featured Templates with Visual Previews - Try Now at FlipBuilder</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/easy-steps-to-add-background-songs-using-flipbuilder-a-comprehensive-guide/"><u>Easy Steps to Add Background Songs Using FlipBuilder: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/enhance-readability-create-oversized-flipbooks-easily-at-flipbuildercom/"><u>Enhance Readability: Create Oversized Flipbooks Easily at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/enhancing-digital-reads-a-guide-to-embedding-flash-and-video-files-in-page-turning-ebooks-using-flipbuilder-technology/"><u>Enhancing Digital Reads: A Guide to Embedding Flash and Video Files in Page-Turning eBooks Using FlipBuilder Technology</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-xiaomi-redmi-12-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Xiaomi Redmi 12 5G Phone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/turning-off-the-accessibility-option-sticky-keys-in-your-windows-pc/"><u>Turning Off the Accessibility Option 'Sticky Keys' In Your Windows PC</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-msdia80dll-importance-and-tips-on-retaining-this-system-file/"><u>Understanding msdia80.dll: Importance & Tips on Retaining This System File</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-ultimate-ig-dashboard-unraveling-user-engagement-patterns/"><u>[New] The Ultimate IG Dashboard Unraveling User Engagement Patterns</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-web-based-gag-generator/"><u>[Updated] Web-Based Gag Generator</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/exploring-app-id-in-icomclass-a-deep-dive-into-systemic-code-recognition/"><u>Exploring App ID in iComClass: A Deep Dive Into Systemic Code Recognition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-iphones-unlocked-smart-tips-for-saving-and-playing-gifs/"><u>In 2024, IPhones Unlocked Smart Tips for Saving & Playing GIFs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/inside-look-windows-command-center/"><u>Inside Look: Windows' Command Center</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/language-settings-and-preferences-customizing-your-user-experience/"><u>Language Settings & Preferences: Customizing Your User Experience</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/simple-steps-for-retrieving-erased-pictures-from-an-iphone-4s-or-ipod-touch-5th-generation/"><u>Simple Steps for Retrieving Erased Pictures From an iPhone 4S or iPod Touch 5Th Generation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/streamlined-video-magnify-tool/"><u>Streamlined Video Magnify Tool</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/understanding-property-attributes-in-application-maps/"><u>Understanding Property Attributes in Application Maps</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Language Settings & Preferences: Customizing Your User Experience"
-date: 2024-09-23T09:29:48.190Z
-updated: 2024-09-30T05:10:09.737Z
+date: 2024-10-03T19:05:59.041Z
+updated: 2024-10-05T16:06:51.921Z
 tags:
   - user-guide
 categories:
@@ -110,10 +110,16 @@ Table of Contents
 ## ILanguagesOptions
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -121,10 +127,10 @@ Table of Contents
 ILanguagesOptions : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -132,22 +138,15 @@ ILanguagesOptions : IDispatch
 This interface is meant to set translation options for the project.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
 
 **String PackageType** Gets the value of the language option. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Methods
 
@@ -170,6 +169,19 @@ This interface is meant to set translation options for the project.
 **GetNotDisplayCountryNameInDialog(IBuild Build)**  returns Bool - Gets the value of the “Do not display country name in language selection combo” checkbox for the specified Build.
 
 **SetNotDisplayCountryNameInDialog(IBuild Build, Bool Value)** \- Sets the value of the “Do not display country name in language selection combo” checkbox for the specified Build.
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## See also
 
@@ -210,22 +222,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-beginners-blueprint-mastering-telegram-web/"><u>[Updated] 2024 Approved The Beginner's Blueprint Mastering Telegram Web</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-keeping-balance-in-the-world-of-immersive-virtuality/"><u>2024 Approved Keeping Balance in the World of Immersive Virtuality</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/always-visible-flipbook-indexes-tips-and-tricks-for-using-flipbuilder-effectively/"><u>Always Visible FlipBook Indexes: Tips & Tricks for Using FlipBuilder Effectively</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/best-6-homework-assistance-apps-for-both-kids-and-guardians/"><u>Best 6 Homework Assistance Apps for Both Kids & Guardians</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/choosing-the-perfect-flipbook-template-for-incorporating-both-inner-and-outer-image-backdrops-at-flipbuildercom/"><u>Choosing the Perfect Flipbook Template for Incorporating Both Inner and Outer Image Backdrops at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/convert-microsoft-word-documents-to-free-pdf-files-with-simple-online-tools-no-cost-at-all/"><u>Convert Microsoft Word Documents to FREE PDF Files with Simple Online Tools - No Cost at All!</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/convert-multiple-word-documents-into-animated-swf-flash-movies-at-no-cost/"><u>Convert Multiple Word Documents Into Animated .swf Flash Movies at No Cost</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/convert-photos-to-pdf-free-of-cost-masterful-image-transformation-into-bulk-pdf-documents/"><u>Convert Photos to PDF Free of Cost - Masterful Image Transformation Into Bulk PDF Documents</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/customizing-your-flipbook-aesthetics-altering-fonts-and-colors-for-standout-presentations/"><u>Customizing Your FlipBook Aesthetics: Altering Fonts & Colors for Standout Presentations</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/elevate-online-presence-using-cookiebot-solutions/"><u>Elevate Online Presence Using Cookiebot Solutions</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Vivo T2 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-y55s-5g-2023-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo Y55s 5G (2023) Pattern Lock Screen</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-lava-blaze-2-pro-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Lava Blaze 2 Pro Phones? | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/professional-pro-version-unlocked-exclusive-access-to-premium-bootstrap-4-reactstrap-and-paper-design-ui-kit-by-creative-tim/"><u>Professional Pro Version Unlocked: Exclusive Access to Premium Bootstrap 4, Reactstrap & Paper Design UI Kit by Creative Tim!</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/section-3a-understanding-proportional-reasoning-in-scale-models/"><u>Section 3A: Understanding Proportional Reasoning in Scale Models</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-for-mastering-video-editing-skills-and-tools/"><u>Ultimate Tutorial for Mastering Video Editing Skills and Tools</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-leading-sites-that-outshine-traditional-twitter-usage/"><u>[Updated] In 2024, Leading Sites That Outshine Traditional Twitter Usage</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-screencast-pro-efficient-recording-macpc-upload-to-youtube/"><u>[Updated] ScreenCast Pro Efficient Recording, Mac/PC Upload to YouTube</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-choose-your-final-assembly-location-a-comprehensive-guide/"><u>1. Choose Your Final Assembly Location - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-mastering-pdf-text-extraction-a-comprehensive-guide/"><u>1. Mastering PDF Text Extraction: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/adding-command-tab-to-taskmanager-in-windows-11-pro/"><u>Adding Command Tab to TaskManager in Windows 11 Pro</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/awesome-unveil-apowerunlock-launches-revolutionary-functions/"><u>Awesome Unveil: ApowerUnlock Launches Revolutionary Functions</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/creating-a-customized-look-with-unique-ceramic-tiles-pages/"><u>Creating a Customized Look with Unique Ceramic Tiles Pages</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/custom-regional-chat-features-for-enhanced-engagement/"><u>Custom Regional Chat Features for Enhanced Engagement</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/exploring-the-com-objects-property-pane/"><u>Exploring the COM Objects Property Pane</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-11-pro-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 11 Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/need-to-unrepeot-your-content-heres-how-you-can-do-it-on-tiktok-efficiently/"><u>Need to Unrepeot Your Content? Here's How You Can Do It on TikTok Efficiently.</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-on-using-apowersoft-software-for-effective-watermark-removal/"><u>Step-by-Step Guide on Using Apowersoft Software for Effective Watermark Removal</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/step-by-step-tutorial-for-streaming-pc-gaming-on-windows-via-obs-quick-and-straightforward-methods/"><u>Step-by-Step Tutorial for Streaming PC Gaming on Windows via OBS: Quick & Straightforward Methods</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-honor-magic-v2-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Honor Magic V2 Phone</u></a></li>
 </ul></div>
 

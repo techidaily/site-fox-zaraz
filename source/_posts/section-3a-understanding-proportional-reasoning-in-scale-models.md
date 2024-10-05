@@ -1,7 +1,7 @@
 ---
 title: "Section 3A: Understanding Proportional Reasoning in Scale Models"
-date: 2024-09-25T17:37:52.414Z
-updated: 2024-09-29T23:34:31.723Z
+date: 2024-09-30T19:16:05.202Z
+updated: 2024-10-05T16:57:13.565Z
 tags:
   - product
 categories:
@@ -20,19 +20,25 @@ thumbnail: https://thmb.techidaily.com/18d207b3da44fd0fc8250931249da5dc2af6883d5
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -54,24 +60,14 @@ thumbnail: https://thmb.techidaily.com/18d207b3da44fd0fc8250931249da5dc2af6883d5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-seamless-addition-of-youtube-video-selections-for-sites/"><u>[New] 2024 Approved Seamless Addition of YouTube Video Selections for Sites</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-artist-writes-an-ipad-guide-to-time-lapse-photography/"><u>[New] In 2024, The Artist' Writes An iPad Guide to Time-Lapse Photography</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-how-to-record-minecraft-gameplay-complete-guide-for-2024/"><u>[Updated] How to Record Minecraft Gameplay [Complete Guide] for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/breaking-down-vimeo-streaming-giants-secrets-revealed-for-2024/"><u>Breaking Down Vimeo Streaming Giant's Secrets Revealed for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-vivo-y100i-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-nokia-c12-plus-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Nokia C12 Plus Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-melding-music-and-media-the-reel-rhythm-guide/"><u>In 2024, Melding Music and Media The Reel Rhythm Guide</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/integrating-videos-and-flash-into-interactive-flipbook-ebooks-using-flipbuilder/"><u>Integrating Videos & Flash Into Interactive Flipbook eBooks Using FlipBuilder</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-epub-format-reading-with-flippingbooks-user-friendly-guide/"><u>Mastering ePub Format Reading with FlippingBook's User-Friendly Guide</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-flippdf-a-complete-tutorial-for-dynamic-digital-books-on-flipbuildercom/"><u>Mastering FlipPDF: A Complete Tutorial for Dynamic Digital Books on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/quick-guide-to-producing-single-person-flipbooks-in-batches-using-flipbuilders-features/"><u>Quick Guide to Producing Single-Person Flipbooks in Batches Using FlipBuilder's Features</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-setup-guide-installing-the-surface-dock-faultless-connection/"><u>Quick Setup Guide: Installing the Surface Dock - Faultless Connection</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/read-your-digital-magazine-pages-from-rearranged-directions-with-flipbook-creator/"><u>Read Your Digital Magazine Pages From Rearranged Directions with FlipBook Creator</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/resize-and-customize-your-books-effortlessly-using-flipbuilders-features/"><u>Resize and Customize Your Books Effortlessly Using FlipBuilder's Features</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/seamless-language-support-with-comprehensive-layout-options-master-reading-clarity-on-flipbuildercom/"><u>Seamless Language Support with Comprehensive Layout Options – Master Reading Clarity on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/transform-several-text-files-simultaneously-into-interactive-flash-ebooks-on-flipbuildercom/"><u>Transform Several Text Files Simultaneously Into Interactive Flash eBooks on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/transform-your-pictures-into-a-stunning-mac-photo-library-with-image-mac-converter-discover-the-ultimate-tool-at-flipbuildercom/"><u>Transform Your Pictures Into a Stunning Mac Photo Library with Image Mac Converter - Discover the Ultimate Tool at FlipBuilder.com</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-xiaomi-redmi-13c-5g-by-drfone-android/"><u>Universal Unlock Pattern for Xiaomi Redmi 13C 5G</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unleash-creativity-in-photography-no-cost-some-pay-luts/"><u>Unleash Creativity in Photography No Cost, Some Pay LUTs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-strategies-for-effortless-audio-merging-in-adobe-premiere/"><u>[New] Strategies for Effortless Audio Merging in Adobe Premiere</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-strategic-use-of-tags-a-guide-to-youtube-success/"><u>[Updated] The Strategic Use of Tags A Guide to YouTube Success</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-mastering-pdf-text-extraction-a-comprehensive-guide/"><u>1. Mastering PDF Text Extraction: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/awesome-unveil-apowerunlock-launches-revolutionary-functions/"><u>Awesome Unveil: ApowerUnlock Launches Revolutionary Functions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-screening-the-best-selecting-premium-macos-recording-apps/"><u>In 2024, Screening the Best Selecting Premium macOS Recording Apps</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/is-your-google-drive-vulnerable-to-ransomware-insights-from-malwarefox/"><u>Is Your Google Drive Vulnerable to Ransomware: Insights From MalwareFox</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-on-using-apowersoft-software-for-effective-watermark-removal/"><u>Step-by-Step Guide on Using Apowersoft Software for Effective Watermark Removal</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-editors-guide-to-enhancing-longer-youtube-video-content-with-chapters-for-2024/"><u>The Editor's Guide to Enhancing Longer YouTube Video Content with Chapters for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-the-leading-10-live-streaming-services/"><u>Unveiling the Leading 10 Live-Streaming Services</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 1. Choose Your Final Assembly Location - A Comprehensive Guide
-date: 2024-09-25T02:31:57.128Z
-updated: 2024-09-29T20:22:54.494Z
+date: 2024-09-30T20:05:17.775Z
+updated: 2024-10-05T20:36:40.802Z
 tags:
   - user-guide
 categories:
@@ -78,19 +78,25 @@ Table of Contents
 ![Multiple assemblies destination dialog](https://cdn.advancedinstaller.com/img/dialog/multiple-assemblies-destination.png "Multiple assemblies destination dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Destination
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Install in Global Assemblies Cache
@@ -98,10 +104,10 @@ Table of Contents
 By using this option, all the selected assemblies will be installed into the global assembly cache using the Microsoft .NET Framework. When installing assemblies to the global assembly cache, the installer cannot use the same directory structure and file version rules it uses when installing regular components. Assemblies can exist only once in the assembly cache. Each assembly is added and removed from the assembly cache as an indivisible whole. Because of this, all the files from an assembly are always installed or removed together.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Install to a private location (given by assembly file component directory)
@@ -141,17 +147,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-bitrecorder-analysis-with-other-solutions/"><u>[Updated] 2024 Approved BitRecorder Analysis with Other Solutions</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-pantheon-of-popularity-instagrams-top-25-icons-for-2024/"><u>[Updated] The Pantheon of Popularity Instagram's Top 25 Icons for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-win11s-ultimate-video-recorder-guide-for-2024/"><u>[Updated] Win11's Ultimate Video Recorder Guide for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/download-anytime-convert-and-save-your-favorite-videos-from-zaq1-in-high-quality-mp4-mov-or-avi-using-zaq1-downloader/"><u>Download Anytime: Convert and Save Your Favorite Videos From ZAQ1 in High-Quality MP4, MOV or AVI Using ZAQ1 Downloader.</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/download-content-from-1upcom-in-high-quality-formats-like-mp4-and-avi-with-our-simple-guide/"><u>Download Content From 1UP.com in High-Quality Formats Like MP4 and AVI with Our Simple Guide!</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/download-free-learnsmart-system-video-tutorials-for-pc-and-mac/"><u>Download Free LearnSmart System Video Tutorials for PC & Mac</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/download-full-quality-kudda-video-collection-choose-from-multiple-file-types-such-as-mp4-avi-or-wmv/"><u>Download Full-Quality Kudda Video Collection: Choose From Multiple File Types Such as MP4, AVI, or WMV</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/download-high-quality-videos-from-mojatube-in-mp4-and-avi-formats/"><u>Download High-Quality Videos From MojaTube in MP4 & AVI Formats</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/immerse-yourself-without-breaking-the-bank-essential-guides-to-economical-home-cinema-kits/"><u>Immerse Yourself Without Breaking the Bank: Essential Guides to Economical Home Cinema Kits</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-from-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 From Apple iPhone 12 mini</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-camon-20-pro-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Camon 20 Pro 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-tecno-spark-go-2023-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Tecno Spark Go (2023)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-academic-avenue-leading-educators-on-youtube/"><u>[New] 2024 Approved Academic Avenue Leading Educators on YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-efficiently-record-your-gotomeeting-conferences/"><u>[Updated] Efficiently Record Your GoToMeeting Conferences</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-monetizing-your-content-on-youtube-for-2024/"><u>[Updated] Monetizing Your Content on YouTube for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-quick-guide-updating-and-replacing-texts-in-itext-best-practices/"><u>1. Quick Guide: Updating and Replacing Texts in Itext - Best Practices</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/accelerate-your-iphones-performance-a-step-by-step-guide-to-clearing-unnecessary-data/"><u>Accelerate Your iPhone's Performance: A Step-by-Step Guide to Clearing Unnecessary Data</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-f23-5g-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Xiaomi Redmi A2+? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-officejet-pro-8610-driver-download-and-update-for-windows-10-8-7-xp-and-vista/"><u>HP Officejet Pro 8610 Driver Download & Update for Windows 10, 8, 7, XP and Vista</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-oppo-a1x-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Oppo A1x 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/income-distribution-among-successful-podcasters-for-2024/"><u>Income Distribution Among Successful Podcasters for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/simple-methods-to-print-sms-from-your-android-device/"><u>Simple Methods to Print SMS From Your Android Device</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-reality-behind-the-midland-lxt500vp3-assessing-a-radio-with-high-potential-but-underwhelming-execution/"><u>The Reality Behind the Midland LXT500Vp3: Assessing a Radio with High Potential but Underwhelming Execution</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-rated-free-online-tools-best-7-video-editors-with-no-watermarks-available/"><u>Top-Rated Free Online Tools: Best 7 Video Editors with No Watermarks Available</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-rated-windows-11-screen-recording-tools-a-comprehensive-guide/"><u>Top-Rated Windows 11 Screen Recording Tools: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/ultimate-tutorial-how-to-stream-and-watch-flv-videos-on-your-android-device/"><u>Ultimate Tutorial: How to Stream and Watch FLV Videos on Your Android Device</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: What's New? Discover Our Latest Features and Improvements!
-date: 2024-09-22T23:34:19.636Z
-updated: 2024-09-29T23:49:01.291Z
+date: 2024-09-30T17:57:24.478Z
+updated: 2024-10-05T18:36:37.432Z
 tags:
   - user-guide
 categories:
@@ -82,13 +82,6 @@ This page allows you to specify a list of products that will be removed from the
 
 This section allows you to manage older versions of your package which were created with Advanced Installer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Automatically upgrade older product versions
 
  For this option to work, you must respect certain rules when [Changing Version](https://tools.techidaily.com/advancedinstaller/products/). 
@@ -96,6 +89,13 @@ This section allows you to manage older versions of your package which were crea
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When upgrading older versions, the install location of the previous version will be used as default for the current installation process. This applies only if both versions are built with Advanced Installer 3.8 or greater.
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Uninstalling a version installed as Administrator only works when the current user has Administrator rights as well.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In order to use this option to upgrade an older installation you can follow these steps:
 
@@ -125,22 +125,15 @@ Select this option in order to allow different versions of the same application 
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)You must build the **older** product version with this option enabled for the intended effect. 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When authoring side by side installs of different versions of an application, it is recommended that some rules should be used. The install locations, registry entries, shortcuts etc. should differ from one version to another. If they are not different, the present items will be overwritten when a new version is installed. Also, they will be removed when a version of the application is uninstalled even if the other versions still uses them.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If the installation folder selected by the user is the same folder used for the installation of an older version then that version will be removed. The user can choose a previously used install location from the drop-down list in the "Select Location" dialog, forcing an upgrade.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Customize Advanced Installer upgrade rules
@@ -156,22 +149,15 @@ By default a package uses the installation path of an older version when upgradi
 Check this option to enable the ability to install an older version over a newer version of the package, for example version 1.0.0 being able to upgrade version 2.0.0.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Change Product Code and component's GUIDS
 
 By clicking on this hyperlink you can change the Product Code of the package and the GUIDS of all its components.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Order
 
@@ -183,34 +169,54 @@ In this section you can specify the upgrade process' sequence.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The _Install new version first and then uninstall old version_ option will work only if the files' components don't change from the old version to the new one (their names and GUIDs remain the same).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Upgrades
 
 In this section you can specify other products that will be upgraded when your package will be installed. Note that these packages must be MSI-based, you cannot use this page to upgrade packages which don't use the Windows Installer technology. When you click the\[New... \] button Advanced Installer shows a dialog which allows you to select the target installation package from the disk.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Adding a new upgrade
 
  Use the \[New... \] toolbar button, the “New...” context menu item or press the Insert key while the focus is in the list. 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Editing an upgrade
 
  Use the “Edit...” context menu item or press theSpace key while a list item is selected. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Removing an upgrade
 
  Use the \[Delete \] toolbar button, the “Delete” context menu item or press the Delete key while a list item is selected. 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -253,20 +259,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-lightroom-lut-wonders-your-go-to-selection-of-10-titles/"><u>[New] LightRoom LUT Wonders Your Go-To Selection of 10 Titles</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-shattering-standards-an-in-depth-look-at-the-eizo-coloredge-monitor/"><u>[New] Shattering Standards – An In-Depth Look at the EIZO ColorEdge Monitor</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-from-capture-to-share-precision-cropping-and-export-tips-for-instagram-for-2024/"><u>[Updated] From Capture to Share Precision Cropping & Export Tips for Instagram for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/advanced-black-dashboard-for-professionals-reactive-crm-platform-using-reactstrap-and-bootstrap-v4-created-by-creative-tim/"><u>Advanced Black Dashboard for Professionals: Reactive CRM Platform Using Reactstrap and Bootstrap v4 - Created by Creative Tim</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/advanced-pro-level-nextjs-material-dashboard-by-creative-tim-exclusive-admin-templates/"><u>Advanced Pro-Level NextJS Material Dashboard by Creative Tim: Exclusive Admin Templates</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/advanced-react-native-framework-bundle-from-creative-tim-exclusive-app-development-solution/"><u>Advanced React Native Framework Bundle From Creative Tim - Exclusive App Development Solution</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/advanced-vuejs-3-and-bootstrap-5-admin-dashboard-with-vue-soft-ui-dashboard-pro-exclusive-pre-built-templates/"><u>Advanced VueJS 3 & Bootstrap 5 Admin Dashboard with Vue Soft UI Dashboard Pro - Exclusive Pre-Built Templates</u></a></li>
-<li><a href="https://facebook.techidaily.com/are-you-a-future-metaverse-architect-join-facebooks-quest/"><u>Are You a Future Metaverse Architect? Join Facebook's Quest.</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/beginners-guide-to-building-a-flutter-application-for-the-web-using-material-ui-and-code-samples-from-creativetim/"><u>Beginner's Guide to Building a Flutter Application for the Web Using Material-UI and Code Samples From CreativeTim</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comparative-study-of-access-models-in-digital-information-systems-implications-for-public-use/"><u>Comparative Study of Access Models in Digital Information Systems: Implications for Public Use</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/complete-paper-dashboard-pro-the-ultimate-premium-admin-interface-for-laravel-applications-with-customizable-crud-features-by-creative-tim/"><u>Complete Paper Dashboard Pro: The Ultimate Premium Admin Interface for Laravel Applications with Customizable CRUD Features by Creative Tim</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/creative-tims-argon-ui-framework-a-complimentary-react-and-bootstrap-compatible-design-toolkit/"><u>Creative Tim's Argon UI Framework: A Complimentary React & Bootstrap-Compatible Design Toolkit</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Realme C53? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/infinix-smart-8-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Smart 8 Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-budget-friendly-methods-for-youtube-card-creation/"><u>[New] Budget-Friendly Methods for YouTube Card Creation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-convert-subtitles-effortlessly-top-8-best-converters-from-sub-to-srt-format-for-2024/"><u>[New] Convert Subtitles Effortlessly - Top 8 Best Converters From SUB to SRT Format for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-effective-wellness-ads-on-social-media-platforms-for-2024/"><u>[New] Effective Wellness Ads on Social Media Platforms for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-streamlining-your-video-call-process-with-obs-and-skype-for-2024/"><u>[New] Streamlining Your Video Call Process with OBS & Skype for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/access-premium-music-without-spending-explore-safaris-leading-mp3-download-app/"><u>Access Premium Music Without Spending: Explore Safari's Leading MP3 Download App!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fallout-4-no-sound-issue-fixes-for-windows-users-expert-tips-and-tricks/"><u>Fallout ^4 No Sound Issue Fixes for Windows Users: Expert Tips and Tricks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-honor-x50iplus-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Honor X50i+</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-navigating-soundscape-dilution-via-audacity-tools/"><u>In 2024, Navigating Soundscape Dilution via Audacity Tools</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/inside-look-how-samsung-galaxy-watch-blends-style-with-technology/"><u>Inside Look: How Samsung Galaxy Watch Blends Style with Technology</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/leading-screencast-tools-for-showcasing-world-of-tanks-strategies/"><u>Leading Screencast Tools for Showcasing World of Tanks Strategies</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/reigniting-the-social-sphere-how-to-amplify-instagram-activity/"><u>Reigniting the Social Sphere How to Amplify Instagram Activity</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/simple-techniques-for-mkv-video-subtitle-retrieval/"><u>Simple Techniques for MKV Video Subtitle Retrieval</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/the-top-methods-for-seamless-music-transition-between-galaxy-s4-and-s6-edge-devices/"><u>The Top Methods for Seamless Music Transition Between Galaxy S4 and S6 Edge Devices</u></a></li>
 </ul></div>
 

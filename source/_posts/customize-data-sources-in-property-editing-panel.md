@@ -1,7 +1,7 @@
 ---
 title: Customize Data Sources in Property Editing Panel
-date: 2024-09-25T07:05:53.143Z
-updated: 2024-09-30T10:44:16.851Z
+date: 2024-09-30T19:45:27.155Z
+updated: 2024-10-05T19:57:27.143Z
 tags:
   - user-guide
 categories:
@@ -87,19 +87,25 @@ This feature enables you to automatically set the value of a property from a val
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)If the property's value cannot be updated at build time, the build will be stopped!
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## General
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Synchronize property's value with:
@@ -112,10 +118,10 @@ This feature enables you to automatically set the value of a property from a val
 * Value from a JSON file
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### File Path
@@ -123,10 +129,10 @@ This feature enables you to automatically set the value of a property from a val
 Pick the file using the \[...\] button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Value
@@ -166,22 +172,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-exploring-social-boundaries-sign-up-for-a-facebook-profile-for-2024/"><u>[New] Exploring Social Boundaries Sign Up for a Facebook Profile for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-gigglygraphics-mememakers-haven/"><u>[New] In 2024, GigglyGraphics MemeMaker's Haven</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-transform-your-media-quickly-macs-simple-guide-to-resized-insta-content-for-2024/"><u>[New] Transform Your Media Quickly Mac's Simple Guide to Resized Insta Content for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/convierte-tus-archivos-de-pelicula-mp4-al-formato-ogg-sin-gastar-soluciones-de-conversion-en-linea/"><u>Convierte Tus Archivos De Película MP4 Al Formato Ogg Sin Gastar: Soluciones De Conversión en Línea</u></a></li>
-<li><a href="https://video-capture.techidaily.com/discover-the-best-sound-alterers-7-high-quality-vocal-editing-apps/"><u>Discover the Best Sound Alterers 7 High-Quality Vocal Editing Apps</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/easy-peasy-double-click-android-files-in-win-11/"><u>Easy-Peasy: Double-Click Android Files in Win 11</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-manage-large-file-sets-in-your-projects-with-flipbuildercoms-structure/"><u>How to Manage Large File Sets in Your Projects with FlipBuilder.com's Structure</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-save-your-flipbook-projects-easily-on-flipbuildercom/"><u>How to Save Your FlipBook Projects Easily on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-streamline-your-podcasts-effective-editing-tips-for-garageband-users/"><u>In 2024, Streamline Your Podcasts Effective Editing Tips for GarageBand Users</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/incorporating-your-business-logo-into-flipbook-presentations-with-ease/"><u>Incorporating Your Business Logo Into FlipBook Presentations with Ease</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/integrating-internal-and-external-links-seamlessly-into-flipbooks-with-flipbuilder-techniques/"><u>Integrating Internal and External Links Seamlessly Into Flipbooks with FlipBuilder Techniques</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/integrating-videos-and-flash-into-interactive-flipbook-ebooks-using-flipbuilder/"><u>Integrating Videos & Flash Into Interactive Flipbook eBooks Using FlipBuilder</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/learn-the-layers-of-photography-with-snapseed/"><u>Learn the Layers of Photography with Snapseed</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-epub-format-reading-with-flippingbooks-user-friendly-guide/"><u>Mastering ePub Format Reading with FlippingBook's User-Friendly Guide</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-flippdf-a-complete-tutorial-for-dynamic-digital-books-on-flipbuildercom/"><u>Mastering FlipPDF: A Complete Tutorial for Dynamic Digital Books on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/quick-guide-to-producing-single-person-flipbooks-in-batches-using-flipbuilders-features/"><u>Quick Guide to Producing Single-Person Flipbooks in Batches Using FlipBuilder's Features</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-funny-facades-top-quality-free-meme-files/"><u>[New] Funny Facades Top-Quality, FREE Meme Files</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-customize-your-video-to-fit-seamlessly-in-instagram/"><u>[Updated] 2024 Approved Customize Your Video to Fit Seamlessly in Instagram</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/automated-data-collection-with-cookiebot-technology/"><u>Automated Data Collection with Cookiebot Technology</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/efficient-software-component-for-regular-updates-iupdatercomponent-explained/"><u>Efficient Software Component for Regular Updates: IUpdaterComponent Explained</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/frustrating-tips-and-tricks-to-watch-your-dvds-on-windows-8/"><u>Frustrating Tips and Tricks to Watch Your DVDs on Windows 8</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/get-ready-for-a-lighter-device-experience-top-48-apps-to-cut-down-video-size-on-android-for-2024/"><u>Get Ready for a Lighter Device Experience Top 48 Apps to Cut Down Video Size on Android for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-most-effective-ways-to-bypass-apple-iphone-14-plus-activation-lock-by-drfone-ios/"><u>In 2024, The Most Effective Ways to Bypass Apple iPhone 14 Plus Activation Lock</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/manage-your-profile-detailed-guide-to-navigating-account-preferences/"><u>Manage Your Profile: Detailed Guide to Navigating Account Preferences</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-cross-platform-gaming-a-guide-to-playing-your-favorite-iphone-titles-on-a-computer-or-mac/"><u>Mastering Cross-Platform Gaming: A Guide to Playing Your Favorite iPhone Titles on a Computer or Mac</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-gt-10-pro-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from GT 10 Pro</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/premium-gratis-image-cleaner-top-watermark-stripper-apps/"><u>Premium Gratis Image Cleaner: Top Watermark Stripper Apps</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/simple-techniques-for-watermark-removal-from-2021-videos/"><u>Simple Techniques for Watermark Removal From 2021 Videos</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-blueprints-for-db-reset/"><u>Stellar Blueprints for DB Reset</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/streamline-your-event-planning-with-advanced-editing-tools-and-features/"><u>Streamline Your Event Planning with Advanced Editing Tools and Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-artists-chromatic-companion-for-2024/"><u>The Artist's Chromatic Companion for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-s-best-free-whiteboard-animation-software-for-windows-mac-and-online/"><u>Updated In 2024, S Best Free Whiteboard Animation Software for Windows, Mac, and Online</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-low-cost-filmmaking-essentials-7-must-know-software-2023-update/"><u>Updated Low-Cost Filmmaking Essentials 7 Must-Know Software 2023 Update</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/user-friendly-file-download-prompt-guide/"><u>User-Friendly File Download Prompt Guide</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/wireless-connection-guide-linking-your-google-pixel-smartphone-with-a-windowsmac-computer/"><u>Wireless Connection Guide: Linking Your Google Pixel Smartphone with a Windows/Mac Computer</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Custom Action with Attached Script: Boosting IATTACTIVITIES"
-date: 2024-09-23T05:38:58.618Z
-updated: 2024-09-30T04:39:04.205Z
+date: 2024-09-28T17:44:14.831Z
+updated: 2024-10-05T19:46:25.872Z
 tags:
   - user-guide
 categories:
@@ -130,16 +130,10 @@ Table of Contents
 IAttachedScriptFileCustomAction: ICustomAction
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -147,16 +141,10 @@ IAttachedScriptFileCustomAction: ICustomAction
 This interface facilitates editing custom action for launching attached script file.
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -170,10 +158,10 @@ This interface facilitates editing custom action for launching attached script f
 **String ActionData** \- Gets or sets the value of the CustomActionData property. This property can be retrieved as a regular property inside Deferred custom actions and it is available only for DLL, JScript and VBScript custom actions. A common usage scenario is to use the CustomActionData property in Rollback Custom Actions since they are also deferred.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Examples
@@ -186,10 +174,16 @@ $custAct.FunctionName = "MyFunction"
 Copy
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -231,24 +225,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-cut-to-perfection-premier-android-editing-software-for-2024/"><u>[Updated] Cut to Perfection Premier Android Editing Software for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-essential-info-on-crafting-engaging-yt-shorts/"><u>[Updated] In 2024, Essential Info on Crafting Engaging YT Shorts</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-video-talk-with-ease-how-to-utilize-whatsapp-web-on-your-notebook/"><u>[Updated] In 2024, Video Talk with Ease How to Utilize WhatsApp Web on Your Notebook</u></a></li>
-<li><a href="https://network-issues.techidaily.com/address-ghosted-screen-recognition/"><u>Address Ghosted Screen Recognition</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-nubia-z50s-pro-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Nubia Z50S Pro Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expand-your-digital-presence-on-twitter-expert-tips-for-gaining-followers-fast/"><u>Expand Your Digital Presence on Twitter: Expert Tips for Gaining Followers Fast</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/free-download-kuwo-music-album-single-full-track-collection-in-mp3-and-wav-formats/"><u>Free Download: Kuwo Music Album, Single, Full Track Collection in MP3 & WAV Formats</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/free-zedge-ringtone-downloads-access-premium-soundtracks-and-tunes-from-zedge/"><u>Free Zedge Ringtone Downloads: Access Premium Soundtracks and Tunes From Zedge</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/global-english-education-programs/"><u>Global English Education Programs</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-15-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>How to Move Custom Ringtones from Apple iPhone 15 Pro Max to Android? | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-save-sapo-videos-as-different-file-types-mp4-mov-avi-flv-wmv-mkv/"><u>How to Save SAPO Videos as Different File Types (MP4, MOV, AVI, FLV, WMV, MKV)</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-iphone-15-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from iPhone 15</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-vivo-x100-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Vivo X100 Phones</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/instant-mp3-creation-from-urls-seamless-downloader-for-both-windows-and-macos-users/"><u>Instant MP3 Creation From URLs: Seamless Downloader for Both Windows and macOS Users</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/manhub-health-hub-download-informative-adult-wellness-videos-for-learning/"><u>ManHub Health Hub: Download Informative Adult Wellness Videos for Learning</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/seamlessly-move-videos-off-buzznet-with-superdownload-choose-from-mp4-mov-or-avi-options-for-top-quality-playback/"><u>Seamlessly Move Videos Off BuzzNet with SuperDownload - Choose From MP4, MOV or AVI Options for Top Quality Playback</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-on-downloading-pokemon-go-videos-in-various-formats/"><u>Step-by-Step Guide on Downloading Pokémon GO Videos in Various Formats</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/top-ranking-downloadhelper-substitute-for-macos-and-windows-discover-allavsoft/"><u>Top Ranking DownloadHelper Substitute for macOS & Windows: Discover Allavsoft!</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/transferring-ximalaya-audio-content-as-mp3s-for-pc-and-mac-users/"><u>Transferring Ximalaya Audio Content as MP3s for PC & Mac Users</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-empowering-healing-with-vr-technology/"><u>[New] 2024 Approved Empowering Healing with VR Technology</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-cutting-edge-techniques-mastering-youtube-subtitlecc-additions-for-2024/"><u>[New] Cutting-Edge Techniques Mastering YouTube Subtitle/CC Additions for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fonts-that-make-a-difference-your-20-best-choices/"><u>[New] In 2024, Fonts That Make a Difference Your 20 Best Choices</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-captivating-creations-utilizing-motion-blur-effects-in-ai/"><u>[Updated] In 2024, Captivating Creations Utilizing Motion Blur Effects in AI</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-snapit-share-it-in-order-on-ig/"><u>[Updated] SnapIt, Share It in Order on IG</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/best-video-converter-applications-transforming-footage-into-gifs-successfully/"><u>Best Video Converter Applications: Transforming Footage Into GIFs Successfully</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/efficient-searching-techniques-with-xquery-language-elements/"><u>Efficient Searching Techniques with XQuery Language Elements</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-install-a-digital-certificate-on-your-device/"><u>How to Install a Digital Certificate on Your Device</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/improving-interaction-quality-through-effective-preferences-configuration-interface/"><u>Improving Interaction Quality Through Effective 'Preferences Configuration Interface'</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/revealed-the-best-thumbnail-dimensions-for-maximum-viewership-growth-for-2024/"><u>Revealed! The Best Thumbnail Dimensions for Maximum Viewership Growth for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speak-like-a-local-the-most-useful-german-sayings-countdown/"><u>Speak Like a Local: The Most Useful German Sayings Countdown</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-clear-choice-between-projectors-and-televisions-for-4k-quality-for-2024/"><u>The Clear Choice Between Projectors and Televisions for 4K Quality for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-meizu-21-pro-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Meizu 21 Pro Phones</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-ranked-chrome-audio-capture-apps-review/"><u>Top-Ranked Chrome Audio Capture Apps Review</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/understanding-product-language-exploring-the-importance-of-localization/"><u>Understanding Product Language: Exploring the Importance of Localization</u></a></li>
 </ul></div>
 

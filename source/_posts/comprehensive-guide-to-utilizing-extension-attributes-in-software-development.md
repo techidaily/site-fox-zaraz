@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Utilizing Extension Attributes in Software Development
-date: 2024-09-25T10:15:22.266Z
-updated: 2024-09-30T02:51:51.347Z
+date: 2024-10-02T19:22:06.361Z
+updated: 2024-10-05T18:40:37.788Z
 tags:
   - user-guide
 categories:
@@ -79,10 +79,10 @@ Table of Contents
 ## Extension Properties
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## General
@@ -100,16 +100,10 @@ Defines the content type of the files with the selected extension. This content 
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)During installation of a MIME type Windows Installer registers the MIME type under the Internet Explorer MIME Database too ("HKEY\_CLASSES\_ROOT\\MIME\\Database\\Content Type" registry key). Considering the method how [Internet Explorer handles MIME Types](https://learn.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/platform-apis/ms775148%28v=vs.85%29?redirectedfrom=MSDN), it is not recommend to register the "application/octet-stream" MIME type with your application extension. This is because after registering the "application/octet-stream" MIME type with your application extension, Internet Explorer could associate all downloaded files of "application/octet-stream" MIME type with your application extension.
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Feature
@@ -117,6 +111,13 @@ Defines the content type of the files with the selected extension. This content 
 The feature which controls the extension installation. If this feature is not installed, the file associations is not made.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This combo box shows only features which contains the extension component.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Place extension in a separate feature
 
@@ -131,10 +132,10 @@ This group allows you to specify when the extension feature is installed:
 * _Install based on custom condition_ \- installs the extension feature only if the specified condition is true
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Show in FileAssociationsDlg dialog
@@ -142,13 +143,6 @@ This group allows you to specify when the extension feature is installed:
 Enabling this option will automatically create for the extension a checkbox on "FileAssociationsDlg" [predefined dialog](https://tools.techidaily.com/advancedinstaller/products/). It will also add the required control events so the checkbox controls the extension feature installation.
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Only one extension should be associated with each ProgID.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -183,14 +177,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-zaraz.techidaily.com/1-ultimate-angular-ui-toolkit-pro-advanced-bootstrap-compatible-frontend-framework-by-creative-tim/"><u>1. Ultimate Angular UI Toolkit Pro: Advanced Bootstrap-Compatible Frontend Framework by Creative Tim</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-premier-fifa-vids-data-visualized-for-social-media/"><u>2024 Approved Premier FIFA Vids Data Visualized for Social Media</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/advanced-black-dashboard-for-professionals-reactive-crm-platform-using-reactstrap-and-bootstrap-v4-created-by-creative-tim/"><u>Advanced Black Dashboard for Professionals: Reactive CRM Platform Using Reactstrap and Bootstrap v4 - Created by Creative Tim</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/advanced-pro-level-nextjs-material-dashboard-by-creative-tim-exclusive-admin-templates/"><u>Advanced Pro-Level NextJS Material Dashboard by Creative Tim: Exclusive Admin Templates</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/advanced-react-native-framework-bundle-from-creative-tim-exclusive-app-development-solution/"><u>Advanced React Native Framework Bundle From Creative Tim - Exclusive App Development Solution</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/language-learning-uninterrupted-dark-shows-on-netflix/"><u>Language Learning Uninterrupted: Dark Shows on Netflix</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-nokia-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Nokia</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/zestfully-mastering-latin-through-games/"><u>Zestfully Mastering Latin Through Games</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-echoes-of-sound-how-to-enhance-tweeted-visuals/"><u>[New] Echoes of Sound How to Enhance Tweeted Visuals</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capturing-youtube-captions-3-easy-methods-of-srt-extraction-for-2024/"><u>Capturing YouTube Captions 3 Easy Methods of SRT Extraction for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/exploring-the-features-of-your-objects-settings-menu/"><u>Exploring the Features of Your Object's Settings Menu</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/guide-to-creating-and-testing-an-xml-file-best-practices/"><u>Guide to Creating and Testing an XML File: Best Practices</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-vivo-y78-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Vivo Y78 5G Phones with/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oneplus-ace-2vwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on OnePlus Ace 2Vwith/without a PC</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-fully-remove-macs-apowerrec-and-virtual-sound-card-software-a-step-by-step-guide/"><u>How to Fully Remove Mac's ApowerREC and Virtual Sound Card Software: A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-v30-lite-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of V30 Lite 5G?</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/ifolderswidget-integrating-seamless-folder-management-into-your-app/"><u>IFoldersWidget: Integrating Seamless Folder Management Into Your App</u></a></li>
+<li><a href="https://article-files.techidaily.com/mastering-close-up-web-views-on-screen/"><u>Mastering Close-Up Web Views on Screen</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/speedy-setup-comprehensive-steps-for-obtaining-and-configuring-videomaker-elite-suite/"><u>Speedy Setup: Comprehensive Steps for Obtaining and Configuring Videomaker Elite Suite</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-ranking-free-tools-ultimate-alternatives-to-snagit/"><u>Top-Ranking Free Tools: Ultimate Alternatives to Snagit</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-fixing-oxygen-no-more-game-crashes/"><u>Troubleshooting and Fixing Oxygen: No More Game Crashes</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-ultimate-avs-video-editor-review-for-2024/"><u>Updated The Ultimate AVS Video Editor Review for 2024</u></a></li>
 </ul></div>
 

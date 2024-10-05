@@ -1,7 +1,7 @@
 ---
 title: Understanding the Various Categories of Programs on Microsoft's Windows Marketplace
-date: 2024-09-22T23:04:22.808Z
-updated: 2024-09-29T23:55:39.245Z
+date: 2024-09-30T20:26:36.791Z
+updated: 2024-10-05T20:54:38.981Z
 tags:
   - user-guide
 categories:
@@ -79,42 +79,49 @@ Table of Contents
 
 ## Windows Store Project Types
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Package
 
 ### Windows Store App
 
 ![Windows Store App](https://cdn.advancedinstaller.com/img/project/appx.png "Windows Store App")This type of project gives you the possibility to create [AppX packages for Windows Store](https://tools.techidaily.com/advancedinstaller/products/). Note that this project type requires a Professional license.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Modification Package
 
 ![Modification package](https://cdn.advancedinstaller.com/img/project/modification.png "Modification package")This type of project gives you the possibility to create a modification package for [MSIX installers](https://tools.techidaily.com/advancedinstaller/products/). Note that this project type requires an Architect license.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Optional Package
 
 ![Optional package](https://cdn.advancedinstaller.com/img/project/optional.png "Optional package")This type of project gives you the possibility to create an [Optional Package](https://tools.techidaily.com/advancedinstaller/products/). Note that this project type requires an Architect license.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Import
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Import Windows Store App
 
@@ -124,23 +131,16 @@ Table of Contents
 
 ![Import modification](https://cdn.advancedinstaller.com/img/project/import-modification.png "Import modification") This type of project gives you the possibility to[import modification packages](https://tools.techidaily.com/advancedinstaller/products/) and edit them using the Advanced Installer GUI. Note that this project type requires an Architect license.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Import Optional Package
 
 ![Import optional](https://cdn.advancedinstaller.com/img/project/import-optional.png "Import optional") This type of project gives you the possibility to import optional packages and edit them using the Advanced Installer GUI. Note that this project type requires an Architect license.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -175,24 +175,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-rhythm-rulebook-seamlessly-mixing-music-into-instagram-posts/"><u>[New] 2024 Approved The Rhythm Rulebook Seamlessly Mixing Music Into Instagram Posts</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-polarrs-complete-guide-mastering-image-editing/"><u>[Updated] In 2024, Polarr's Complete Guide Mastering Image Editing</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamline-your-youtube-shorts-thumbnail-process/"><u>2024 Approved Streamline Your YouTube Shorts Thumbnail Process</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-apple-iphone-6-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone 6 When Its Locked Within Seconds</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-honor-x50iplus-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Honor X50i+ by Name | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/discover-how-easy-it-is-to-watch-or-save-the-latest-movies-and-tv-episodes-from-tunes-extensive-libraryyour-perfect-entertainment-solution/"><u>Discover How Easy It Is to Watch or Save the Latest Movies and TV Episodes From Tune's Extensive Library—Your Perfect Entertainment Solution!</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/download-anytime-convert-and-save-your-favorite-videos-from-zaq1-in-high-quality-mp4-mov-or-avi-using-zaq1-downloader/"><u>Download Anytime: Convert and Save Your Favorite Videos From ZAQ1 in High-Quality MP4, MOV or AVI Using ZAQ1 Downloader.</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/download-content-from-1upcom-in-high-quality-formats-like-mp4-and-avi-with-our-simple-guide/"><u>Download Content From 1UP.com in High-Quality Formats Like MP4 and AVI with Our Simple Guide!</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/download-free-learnsmart-system-video-tutorials-for-pc-and-mac/"><u>Download Free LearnSmart System Video Tutorials for PC & Mac</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/download-full-quality-kudda-video-collection-choose-from-multiple-file-types-such-as-mp4-avi-or-wmv/"><u>Download Full-Quality Kudda Video Collection: Choose From Multiple File Types Such as MP4, AVI, or WMV</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/download-high-quality-videos-from-mojatube-in-mp4-and-avi-formats/"><u>Download High-Quality Videos From MojaTube in MP4 & AVI Formats</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/download-top-rated-gaming-insights-access-metacritics-comprehensive-video-game-reviews-and-previews/"><u>Download Top Rated Gaming Insights - Access Metacritic's Comprehensive Video Game Reviews & Previews</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/download-tutorials-from-yourupload-platform/"><u>Download Tutorials From YourUpload Platform</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/download-youtube-videos-in-compatible-format-directly-to-your-playstation-portable-psp/"><u>Download YouTube Videos in Compatible Format Directly to Your PlayStation Portable (PSP)</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/eliminating-yellow-discoloration-on-your-computer-display/"><u>Eliminating Yellow Discoloration on Your Computer Display</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-s18e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/restoring-visuals-after-win10-fall-update/"><u>Restoring Visuals After Win10 Fall Update</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/bes-best-font-choices-for-striking-thumbnails/"><u>YouTube's Best Font Choices for Striking Thumbnails</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/6-criteria-preparing-chatgpt-as-a-mental-wellness-aid/"><u>6 Criteria: Preparing ChatGPT as a Mental Wellness Aid</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/breaking-barriers-one-word-at-a-time-mondlys-ukrainian-offerings/"><u>Breaking Barriers, One Word at a Time – Mondly's Ukrainian Offerings</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/can-you-trust-pornhub-essential-tips-for-securely-exploring-adult-websites/"><u>Can You Trust Pornhub? Essential Tips for Securely Exploring Adult Websites</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-raw-to-refined-tailoring-youtube-videos-with-premiere-pro-for-2024/"><u>From Raw to Refined Tailoring YouTube Videos with Premiere Pro for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-implement-a-batch-script-as-a-unique-system-alert/"><u>How to Implement a Batch Script as a Unique System Alert</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-lava-blaze-curve-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Lava Blaze Curve 5G</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-low-end-pc-visual-data-harvesters/"><u>In 2024, Low-End PC Visual Data Harvesters</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/key-characteristics-of-components/"><u>Key Characteristics of Components</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/step-by-step-guide-setting-up-atomic-matrix-addon-in-kodi-v19/"><u>Step-by-Step Guide: Setting Up Atomic Matrix Addon in Kodi V19</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-uncovering-stealthy-keylogging-threats-on-your-windows-machine-via-keylogger-scanning-software/"><u>Step-by-Step Guide: Uncovering Stealthy Keylogging Threats on Your Windows Machine via Keylogger Scanning Software</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/strategic-initiative-string-division-project-overview/"><u>Strategic Initiative: String Division Project Overview</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/understanding-appid-configuration-navigating-the-appproperties-tab/"><u>Understanding AppID Configuration: Navigating the AppProperties Tab</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-f25-pro-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Oppo F25 Pro 5G Users</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/windows-desktop-snapshot-learn-it-for-free-today/"><u>Windows Desktop Snapshot Learn It for Free Today</u></a></li>
 </ul></div>
 

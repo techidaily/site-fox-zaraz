@@ -1,7 +1,7 @@
 ---
 title: "User-Friendly Real Estate Modification Panel: Simplify Your Property Changes"
-date: 2024-09-28T19:03:56.170Z
-updated: 2024-09-30T00:09:50.976Z
+date: 2024-09-30T19:23:22.014Z
+updated: 2024-10-05T19:02:19.576Z
 tags:
   - user-guide
 categories:
@@ -80,42 +80,35 @@ Create or edit a property.
 
 ![Edit Property](https://cdn.advancedinstaller.com/img/dialog/edit-property.png "Edit Property")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## General
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Name
 
 In this field, you can specify the property name. When choosing the property's name, you should also decide if the property is [private or public](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Value
 
 In this field, you can specify the property's default value. Since this field is Pseudo-formatted, you can use some of the properties available when your custom property is initialized. To select one of them, type the "\[" character and select the "Property..." menu.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Comments
 
@@ -127,9 +120,29 @@ Prevents the property from being written into the log file. This may be used to 
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When the machine Debug policy is set to a value of 7, the installer writes the property in the log, even if the property is marked as hidden. 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Set persistent property
 
 If you enable this option, the property is stored in the registry and available in maintenance mode (repair, uninstall, etc.) and during the upgrade installation.
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Secure property
 
@@ -142,13 +155,6 @@ When this custom action runs, the current value of the property (to be secured) 
 The property value will be encrypted only after the install process moves beyond_"Preparing"_ action group. After this stage, if you need to decrypt the value of the secure property you should create your own set of custom action that calls the["GetRevealedTextLength" and "RevealText"](https://tools.techidaily.com/advancedinstaller/products/)functions of our SecureProp.dll.
 
  To learn how to integrate this functionality with your application see the [Secure Property how-tos](https://tools.techidaily.com/advancedinstaller/products/). 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Admin property
 
@@ -169,10 +175,10 @@ Select a build from your project.
 * Do not include in this build - don't include a property in the selected build
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -213,17 +219,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-expertise-unleashed-best-practices-for-ios-audio-broadcasting/"><u>[New] Expertise Unleashed Best Practices for iOS Audio Broadcasting</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-solve-invisible-frames-in-video-capture-software/"><u>[New] In 2024, Solve Invisible Frames in Video Capture Software</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-quick-tip-to-uncover-your-recently-watched-movies-on-fb-for-2024/"><u>[New] Quick Tip to Uncover Your Recently Watched Movies on FB for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-top-choices-best-livestream-equip-and-tech-for-youtubers/"><u>[Updated] 2024 Approved Top Choices Best Livestream Equip & Tech for Youtubers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-avoiding-threats-while-grabbing-gratis-vlc-player-for-apple-machines/"><u>[Updated] Avoiding Threats While Grabbing Gratis VLC Player for Apple Machines</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-android-non-root-audio-capture-4-easy-methods/"><u>[Updated] In 2024, Android Non-Root Audio Capture 4 Easy Methods</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/download-youtube-videos-in-compatible-format-directly-to-your-playstation-portable-psp/"><u>Download YouTube Videos in Compatible Format Directly to Your PlayStation Portable (PSP)</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/easy-online-cd-baby-extractor-convert-tracks-from-cd-baby-directly-into-various-audio-formats/"><u>Easy Online CD Baby Extractor: Convert Tracks From CD Baby Directly Into Various Audio Formats</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/effortlessly-save-your-favorite-yahoo7-series-episodes-as-mp4-downloads-for-windows-and-macos-systems/"><u>Effortlessly Save Your Favorite Yahoo7 Series Episodes as MP4 Downloads for Windows and macOS Systems</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/enhancing-social-media-presence-with-spotify-tracks-how-to-share-music-on-instagram-effortlessly/"><u>Enhancing Social Media Presence with Spotify Tracks: How to Share Music on Instagram Effortlessly</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-vivo-y36i-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Vivo Y36i Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-low-usb-support-error-in-windows/"><u>Overcoming Low USB Support Error in Windows</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-ultimate-guide-to-zdsoft-video-recording-for-2024/"><u>[New] The Ultimate Guide to ZDSoft Video Recording for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-the-fundamentals-a-complete-srt-overview/"><u>[Updated] Mastering the Fundamentals A Complete SRT Overview</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bringing-gpt-into-ubuntus-shell-environment-techniques-and-tips/"><u>Bringing GPT Into Ubuntu's Shell Environment: Techniques and Tips</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/convert-heic-images-free-seamless-pdf-conversion-tools-and-tutorials/"><u>Convert HEIC Images Free: Seamless PDF Conversion Tools and Tutorials</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/discover-the-perfect-property-match-navigate-with-us-at-iproperty/"><u>Discover the Perfect Property Match – Navigate With Us at IProperty</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/effective-techniques-to-amplify-audio-in-your-videos/"><u>Effective Techniques to Amplify Audio in Your Videos</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/efficiently-navigate-with-shortcut-options-in-property-mode/"><u>Efficiently Navigate with Shortcut Options in Property Mode</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/key-insights-into-optimizing-your-companys-web-presence/"><u>Key Insights Into Optimizing Your Company's Web Presence</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/step-by-step-instructions-for-casting-ipad-content-on-a-smart-lg-tv/"><u>Step-by-Step Instructions for Casting iPad Content on a Smart LG TV</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/step-by-step-unlocking-the-joys-of-ifunnys-meme-app/"><u>Step-by-Step Unlocking the Joys of iFunny's Meme App</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/streamlined-guide-transforming-youtube-media-to-audio-format-with-mp3-conversion-techniques/"><u>Streamlined Guide: Transforming YouTube Media to Audio Format with MP3 Conversion Techniques</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/tailor-your-summary-info-window/"><u>Tailor Your Summary Info Window</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-magic-of-meta-instructions-to-formulate-an-oculus-questquest-2-user-profile/"><u>Unlocking the Magic of Meta: Instructions to Formulate An Oculus Quest/Quest 2 User Profile</u></a></li>
+<li><a href="https://discover-data.techidaily.com/unveiling-the-economic-toll-of-cybersecurity-breaches-for-businesses-in-the-2018-ibm-and-ponemon-study/"><u>Unveiling the Economic Toll of Cybersecurity Breaches for Businesses in the 2018 IBM and Ponemon Study</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-10-best-music-video-makers-to-make-fantastic-mv/"><u>Updated 10 Best Music Video Makers to Make Fantastic MV</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-essential-list-of-the-best-free-utilities-for-quick-and-easy-software-removal-top-15-edition/"><u>Your Essential List of the Best Free Utilities for Quick and Easy Software Removal, Top 15 Edition</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Exploring the Features of Your Object's Settings Menu
-date: 2024-09-25T18:13:52.784Z
-updated: 2024-09-30T09:20:21.535Z
+date: 2024-10-04T16:51:52.617Z
+updated: 2024-10-05T17:07:50.649Z
 tags:
   - user-guide
 categories:
@@ -78,10 +78,10 @@ Table of Contents
 ![Instance properties tab](https://cdn.advancedinstaller.com/img/ui/instance-properties-tab.png "Instance properties tab")  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Product Code
@@ -89,10 +89,10 @@ Table of Contents
 The **ProductCode** property is mandatory and it's added automatically when the instance is created. You can use\[Generate \] button to generate a new GUID.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Additional Properties
@@ -100,10 +100,10 @@ The **ProductCode** property is mandatory and it's added automatically when the 
 You can set additional properties for the selected instance. An example would be to set the **ProductName** property to a different value so the instances will be easily distinguished in the Control Panel->Add or Remove Programs applet. Use the \[New... \], \[Edit... \] and \[Remove \] buttons to select them.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -144,17 +144,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-first-times-guide-to-essential-gopro-extras/"><u>2024 Approved First Time's Guide to Essential GoPro Extras</u></a></li>
-<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/free-zedge-ringtone-downloads-access-premium-soundtracks-and-tunes-from-zedge/"><u>Free Zedge Ringtone Downloads: Access Premium Soundtracks and Tunes From Zedge</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/o-make-youtube-animated-subscribe-button-easily-in-filmora-for-2024/"><u>How to Make YouTube Animated Subscribe Button Easily in Filmora for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-save-sapo-videos-as-different-file-types-mp4-mov-avi-flv-wmv-mkv/"><u>How to Save SAPO Videos as Different File Types (MP4, MOV, AVI, FLV, WMV, MKV)</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/instant-mp3-creation-from-urls-seamless-downloader-for-both-windows-and-macos-users/"><u>Instant MP3 Creation From URLs: Seamless Downloader for Both Windows and macOS Users</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/manhub-health-hub-download-informative-adult-wellness-videos-for-learning/"><u>ManHub Health Hub: Download Informative Adult Wellness Videos for Learning</u></a></li>
-<li><a href="https://facebook.techidaily.com/master-the-art-of-digital-cleanliness/"><u>Master the Art of Digital Cleanliness</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/seamlessly-move-videos-off-buzznet-with-superdownload-choose-from-mp4-mov-or-avi-options-for-top-quality-playback/"><u>Seamlessly Move Videos Off BuzzNet with SuperDownload - Choose From MP4, MOV or AVI Options for Top Quality Playback</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-ultimate-guide-to-successfully-implementing-intels-dptf-drivers-without-a-glitch/"><u>The Ultimate Guide to Successfully Implementing Intel's DPTF Drivers Without a Glitch</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-best-free-downloadable-racing-games-no-internet-required/"><u>Top 5 Best Free Downloadable Racing Games - No Internet Required!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-free-visual-treasury-select-10-sites-included/"><u>[Updated] Free Visual Treasury – Select 10 Sites Included</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-become-an-expert-in-real-time-streaming-on-facebook-platform/"><u>[Updated] In 2024, Become an Expert in Real-Time Streaming on Facebook Platform</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-smartest-screens-top-11-general-knowledge-channels/"><u>[Updated] Smartest Screens Top 11 General Knowledge Channels</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-custom-action-with-installed-script-file-a-comprehensive-guide/"><u>1. Custom Action with Installed Script File: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/crafting-your-future-in-the-art-of-visuals-for-2024/"><u>Crafting Your Future in the Art of Visuals for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/discover-components-fast-and-easy-search-hub/"><u>Discover Components Fast and Easy Search Hub</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-use-special-character-entities-in-xml-documents-effectively/"><u>How to Use Special Character Entities in XML Documents Effectively</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-examining-instagrams-per-video-content-restrictions/"><u>In 2024, Examining Instagram's Per-Video Content Restrictions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-photo-cleanup-discover-the-best-4-techniques-for-seamless-stamp-removal/"><u>Mastering Photo Cleanup: Discover the Best 4 Techniques for Seamless Stamp Removal</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premium-accelerated-photo-browser-for-windows-for-2024/"><u>Premium Accelerated Photo Browser for Windows for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/unraveling-the-secrets-of-iprogid-functionality-for-developers/"><u>Unraveling the Secrets of IProgID Functionality for Developers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/utilizing-chatgpt-to-facilitate-engaging-and-efficient-virtual-team-conferences/"><u>Utilizing ChatGPT to Facilitate Engaging and Efficient Virtual Team Conferences</u></a></li>
 </ul></div>
 

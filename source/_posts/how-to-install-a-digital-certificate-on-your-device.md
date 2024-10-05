@@ -1,7 +1,7 @@
 ---
 title: How to Install a Digital Certificate on Your Device
-date: 2024-09-27T22:30:11.771Z
-updated: 2024-09-29T20:32:14.793Z
+date: 2024-09-28T18:04:28.324Z
+updated: 2024-10-05T16:29:10.424Z
 tags:
   - user-guide
 categories:
@@ -126,10 +126,10 @@ Table of Contents
 ## IInstallCertificate
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -137,10 +137,10 @@ Table of Contents
 IInstallCertificate : ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -148,10 +148,10 @@ IInstallCertificate : ICustomAction
 This interface facilitates editing custom action that installs a certificate included in the installer. It requires administrative privileges to run, so make sure you set "RunAsAdministrator" property to “true” from Install Parameters.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -163,10 +163,10 @@ This interface facilitates editing custom action that installs a certificate inc
 **String StoreName** \- Gets or sets the name of the certificate store.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -208,22 +208,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/-journey-through-time-best-history-youtubes-for-scholars-and-enthusiasts-for-2024/"><u>[New] A Journey Through Time Best History YouTubes for Scholars & Enthusiasts for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-capture-movies-with-ease-cross-platform-techniques-and-tips/"><u>[Updated] 2024 Approved Capture Movies with Ease Cross-Platform Techniques & Tips</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-beat-the-norm-with-mac-audio-guide/"><u>[Updated] Beat the Norm with Mac Audio Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-gimbal-guide-for-smooth-flights-for-2024/"><u>[Updated] Gimbal Guide for Smooth Flights for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-mastering-fb-video-sizes-understanding-ratios-and-adjustments/"><u>2024 Approved Mastering FB Video Sizes Understanding Ratios and Adjustments</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comment-supprimer-les-elements-indesirables-de-vos-photographies-sans-cout/"><u>Comment Supprimer Les Éléments Indésirables De Vos Photographies Sans Coût ?</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/enhancing-digital-reads-a-guide-to-embedding-flash-and-video-files-in-page-turning-ebooks-using-flipbuilder-technology/"><u>Enhancing Digital Reads: A Guide to Embedding Flash and Video Files in Page-Turning eBooks Using FlipBuilder Technology</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/explore-the-comprehensive-flippdf-guide-and-tutorials-on-mac-your-ultimate-resource-at-flipbuildercom/"><u>Explore the Comprehensive FlipPDF Guide & Tutorials on Mac - Your Ultimate Resource at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/exploring-the-variety-of-control-buttons-available-in-output-flipbooks-with-flipbuilder/"><u>Exploring the Variety of Control Buttons Available in Output Flipbooks with FlipBuilder</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/guide-how-to-properly-set-your-bookmarks-on-flipbuildercom/"><u>Guide: How To Properly Set Your Bookmarks on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-and-where-to-effectively-present-your-flipbooks-on-various-platforms-using-flipbuilder/"><u>How and Where to Effectively Present Your Flipbooks on Various Platforms Using FlipBuilder</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-does-flipbuilder-handle-upgrades-essential-info-for-optimized-usage/"><u>How Does FlipBuilder Handle Upgrades? Essential Info for Optimized Usage</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-easily-flip-images-in-macos-using-flipbuilder-pro-flipbuildecom-a-comprehensive-tutorial/"><u>How to Easily Flip Images in macOS Using FlipBuilder Pro (flipbuilde.com) - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-manage-large-file-sets-in-your-projects-with-flipbuildercoms-structure/"><u>How to Manage Large File Sets in Your Projects with FlipBuilder.com's Structure</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-10-camcorders-that-eliminate-handshaking-effects/"><u>Top 10 Camcorders That Eliminate Handshaking Effects</u></a></li>
-<li><a href="https://techidaily.com/unveiling-web3-the-next-evolutionary-step-in-digital-connectivity/"><u>Unveiling Web3: The Next Evolutionary Step in Digital Connectivity</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-prime-interactive-face-time-festivals/"><u>[New] In 2024, Prime Interactive Face Time Festivals</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-dismantling-the-economics-of-youtubes-ambitious-shorts-fund/"><u>[Updated] In 2024, Dismantling the Economics of YouTube's Ambitious Shorts Fund</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-choose-your-final-assembly-location-a-comprehensive-guide/"><u>1. Choose Your Final Assembly Location - A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-pinnacle-of-media-excellence-top-phones-videos/"><u>2024 Approved The Pinnacle of Media Excellence Top Phones Videos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-tricks-to-faster-and-smoother-instagram-media/"><u>2024 Approved Tricks to Faster and Smoother Instagram Media</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-honor-magic-6-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Honor Magic 6 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/creating-a-customized-look-with-unique-ceramic-tiles-pages/"><u>Creating a Customized Look with Unique Ceramic Tiles Pages</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/custom-regional-chat-features-for-enhanced-engagement/"><u>Custom Regional Chat Features for Enhanced Engagement</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-tips-to-resolve-windows-11-failure-to-launch-messages/"><u>Essential Tips to Resolve Windows 11 Failure to Launch Messages</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/exploring-the-com-objects-property-pane/"><u>Exploring the COM Objects Property Pane</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-efficiently-transfer-music-the-best-mp3-downloading-techniques-from-rhapsody-for-pc-users/"><u>How to Efficiently Transfer Music: The Best MP3 Downloading Techniques From Rhapsody for PC Users</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-ipad-or-iphone-6-plus-stuck-on-activation-lock-by-drfone-ios/"><u>In 2024, How to Fix iPad or iPhone 6 Plus Stuck On Activation Lock?</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/perfecting-your-school-id-picture-with-ios-and-android-cameras/"><u>Perfecting Your School ID Picture with iOS and Android Cameras</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unanswerable-inquiries-in-language-models/"><u>Unanswerable Inquiries in Language Models</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Visual Content: Mastering the Art of IPatchTarget Imagery"
-date: 2024-09-29T00:14:55.419Z
-updated: 2024-09-29T20:07:12.962Z
+date: 2024-10-02T19:27:40.577Z
+updated: 2024-10-05T20:39:43.307Z
 tags:
   - user-guide
 categories:
@@ -118,10 +118,10 @@ Table of Contents
 ## IPatchTargetImage
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -129,22 +129,15 @@ Table of Contents
 IPatchTargetImage : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
 
 This interface is meant to edit target image properties
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Properties
 
@@ -169,10 +162,10 @@ This interface is meant to edit target image properties
 **Array<String> SymbolsFolders** \- Gets the collection of symbol files (.pdb) generated for PE code files (.exe, .dll, etc) to generate more optimal diffs, thus reducing the patch's size.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -180,6 +173,13 @@ This interface is meant to edit target image properties
 **AddSymbolsFolder(String aSymbolsFolder)** Adds a folder from disk containing symbol files to the SymbolsFolder collection. 
 
 **RemoveSymbolsFolder(String aSymbolsFolder)** Removes a folder from disk containing symbol files from the SymbolsFolder collection. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## See also
 
@@ -220,24 +220,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-design-your-brand-free-logo-templates-and-personalization/"><u>[New] 2024 Approved Design Your Brand Free Logo Templates & Personalization</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-hourly-headliners-the-leading-yt-videos-in-the-last-24-hours/"><u>[New] In 2024, Hourly Headliners The Leading YT Videos in the Last 24 Hours</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-instant-aspect-ratio-matching-youtube-on-mac-display/"><u>[New] Instant Aspect Ratio Matching YouTube on Mac Display</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-snapchat-savvy-constructing-innovative-and-memorable-boomers/"><u>2024 Approved SnapChat Savvy Constructing Innovative and Memorable Boomers</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/choosing-the-perfect-flipbook-template-for-incorporating-both-inner-and-outer-image-backdrops-at-flipbuildercom/"><u>Choosing the Perfect Flipbook Template for Incorporating Both Inner and Outer Image Backdrops at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/convert-microsoft-word-documents-to-free-pdf-files-with-simple-online-tools-no-cost-at-all/"><u>Convert Microsoft Word Documents to FREE PDF Files with Simple Online Tools - No Cost at All!</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/convert-multiple-word-documents-into-animated-swf-flash-movies-at-no-cost/"><u>Convert Multiple Word Documents Into Animated .swf Flash Movies at No Cost</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/convert-photos-to-pdf-free-of-cost-masterful-image-transformation-into-bulk-pdf-documents/"><u>Convert Photos to PDF Free of Cost - Masterful Image Transformation Into Bulk PDF Documents</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/convert-your-collections-of-photos-or-graphics-into-a-single-pdf-for-free-efficient-image-to-pdf-conversion-by-expert-software/"><u>Convert Your Collections of Photos or Graphics Into a Single PDF for Free - Efficient Image to PDF Conversion by Expert Software</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/craft-chic-designs-with-easy-to-use-templates-at-flipbuildercom/"><u>Craft Chic Designs with Easy-to-Use Templates at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/crafting-enchanting-sound-stories-for-young-listeners-using-flipbuilder-the-ultimate-tutorial/"><u>Crafting Enchanting Sound Stories for Young Listeners Using FlipBuilder - The Ultimate Tutorial</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/create-a-page-turning-illusion-for-your-online-book-with-corner-flips-learn-the-art-at-flipbuildercom/"><u>Create a Page-Turning Illusion for Your Online Book with Corner Flips: Learn the Art at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/disabling-thumbnails-on-your-flipbook-a-step-by-step-guide-using-flipbuilder/"><u>Disabling Thumbnails on Your FlipBook: A Step-by-Step Guide Using FlipBuilder</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-free-video-embedding-for-dynamic-online-articles/"><u>In 2024, Free Video Embedding for Dynamic Online Articles</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-xiaomi-14-ultra-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Xiaomi 14 Ultra Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-pros-guide-to-best-ever-360-degree-cams-2023/"><u>In 2024, The Pro’s Guide to Best-Ever 360-Degree Cams, 2023</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/integrating-your-ip-security-camera-with-manycam-a-step-by-step-guide/"><u>Integrating Your IP Security Camera with ManyCam: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-info.techidaily.com/optimized-process-for-melding-gopro-sequences-in-full-dome-videos/"><u>Optimized Process for Melding GoPro Sequences in Full-Dome Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-5-methods-for-downscaling-4k-videos-to-full-hd-using-your-computer/"><u>Top 5 Methods for Downscaling 4K Videos to Full HD Using Your Computer</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/accelerate-your-iphones-performance-a-step-by-step-guide-to-clearing-unnecessary-data/"><u>Accelerate Your iPhone's Performance: A Step-by-Step Guide to Clearing Unnecessary Data</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/best-techniques-to-transform-mp3-files-into-high-quality-aac-format/"><u>Best Techniques to Transform MP3 Files Into High-Quality AAC Format</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnosing-and-repairing-non-functional-apple-watch-display/"><u>Diagnosing and Repairing Non-Functional Apple Watch Display</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-subaquatic-spectacites-tips-to-enrich-underwater-videos-using-gopro/"><u>In 2024, Subaquatic Spectacites Tips to Enrich Underwater Videos Using GoPro</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/pc-users-handbook-how-to-effortlessly-join-and-navigate-clubhouse-online/"><u>PC Users' Handbook: How to Effortlessly Join and Navigate Clubhouse Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-essentials-of-dynamic-visual-communication-for-2024/"><u>The Essentials of Dynamic Visual Communication for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-10plus-websites-to-download-games-for-2024/"><u>Top 10+ Websites to Download Games for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-rated-free-online-tools-best-7-video-editors-with-no-watermarks-available/"><u>Top-Rated Free Online Tools: Best 7 Video Editors with No Watermarks Available</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleashing-visual-treasures-a-pexels-search-guide/"><u>Unleashing Visual Treasures A Pexels Search Guide</u></a></li>
 </ul></div>
 

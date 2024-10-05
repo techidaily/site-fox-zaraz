@@ -1,7 +1,7 @@
 ---
 title: Improving Interaction Quality Through Effective 'Preferences Configuration Interface'
-date: 2024-09-23T23:00:52.039Z
-updated: 2024-09-29T18:33:13.676Z
+date: 2024-09-29T17:56:10.882Z
+updated: 2024-10-05T20:02:00.201Z
 tags:
   - user-guide
 categories:
@@ -97,6 +97,13 @@ Table of Contents
    * 3.3 [Sub-String/Bitwise Operators](https://tools.techidaily.com/advancedinstaller/products/)
 * 4\. [Predefined conditions](https://tools.techidaily.com/advancedinstaller/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Expression
 
 This field contains the resulted conditional statement and can also be edited using [Smart Condition Edit Control](https://tools.techidaily.com/advancedinstaller/products/). Use the \[Validate \] button to validate it.
@@ -107,6 +114,13 @@ This field contains the resulted conditional statement and can also be edited us
 
 This section allows you to insert operands in the statement.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2.1 Property
 
 Insert reference to an installer property which is already created in your package. 
@@ -115,19 +129,6 @@ Insert reference to an installer property which is already created in your packa
 
 This condition will be true only if the property MY\_PROP contains a value. If the property is empty the condition is not fulfilled.
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2.2 Environment Variables
 
 Insert reference to an environment variable.
@@ -135,13 +136,6 @@ Insert reference to an environment variable.
 **Example**: %JAVA\_HOME
 
 This condition will be true only if the environment variable JAVA\_HOME exists on the machine on which the package is running. If JAVA\_HOME doesn't exist the condition will not be met.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2.3 Folder
 
@@ -159,13 +153,6 @@ Insert a reference to the action state of a component (for example if a componen
 
 Test if the correspondent component will be installed on the machine.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2.5 Component State
 
 Insert reference to the installed state of a component (for example if a component is already installed when the installation runs).
@@ -182,6 +169,13 @@ Insert reference to the action state of a feature (for example if a feature will
 
 Test if the correspondent feature will be reinstalled on the machine.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2.7 Feature State
 
 Insert reference to the installed state of a feature (for example if a feature is already installed when the installation runs).
@@ -189,6 +183,13 @@ Insert reference to the installed state of a feature (for example if a feature i
 **Example**: !Feature=3
 
 This condition will be true only if the feature is already installed on the machine.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2.8 Constant
 
@@ -208,22 +209,15 @@ You can use the following:
 
 This condition will be true only if the feature "Feature" will be installed locally. If the feature is not selected for installation the condition is false.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Insert Operator
 
 In this section you can insert operators in the conditional statement. Use the \[Insert \] button to add the selected one.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3.1 Logical operators:
@@ -250,6 +244,13 @@ In this section you can insert operators in the conditional statement. Use the \
 * <= - TRUE if left value is less than or equal to right value.
 * \~<= - TRUE if left value is less than or equal to right value. The comparison is case insensitive.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3.3 Sub-String/Bitwise Operators
 
 Substring operators can occur between two string values.
@@ -270,13 +271,6 @@ Bitwise operators can be used between two integer values.
 ## 4\. Predefined conditions
 
 This section is described in the [Predefined Conditions](https://tools.techidaily.com/advancedinstaller/products/) article.
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -320,17 +314,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-fast-track-channel-growth-to-partner-status-aim-for-10000-views/"><u>[Updated] Fast-Track Channel Growth to Partner Status – Aim for 10,000 Views</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-add-radial-blur-effect-to-photos-in-photoshop/"><u>[Updated] How to Add Radial Blur Effect to Photos in Photoshop</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-sierra-icloud-drives-a-complete-overview/"><u>2024 Approved Exploring Sierra iCloud Drives – A Complete Overview</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ing-creativity-and-engagement-anime-subscribe-buttons-with-filmora-for-2024/"><u>Bridging Creativity & Engagement - Anime Subscribe Buttons with Filmora for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/convert-your-blog-video-files-into-mp4movavi-formats-easily-on-both-mac-and-pc/"><u>Convert Your Blog Video Files Into MP4/MOV/AVI Formats Easily on Both Mac & PC</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/convert-your-porntube-downloads-into-different-file-types-mp4-mov-flv-avi-wmv-mkv-instructions/"><u>Convert Your PornTube Downloads Into Different File Types - MP4, MOV, FLV, AVI, WMV, MKV Instructions</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/convert-your-video-content-easy-mp4-extraction-from-digitalmarketer/"><u>Convert Your Video Content: Easy MP4 Extraction From DigitalMarketer</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/converting-sportys-flight-lessons-steps-to-save-as-mp4mp3-files/"><u>Converting Sporty's Flight Lessons: Steps to Save as MP4/MP3 Files</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diagnose-and-rectify-non-functioning-hyperx-cloud-gaming-headset-microphones-successfully/"><u>Diagnose and Rectify Non-Functioning HyperX Cloud Gaming Headset Microphones Successfully</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-realme-11-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-capturing-facetime-best-practices-unveiled/"><u>In 2024, Capturing FaceTime Best Practices Unveiled</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-fix-for-wi-fi-woes-resetting-network-settings-on-a-mac-explained/"><u>Quick Fix for Wi-Fi Woes: Resetting Network Settings on a Mac Explained</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-ios-selection-showcase-premier-psp-emulators-ranked-1-5/"><u>[New] 2024 Approved IOS Selection Showcase Premier PSP Emulators Ranked #1-5</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-sony-a6400-the-unseen-movie-problem/"><u>[New] 2024 Approved Sony A6400 The Unseen Movie Problem</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-exploring-earning-potential-revenue-from-youtube-advertisements-in-2024/"><u>[New] Exploring Earning Potential Revenue From YouTube Advertisements, In 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-unmatched-portable-experience-with-top-gba-simulators-android/"><u>2024 Approved Unmatched Portable Experience with Top GBA Simulators, Android</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/advanced-techniques-how-to-load-configuration-from-an-ini-file/"><u>Advanced Techniques: How to Load Configuration From an INI File</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-vega-56-graphics-card-driver-installation-updates-and-downloads-for-windows/"><u>AMD Vega 56 Graphics Card Driver Installation: Updates and Downloads for Windows</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/comprehensive-tutorial-switching-your-pdf-reader-preferences-in-windows-10/"><u>Comprehensive Tutorial: Switching Your PDF Reader Preferences in Windows 10</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/enhancing-visual-content-mastering-the-art-of-ipatchtarget-imagery/"><u>Enhancing Visual Content: Mastering the Art of IPatchTarget Imagery</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/enhancing-your-workflow-understanding-the-attachscript-custom-action-feature/"><u>Enhancing Your Workflow: Understanding the 'AttachScript' Custom Action Feature</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/troubleshooting-handbrake-errors-how-to-successfully-rip-your-dvd-without-any-hitches/"><u>Troubleshooting Handbrake Errors: How to Successfully Rip Your DVD Without Any Hitches</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/user-defined-initialization-options-panel-for-custom-application-deployment/"><u>User-Defined Initialization Options Panel for Custom Application Deployment</u></a></li>
 </ul></div>
 

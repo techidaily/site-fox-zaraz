@@ -1,7 +1,7 @@
 ---
 title: Discover the Perfect Property Match – Navigate With Us at IProperty
-date: 2024-09-25T09:18:12.897Z
-updated: 2024-09-29T21:11:02.446Z
+date: 2024-09-30T16:14:49.011Z
+updated: 2024-10-05T17:16:00.754Z
 tags:
   - user-guide
 categories:
@@ -109,10 +109,10 @@ Table of Contents
 ## IProperty
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -120,10 +120,10 @@ Table of Contents
 IPowershellScriptFile : ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -131,10 +131,10 @@ IPowershellScriptFile : ICustomAction
 This interface facilitates editing custom action that allows launching a Powershell script file into execution.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -146,10 +146,10 @@ This interface facilitates editing custom action that allows launching a Powersh
 **Bool Is64Bit** \- Gets or sets the property of the custom action to run the 32-bit PowerShell executable. If Is32Bit value is also “true” then runs the Operating System bitness PowerShell executable (32-bit on x86 operating systems, 64-bit on x64).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -191,18 +191,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-are-sellers-involved-in-monetizing-review-content/"><u>[New] Are Sellers Involved in Monetizing Review Content?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/tarting-channels-right-youtube-equipment-101/"><u>[New] Starting Channels Right YouTube Equipment 101</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-best-practices-for-youtube-card-implementation/"><u>[Updated] 2024 Approved Best Practices for YouTube Card Implementation</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-exploring-new-horizons-a-guide-to-top-6-nft-innovators/"><u>[Updated] 2024 Approved Exploring New Horizons A Guide to Top 6 NFT Innovators</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cross-platform-synergy-creating-youtube-and-brand-alliances/"><u>Cross-Platform Synergy Creating YouTube and Brand Alliances</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/easy-online-cd-baby-extractor-convert-tracks-from-cd-baby-directly-into-various-audio-formats/"><u>Easy Online CD Baby Extractor: Convert Tracks From CD Baby Directly Into Various Audio Formats</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/effortlessly-save-your-favorite-yahoo7-series-episodes-as-mp4-downloads-for-windows-and-macos-systems/"><u>Effortlessly Save Your Favorite Yahoo7 Series Episodes as MP4 Downloads for Windows and macOS Systems</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/enhancing-social-media-presence-with-spotify-tracks-how-to-share-music-on-instagram-effortlessly/"><u>Enhancing Social Media Presence with Spotify Tracks: How to Share Music on Instagram Effortlessly</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/free-download-kuwo-music-album-single-full-track-collection-in-mp3-and-wav-formats/"><u>Free Download: Kuwo Music Album, Single, Full Track Collection in MP3 & WAV Formats</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/free-zedge-ringtone-downloads-access-premium-soundtracks-and-tunes-from-zedge/"><u>Free Zedge Ringtone Downloads: Access Premium Soundtracks and Tunes From Zedge</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-clarity-back-in-photos-how-to-repair-iphone-camera-focusing-problems/"><u>Get Clarity Back in Photos: How To Repair iPhone Camera Focusing Problems</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-save-sapo-videos-as-different-file-types-mp4-mov-avi-flv-wmv-mkv/"><u>How to Save SAPO Videos as Different File Types (MP4, MOV, AVI, FLV, WMV, MKV)</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-top-rated-free-online-video-editing-platforms-for-2024/"><u>Updated Top-Rated Free Online Video Editing Platforms for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-enhance-videos-on-vimeo-with-top-video-editors/"><u>[Updated] Enhance Videos on Vimeo with Top Video Editors</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-mastering-mac-screenshots-and-screen-recording-for-2024/"><u>[Updated] Mastering Mac Screenshots & Screen Recording for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-seamless-ip-address-chain-integration-tool/"><u>1. Seamless IP Address Chain Integration Tool</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-meme-matrix-top-10-memes-on-social-media-platforms/"><u>2024 Approved Meme Matrix Top 10 Memes on Social Media Platforms</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/access-premium-music-without-spending-explore-safaris-leading-mp3-download-app/"><u>Access Premium Music Without Spending: Explore Safari's Leading MP3 Download App!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/assassins-creed-mirage-playback-problems-comprehensive-troubleshooting-tips-and-hacks-for-new-releases/"><u>Assassin's Creed: Mirage Playback Problems? Comprehensive Troubleshooting Tips & Hacks for New Releases</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/custom-action-with-attached-script-boosting-iattactivities/"><u>Custom Action with Attached Script: Boosting IATTACTIVITIES</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discover-premiere-pro-essentials-free-and-high-quality/"><u>Discover Premiere Pro Essentials Free & High-Quality</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-image-converter-by-movavi-easily-convert-raf-files-to-jpgjpeg-online-now/"><u>Free Image Converter by Movavi: Easily Convert RAF Files to JPG/JPEG Online Now</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-nubia-red-magic-8s-proplus-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Nubia Red Magic 8S Pro+ Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-step-by-step-adding-snapchat-to-your-mac/"><u>In 2024, Step-by-Step Adding Snapchat to Your Mac</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/leading-screencast-tools-for-showcasing-world-of-tanks-strategies/"><u>Leading Screencast Tools for Showcasing World of Tanks Strategies</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-password-security-top-3-tactics-for-creating-unforgettable-robust-passphrases/"><u>Mastering Password Security: Top 3 Tactics for Creating Unforgettable, Robust Passphrases</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/navigating-through-key-microsoft-libraries-on-the-windows-platform/"><u>Navigating Through Key Microsoft Libraries on the Windows Platform</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-linking-your-android-device-with-an-lg-television/"><u>Step-by-Step Guide: Linking Your Android Device with an LG Television</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-instructions-to-upgrade-your-logitech-c920-cam-driver-on-windows-11108-systems/"><u>Step-by-Step Instructions to Upgrade Your Logitech C920 Cam Driver on Windows 11/10/8 Systems</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/switching-layouts-in-your-e-book-creation-a-step-by-step-guide-with-flipbuilder/"><u>Switching Layouts in Your E-Book Creation: A Step-by-Step Guide with FlipBuilder</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/ultimate-tutorial-on-capturing-your-google-meet-video-conference-with-minimal-hassle/"><u>Ultimate Tutorial on Capturing Your Google Meet Video Conference with Minimal Hassle</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/understanding-browserbrokerexe-safety-assessment-and-virus-risks/"><u>Understanding Browser_broker.exe: Safety Assessment & Virus Risks</u></a></li>
 </ul></div>
 

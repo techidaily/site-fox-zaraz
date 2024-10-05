@@ -1,7 +1,7 @@
 ---
 title: Understanding Property Attributes in Application Maps
-date: 2024-09-27T05:32:28.715Z
-updated: 2024-09-30T03:03:47.663Z
+date: 2024-10-03T19:11:42.041Z
+updated: 2024-10-05T19:43:58.026Z
 tags:
   - user-guide
 categories:
@@ -100,6 +100,13 @@ This view allows you to map a certain web document type to a desired script proc
 
 ![Mapping Properties](https://cdn.advancedinstaller.com/img/dialog/iis-appmapping-props.png "Mapping Properties")  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Mapping
 
 ### Extension
@@ -109,10 +116,10 @@ You can set the web document extension to be mapped to this script processor.
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can configure **wildcard script maps** by setting the extension field to:  \* .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Module
@@ -127,27 +134,20 @@ For ISAPI/CGI Script Maps, IIS 7 requires CgiModule/IsapiModule to be set as the
 
 You can set the script processor file for the new web application mapping. The file can be from the installation package or external. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with the [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Add ISAPI/CGI Restriction
 
 Allows dynamic content to execute on the target IIS server. 
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)On IIS 6 the feature is called Web Service Extensions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Behavior
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Script engine
 
@@ -162,10 +162,10 @@ If the script does not exist or the user does not have permission, the appropria
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Because the script will be opened twice, once by the server and once by the script engine, there is some performance cost to enabling this option.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## HTTP Verbs
@@ -209,17 +209,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-precision-scheduling-for-peak-performance-a-guide-to-slack-filmora-meetings/"><u>[New] In 2024, Precision Scheduling for Peak Performance A Guide to Slack-Filmora Meetings</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-securely-capturing-and-storing-itunes-media-content-for-2024/"><u>[New] Securely Capturing and Storing iTunes Media Content for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-transforming-youtube-footage-the-essentials-of-wm-maker-use-for-2024/"><u>[Updated] Transforming YouTube Footage The Essentials of WM Maker Use for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/comprehensive-review-and-overview-of-du-recorder-for-2024/"><u>Comprehensive Review and Overview of Du Recorder for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/free-admin-dashboard-design-with-tailwind-css-inspired-by-softui-flowbite-from-creative-tim/"><u>Free Admin Dashboard Design with Tailwind CSS - Inspired by SoftUI FlowBite From Creative Tim</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/free-customizable-tailwind-css-management-with-argon-ui-the-ultimate-tool-by-creative-tim/"><u>Free, Customizable Tailwind CSS Management with Argon UI: The Ultimate Tool by Creative Tim</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/get-your-hands-on-exclusive-tailwind-css-templates-from-creative-tim-over-10-options-available-now/"><u>Get Your Hands on Exclusive Tailwind CSS Templates From Creative Tim – Over 10 Options Available Now!</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-lock-from-your-apple-iphone-xs-and-ipad-by-drfone-ios/"><u>In 2024, How to Unlock iCloud lock from your Apple iPhone XS and iPad?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-the-art-of-cropping-in-the-digital-age/"><u>In 2024, Mastering the Art of Cropping in the Digital Age</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/maximize-your-projects-with-the-horizon-ai-suite-advanced-development-in-chakra-ui-and-nextjs-expertly-crafted-by-creative-tim/"><u>Maximize Your Projects with the Horizon AI Suite: Advanced Development in Chakra UI and NextJS - Expertly Crafted by Creative Tim</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-easily-blur-video-backgrounds-or-faces-with-these-top-apps/"><u>New In 2024, Easily Blur Video Backgrounds or Faces with These Top Apps</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/over-27-stunning-lighting-theme-systems-complete-coding-and-design-tutorials-from-creative-tim/"><u>Over 27 Stunning Lighting Theme Systems: Complete Coding and Design Tutorials From Creative Tim</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-seeing-the-unseen-tracking-instagram-viewers-meticulously/"><u>[New] 2024 Approved Seeing the Unseen Tracking Instagram Viewers Meticulously</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-beginners-guide-to-efficient-zoom-meeting-recordings/"><u>[Updated] The Beginner's Guide to Efficient Zoom Meeting Recordings</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/complete-guide-to-retrieving-irreversibly-removed-files-via-the-recycle-bin-in-windows/"><u>Complete Guide to Retrieving Irreversibly Removed Files via the Recycle Bin in Windows</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/convert-your-mkv-videos-to-play-on-xbox-360-with-our-easy-to-use-video-converter/"><u>Convert Your MKV Videos to Play on Xbox 360 with Our Easy-to-Use Video Converter</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-effectively-capture-and-archive-online-meeting-footage/"><u>How to Effectively Capture and Archive Online Meeting Footage</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-unresponsive-touchpad-scrolling-issues/"><u>How to Fix Unresponsive Touchpad Scrolling Issues</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-monochrome-to-vibrance-a-film-graders-journey/"><u>In 2024, From Monochrome to Vibrance A Film Grader's Journey</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-v29e-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo V29e to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-sony-xperia-5-v-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Sony Xperia 5 V Phone Pattern Lock</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-secrets-to-premieres-full-screen-mode/"><u>In 2024, Unveiling the Secrets to Premiere's Full Screen Mode</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-am08-pro-enhancing-real-magic-playtime/"><u>Is AM08 Pro Enhancing Real Magic Playtime?</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/is-your-google-drive-vulnerable-to-ransomware-insights-from-malwarefox/"><u>Is Your Google Drive Vulnerable to Ransomware: Insights From MalwareFox</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-iservice-control-operations-a-comprehensive-guide/"><u>Mastering IService Control Operations: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-your-application-settings-a-guide-to-the-appproperties-tab-features/"><u>Mastering Your Application Settings: A Guide to the AppProperties Tab Features</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/superior-setup-software-provider/"><u>Superior Setup Software Provider</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-vivo-t2x-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Vivo T2x 5G</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/transform-your-pdf-bills-into-excel-essential-guide-for-accountants-and-bookkeepers/"><u>Transform Your PDF Bills Into Excel: Essential Guide for Accountants and Bookkeepers</u></a></li>
 </ul></div>
 

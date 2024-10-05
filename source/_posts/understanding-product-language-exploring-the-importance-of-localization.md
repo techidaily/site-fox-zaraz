@@ -1,7 +1,7 @@
 ---
 title: "Understanding Product Language: Exploring the Importance of Localization"
-date: 2024-09-23T05:04:52.845Z
-updated: 2024-09-30T03:21:37.131Z
+date: 2024-10-04T16:15:44.677Z
+updated: 2024-10-05T20:05:18.720Z
 tags:
   - user-guide
 categories:
@@ -84,10 +84,10 @@ There are two ways Advanced Installer handles the ProductLanguage property depen
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Languages that don't appear in the list are not yet localized in Advanced Installer. They can be accessed by selecting 'All' from the 'Show' drop-down, but you will have to add the localized strings yourself.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## ProductLanguage codes for localized languages
@@ -166,24 +166,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-revolutionize-your-workflow-with-lenovos-screen-capture-tools-for-2024/"><u>[New] Revolutionize Your Workflow with Lenovo's Screen Capture Tools for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-lava-agni-2-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Lava Agni 2 5G?</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/convert-photos-to-pdf-free-of-cost-masterful-image-transformation-into-bulk-pdf-documents/"><u>Convert Photos to PDF Free of Cost - Masterful Image Transformation Into Bulk PDF Documents</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/convert-your-collections-of-photos-or-graphics-into-a-single-pdf-for-free-efficient-image-to-pdf-conversion-by-expert-software/"><u>Convert Your Collections of Photos or Graphics Into a Single PDF for Free - Efficient Image to PDF Conversion by Expert Software</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/craft-chic-designs-with-easy-to-use-templates-at-flipbuildercom/"><u>Craft Chic Designs with Easy-to-Use Templates at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/crafting-enchanting-sound-stories-for-young-listeners-using-flipbuilder-the-ultimate-tutorial/"><u>Crafting Enchanting Sound Stories for Young Listeners Using FlipBuilder - The Ultimate Tutorial</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/create-a-page-turning-illusion-for-your-online-book-with-corner-flips-learn-the-art-at-flipbuildercom/"><u>Create a Page-Turning Illusion for Your Online Book with Corner Flips: Learn the Art at FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/disabling-thumbnails-on-your-flipbook-a-step-by-step-guide-using-flipbuilder/"><u>Disabling Thumbnails on Your FlipBook: A Step-by-Step Guide Using FlipBuilder</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/download-free-interactive-animation-and-zoom-featured-templates-with-visual-previews-try-now-at-flipbuilder/"><u>Download FREE: Interactive Animation & Zoom Featured Templates with Visual Previews - Try Now at FlipBuilder</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/easy-steps-to-add-background-songs-using-flipbuilder-a-comprehensive-guide/"><u>Easy Steps to Add Background Songs Using FlipBuilder: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/enhance-readability-create-oversized-flipbooks-easily-at-flipbuildercom/"><u>Enhance Readability: Create Oversized Flipbooks Easily at FlipBuilder.com</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-honor-90-lite-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Honor 90 Lite Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-cutting-edge-video-recording-for-windows-users/"><u>In 2024, Cutting-Edge Video Recording for Windows Users</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-transforming-realities-into-engaging-documentaries-through-scriptwriting/"><u>In 2024, Transforming Realities Into Engaging Documentaries Through Scriptwriting</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/learn-audio-recording-in-audacity-with-your-mac/"><u>Learn Audio Recording in Audacity with Your Mac</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ating-the-world-of-mp4-edits-on-apple-devices-for-2024/"><u>Navigating the World of MP4 Edits on Apple Devices for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/ultimate-guide-from-apple-iphone-8-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide from Apple iPhone 8 iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-to-downloading-canon-imageclass-mf4800-printer-drivers/"><u>Ultimate Guide to Downloading Canon ImageCLASS MF4800 Printer Drivers</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722978570691-windows-10-and-11-compatible-download-updated-nvidia-rtx-2060-super-drivers-now/"><u>Windows 10 & 11 Compatible | Download Updated NVIDIA RTX 2060 Super Drivers Now!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-x-recorder-for-pc-user-friendly-audio-logger/"><u>[New] X-Recorder for PC User-Friendly Audio Logger</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-complete-exploration-of-morphvox-technology-for-voice-transformation-for-2024/"><u>[Updated] Complete Exploration of MorphVOX Technology for Voice Transformation for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-innovative-screen-capture-review-and-excellent-alternatives-without-payment-for-2024/"><u>[Updated] Innovative Screen Capture – Review & Excellent Alternatives Without Payment for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-mastering-pdf-text-extraction-a-comprehensive-guide/"><u>1. Mastering PDF Text Extraction: A Comprehensive Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/awesome-unveil-apowerunlock-launches-revolutionary-functions/"><u>Awesome Unveil: ApowerUnlock Launches Revolutionary Functions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/freelancers-guide-to-mastering-ai-assistantsbing-chat-vs-chatgpt/"><u>Freelancer's Guide to Mastering AI Assistants—Bing Chat Vs. ChatGPT</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-resolve-non-working-usb-mobile-hotspot-problems/"><u>How To Resolve Non-Working USB Mobile Hotspot Problems</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/is-your-google-drive-vulnerable-to-ransomware-insights-from-malwarefox/"><u>Is Your Google Drive Vulnerable to Ransomware: Insights From MalwareFox</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplified-strategies-for-updating-surface-computers-software/"><u>Simplified Strategies for Updating Surface Computers' Software</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-on-using-apowersoft-software-for-effective-watermark-removal/"><u>Step-by-Step Guide on Using Apowersoft Software for Effective Watermark Removal</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tested-and-rated-the-sturdy-omoton-t1-tablet-stand-best-value-for-money/"><u>Tested & Rated! The Sturdy Omoton T1 Tablet Stand: Best Value for Money</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-artisans-approach-to-gathering-stock-visuals-for-use-for-2024/"><u>The Artisan's Approach to Gathering Stock Visuals for Use for 2024</u></a></li>
 </ul></div>
 

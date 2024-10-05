@@ -1,7 +1,7 @@
 ---
 title: "Strategic Initiative: String Division Project Overview"
-date: 2024-09-26T03:19:54.501Z
-updated: 2024-09-30T07:16:46.196Z
+date: 2024-10-02T17:29:51.371Z
+updated: 2024-10-05T17:42:55.578Z
 tags:
   - user-guide
 categories:
@@ -82,10 +82,16 @@ Project strings are project specific and their [localization identifiers](https:
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)There are two ways of translating project strings to a custom dictionary and including it into the project. One involves using Advanced Installer's predefined dictionary editor from the "Project Strings" section described below. The other involves manually editing the dictionary file and is described in our [Creating packages in other languages](https://tools.techidaily.com/advancedinstaller/products/) tutorial.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Project Strings
@@ -95,20 +101,6 @@ In this section you can translate the project strings and save them to a custom 
 As you add extra build languages from the [Languages Tab](https://tools.techidaily.com/advancedinstaller/products/), columns will be added to the grid allowing you to provide the associated translations. To edit a cell simply double click it.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The project language column strings can only be edited with their corresponding element from the GUI. Use the **Go To Row** context menu item or press **F8** key while a string is selected.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Store changes in dictionary
 
@@ -120,6 +112,13 @@ This section becomes available after a project string is edited (green border). 
 
 This section becomes available if you select at least one additional build language (other than the default project language).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Specify project segments for translation
 
 Pressing the \[Select... \] button will open the [Localization Options Dialog](https://tools.techidaily.com/advancedinstaller/products/) and allow you to specify which segments of the project will be translated.
@@ -127,10 +126,16 @@ Pressing the \[Select... \] button will open the [Localization Options Dialog](h
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Different project segments are available for translation depending on the project type (Updates Configuration project, Merge Module project, etc.).
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Generate dictionary for untranslated project strings
@@ -138,6 +143,13 @@ Pressing the \[Select... \] button will open the [Localization Options Dialog](h
 Pressing the \[Create... \] button will generate a dictionary containing just the strings that need to be translated into the build languages. Only the project segments selected for translation in the Localization Options Dialog will be included in the generated dictionary.
 
 When translating in another language, Advanced Installer will look for the corresponding strings in one of the specified translation dictionaries. You can add more dictionaries to the project in the [Dictionaries Tab](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -179,24 +191,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-seamless-and-secure-downloading-instagram-videos-from-your-computermacos/"><u>[New] 2024 Approved Seamless & Secure Downloading Instagram Videos From Your Computer/MacOS</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-free-tools-for-efficient-screen-recording-on-windows-os/"><u>[New] Free Tools for Efficient Screen Recording on Windows OS</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-how-to-infuse-prayerful-melodies-on-your-phone/"><u>[New] How to Infuse Prayerful Melodies on Your Phone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-avoid-the-frustration-fast-paced-methods-to-create-captions-for-your-fb-videos/"><u>[Updated] In 2024, Avoid the Frustration - Fast-Paced Methods to Create Captions for Your FB Videos</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/bandicam-uncovered-a-critical-review-for-tech-enthusiasts-for-2024/"><u>Bandicam Uncovered A Critical Review for Tech Enthusiasts for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-video-editing-apps-for-windows-10-pcs-and-laptops-for-2024/"><u>Best Video Editing Apps for Windows 10 PCs and Laptops for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/easy-online-cd-baby-extractor-convert-tracks-from-cd-baby-directly-into-various-audio-formats/"><u>Easy Online CD Baby Extractor: Convert Tracks From CD Baby Directly Into Various Audio Formats</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/effortlessly-save-your-favorite-yahoo7-series-episodes-as-mp4-downloads-for-windows-and-macos-systems/"><u>Effortlessly Save Your Favorite Yahoo7 Series Episodes as MP4 Downloads for Windows and macOS Systems</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/enhancing-social-media-presence-with-spotify-tracks-how-to-share-music-on-instagram-effortlessly/"><u>Enhancing Social Media Presence with Spotify Tracks: How to Share Music on Instagram Effortlessly</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/free-download-kuwo-music-album-single-full-track-collection-in-mp3-and-wav-formats/"><u>Free Download: Kuwo Music Album, Single, Full Track Collection in MP3 & WAV Formats</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/free-zedge-ringtone-downloads-access-premium-soundtracks-and-tunes-from-zedge/"><u>Free Zedge Ringtone Downloads: Access Premium Soundtracks and Tunes From Zedge</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-save-sapo-videos-as-different-file-types-mp4-mov-avi-flv-wmv-mkv/"><u>How to Save SAPO Videos as Different File Types (MP4, MOV, AVI, FLV, WMV, MKV)</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-iphone-14-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On iPhone 14</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/instant-mp3-creation-from-urls-seamless-downloader-for-both-windows-and-macos-users/"><u>Instant MP3 Creation From URLs: Seamless Downloader for Both Windows and macOS Users</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/manhub-health-hub-download-informative-adult-wellness-videos-for-learning/"><u>ManHub Health Hub: Download Informative Adult Wellness Videos for Learning</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/seamlessly-move-videos-off-buzznet-with-superdownload-choose-from-mp4-mov-or-avi-options-for-top-quality-playback/"><u>Seamlessly Move Videos Off BuzzNet with SuperDownload - Choose From MP4, MOV or AVI Options for Top Quality Playback</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-what-to-do-when-your-mouse-wont-stay-connected/"><u>Step-by-Step Troubleshooting: What to Do When Your Mouse Won't Stay Connected</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-realme-gt-3-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Realme GT 3 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-the-actual-fix-for-exporting-srt-from-premiere-not-working/"><u>[New] In 2024, The Actual Fix for Exporting SRT From Premiere Not Working</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-tailoring-your-videos-for-impact-on-instagram-feed-for-2024/"><u>[New] Tailoring Your Videos for Impact on Instagram Feed for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-beyond-the-screen-shaping-perceptions-on-instagram-through-captions/"><u>[Updated] 2024 Approved Beyond the Screen - Shaping Perceptions on Instagram Through Captions</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/best-video-converter-applications-transforming-footage-into-gifs-successfully/"><u>Best Video Converter Applications: Transforming Footage Into GIFs Successfully</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/efficient-searching-techniques-with-xquery-language-elements/"><u>Efficient Searching Techniques with XQuery Language Elements</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-install-a-digital-certificate-on-your-device/"><u>How to Install a Digital Certificate on Your Device</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-11-pro-max-by-drfone-ios/"><u>iCloud Unlocker Download Unlock iCloud Lock for your iPhone 11 Pro Max</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/improving-interaction-quality-through-effective-preferences-configuration-interface/"><u>Improving Interaction Quality Through Effective 'Preferences Configuration Interface'</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-rapid-review-windows-files-made-simple/"><u>In 2024, Rapid Review Windows Files Made Simple</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/oceans-bounty-best-cameras-for-anglers/"><u>Ocean's Bounty - Best Cameras for Anglers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-vivo-v27-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Vivo V27 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/seamless-auto-capture-mastering-hands-free-screen-shots/"><u>Seamless Auto-Capture: Mastering Hands-Free Screen Shots</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-tactical-choices-for-future-cameras-2024/"><u>Top Tactical Choices for Future Cameras, 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-ranked-chrome-audio-capture-apps-review/"><u>Top-Ranked Chrome Audio Capture Apps Review</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-of-small-form-factor-pc-boxes-for-2n4-best-mini-itx-cases-reviewed/"><u>Ultimate Selection of Small Form Factor PC Boxes for 2N4, Best Mini-ITX Cases Reviewed</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/understanding-product-language-exploring-the-importance-of-localization/"><u>Understanding Product Language: Exploring the Importance of Localization</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/understanding-the-various-categories-of-programs-on-microsofts-windows-marketplace/"><u>Understanding the Various Categories of Programs on Microsoft's Windows Marketplace</u></a></li>
 </ul></div>
 

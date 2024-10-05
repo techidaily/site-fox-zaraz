@@ -1,7 +1,7 @@
 ---
 title: "Manage Your Profile: Detailed Guide to Navigating Account Preferences"
-date: 2024-09-23T05:40:07.598Z
-updated: 2024-09-30T09:13:38.268Z
+date: 2024-09-29T18:47:45.033Z
+updated: 2024-10-05T18:36:20.857Z
 tags:
   - user-guide
 categories:
@@ -90,39 +90,33 @@ For "Property based user" type you can specify the**account** name or the SID of
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Groups or groups' SIDs are supported only for [scheduled tasks configured for](https://tools.techidaily.com/advancedinstaller/products/) Windows Vista or above.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Run only if user is logged in
 
 Sets the task to run only when the user is logged on. In this case you don't need to specify a password.
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Run with highest privileges
 
 Runs the task with the highest privileges the user has. For example if the user is administrator, the task can run with elevated privileges.
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Password
 
@@ -134,10 +128,10 @@ If the target account for the task is present on the target computer you must su
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You can not schedule a task to run under user accounts that are not password protected. Also, if you want the task to run under the "System Account" leave the "User" and "Password" fields empty.
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -173,19 +167,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-crafting-powerful-hashtags-for-fb-brand-identity/"><u>[Updated] In 2024, Crafting Powerful Hashtags for FB Brand Identity</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-how-to-rotate-youtube-videos-by-any-angle-2023-guide-andeditors/"><u>[Updated] In 2024, How to Rotate YouTube Videos by Any Angle [2023 Guide &Editors]</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-transforming-recording-into-stunning-podcast-edits/"><u>[Updated] Transforming Recording Into Stunning Podcast Edits</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/about-vivo-v27-frp-bypass-by-drfone-android/"><u>About Vivo V27 FRP Bypass</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boosting-productivity-6-outstanding-ai-chatgpt-extensions-for-developers-in-vs-code/"><u>Boosting Productivity: 6 Outstanding AI ChatGPT Extensions for Developers in VS Code</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complete-solution-how-to-get-and-setup-arduino-nano-board-driver-in-windows/"><u>Complete Solution: How to Get and Setup Arduino Nano Board Driver in Windows</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/creative-tims-no-cost-flutter-prototype-with-material-theme-for-easy-development/"><u>Creative Tim's No-Cost Flutter Prototype with Material Theme for Easy Development</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/creative-tims-ultimate-admin-template-reactive-paper-dashboard-powered-by-bootstrap-cuatro/"><u>Creative Tim's Ultimate Admin Template: Reactive Paper Dashboard Powered by Bootstrap Cuatro</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/creative-tims-vue-argon-dashboard-pro-elite-bootstrap-5-and-vuejs-template-for-advanced-admin-panels/"><u>Creative Tim's Vue Argon Dashboard PRO: Elite Bootstrap 5 and Vue.js Template for Advanced Admin Panels</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/discover-9-innovative-nuxtjs-template-collection-by-creative-tim-for-effortless-web-development/"><u>Discover 9 Innovative NuxtJS Template Collection by Creative Tim for Effortless Web Development</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/discover-the-ultimate-free-bootstrap-vue-admin-theme-elegant-paper-style-by-creative-tim/"><u>Discover the Ultimate Free Bootstrap Vue Admin Theme, Elegant Paper Style by Creative Tim</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/free-admin-dashboard-design-with-tailwind-css-inspired-by-softui-flowbite-from-creative-tim/"><u>Free Admin Dashboard Design with Tailwind CSS - Inspired by SoftUI FlowBite From Creative Tim</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from Apple iPhone 14 Plus</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-techniques-for-a-stable-computer-overcoming-the-blue-screen-of-death/"><u>Troubleshooting Techniques for a Stable Computer: Overcoming the Blue Screen of Death</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pro-editors-insight-restore-true-colors-to-faded-iphone-hdr-in-adobe-premiere/"><u>[Pro Editor's Insight] Restore True Colors to Faded iPhone HDR in Adobe Premiere</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-comedic-counterpoints-funny-song-flips-for-2024/"><u>[Updated] Comedic Counterpoints Funny Song Flips for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-pinpointing-your-individual-playlist-hub-on-youtube-for-2024/"><u>[Updated] Pinpointing Your Individual Playlist Hub on YouTube for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/alexa-vs-siri-showdown-echo-dot-versus-homepod-mini-unveiled/"><u>Alexa vs Siri Showdown: Echo Dot versus HomePod Mini Unveiled</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-review-of-govee-glide-hexa-led-panels-transforming-walls-with-colorful-illumination/"><u>Comprehensive Review of Govee Glide Hexa LED Panels: Transforming Walls with Colorful Illumination</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/customize-data-sources-in-property-editing-panel/"><u>Customize Data Sources in Property Editing Panel</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/explore-whats-new-with-the-updated-itunes-software-version-121-unveiled/"><u>Explore What's New with the Updated iTunes Software - Version 12.1 Unveiled</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exposure-chatgpt-for-windowsunrelated-malware/"><u>Exposure: ChatGPT for Windows—Unrelated Malware</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-iphone-6-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with iPhone 6 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/installer-project-mastering-the-permissions-tab/"><u>Installer Project: Mastering the Permissions Tab</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/master-the-art-of-image-editing-discover-leading-background-replacement-software-for-flawless-visuals/"><u>Master the Art of Image Editing: Discover Leading Background Replacement Software for Flawless Visuals</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-troubleshooting-expert-tips-for-getting-your-samsung-kies-back-on-track/"><u>Mastering Troubleshooting: Expert Tips for Getting Your Samsung Kies Back on Track!</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/recover-lost-data-restore-deleted-photos-and-documents-from-your-android-phone-with-sd-card-recovery/"><u>Recover Lost Data: Restore Deleted Photos & Documents From Your Android Phone with SD Card Recovery</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-tips-for-downloading-and-playing-mp3-audio-on-an-ipad-device/"><u>Top Tips for Downloading and Playing MP3 Audio on an iPad Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-connection-issues-with-your-xbox-one-controller/"><u>Troubleshooting Guide: Fixing Connection Issues with Your Xbox One Controller</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "1. Ultimate Guide to iFolder Sync: Mastering Your Filters"
-date: 2024-09-26T00:18:07.674Z
-updated: 2024-09-30T01:38:28.514Z
+date: 2024-09-28T18:01:21.802Z
+updated: 2024-10-05T20:10:27.117Z
 tags:
   - user-guide
 categories:
@@ -115,16 +115,16 @@ Table of Contents
 
 This interface is meant to specify the filters that allow you to select which files will be added from the synchronized folder to the package.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Declaration
 
 IFolderSyncFilters : IDispatch
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Properties
 
@@ -151,10 +151,10 @@ IFolderSyncFilters : IDispatch
 **String ExcludeSubfolders** \- Gets or sets the excluded sub-folders. This is available only on exclude filters.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -182,15 +182,23 @@ Method 2: use PowerShell for scanning folder contents + Advanced Installer
 
       $advinst  = new-object -comObject "AdvancedInstaller"
 $proj     = $advinst.CreateProject($advinst.ProjectTypes.Architect)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## add new folder
 $new_folder = $proj.PredefinedFolders.ApplicationFolder.CreateFolder("MyApplication")
 $folder_to_sync = "D:\MyApplication\MyApplication\bin\Release"
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## get all resources from folder
@@ -225,19 +233,6 @@ foreach ($res in $resources)
 $proj.SaveAs("D:\MyApplication\Setup\Setup.aip")
 
     Copy
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## See also
 
@@ -280,22 +275,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-creative-music-videos-a-list-of-15-youtube-projects/"><u>[New] 2024 Approved Creative Music Videos A List of 15 YouTube Projects</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/op-10-sound-enhancers-across-multiple-platforms-for-2024/"><u>[New] Top 10 Sound Enhancers Across Multiple Platforms for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-click-your-way-to-fun-top-12-pc-titles-of-2021/"><u>[Updated] In 2024, Click Your Way to Fun Top 12 PC Titles of 2021</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-screensnapper-revisited-apowersofts-latest-pc-tool/"><u>[Updated] In 2024, ScreenSnapper Revisited Apowersoft's Latest PC Tool</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-photovisionharmony-synchronize-ios-plus-sierra-photos/"><u>2024 Approved PhotovisionHarmony Synchronize iOS + Sierra Photos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-prime-methods-from-youtube-to-mpeg-encoding/"><u>2024 Approved Prime Methods From YouTube to MPEG Encoding</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-newbies-compendium-of-best-cinematography-devices-35mm-pands-for-2024/"><u>A Newbie's Compendium of Best Cinematography Devices (35Mm-P&S) for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/convert-your-blog-video-files-into-mp4movavi-formats-easily-on-both-mac-and-pc/"><u>Convert Your Blog Video Files Into MP4/MOV/AVI Formats Easily on Both Mac & PC</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/convert-your-porntube-downloads-into-different-file-types-mp4-mov-flv-avi-wmv-mkv-instructions/"><u>Convert Your PornTube Downloads Into Different File Types - MP4, MOV, FLV, AVI, WMV, MKV Instructions</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/convert-your-video-content-easy-mp4-extraction-from-digitalmarketer/"><u>Convert Your Video Content: Easy MP4 Extraction From DigitalMarketer</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/converting-sportys-flight-lessons-steps-to-save-as-mp4mp3-files/"><u>Converting Sporty's Flight Lessons: Steps to Save as MP4/MP3 Files</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/discover-how-easy-it-is-to-watch-or-save-the-latest-movies-and-tv-episodes-from-tunes-extensive-libraryyour-perfect-entertainment-solution/"><u>Discover How Easy It Is to Watch or Save the Latest Movies and TV Episodes From Tune's Extensive Library—Your Perfect Entertainment Solution!</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/download-anytime-convert-and-save-your-favorite-videos-from-zaq1-in-high-quality-mp4-mov-or-avi-using-zaq1-downloader/"><u>Download Anytime: Convert and Save Your Favorite Videos From ZAQ1 in High-Quality MP4, MOV or AVI Using ZAQ1 Downloader.</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/download-content-from-1upcom-in-high-quality-formats-like-mp4-and-avi-with-our-simple-guide/"><u>Download Content From 1UP.com in High-Quality Formats Like MP4 and AVI with Our Simple Guide!</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/download-free-learnsmart-system-video-tutorials-for-pc-and-mac/"><u>Download Free LearnSmart System Video Tutorials for PC & Mac</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-image-booster-intense-visual-upgrade/"><u>In 2024, Ultimate Image Booster Intense Visual Upgrade</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-the-power-of-emoji-on-your-iphone-tips-for-a-more-engaging-chat-experience/"><u>Unlocking the Power of Emoji on Your iPhone: Tips for a More Engaging Chat Experience</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-project-management-fees-for-2024/"><u>[Updated] Project Management Fees for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-lunapics-essence-in-photo-editing/"><u>2024 Approved Mastering Lunapic's Essence in Photo Editing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/a-glimpse-into-the-digital-frontier-todays-vr-for-2024/"><u>A Glimpse Into the Digital Frontier Today's VR for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/customizing-your-application-with-the-component-configuration-panel/"><u>Customizing Your Application with the Component Configuration Panel</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/efficient-property-selection-interface/"><u>Efficient Property Selection Interface</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/elevate-windows-drive-space-without-spending-a-dime/"><u>Elevate Windows Drive Space Without Spending a Dime</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-value-of-alcatels-joy-tab/"><u>Exploring the Value of Alcatel's Joy Tab 지상적으로 최고의 부티브탭 검토</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-samsung-galaxy-z-flip-5-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Samsung Galaxy Z Flip 5 Phone? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-screeneasew11-simplified-windows-11-recording-software/"><u>In 2024, ScreenEaseW11 Simplified Windows 11 Recording Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-11-windows-11-secrets-unveiled/"><u>In 2024, Top 11 Windows 11 Secrets Unveiled</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/reclaiming-lost-messages-a-guide-to-restoring-emails-beyond-the-30-day-limit/"><u>Reclaiming Lost Messages: A Guide to Restoring Emails Beyond the 30-Day Limit</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-free-artificial-intelligence-tools-for-creating-captions-enhance-your-videos-accessibility/"><u>Top Free Artificial Intelligence Tools for Creating Captions: Enhance Your Videos' Accessibility</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-rated-backgrounds-enhancing-your-product-photos/"><u>Top-Rated Backgrounds Enhancing Your Product Photos</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-rated-video-resume-creators-and-expert-advice/"><u>Top-Rated Video Resume Creators & Expert Advice</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Advanced Techniques: How to Load Configuration From an INI File"
-date: 2024-09-23T01:12:03.131Z
-updated: 2024-09-30T01:45:11.598Z
+date: 2024-10-01T20:35:00.820Z
+updated: 2024-10-05T20:45:35.578Z
 tags:
   - user-guide
 categories:
@@ -92,10 +92,10 @@ The **Add INI files** dialog is used to import one or multiple INI files to your
 ![Import ini](https://cdn.advancedinstaller.com/img/dialog/import-ini.png "Import ini")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## INI Files
@@ -103,10 +103,10 @@ The **Add INI files** dialog is used to import one or multiple INI files to your
 Choose what INI files you want to import by using the**Add** and **Remove** buttons. Multiple files can be selected for both operations. If multiple files are added, they are merged into a single INI file.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Files Content
@@ -118,10 +118,10 @@ Displays the content of the INI files you added in the INI files section. The fi
 **Keep formatted references** \- Enable/disable the ability to escape formatted references.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Component
@@ -163,21 +163,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-top-tips-for-effective-tiktok-usage-on-a-mac-for-2024/"><u>[New] Top Tips for Effective TikTok Usage on a Mac for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-become-an-insta-celebrity-overnight-top-15-strategies-from-social-media-experts/"><u>[Updated] Become an Insta Celebrity Overnight Top 15 Strategies From Social Media Experts</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-f3-pro-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from F3 Pro</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/comprehensive-official-guide-features-and-capabilities-of-winxvideos-ai-technology/"><u>Comprehensive Official Guide: Features and Capabilities of WinXvideo's AI Technology</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-6s-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6s to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Ways to Change Spotify Location On Your Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-iphones-secret-to-quick-cost-free-red-eye-removal-revealed/"><u>In 2024, IPhone's Secret to Quick, Cost-Free Red-Eye Removal Revealed</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/integrating-internal-and-external-links-seamlessly-into-flipbooks-with-flipbuilder-techniques/"><u>Integrating Internal and External Links Seamlessly Into Flipbooks with FlipBuilder Techniques</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/integrating-videos-and-flash-into-interactive-flipbook-ebooks-using-flipbuilder/"><u>Integrating Videos & Flash Into Interactive Flipbook eBooks Using FlipBuilder</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-epub-format-reading-with-flippingbooks-user-friendly-guide/"><u>Mastering ePub Format Reading with FlippingBook's User-Friendly Guide</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-flippdf-a-complete-tutorial-for-dynamic-digital-books-on-flipbuildercom/"><u>Mastering FlipPDF: A Complete Tutorial for Dynamic Digital Books on FlipBuilder.com</u></a></li>
-<li><a href="https://review-topics.techidaily.com/put-and-play-mkv-movies-on-motorola-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Put and play MKV movies on Motorola</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/quick-guide-to-producing-single-person-flipbooks-in-batches-using-flipbuilders-features/"><u>Quick Guide to Producing Single-Person Flipbooks in Batches Using FlipBuilder's Features</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/read-your-digital-magazine-pages-from-rearranged-directions-with-flipbook-creator/"><u>Read Your Digital Magazine Pages From Rearranged Directions with FlipBook Creator</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/resize-and-customize-your-books-effortlessly-using-flipbuilders-features/"><u>Resize and Customize Your Books Effortlessly Using FlipBuilder's Features</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unfreeze-your-stuck-iphone-a-step-by-step-guide/"><u>Unfreeze Your Stuck iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-maximizing-engagement-strategies-for-video-thumbnail-design/"><u>[New] In 2024, Maximizing Engagement Strategies for Video Thumbnail Design</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-quick-tips-efficiently-post-videos-on-igtv-for-2024/"><u>[New] Quick Tips Efficiently Post Videos on IGTV for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-best-8-youtube-editing-software-for-linux-for-2024/"><u>[Updated] Best 8 YouTube Editing Software for Linux for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instaboomers-hook-your-audience-with-circular-content/"><u>[Updated] In 2024, InstaBoomers Hook Your Audience with Circular Content</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-top-applications-for-remote-team-connection-for-2024/"><u>[Updated] Top Applications for Remote Team Connection for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/9-essential-iphone-x-hacks-for-every-user-for-2024/"><u>9 Essential iPhone X Hacks for Every User for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/award-winning-cpu-coolers-your-definitive-guide-to-the-best-thermal-pastes-of-2024/"><u>Award-Winning CPU Coolers: Your Definitive Guide to the Best Thermal Pastes of 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/complete-guide-to-defeating-trojans-the-5-most-powerful-removal-solutions-of-2er-years/"><u>Complete Guide to Defeating Trojans: The 5 Most Powerful Removal Solutions of 2Er Years</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/customize-data-sources-in-property-editing-panel/"><u>Customize Data Sources in Property Editing Panel</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/easy-guide-on-how-to-record-songs-from-apple-music-streaming/"><u>Easy Guide on How to Record Songs From Apple Music Streaming</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/easy-methods-to-set-any-image-as-white-background-using-your-iphone/"><u>Easy Methods to Set Any Image as White Background Using Your iPhone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/easy-tutorial-on-reflecting-android-display-on-an-lg-smart-television/"><u>Easy Tutorial on Reflecting Android Display on an LG Smart Television</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/guide-mastering-the-game-of-honkai-impact-3-on-your-windows-machine/"><u>Guide: Mastering the Game of Honkai Impact 3 on Your Windows Machine</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-pixelated-palaces-6-basic-mc-homes-for-neophytes/"><u>In 2024, Pixelated Palaces 6 Basic MC Homes for Neophytes</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/recover-lost-data-restore-deleted-photos-and-documents-from-your-android-phone-with-sd-card-recovery/"><u>Recover Lost Data: Restore Deleted Photos & Documents From Your Android Phone with SD Card Recovery</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-tips-for-downloading-and-playing-mp3-audio-on-an-ipad-device/"><u>Top Tips for Downloading and Playing MP3 Audio on an iPad Device</u></a></li>
 </ul></div>
 

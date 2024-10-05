@@ -1,7 +1,7 @@
 ---
 title: "1. Custom Action with Installed Script File: A Comprehensive Guide"
-date: 2024-09-27T00:00:28.820Z
-updated: 2024-09-30T08:04:37.332Z
+date: 2024-09-29T17:06:09.517Z
+updated: 2024-10-05T17:55:22.493Z
 tags:
   - user-guide
 categories:
@@ -126,10 +126,10 @@ Table of Contents
 ## IInstalledScriptFileCustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -137,16 +137,16 @@ Table of Contents
 IInstalledScriptFileCustomAction : ICustomAction
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -154,10 +154,10 @@ IInstalledScriptFileCustomAction : ICustomAction
 This interface facilitates editing custom action that allows the launching of a script file into execution, but it must be scheduled after the files have been deployed on the target computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -171,10 +171,10 @@ This interface facilitates editing custom action that allows the launching of a 
 **String ActionData** \- Gets or sets the value of the CustomActionData property. This property can be retrieved as a regular property inside Deferred custom actions and it is available only for DLL, JScript and VBScript custom actions. A common usage scenario is to use the CustomActionData property in Rollback Custom Actions since they are also deferred.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -216,24 +216,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-essential-steps-in-choosing-exceptional-video-makers/"><u>[New] In 2024, Essential Steps in Choosing Exceptional Video Makers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-step-by-step-guide-to-adding-frames-on-instagram-photos-for-2024/"><u>[New] Step-by-Step Guide to Adding Frames on Instagram Photos for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-nft-mastermakers-essential-tools-for-digital-artists/"><u>[Updated] NFT Mastermakers Essential Tools for Digital Artists</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-iphone-14-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From iPhone 14 - 4 Easy Ways</u></a></li>
-<li><a href="https://article-tips.techidaily.com/essential-tips-for-ordering-photos-on-iphone-with-icloud-backup-for-2024/"><u>Essential Tips for Ordering Photos on iPhone, With iCloud Backup for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/exploring-the-variety-of-control-buttons-available-in-output-flipbooks-with-flipbuilder/"><u>Exploring the Variety of Control Buttons Available in Output Flipbooks with FlipBuilder</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/guide-how-to-properly-set-your-bookmarks-on-flipbuildercom/"><u>Guide: How To Properly Set Your Bookmarks on FlipBuilder.com</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-and-where-to-effectively-present-your-flipbooks-on-various-platforms-using-flipbuilder/"><u>How and Where to Effectively Present Your Flipbooks on Various Platforms Using FlipBuilder</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-does-flipbuilder-handle-upgrades-essential-info-for-optimized-usage/"><u>How Does FlipBuilder Handle Upgrades? Essential Info for Optimized Usage</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-easily-flip-images-in-macos-using-flipbuilder-pro-flipbuildecom-a-comprehensive-tutorial/"><u>How to Easily Flip Images in macOS Using FlipBuilder Pro (flipbuilde.com) - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-manage-large-file-sets-in-your-projects-with-flipbuildercoms-structure/"><u>How to Manage Large File Sets in Your Projects with FlipBuilder.com's Structure</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-save-your-flipbook-projects-easily-on-flipbuildercom/"><u>How to Save Your FlipBook Projects Easily on FlipBuilder.com</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-motorola-moto-g84-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Motorola Moto G84 5G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/incorporating-your-business-logo-into-flipbook-presentations-with-ease/"><u>Incorporating Your Business Logo Into FlipBook Presentations with Ease</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/integrating-internal-and-external-links-seamlessly-into-flipbooks-with-flipbuilder-techniques/"><u>Integrating Internal and External Links Seamlessly Into Flipbooks with FlipBuilder Techniques</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1726227422375-movavi/"><u>Movaviの使い方 - 損なくオーディオファイルをスライスするテクニック</u></a></li>
-<li><a href="https://driver-error.techidaily.com/operational-hiccup-bcm20702a0-driver-missing/"><u>Operational Hiccup: BCM20702A0 Driver Missing</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>Preparation to Beat Giovani in Pokemon Go For Apple iPhone 13 Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-selection-of-gaming-headsets-and-mic-combos-for-online-play/"><u>Ultimate Selection of Gaming Headsets and Mic Combos for Online Play</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/auging-glory-an-essential-handbook-for-evaluating-youtube-engagement-and-earnings-for-2024/"><u>[New] Gauging Glory An Essential Handbook for Evaluating YouTube Engagement & Earnings for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-making-history-a-present-using-camera-roll-in-snaps/"><u>[New] Making History a Present - Using Camera Roll in Snaps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-expressive-sketches-for-fortnite-icons/"><u>[Updated] In 2024, Expressive Sketches for Fortnite Icons</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/can-you-trust-pornhub-essential-tips-for-securely-exploring-adult-websites/"><u>Can You Trust Pornhub? Essential Tips for Securely Exploring Adult Websites</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/comprehensive-tutorial-switching-your-pdf-reader-preferences-in-windows-10/"><u>Comprehensive Tutorial: Switching Your PDF Reader Preferences in Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnosing-and-repairing-issues-with-stuck-dvdbdcd-drives/"><u>Diagnosing and Repairing Issues with Stuck DVD/BD/CD Drives</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/enhancing-visual-content-mastering-the-art-of-ipatchtarget-imagery/"><u>Enhancing Visual Content: Mastering the Art of IPatchTarget Imagery</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-huawei-nova-y71-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Huawei Nova Y71</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-implement-a-batch-script-as-a-unique-system-alert/"><u>How to Implement a Batch Script as a Unique System Alert</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-v30-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo V30 for Free? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-honor-90-gt-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Honor 90 GT Without PUK Codes</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-6s-plus-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 6s Plus to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/key-characteristics-of-components/"><u>Key Characteristics of Components</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-make-your-videos-pop-top-animated-text-apps-for-android-and-ios-for-2024/"><u>New Make Your Videos Pop Top Animated Text Apps for Android and iOS for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-uncovering-stealthy-keylogging-threats-on-your-windows-machine-via-keylogger-scanning-software/"><u>Step-by-Step Guide: Uncovering Stealthy Keylogging Threats on Your Windows Machine via Keylogger Scanning Software</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/strategic-initiative-string-division-project-overview/"><u>Strategic Initiative: String Division Project Overview</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-list-of-prime-websites-for-boxes-at-bargain-prices/"><u>The Ultimate List of Prime Websites for Boxes at Bargain Prices</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/understanding-appid-configuration-navigating-the-appproperties-tab/"><u>Understanding AppID Configuration: Navigating the AppProperties Tab</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/user-defined-initialization-options-panel-for-custom-application-deployment/"><u>User-Defined Initialization Options Panel for Custom Application Deployment</u></a></li>
 </ul></div>
 

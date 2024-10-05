@@ -1,7 +1,7 @@
 ---
 title: "Understanding AppID Configuration: Navigating the AppProperties Tab"
-date: 2024-09-26T03:06:03.608Z
-updated: 2024-09-30T05:14:08.223Z
+date: 2024-09-30T16:13:55.683Z
+updated: 2024-10-05T18:47:18.031Z
 tags:
   - user-guide
 categories:
@@ -82,18 +82,18 @@ This view allows you to configure and register DCOM servers.
 
 ![Appid properties tab](https://cdn.advancedinstaller.com/img/ui/appid-properties-tab.png "Appid properties tab")  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## General
 
 ### AppId
 
 Specify the AppId value that will be written under the CLSID and creates the AppId GUID key under HKCR\\AppId.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Properties
 
@@ -102,10 +102,16 @@ Specify the AppId value that will be written under the CLSID and creates the App
 This value will be written under HKCR\\AppID\\{AppID}, "RemoteServerName"=xxxx. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/). Use the \[... \] to insert reference to a file, folder or property.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Local Service
@@ -116,27 +122,27 @@ This value will be written under HKCR\\AppID\\{AppId}, "LocalService"=xxx.
 
 This value will be written under HKCR\\AppID\\{AppId}, "ServiceParameters"=xxx.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Dll Surrogate
 
 This value will be written under HKCR\\AppId\\{AppId}, "DllSurrogate"=xxx. Usually this string is empty.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Active At Storage
 
  If the checkbox is enabled the value "ActivateAtStorage"="Y" will be written under HKCR\\AppID\\{AppId}.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Run As Interactive User
 
@@ -175,22 +181,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-essential-techniques-for-logitech-webcam-videos/"><u>[New] 2024 Approved Essential Techniques for Logitech Webcam Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-secrets-revealed-how-to-capture-your-facebook-sessions/"><u>[New] Secrets Revealed How to Capture Your Facebook Sessions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-windows-11s-hidden-know-how-for-media-importing/"><u>[Updated] Unveiling Windows 11'S Hidden Know-How for Media Importing</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-expertise-pathway-choosing-between-standard-studio-and-beta/"><u>[Updated] YouTube Expertise Pathway Choosing Between Standard Studio and Beta</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/creative-tims-argon-ui-framework-a-complimentary-react-and-bootstrap-compatible-design-toolkit/"><u>Creative Tim's Argon UI Framework: A Complimentary React & Bootstrap-Compatible Design Toolkit</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/creative-tims-elite-ghost-elementor-themes-and-plugins-for-powerful-wordpress-sites/"><u>Creative Tim's Elite Ghost Elementor Themes & Plugins for Powerful WordPress Sites</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/creative-tims-no-cost-flutter-prototype-with-material-theme-for-easy-development/"><u>Creative Tim's No-Cost Flutter Prototype with Material Theme for Easy Development</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/creative-tims-ultimate-admin-template-reactive-paper-dashboard-powered-by-bootstrap-cuatro/"><u>Creative Tim's Ultimate Admin Template: Reactive Paper Dashboard Powered by Bootstrap Cuatro</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/creative-tims-vue-argon-dashboard-pro-elite-bootstrap-5-and-vuejs-template-for-advanced-admin-panels/"><u>Creative Tim's Vue Argon Dashboard PRO: Elite Bootstrap 5 and Vue.js Template for Advanced Admin Panels</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/discover-9-innovative-nuxtjs-template-collection-by-creative-tim-for-effortless-web-development/"><u>Discover 9 Innovative NuxtJS Template Collection by Creative Tim for Effortless Web Development</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/discover-the-ultimate-free-bootstrap-vue-admin-theme-elegant-paper-style-by-creative-tim/"><u>Discover the Ultimate Free Bootstrap Vue Admin Theme, Elegant Paper Style by Creative Tim</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/free-admin-dashboard-design-with-tailwind-css-inspired-by-softui-flowbite-from-creative-tim/"><u>Free Admin Dashboard Design with Tailwind CSS - Inspired by SoftUI FlowBite From Creative Tim</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On OnePlus 12? | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-top-10-acapella-extractors-online-and-on-the-go-solutions/"><u>New 2024 Approved Top 10 Acapella Extractors Online and On-the-Go Solutions</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-sony-xperia-1-v-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Sony Xperia 1 V to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/triple-points-tracker-the-effective-pathway-to-analyzing-youtube-profitability-for-2024/"><u>Triple Points Tracker The Effective Pathway to Analyzing YouTube Profitability for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-s-most-popular-animation-software-for-schools-and-universities/"><u>Updated In 2024, S Most Popular Animation Software for Schools and Universities</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-insta-personality-showcase-100-crafted-caption-ideas/"><u>[New] 2024 Approved Insta Personality Showcase - 100 Crafted Caption Ideas</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-avoiding-grainy-zoom-videos-techniques-included/"><u>[New] Avoiding Grainy Zoom Videos – Techniques Included</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-how-to-easily-and-quickly-draw-on-photos-app-in-windows-10-for-2024/"><u>[Updated] How to Easily and Quickly Draw on Photos App in Windows 10 for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-powerful-tactics-leveraging-youtube-links-for-fb-exposure/"><u>2024 Approved Powerful Tactics Leveraging YouTube Links for FB Exposure</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/choosing-between-pandora-and-spotify-a-comprehensive-guide-to-determine-the-best-platform/"><u>Choosing Between Pandora and Spotify: A Comprehensive Guide to Determine the Best Platform</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/efficient-software-component-for-regular-updates-iupdatercomponent-explained/"><u>Efficient Software Component for Regular Updates: IUpdaterComponent Explained</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6-plus-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6 Plus To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-iphone-13-pro-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or iPhone 13 Pro?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/instant-access-to-mediateks-usb-vcom-drivers-secure-download/"><u>Instant Access to MediaTek's USB VCOM Drivers – Secure Download</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-cross-platform-gaming-a-guide-to-playing-your-favorite-iphone-titles-on-a-computer-or-mac/"><u>Mastering Cross-Platform Gaming: A Guide to Playing Your Favorite iPhone Titles on a Computer or Mac</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/premium-gratis-image-cleaner-top-watermark-stripper-apps/"><u>Premium Gratis Image Cleaner: Top Watermark Stripper Apps</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/simple-techniques-for-watermark-removal-from-2021-videos/"><u>Simple Techniques for Watermark Removal From 2021 Videos</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-oppo-reno-8t-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Oppo Reno 8T</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/user-friendly-file-download-prompt-guide/"><u>User-Friendly File Download Prompt Guide</u></a></li>
 </ul></div>
 

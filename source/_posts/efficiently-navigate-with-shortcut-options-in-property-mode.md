@@ -1,7 +1,7 @@
 ---
 title: Efficiently Navigate with Shortcut Options in Property Mode
-date: 2024-10-01T20:12:22.921Z
-updated: 2024-10-05T16:53:29.208Z
+date: 2024-10-10T03:53:36.239Z
+updated: 2024-10-11T01:33:15.316Z
 tags:
   - user-guide
 categories:
@@ -91,13 +91,6 @@ Table of Contents
 
 ![Shortcut Properties Dialog](https://cdn.advancedinstaller.com/img/dialog/shortcut-properties.png "Shortcut Properties Dialog")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### General
 
 * Name
@@ -123,31 +116,37 @@ Table of Contents
 For this specific reason Advanced Installer enforces asking the installing user for confirmation through the**PINTOTASKBAR property, which must be set to IDYES to pin to taskbar.**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)On Windows 7 the shortcut will not be automatically added to the Start Menu > Recently Used section.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Arguments
 
 This command line accepts, as input, the parameters (arguments) for the file opened by the shortcut. It can include references to files, folders, and properties. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) and can be edited with [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Paths
 
@@ -158,6 +157,13 @@ This command line accepts, as input, the parameters (arguments) for the file ope
 * The directory where the shortcut will be placed. You can change it only at creation time using the \[Browse... \] button via the [Folder Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/).
 * Working Directory
 * The working directory of the file launched by the shortcut. The directory can be changed by using the [Folder Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/) or the[Property Picker Dialog](https://tools.techidaily.com/advancedinstaller/products/) through the \[Edit... \] button. When using a property, its value needs to be set to a valid path.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Display
 
@@ -201,21 +207,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-precision-guide-for-subtitles-insertion-in-mp4-files/"><u>[Updated] Precision Guide for Subtitles Insertion in MP4 Files</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-securely-transforming-youtube-videos-top-3-reliable-methods/"><u>[Updated] Securely Transforming YouTube Videos Top 3 Reliable Methods</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1-ultimate-guide-to-ifolder-sync-mastering-your-filters/"><u>1. Ultimate Guide to iFolder Sync: Mastering Your Filters</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/best-5-free-and-easy-to-use-pdf-editor-software-beyond-adobe-acrobat-in-2020/"><u>Best 5 Free and Easy-to-Use PDF Editor Software, Beyond Adobe Acrobat in 2020</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-8-plus-how-to-unlock-a-disabled-apple-iphone-8-plus-by-drfone-ios/"><u>Disabled Apple iPhone 8 Plus How to Unlock a Disabled Apple iPhone 8 Plus?</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/effective-strategies-for-managing-file-replicas-conversations/"><u>Effective Strategies for Managing File Replicas Conversations</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/essential-guide-to-customizing-uniform-interface-design-in-tab-settings/"><u>Essential Guide to Customizing Uniform Interface Design in Tab Settings</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/gigabytes-needed-for-a-full-days-movie-watching/"><u>Gigabytes Needed for a Full Day's Movie Watching</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On ZTE Axon 40 Lite | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-invisible-spectator-of-fb-tales/"><u>In 2024, Invisible Spectator of FB Tales</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-the-challenge-of-a-malfunctioning-spacebar-on-your-pc-running-windows-10/"><u>Overcoming the Challenge of a Malfunctioning Spacebar on Your PC Running Windows 10</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/simple-techniques-for-mkv-video-subtitle-retrieval/"><u>Simple Techniques for MKV Video Subtitle Retrieval</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-black-screen-issue-in-rainbow-six-siege-a-comprehensive-guide-for-windows-users/"><u>Solving the 'Black Screen' Issue in Rainbow Six Siege: A Comprehensive Guide for Windows Users</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/the-top-methods-for-seamless-music-transition-between-galaxy-s4-and-s6-edge-devices/"><u>The Top Methods for Seamless Music Transition Between Galaxy S4 and S6 Edge Devices</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/top-ranking-tools-for-effortless-text-removal-from-images/"><u>Top-Ranking Tools for Effortless Text Removal From Images</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-essential-instagram-video-and-photo-downloads-guide/"><u>[New] 2024 Approved Essential Instagram Video & Photo Downloads Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-maximize-your-mobile-experience-with-these-7-blockers/"><u>[New] Maximize Your Mobile Experience with These 7 Blockers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-sculpted-scenes-incor-written-in-156-characters-or-less-each-title-is-tailored-to-guide-users-through-the-process-of-adding-fade-in-and-fade-out-eff/"><u>[Updated] Sculpted Scenes Incor Written in 156 Characters or Less, Each Title Is Tailored to Guide Users Through the Process of Adding Fade-In and Fade-Out Effects Using Adobe Premiere Pro without Exceeding the Specified Character Limit for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/achieving-audiovisual-consistency-in-premiers-for-2024/"><u>Achieving Audiovisual Consistency in Premiers for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/bring-snapchat-to-your-desktop-a-comprehensive-tutorial/"><u>Bring Snapchat to Your Desktop: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://facebook.techidaily.com/efficient-ways-to-disconnect-from-facebook-android-style/"><u>Efficient Ways to Disconnect From Facebook, Android Style</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-tips-on-overcoming-battleyes-failed-initialization-addressing-the-driver-load-challenge/"><u>Expert Tips on Overcoming BattlEye's Failed Initialization: Addressing the Driver Load Challenge</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/exploring-the-features-of-your-objects-settings-menu/"><u>Exploring the Features of Your Object's Settings Menu</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/guide-to-creating-and-testing-an-xml-file-best-practices/"><u>Guide to Creating and Testing an XML File: Best Practices</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-fully-remove-macs-apowerrec-and-virtual-sound-card-software-a-step-by-step-guide/"><u>How to Fully Remove Mac's ApowerREC and Virtual Sound Card Software: A Step-by-Step Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-cross-platform-calendar-coordination-zoom-to-your-devices/"><u>In 2024, Cross-Platform Calendar Coordination Zoom to Your Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-xiaomi-redmi-13c-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Xiaomi Redmi 13C 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-socialsnatcher-grab-and-save-twitter-vids-in-a-flash/"><u>In 2024, SocialSnatcher Grab and Save Twitter Vids in a Flash</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/key-components-in-microsofts-windows-suite/"><u>Key Components in Microsoft's Windows Suite</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/proven-strategies-for-securing-your-iphones-information-through-efficient-backups/"><u>Proven Strategies for Securing Your iPhone's Information Through Efficient Backups</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/revealing-the-hidden-a-guide-to-displaying-windows-mouse-cursor-during-recordings/"><u>Revealing the Hidden: A Guide to Displaying Windows Mouse Cursor During Recordings</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/speedy-setup-comprehensive-steps-for-obtaining-and-configuring-videomaker-elite-suite/"><u>Speedy Setup: Comprehensive Steps for Obtaining and Configuring Videomaker Elite Suite</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-ranking-free-tools-ultimate-alternatives-to-snagit/"><u>Top-Ranking Free Tools: Ultimate Alternatives to Snagit</u></a></li>
 </ul></div>
 

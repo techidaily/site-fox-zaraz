@@ -1,7 +1,7 @@
 ---
 title: Customizing Your Application with the Component Configuration Panel
-date: 2024-10-01T18:45:13.414Z
-updated: 2024-10-05T20:52:10.774Z
+date: 2024-10-09T03:57:45.277Z
+updated: 2024-10-10T16:29:09.503Z
 tags:
   - user-guide
 categories:
@@ -77,10 +77,10 @@ Table of Contents
 ![Instance components tab](https://cdn.advancedinstaller.com/img/ui/instance-components-tab.png "Instance components tab")  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overwrite Components
@@ -124,19 +124,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-mycam-vs-others-a-comparative-camera-performance-study/"><u>[Updated] 2024 Approved MyCam Vs. Others A Comparative Camera Performance Study</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-360-camera-buying-guide-how-to-choose-a-suitable-360-camera-2023-update/"><u>[Updated] 360 Camera Buying Guide How to Choose a Suitable 360 Camera -2023 Update</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/alternative-high-quality-gaming-video-recording-solutions/"><u>Alternative High-Quality Gaming Video Recording Solutions</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/explore-whats-new-with-the-updated-itunes-software-version-121-unveiled/"><u>Explore What's New with the Updated iTunes Software - Version 12.1 Unveiled</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>How to Change Your Location on Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-leveraging-visuals-snap-camera-for-team-discussions/"><u>In 2024, Leveraging Visuals Snap Camera for Team Discussions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-tonal-transformation-for-android-users/"><u>In 2024, The Ultimate Tonal Transformation for Android Users</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/installer-project-mastering-the-permissions-tab/"><u>Installer Project: Mastering the Permissions Tab</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/r-guide-to-finding-cheap-transcript-extractors/"><u>Master Guide to Finding Cheap Transcript Extractors</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/master-the-art-of-image-editing-discover-leading-background-replacement-software-for-flawless-visuals/"><u>Master the Art of Image Editing: Discover Leading Background Replacement Software for Flawless Visuals</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/solving-chromes-excessive-cpu-drain-effective-strategies-for-reducing-memory-consumption/"><u>Solving Chrome's Excessive CPU Drain: Effective Strategies for Reducing Memory Consumption</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/step-by-step-solutions-for-blue-screen-issues-on-windows-7-pcs/"><u>Step-by-Step Solutions for Blue Screen Issues on Windows 7 PCs</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/top-rated-video-resume-creators-and-expert-advice/"><u>Top-Rated Video Resume Creators & Expert Advice</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/ultimate-guide-from-apple-iphone-12-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide from Apple iPhone 12 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-essential-tips-for-producing-engaging-educational-content-for-youtube/"><u>[New] 2024 Approved Essential Tips for Producing Engaging Educational Content for YouTube</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harness-the-potential-of-obs-studio-by-mastering-lut-application-techniques/"><u>[New] Harness the Potential of OBS Studio by Mastering LUT Application Techniques</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-master-guide-implementing-chapters-in-vimeo/"><u>[Updated] 2024 Approved Master Guide Implementing Chapters in Vimeo</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-archivists-edge-cutting-edge-strategies-for-social-downloads/"><u>[Updated] The Archivist's Edge Cutting-Edge Strategies for Social Downloads</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/convert-heic-images-free-seamless-pdf-conversion-tools-and-tutorials/"><u>Convert HEIC Images Free: Seamless PDF Conversion Tools and Tutorials</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/enrich-video-narrative-with-slow-motion-on-iphone-for-2024/"><u>Enrich Video Narrative with Slow Motion on iPhone for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/explaining-unpredictable-playback-in-instagram-videos/"><u>Explaining Unpredictable Playback in Instagram Videos</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/exploring-multilingual-options-and-features-on-our-platform/"><u>Exploring Multilingual Options and Features on Our Platform</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-honor-magic-6-lite-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Honor Magic 6 Lite.</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-successfully-remove-unwanted-red-eyes-from-your-images-using-these-simple-methods/"><u>How To Successfully Remove Unwanted Red-Eyes From Your Images Using These Simple Methods</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-fast-track-to-1000-subscribers-in-youtube-landscape/"><u>In 2024, Fast-Track To 1,000 Subscribers in Youtube Landscape</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-folder-synchronization-step-by-step-tips-for-a-harmonized-digital-experience/"><u>Mastering Folder Synchronization: Step-by-Step Tips for a Harmonized Digital Experience</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/optimizing-system-startup-requirements/"><u>Optimizing System Startup Requirements</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/perfecting-your-school-id-picture-with-ios-and-android-cameras/"><u>Perfecting Your School ID Picture with iOS and Android Cameras</u></a></li>
+<li><a href="https://driver-download.techidaily.com/simple-steps-installing-the-latest-epson-printer-driver-on-your-windows-pc/"><u>Simple Steps: Installing the Latest Epson Printer Driver on Your Windows PC</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/step-by-step-instructions-for-casting-ipad-content-on-a-smart-lg-tv/"><u>Step-by-Step Instructions for Casting iPad Content on a Smart LG TV</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/ultimate-guide-perfecting-the-art-of-live-meeting-recordings/"><u>Ultimate Guide: Perfecting the Art of Live Meeting Recordings</u></a></li>
 </ul></div>
 

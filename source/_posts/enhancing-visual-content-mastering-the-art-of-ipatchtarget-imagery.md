@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Visual Content: Mastering the Art of IPatchTarget Imagery"
-date: 2024-10-02T19:27:40.577Z
-updated: 2024-10-05T20:39:43.307Z
+date: 2024-10-10T03:45:48.604Z
+updated: 2024-10-10T20:47:38.777Z
 tags:
   - user-guide
 categories:
@@ -117,27 +117,27 @@ Table of Contents
 
 ## IPatchTargetImage
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Declaration
 
 IPatchTargetImage : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
 
 This interface is meant to edit target image properties
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Properties
 
@@ -162,10 +162,10 @@ This interface is meant to edit target image properties
 **Array<String> SymbolsFolders** \- Gets the collection of symbol files (.pdb) generated for PE code files (.exe, .dll, etc) to generate more optimal diffs, thus reducing the patch's size.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -175,10 +175,10 @@ This interface is meant to edit target image properties
 **RemoveSymbolsFolder(String aSymbolsFolder)** Removes a folder from disk containing symbol files from the SymbolsFolder collection. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -220,15 +220,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-zaraz.techidaily.com/accelerate-your-iphones-performance-a-step-by-step-guide-to-clearing-unnecessary-data/"><u>Accelerate Your iPhone's Performance: A Step-by-Step Guide to Clearing Unnecessary Data</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/best-techniques-to-transform-mp3-files-into-high-quality-aac-format/"><u>Best Techniques to Transform MP3 Files Into High-Quality AAC Format</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diagnosing-and-repairing-non-functional-apple-watch-display/"><u>Diagnosing and Repairing Non-Functional Apple Watch Display</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-subaquatic-spectacites-tips-to-enrich-underwater-videos-using-gopro/"><u>In 2024, Subaquatic Spectacites Tips to Enrich Underwater Videos Using GoPro</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/pc-users-handbook-how-to-effortlessly-join-and-navigate-clubhouse-online/"><u>PC Users' Handbook: How to Effortlessly Join and Navigate Clubhouse Online</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-essentials-of-dynamic-visual-communication-for-2024/"><u>The Essentials of Dynamic Visual Communication for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-10plus-websites-to-download-games-for-2024/"><u>Top 10+ Websites to Download Games for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/top-rated-free-online-tools-best-7-video-editors-with-no-watermarks-available/"><u>Top-Rated Free Online Tools: Best 7 Video Editors with No Watermarks Available</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unleashing-visual-treasures-a-pexels-search-guide/"><u>Unleashing Visual Treasures A Pexels Search Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-no-longer-a-mystery-shorts-now-showing-up/"><u>[Updated] No Longer a Mystery Shorts Now Showing Up</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-mastering-pdf-text-extraction-a-comprehensive-guide/"><u>1. Mastering PDF Text Extraction: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-instagram-collage-made-simple-a-quick-how-to/"><u>2024 Approved Instagram Collage Made Simple A Quick How-To</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/awesome-unveil-apowerunlock-launches-revolutionary-functions/"><u>Awesome Unveil: ApowerUnlock Launches Revolutionary Functions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719382132283-boost-your-windows-screenshot-game-4-key-solutions/"><u>Boost Your Windows Screenshot Game: 4 Key Solutions</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/complete-guide-to-retrieving-irreversibly-removed-files-via-the-recycle-bin-in-windows/"><u>Complete Guide to Retrieving Irreversibly Removed Files via the Recycle Bin in Windows</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/convert-your-mkv-videos-to-play-on-xbox-360-with-our-easy-to-use-video-converter/"><u>Convert Your MKV Videos to Play on Xbox 360 with Our Easy-to-Use Video Converter</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/is-your-google-drive-vulnerable-to-ransomware-insights-from-malwarefox/"><u>Is Your Google Drive Vulnerable to Ransomware: Insights From MalwareFox</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/master-android-flip-digital-content-sequence/"><u>Master Android Flip Digital Content Sequence</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-fixing-steam-server-accessibility-issues/"><u>Resolved: Fixing Steam Server Accessibility Issues</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-on-using-apowersoft-software-for-effective-watermark-removal/"><u>Step-by-Step Guide on Using Apowersoft Software for Effective Watermark Removal</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/transform-your-pdf-bills-into-excel-essential-guide-for-accountants-and-bookkeepers/"><u>Transform Your PDF Bills Into Excel: Essential Guide for Accountants and Bookkeepers</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-free-video-splitter-software-top-rated-options-for-this-year-for-2024/"><u>Updated Free Video Splitter Software Top-Rated Options for This Year for 2024</u></a></li>
 </ul></div>
 

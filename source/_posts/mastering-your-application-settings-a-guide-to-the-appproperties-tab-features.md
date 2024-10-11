@@ -1,7 +1,7 @@
 ---
 title: "Mastering Your Application Settings: A Guide to the AppProperties Tab Features"
-date: 2024-10-02T19:08:09.061Z
-updated: 2024-10-05T20:29:12.314Z
+date: 2024-10-06T22:28:51.037Z
+updated: 2024-10-11T00:49:56.819Z
 tags:
   - user-guide
 categories:
@@ -88,14 +88,14 @@ This view allows you to configure and register DCOM servers.
 
 Specify the AppId value that will be written under the CLSID and creates the AppId GUID key under HKCR\\AppId.
 
-## Properties
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## Properties
 
 ### Remote Server Name
 
@@ -105,26 +105,26 @@ This value will be written under HKCR\\AppID\\{AppID}, "RemoteServerName"=xxxx. 
 
 This value will be written under HKCR\\AppID\\{AppId}, "LocalService"=xxx.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Service Parameters
 
 This value will be written under HKCR\\AppID\\{AppId}, "ServiceParameters"=xxx.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Dll Surrogate
 
 This value will be written under HKCR\\AppId\\{AppId}, "DllSurrogate"=xxx. Usually this string is empty.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Active At Storage
@@ -132,10 +132,10 @@ This value will be written under HKCR\\AppId\\{AppId}, "DllSurrogate"=xxx. Usual
  If the checkbox is enabled the value "ActivateAtStorage"="Y" will be written under HKCR\\AppID\\{AppId}.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Run As Interactive User
@@ -175,18 +175,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-behind-the-screen-essential-post-vidcon-gatherings/"><u>[Updated] 2024 Approved Behind the Screen Essential Post-VidCon Gatherings</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-enhancing-instagram-stories-by-including-youtube-tracks/"><u>[Updated] 2024 Approved Enhancing Instagram Stories by Including YouTube Tracks</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-unlocking-potential-key-aspects-of-using-twistedwaves-advanced-audio-tools/"><u>2024 Approved Unlocking Potential Key Aspects of Using TwistedWaves Advanced Audio Tools</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/custom-action-with-attached-script-boosting-iattactivities/"><u>Custom Action with Attached Script: Boosting IATTACTIVITIES</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-windows-11-editions-matching-home-to-pro-features/"><u>Decoding Windows 11 Editions: Matching Home to Pro Features</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effective-alteration-of-nat-types-in-windows-operating-systems/"><u>Effective Alteration of NAT Types in Windows Operating Systems</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-effectively-capture-and-archive-online-meeting-footage/"><u>How to Effectively Capture and Archive Online Meeting Footage</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722899318022-iphone-vehicle-we-can-use-it-as-a-benchmark/"><u>IPhone Vehicle, We Can Use It as a Benchmark.</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-iservice-control-operations-a-comprehensive-guide/"><u>Mastering IService Control Operations: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-password-security-top-3-tactics-for-creating-unforgettable-robust-passphrases/"><u>Mastering Password Security: Top 3 Tactics for Creating Unforgettable, Robust Passphrases</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/most-acclaimed-3ip-voice-recorders-on-tablets-for-2024/"><u>Most Acclaimed 3iP Voice Recorders on Tablets for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/ultimate-tutorial-on-capturing-your-google-meet-video-conference-with-minimal-hassle/"><u>Ultimate Tutorial on Capturing Your Google Meet Video Conference with Minimal Hassle</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/understanding-browserbrokerexe-safety-assessment-and-virus-risks/"><u>Understanding Browser_broker.exe: Safety Assessment & Virus Risks</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-listing-from-the-tail-reordering-videos-in-a-reverse-sequence/"><u>[New] 2024 Approved Listing From the Tail Reordering Videos in a Reverse Sequence</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-crafting-high-quality-igtv-footage-on-smartphonesdslrs/"><u>[Updated] In 2024, Crafting High-Quality IGTV Footage on Smartphones/DSLRs</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-understanding-file-attributes-a-comprehensive-guide/"><u>1. Understanding File Attributes: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/complete-how-to-mastering-the-art-of-screen-shots-on-toshiba-laptopstelevisions/"><u>Complete How-To: Mastering the Art of Screen Shots on Toshiba Laptops/Televisions</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/ifolderswidget-integrating-seamless-folder-management-into-your-app/"><u>IFoldersWidget: Integrating Seamless Folder Management Into Your App</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pay-attention-focus-fully-on-the-speaker-avoid-distractions-and-show-interest-in-what-theyre-saying/"><u>In 2024, Pay Attention Focus Fully on the Speaker, Avoid Distractions, and Show Interest in What They're Saying</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/leading-passport-photography-apps-ranked-for-ios-and-android-how-to-get-your-travel-document-photos-on-a-budget/"><u>Leading Passport Photography Apps Ranked for iOS & Android: How to Get Your Travel Document Photos on a Budget!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/logitech-enhances-gamer-experience-check-out-the-new-extreme-3d-pro-mouse-software-version/"><u>Logitech Enhances Gamer Experience - Check Out the New Extreme 3D Pro Mouse Software Version!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-xiaomi-redmi-a2plus-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Xiaomi Redmi A2+ Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/say-goodbye-to-lost-remotes-our-innovative-location-tiles-keep-them-in-sight/"><u>Say Goodbye To Lost Remotes - Our Innovative Location Tiles Keep Them in Sight!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/streamline-your-screen-viewing-with-our-expert-guide-to-side-by-side-video-watching-on-computers-and-mobile-devices/"><u>Streamline Your Screen Viewing with Our Expert Guide to Side-by-Side Video Watching on Computers and Mobile Devices</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-8-secure-password-tools-compatible-with-windows-11/"><u>Top 8 Secure Password Tools Compatible with Windows 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/top-virtual-escapades-for-android-select-15-exciting-simulations-for-2024/"><u>Top Virtual Escapades for Android Select 15 Exciting Simulations for 2024</u></a></li>
 </ul></div>
 

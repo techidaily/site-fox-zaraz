@@ -1,7 +1,7 @@
 ---
 title: "Advanced Folder Management: Mastering the Control Panel's Operations Section"
-date: 2024-09-29T16:22:20.873Z
-updated: 2024-10-05T16:26:16.894Z
+date: 2024-10-05T23:45:21.133Z
+updated: 2024-10-10T20:00:05.881Z
 tags:
   - user-guide
 categories:
@@ -100,20 +100,48 @@ Table of Contents
 
 ![Folder Removal Dialog](https://cdn.advancedinstaller.com/img/dialog/folder-operations.png "Folder Removal Dialog")  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Remove
 
  Folders for removal will be marked visually with this icon:![Folder Removal](https://cdn.advancedinstaller.com/img/gfx/removal.png "Folder Removal").
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)By default Windows Installer will remove only the resources that were installed by the MSI package. This removal operation is intended to be used for external resources created by custom behaviour.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Operation
 
 * Remove folder only if it is empty – the folder will be removed only if it is empty at the moment the operation will execute.
 * Always remove folder(even if it is not empty) – the folder will be removed anyway, no matter if it is empty or not
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Component
 
  The component which will trigger the folder removal operation.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Remove On
 
@@ -129,29 +157,9 @@ Specify a condition for the folder removal.
 
 You can specify files to be removed upon install or uninstall from the [File Removal Dialog](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Overwrite behavior
 
 Specify the folder content's overwrite behavior.
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Overwrite only if the existing files are older
 
@@ -162,10 +170,10 @@ When this option is selected, if the files from the folder on the target machine
 If this option is enabled, the files from this folder in your package will overwrite any similar files already present on the target computer. Usually this can be used when performing a downgrade (install files older than the ones already installed) or for non-versioned files which don't overwrite the existing files.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Do not overwrite existing files
@@ -174,23 +182,9 @@ If this option is enabled, the files from this folder in your package will overw
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)If you don't need to preserve all the folder content, it is recommended to enable this option specifically for each file you want to preserve, especially for folders with large content.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Persistence
 
 Save and restore original folder content.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Condition
 
@@ -231,19 +225,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-simple-guide-youtube-to-mp3-on-mac/"><u>[New] 2024 Approved Simple Guide YouTube to MP3 on Mac,</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-introduce-circular-smoothing-transition-via-adobe-photoshop/"><u>[New] In 2024, Introduce Circular Smoothing Transition via Adobe Photoshop</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1-ultimate-guide-to-ifolder-sync-mastering-your-filters/"><u>1. Ultimate Guide to iFolder Sync: Mastering Your Filters</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-find-x6-pro-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo Find X6 Pro</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-becoming-a-master-of-instagram-auditory-aesthetics/"><u>2024 Approved Becoming a Master of Instagram Auditory Aesthetics</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-from-studio-to-stage-stream-your-mp3-tunes-on-youtube/"><u>2024 Approved From Studio to Stage Stream Your MP3 Tunes on YouTube</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-vdy-hd-snapshot-reviews-complete-evaluation/"><u>2024 Approved VDY HD Snapshot Reviews Complete Evaluation</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/best-5-free-and-easy-to-use-pdf-editor-software-beyond-adobe-acrobat-in-2020/"><u>Best 5 Free and Easy-to-Use PDF Editor Software, Beyond Adobe Acrobat in 2020</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/effective-strategies-for-managing-file-replicas-conversations/"><u>Effective Strategies for Managing File Replicas Conversations</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/essential-guide-to-customizing-uniform-interface-design-in-tab-settings/"><u>Essential Guide to Customizing Uniform Interface Design in Tab Settings</u></a></li>
-<li><a href="https://extra-information.techidaily.com/shine-bright-with-these-simple-android-video-steps/"><u>Shine Bright with These Simple Android Video Steps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-definitive-guide-to-fixing-error-code-0xc0000185-step-by-step-troubleshooting-and-repair-techniques-for-your-pc/"><u>The Definitive Guide to Fixing Error Code 0Xc0000185 – Step-by-Step Troubleshooting & Repair Techniques for Your PC</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/top-tips-for-enhancing-sound-clarity-in-your-recordings/"><u>Top Tips for Enhancing Sound Clarity in Your Recordings</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/top-ranking-tools-for-effortless-text-removal-from-images/"><u>Top-Ranking Tools for Effortless Text Removal From Images</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-8-unbeatable-zero-price-software-choices-for-online-media-makers/"><u>[Updated] 2024 Approved 8 Unbeatable Zero-Price Software Choices For Online Media Makers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-watchful-eye-discovering-twitters-hd-features/"><u>[Updated] Watchful Eye Discovering Twitter’s HD Features</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/can-you-trust-pornhub-essential-tips-for-securely-exploring-adult-websites/"><u>Can You Trust Pornhub? Essential Tips for Securely Exploring Adult Websites</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/efficient-searching-techniques-with-xquery-language-elements/"><u>Efficient Searching Techniques with XQuery Language Elements</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/effortlessly-switch-from-ogg-to-m4a-top-free-conversion-methods-revealed/"><u>Effortlessly Switch From OGG to M4A: Top Free Conversion Methods Revealed</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722975139207-hassle-free-setup-for-intel-thunderbolt-controllers-download-instructions-now/"><u>Hassle-Free Setup for Intel Thunderbolt Controllers - Download Instructions Now!</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-implement-a-batch-script-as-a-unique-system-alert/"><u>How to Implement a Batch Script as a Unique System Alert</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/improving-interaction-quality-through-effective-preferences-configuration-interface/"><u>Improving Interaction Quality Through Effective 'Preferences Configuration Interface'</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-chatgpt-dependable-or-prone-to-misleading-investigating-facts/"><u>Is ChatGPT Dependable or Prone to Misleading? Investigating Facts</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/strategic-initiative-string-division-project-overview/"><u>Strategic Initiative: String Division Project Overview</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tutorial-disabling-automatic-sleep-on-mac-systems-for-extended-work-sessions/"><u>Tutorial: Disabling Automatic Sleep on Mac Systems for Extended Work Sessions</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/understanding-the-various-categories-of-programs-on-microsofts-windows-marketplace/"><u>Understanding the Various Categories of Programs on Microsoft's Windows Marketplace</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/unveiling-the-benefits-of-garmin-venu-your-intelligent-partner-in-nonstop-activity-and-health-tracking/"><u>Unveiling the Benefits of Garmin Venu - Your Intelligent Partner in Nonstop Activity and Health Tracking</u></a></li>
 </ul></div>
 

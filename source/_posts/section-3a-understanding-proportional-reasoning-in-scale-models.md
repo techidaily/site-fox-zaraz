@@ -1,7 +1,7 @@
 ---
 title: "Section 3A: Understanding Proportional Reasoning in Scale Models"
-date: 2024-09-30T19:16:05.202Z
-updated: 2024-10-05T16:57:13.565Z
+date: 2024-10-10T00:13:12.652Z
+updated: 2024-10-11T01:06:12.744Z
 tags:
   - product
 categories:
@@ -20,25 +20,19 @@ thumbnail: https://thmb.techidaily.com/18d207b3da44fd0fc8250931249da5dc2af6883d5
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -60,14 +54,21 @@ thumbnail: https://thmb.techidaily.com/18d207b3da44fd0fc8250931249da5dc2af6883d5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-strategies-for-effortless-audio-merging-in-adobe-premiere/"><u>[New] Strategies for Effortless Audio Merging in Adobe Premiere</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-strategic-use-of-tags-a-guide-to-youtube-success/"><u>[Updated] The Strategic Use of Tags A Guide to YouTube Success</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1-mastering-pdf-text-extraction-a-comprehensive-guide/"><u>1. Mastering PDF Text Extraction: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/awesome-unveil-apowerunlock-launches-revolutionary-functions/"><u>Awesome Unveil: ApowerUnlock Launches Revolutionary Functions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-screening-the-best-selecting-premium-macos-recording-apps/"><u>In 2024, Screening the Best Selecting Premium macOS Recording Apps</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/is-your-google-drive-vulnerable-to-ransomware-insights-from-malwarefox/"><u>Is Your Google Drive Vulnerable to Ransomware: Insights From MalwareFox</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-on-using-apowersoft-software-for-effective-watermark-removal/"><u>Step-by-Step Guide on Using Apowersoft Software for Effective Watermark Removal</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-editors-guide-to-enhancing-longer-youtube-video-content-with-chapters-for-2024/"><u>The Editor's Guide to Enhancing Longer YouTube Video Content with Chapters for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unveiling-the-leading-10-live-streaming-services/"><u>Unveiling the Leading 10 Live-Streaming Services</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-perfect-your-youtube-presence-learn-to-create-engaging-ads-and-thumbnails/"><u>[New] 2024 Approved Perfect Your YouTube Presence Learn to Create Engaging Ads & Thumbnails</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guiding-through-graphic-image-alteration/"><u>[New] Guiding Through Graphic Image Alteration</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-secrets-to-effective-targeted-tweets/"><u>[New] Secrets to Effective Targeted Tweets</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-9-free-android-mp3-extractors-for-2024/"><u>[New] Top 9 FREE Android MP3 Extractors for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-dji-sky-artistry-experiment-with-color-filters-at-zero-cost/"><u>[Updated] In 2024, DJI Sky Artistry - Experiment with Color Filters at Zero Cost</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagram-easter-eggs-unlocking-the-secretive-tricks-and-tips/"><u>[Updated] In 2024, Instagram Easter Eggs Unlocking the Secretive Tricks and Tips</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-5-windows-11-gaming-capture-techniques/"><u>[Updated] Top 5 Windows 11 Gaming Capture Techniques</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-understanding-file-attributes-a-comprehensive-guide/"><u>1. Understanding File Attributes: A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-easy-steps-to-extract-instagram-video-files-from-pcmac/"><u>2024 Approved Easy Steps to Extract Instagram Video Files From PC/Mac</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-iphone-8-plus-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From iPhone 8 Plus? How to Fix it?</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/bring-snapchat-to-your-desktop-a-comprehensive-tutorial/"><u>Bring Snapchat to Your Desktop: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/complete-how-to-mastering-the-art-of-screen-shots-on-toshiba-laptopstelevisions/"><u>Complete How-To: Mastering the Art of Screen Shots on Toshiba Laptops/Televisions</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/leading-passport-photography-apps-ranked-for-ios-and-android-how-to-get-your-travel-document-photos-on-a-budget/"><u>Leading Passport Photography Apps Ranked for iOS & Android: How to Get Your Travel Document Photos on a Budget!</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/proven-strategies-for-securing-your-iphones-information-through-efficient-backups/"><u>Proven Strategies for Securing Your iPhone's Information Through Efficient Backups</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/revealing-the-hidden-a-guide-to-displaying-windows-mouse-cursor-during-recordings/"><u>Revealing the Hidden: A Guide to Displaying Windows Mouse Cursor During Recordings</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-8-secure-password-tools-compatible-with-windows-11/"><u>Top 8 Secure Password Tools Compatible with Windows 11</u></a></li>
 </ul></div>
 

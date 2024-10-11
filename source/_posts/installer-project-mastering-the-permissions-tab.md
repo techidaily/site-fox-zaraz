@@ -1,7 +1,7 @@
 ---
 title: "Installer Project: Mastering the Permissions Tab"
-date: 2024-10-03T19:40:30.367Z
-updated: 2024-10-05T16:06:47.177Z
+date: 2024-10-03T21:11:46.719Z
+updated: 2024-10-11T00:43:39.926Z
 tags:
   - user-guide
 categories:
@@ -102,28 +102,15 @@ Table of Contents
 ![Permissions Dialog](https://cdn.advancedinstaller.com/img/dialog/folder-permission.png "Permissions Dialog")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### New...
 
  This button creates a new permission for the selected file, folder, registry key or value. You will be able to edit the newly created permission in the popped up [Permission Dialog](https://tools.techidaily.com/advancedinstaller/products/). You can use the Insert key while the "Groups or user names" list is focused to create a new share permission. 
-
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Edit...
 
@@ -134,31 +121,32 @@ Table of Contents
  Removes the selected permission. You can use theDelete key while an element from the list is selected to delete that entry.
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Keep existing permissions
 
 The default permissions from target folder on disk at install time will be preserved and the new permissions will be added on top of them.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Apply to all subfolders
 
 The current folder permissions are inherited by all subfolders in the project.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -199,18 +187,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-10-chucklesome-tiktok-riddles-for-2024/"><u>[New] 10 Chucklesome TikTok Riddles for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-secure-your-preference-with-these-9-leading-websites-offering-3d-typography/"><u>[New] In 2024, Secure Your Preference With These 9 Leading Websites Offering 3D Typography</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/choosing-a-gimbal-for-smooth-drone-photos-and-videos/"><u>Choosing a Gimbal for Smooth Drone Photos and Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comprehensive-overview-simple-hdr-excellence-for-2024/"><u>Comprehensive Overview Simple HDR Excellence for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/cookiebot-enhanced-personalization-technology/"><u>Cookiebot-Enhanced Personalization Technology</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-the-sustainability-of-electric-vehicles-are-they-really-eco-friendly/"><u>Decoding the Sustainability of Electric Vehicles – Are They Really Eco-Friendly?</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/exploring-how-viruses-differ-from-worms-in-computing-unveiled-through-a-side-by-side-breakdown/"><u>Exploring How Viruses Differ From Worms in Computing - Unveiled Through a Side-by-Side Breakdown</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/exploring-the-features-of-your-objects-settings-menu/"><u>Exploring the Features of Your Object's Settings Menu</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-revolutionizing-presentation-content-with-automated-transcription/"><u>In 2024, Revolutionizing Presentation Content with Automated Transcription</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/key-components-in-microsofts-windows-suite/"><u>Key Components in Microsoft's Windows Suite</u></a></li>
-<li><a href="https://program-issues.techidaily.com/national-pesticide-information-center-2016-glyphosate-retrieved-from-(httpsnpicorsteduhazardspestfactsgpshtml)/"><u>National Pesticide Information Center (2016). Glyphosate. Retrieved From <https://npic.orst.edu/hazards/pestfacts/gps.html></u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/one-click-installation-effortless-android-app-setup-on-your-pc/"><u>One-Click Installation: Effortless Android App Setup on Your PC!</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/seamless-auto-capture-mastering-hands-free-screen-shots/"><u>Seamless Auto-Capture: Mastering Hands-Free Screen Shots</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-how-to-reverse-a-video-on-iphone/"><u>[New] How to Reverse a Video on iPhone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-maximizing-engagement-a-pathway-to-higher-subscriber-numbers/"><u>[New] Maximizing Engagement A Pathway to Higher Subscriber Numbers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-bridging-gaps-in-dialogue-techniques-for-smooth-editing-with-garageband/"><u>[Updated] Bridging Gaps in Dialogue Techniques for Smooth Editing with GarageBand</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-hdr-experience-with-asuss-4k-monitor/"><u>2024 Approved The Ultimate HDR Experience with Asus's 4K Monitor</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/configuring-environmental-settings-in-a-windows-store-app-prototype/"><u>Configuring Environmental Settings in a Windows Store App Prototype</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/customizing-your-application-with-the-component-configuration-panel/"><u>Customizing Your Application with the Component Configuration Panel</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-guide-updating-your-creative-webcams-on-windows-computers/"><u>Easy Installation Guide: Updating Your Creative Webcams on Windows Computers</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/efficient-property-selection-interface/"><u>Efficient Property Selection Interface</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-y36i-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Vivo Y36i</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/reclaiming-lost-messages-a-guide-to-restoring-emails-beyond-the-30-day-limit/"><u>Reclaiming Lost Messages: A Guide to Restoring Emails Beyond the 30-Day Limit</u></a></li>
+<li><a href="https://blog-min.techidaily.com/story-2-the-permaculture-garden-misunderstanding/"><u>Story 2: The Permaculture Garden Misunderstanding</u></a></li>
+<li><a href="https://driver-install.techidaily.com/supercharged-windows-experience-with-rtx-ti-driver/"><u>Supercharged Windows Experience with RTX Ti Driver</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-free-artificial-intelligence-tools-for-creating-captions-enhance-your-videos-accessibility/"><u>Top Free Artificial Intelligence Tools for Creating Captions: Enhance Your Videos' Accessibility</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-rated-backgrounds-enhancing-your-product-photos/"><u>Top-Rated Backgrounds Enhancing Your Product Photos</u></a></li>
 </ul></div>
 

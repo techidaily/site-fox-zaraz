@@ -1,7 +1,7 @@
 ---
 title: Key Insights Into Optimizing Your Company's Web Presence
-date: 2024-09-30T17:50:10.196Z
-updated: 2024-10-05T18:46:06.108Z
+date: 2024-10-04T04:20:18.596Z
+updated: 2024-10-10T18:42:42.068Z
 tags:
   - user-guide
 categories:
@@ -83,13 +83,6 @@ This page allows you to create new features and to select which components belon
 
 Every component has a key resource that can be only a file, a folder, a registry key or value or a data source. The resources are displayed under their component. The key resources are displayed with a key overlaid over the resource's usual image. During an installation Windows Installer decides which features to install along with all the sub-features and the components of the selected features. When a component is installed, all the resources of that component are installed (and only then).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Organizing components
 
 The components in an Advanced Installer project are created by following the Windows Installer rules and best practices. Therefore, you should follow these rules when reorganizing your installation package:
@@ -105,28 +98,49 @@ The components in an Advanced Installer project are created by following the Win
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Creating components which don't respect these rules may result in an installation package which doesn't work correctly.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Creating new features
 
 ![New Feature](https://cdn.advancedinstaller.com/img/toolbar/feature-new.png "New Feature") Use the \[New Feature \] toolbar button, the “New Feature” tree context menu item or press the Insert key while the “Features And Components” panel is focused. The new feature will be added after the last sub-feature of the selected feature. The feature will get a default name, which you can edit anytime. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)When a new component is created and there is no feature in the project, a new feature, named "MainFeature" will be automatically created. Also when you create a feature from this page and there is no other feature in the project, that feature will also get the name "Main Feature". All the components will be added by default in the "Current Feature".
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Renaming a feature
 
  Use the “Rename” tree context menu item or press the F2 key while a feature is selected. Only the features names can be edited. 
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Renaming a component
 
  Use the “Rename” tree context menu item or press the F2 key while a component is selected. This identifier is used in conditions to refer to the installed state or the action state of a component.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When changing the name of a component, all the conditions that refer to this identifier must be updated accordingly.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Moving a feature up, down, left or right
 
@@ -140,16 +154,16 @@ The components in an Advanced Installer project are created by following the Win
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can also set the Current Feature using the drop-down list box in the toolbar of the Component-producing pages.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Moving a component between features
 
  Drag and drop the component to the new feature. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Moving resources between components
 
@@ -180,10 +194,10 @@ Use the "Make Key Member" tree context menu item.
  Drag and drop the component to a new feature while theShift key is pressed, use the “Share” context menu or ribbon button. The component will be present under both features. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Sharing a feature
@@ -191,10 +205,10 @@ Use the "Make Key Member" tree context menu item.
 Drag and drop the feature to a new feature, while theShift key is pressed. All the components of the dragged feature will be present under both features.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Adding resources to the search list
@@ -207,21 +221,7 @@ Use the “Add Children to List” option or press theShift + F4 key to add all 
 
 ![Remove Feature](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove Feature") Use the\[Delete \] toolbar button, the “Delete” tree context menu item or press the Delete key while a feature or component is selected. 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)A feature must be empty before you can remove it. A regular component cannot be removed, only a shared one. 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Searching for a feature, component or resource
 
@@ -229,24 +229,18 @@ Use the “Add Children to List” option or press theShift + F4 key to add all 
 
 ![Find Next](https://cdn.advancedinstaller.com/img/ui/search-icons/down.png "Find Next") To search for the next value use the _Find Next_ button or press theF3 key. The search results are displayed in the[Search Pane](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Find and Append](https://cdn.advancedinstaller.com/img/ui/search-icons/plus.png "Find and Append") Use the_Find and Append_ button to append the search results to the search pane list.
 
 If you want to search for the whole word you must enclose the string from the combo in quotes (").
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The search is case insensitive.
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Topics
 
@@ -292,20 +286,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fitness-forward-6-video-concepts-to-energize-your-online-community/"><u>[New] 2024 Approved Fitness Forward 6 Video Concepts to Energize Your Online Community</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-simplified-cross-platform-listening-top-5-playlist-conversion-resources/"><u>[New] 2024 Approved Simplified Cross-Platform Listening Top 5 Playlist Conversion Resources</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-free-cam-screen-recorder-review-and-best-alternatives/"><u>[Updated] Free Cam Screen Recorder Review and Best Alternatives</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-best-youtube-banner-size-and-channel-art-dimension-the-ultimate-guide/"><u>[Updated] In 2024, Best YouTube Banner Size and Channel Art Dimension (The Ultimate Guide)</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/custom-regional-chat-features-for-enhanced-engagement/"><u>Custom Regional Chat Features for Enhanced Engagement</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/exploring-multilingual-options-and-features-on-our-platform/"><u>Exploring Multilingual Options and Features on Our Platform</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-efficiently-transfer-music-the-best-mp3-downloading-techniques-from-rhapsody-for-pc-users/"><u>How to Efficiently Transfer Music: The Best MP3 Downloading Techniques From Rhapsody for PC Users</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-samsung-galaxy-m14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-finding-the-perfect-video-dimensions-on-facebook/"><u>In 2024, Finding the Perfect Video Dimensions on Facebook</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-xiaomi-redmi-note-13-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Xiaomi Redmi Note 13 5G Face Lock?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-realme-narzo-60x-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Realme Narzo 60x 5G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-folder-synchronization-step-by-step-tips-for-a-harmonized-digital-experience/"><u>Mastering Folder Synchronization: Step-by-Step Tips for a Harmonized Digital Experience</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/perfecting-your-school-id-picture-with-ios-and-android-cameras/"><u>Perfecting Your School ID Picture with iOS and Android Cameras</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-instructions-for-casting-ipad-content-on-a-smart-lg-tv/"><u>Step-by-Step Instructions for Casting iPad Content on a Smart LG TV</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-7-sketch-tools-on-windows-11/"><u>Top 7 Sketch Tools on Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-inserting-chapters-into-your-youtube-content/"><u>[Updated] Step-by-Step Inserting Chapters Into Your YouTube Content</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/capture-and-keep-best-five-extensions-for-fb-videos-for-2024/"><u>Capture and Keep Best Five Extensions for Fb Videos for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/complete-guide-restoring-lost-files-on-your-samsung-galaxy-using-the-galaxy-data-recovery-app/"><u>Complete Guide: Restoring Lost Files on Your Samsung Galaxy Using the Galaxy Data Recovery App</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/dynamic-wallpaper-change-the-editors-companion-list/"><u>Dynamic Wallpaper Change The Editor's Companion List</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/frustrating-tips-and-tricks-to-watch-your-dvds-on-windows-8/"><u>Frustrating Tips and Tricks to Watch Your DVDs on Windows 8</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-honor-magic5-ultimate-frp-by-drfone-android/"><u>Full Guide to Bypass Honor Magic5 Ultimate FRP</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-xiaomi-13-ultra-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-zte-nubia-z60-ultra-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From ZTE Nubia Z60 Ultra to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-lava-blaze-pro-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Lava Blaze Pro 5G Phone FRP Lock</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/manage-your-profile-detailed-guide-to-navigating-account-preferences/"><u>Manage Your Profile: Detailed Guide to Navigating Account Preferences</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-the-complex-world-of-ai-as-a-mental-health-aide/"><u>Navigating the Complex World of AI as a Mental Health Aide</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/streamline-your-event-planning-with-advanced-editing-tools-and-features/"><u>Streamline Your Event Planning with Advanced Editing Tools and Features</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/ultimate-tutorial-how-to-stream-and-watch-flv-videos-on-your-android-device/"><u>Ultimate Tutorial: How to Stream and Watch FLV Videos on Your Android Device</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/wireless-connection-guide-linking-your-google-pixel-smartphone-with-a-windowsmac-computer/"><u>Wireless Connection Guide: Linking Your Google Pixel Smartphone with a Windows/Mac Computer</u></a></li>
 </ul></div>
 

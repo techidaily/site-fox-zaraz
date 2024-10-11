@@ -1,7 +1,7 @@
 ---
 title: Creating a Customized Look with Unique Ceramic Tiles Pages
-date: 2024-10-04T17:22:23.414Z
-updated: 2024-10-05T18:24:10.731Z
+date: 2024-10-04T02:27:43.750Z
+updated: 2024-10-10T18:38:39.647Z
 tags:
   - user-guide
 categories:
@@ -83,11 +83,25 @@ Ever since Windows 8.1 you can customize the look of your Win32 desktop applicat
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)This page uses the **Package Resource Index** tool (**MakePri.exe**) that comes with Windows SDK. You can change its path from [External Tools Options](https://tools.techidaily.com/advancedinstaller/products/) but the tiles functionality will only work on Windows versions higher or equal than the SDK version.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Tile
 
 ### Show on Start
 
  See the [Pin Program to Start Menu Automatically in Windows (App Packaging)](https://www.advancedinstaller.com/user-guide/tiles-show-start.html "Pin Program to Start Menu Automatically in Windows (App Packaging)") article for the required configuration.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Color
 
@@ -101,35 +115,9 @@ Additional customizations described in the sections below are available only whe
 
 This option enables you to show the application's name on the medium tile or not. That is the name of the application's shortcut file from the Start Menu, or of the executable file if no shortcut file exists.
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Color
 
 Choose a white or black text for the application's name on the tile. Consider what looks best over your declared tile background color.
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Tile Logo
 
@@ -138,26 +126,26 @@ Use the icon of your desktop application's EXE or uncheck **Use application's ic
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)You must specify images for both small and medium logos. If you only specify images for one logo size, the entire custom styling will be ignored and the default styling (application icon and background) will be applied to the tile.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Small Logo
 
 Supply a set of full-bleed images to replace the 70x70 small logo.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Medium Logo
 
 Supply a set of full-bleed images to replace the 150x150 medium logo.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Asset Generator
 
@@ -175,22 +163,15 @@ The path on disk where the assets are created.
 
 Press the \[... \] to select what asset types are generated (Small Tile, Medium Tile).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Scales
 
 Press the \[... \] to select what are the scales of the generated assets.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Scaling Mode
@@ -200,6 +181,13 @@ The scaling used when creating the generated visual assets.
 * Bicubic (Sharper Edges, Highest Quality)
 * Bilinear (Sharper Edges)
 * Nearest Neighbor (Smoother Edges)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Generate
 
@@ -238,22 +226,24 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/approved-unveiling-best-video-rank-trackers-for-youtube/"><u>2024 Approved Unveiling Best Video Rank Trackers for YouTube</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/cnet-reviews-navigating-through-the-features-of-netgears-c3000-router-vintage-or-value/"><u>CNET Reviews: Navigating Through the Features of Netgear's C3000 Router - Vintage or Value?</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/complete-guide-restoring-lost-files-on-your-samsung-galaxy-using-the-galaxy-data-recovery-app/"><u>Complete Guide: Restoring Lost Files on Your Samsung Galaxy Using the Galaxy Data Recovery App</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehensive-guide-to-removing-all-your-chat-sessions-from-chatgpt/"><u>Comprehensive Guide to Removing All Your Chat Sessions From ChatGPT</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/dissecting-video-platform-features-youtube-vs-dailymention/"><u>Dissecting Video Platform Features YouTube Vs. DailyMention</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/efficient-downloads-of-lenovo-x1-carbon-drivers-perfect-for-windows-107-systems-a-step-by-step-tutorial/"><u>Efficient Downloads of Lenovo X1 Carbon Drivers - Perfect for Windows 10/7 Systems: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/efficient-screen-recording-on-mac-utilizing-key-combos-for-2024/"><u>Efficient Screen Recording on Mac Utilizing Key Combos for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/efficient-software-component-for-regular-updates-iupdatercomponent-explained/"><u>Efficient Software Component for Regular Updates: IUpdaterComponent Explained</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/frustrating-tips-and-tricks-to-watch-your-dvds-on-windows-8/"><u>Frustrating Tips and Tricks to Watch Your DVDs on Windows 8</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/manage-your-profile-detailed-guide-to-navigating-account-preferences/"><u>Manage Your Profile: Detailed Guide to Navigating Account Preferences</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-cross-platform-gaming-a-guide-to-playing-your-favorite-iphone-titles-on-a-computer-or-mac/"><u>Mastering Cross-Platform Gaming: A Guide to Playing Your Favorite iPhone Titles on a Computer or Mac</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/simple-techniques-for-watermark-removal-from-2021-videos/"><u>Simple Techniques for Watermark Removal From 2021 Videos</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-honor-90-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Honor 90 Pro with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/streamline-your-event-planning-with-advanced-editing-tools-and-features/"><u>Streamline Your Event Planning with Advanced Editing Tools and Features</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitters-viral-top-10-all-about-tiktoks/"><u>Twitter's Viral Top 10 All About TikToks</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/wireless-connection-guide-linking-your-google-pixel-smartphone-with-a-windowsmac-computer/"><u>Wireless Connection Guide: Linking Your Google Pixel Smartphone with a Windows/Mac Computer</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-master-the-nft-market-leading-generators-for-digital-masters/"><u>[New] Master the NFT Market Leading Generators for Digital Masters</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-10-strategies-for-youtube-shorts-that-make-an-impact/"><u>[New] Top 10 Strategies for Youtube Shorts That Make an Impact</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-crafting-impactful-medical-messages-in-social-media/"><u>[Updated] Crafting Impactful Medical Messages in Social Media</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-choose-your-final-assembly-location-a-comprehensive-guide/"><u>1. Choose Your Final Assembly Location - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-mastering-pdf-text-extraction-a-comprehensive-guide/"><u>1. Mastering PDF Text Extraction: A Comprehensive Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-nokia-c210-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Nokia C210 by Name | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-coding-standards-is-av1-outclassing-vp9-in-2024/"><u>Advanced Coding Standards Is AV1 Outclassing VP9, In 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/complete-guide-to-retrieving-irreversibly-removed-files-via-the-recycle-bin-in-windows/"><u>Complete Guide to Retrieving Irreversibly Removed Files via the Recycle Bin in Windows</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/comprehensive-iphone-software-suite-solving-all-your-ios-challenges/"><u>Comprehensive iPhone Software Suite – Solving All Your iOS Challenges</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/convert-your-mkv-videos-to-play-on-xbox-360-with-our-easy-to-use-video-converter/"><u>Convert Your MKV Videos to Play on Xbox 360 with Our Easy-to-Use Video Converter</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-printing-experience-with-the-latest-epson-wf-3720-drivers-download-now/"><u>Enhance Your Printing Experience with the Latest Epson WF-3720 Drivers – Download Now!</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-effectively-capture-and-archive-online-meeting-footage/"><u>How to Effectively Capture and Archive Online Meeting Footage</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-latest-amd-vega-cuatro-docenas-drivers-update-on-your-pc-with-windows-os/"><u>How to Get the Latest AMD Vega Cuatro Docenas Drivers Update on Your PC with Windows OS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-honor-x50-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Honor X50 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/is-your-google-drive-vulnerable-to-ransomware-insights-from-malwarefox/"><u>Is Your Google Drive Vulnerable to Ransomware: Insights From MalwareFox</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-your-application-settings-a-guide-to-the-appproperties-tab-features/"><u>Mastering Your Application Settings: A Guide to the AppProperties Tab Features</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-on-using-apowersoft-software-for-effective-watermark-removal/"><u>Step-by-Step Guide on Using Apowersoft Software for Effective Watermark Removal</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/transform-your-pdf-bills-into-excel-essential-guide-for-accountants-and-bookkeepers/"><u>Transform Your PDF Bills Into Excel: Essential Guide for Accountants and Bookkeepers</u></a></li>
 </ul></div>
 

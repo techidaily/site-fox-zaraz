@@ -1,7 +1,7 @@
 ---
 title: User-Defined Initialization Options Panel for Custom Application Deployment
-date: 2024-10-03T19:54:36.917Z
-updated: 2024-10-05T20:56:21.115Z
+date: 2024-10-09T04:43:14.529Z
+updated: 2024-10-11T00:56:28.099Z
 tags:
   - user-guide
 categories:
@@ -76,33 +76,27 @@ In this tab you can define custom launch conditions by using[installer propertie
 
 ![Custom launch conditions](https://cdn.advancedinstaller.com/img/ui/custom-launch-conditions.png "Custom launch conditions")  
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Creating a new launch condition
 
 Use the \[New \] button, the “New” list context menu item or press the Insert key while the list control is focused. The [Edit Launch Condition Dialog](https://tools.techidaily.com/advancedinstaller/products/) will pop up allowing you to specify a launch condition.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Modifying a launch condition
 
  Use the \[Edit \] button, the “Edit” list context menu item or press the Space key while an element from the list control is selected. The [Edit Launch Condition Dialog](https://tools.techidaily.com/advancedinstaller/products/) will pop up allowing you to edit a launch condition.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Removing a launch condition
 
@@ -111,23 +105,17 @@ Use the \[New \] button, the “New” list context menu item or press the Inser
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The installation will run only if the custom launch conditions are**True**. Otherwise, the launch condition description will be showed to the user.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -168,14 +156,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-ultimate-ig-dashboard-unraveling-user-engagement-patterns/"><u>[New] The Ultimate IG Dashboard Unraveling User Engagement Patterns</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-web-based-gag-generator/"><u>[Updated] Web-Based Gag Generator</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/exploring-app-id-in-icomclass-a-deep-dive-into-systemic-code-recognition/"><u>Exploring App ID in iComClass: A Deep Dive Into Systemic Code Recognition</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-iphones-unlocked-smart-tips-for-saving-and-playing-gifs/"><u>In 2024, IPhones Unlocked Smart Tips for Saving & Playing GIFs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/inside-look-windows-command-center/"><u>Inside Look: Windows' Command Center</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/language-settings-and-preferences-customizing-your-user-experience/"><u>Language Settings & Preferences: Customizing Your User Experience</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/simple-steps-for-retrieving-erased-pictures-from-an-iphone-4s-or-ipod-touch-5th-generation/"><u>Simple Steps for Retrieving Erased Pictures From an iPhone 4S or iPod Touch 5Th Generation</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/streamlined-video-magnify-tool/"><u>Streamlined Video Magnify Tool</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/understanding-property-attributes-in-application-maps/"><u>Understanding Property Attributes in Application Maps</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unlock-creative-potential-with-expert-macro-video-cinematography-guidance-for-2024/"><u>[New] Unlock Creative Potential with Expert Macro Video Cinematography Guidance for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-choose-your-final-assembly-location-a-comprehensive-guide/"><u>1. Choose Your Final Assembly Location - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-bypassing-watermarks-for-photographic-needs/"><u>2024 Approved Bypassing Watermarks for Photographic Needs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-is-sns-hdr-pro-the-gold-standard-for-hdr-editors/"><u>2024 Approved Is SNS HDR Pro the Gold Standard for HDR Editors?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-tips-for-producing-ai-powered-live-game-streaming-content/"><u>2024 Approved Tips for Producing AI-Powered Live Game Streaming Content</u></a></li>
+<li><a href="https://windows11.techidaily.com/adding-disk-usage-viewers-to-windows-menu-bar/"><u>Adding Disk Usage Viewers to Windows Menu Bar</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/creating-a-customized-look-with-unique-ceramic-tiles-pages/"><u>Creating a Customized Look with Unique Ceramic Tiles Pages</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/custom-regional-chat-features-for-enhanced-engagement/"><u>Custom Regional Chat Features for Enhanced Engagement</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-realme-c55-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Realme C55 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/exploring-multilingual-options-and-features-on-our-platform/"><u>Exploring Multilingual Options and Features on Our Platform</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/exploring-the-com-objects-property-pane/"><u>Exploring the COM Objects Property Pane</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-efficiently-transfer-music-the-best-mp3-downloading-techniques-from-rhapsody-for-pc-users/"><u>How to Efficiently Transfer Music: The Best MP3 Downloading Techniques From Rhapsody for PC Users</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-from-free-to-fortune-unlocking-youtubes-earnings-at-the-500-subscriber-level/"><u>In 2024, From Free to Fortune Unlocking YouTube's Earnings at the 500 Subscriber Level</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/launching-files-from-d-drive-on-explorer-nav-bar/"><u>Launching Files From D: Drive on Explorer Nav Bar</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-folder-synchronization-step-by-step-tips-for-a-harmonized-digital-experience/"><u>Mastering Folder Synchronization: Step-by-Step Tips for a Harmonized Digital Experience</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/perfecting-your-school-id-picture-with-ios-and-android-cameras/"><u>Perfecting Your School ID Picture with iOS and Android Cameras</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-creatives-handbook-obtaining-stock-visuals-for-media-for-2024/"><u>The Creative's Handbook Obtaining Stock Visuals for Media for 2024</u></a></li>
 </ul></div>
 

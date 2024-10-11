@@ -1,7 +1,7 @@
 ---
 title: Discover the Perfect Property Match – Navigate With Us at IProperty
-date: 2024-09-30T16:14:49.011Z
-updated: 2024-10-05T17:16:00.754Z
+date: 2024-10-06T16:08:28.372Z
+updated: 2024-10-10T17:15:52.815Z
 tags:
   - user-guide
 categories:
@@ -109,10 +109,10 @@ Table of Contents
 ## IProperty
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -120,10 +120,10 @@ Table of Contents
 IPowershellScriptFile : ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -131,10 +131,10 @@ IPowershellScriptFile : ICustomAction
 This interface facilitates editing custom action that allows launching a Powershell script file into execution.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -146,10 +146,10 @@ This interface facilitates editing custom action that allows launching a Powersh
 **Bool Is64Bit** \- Gets or sets the property of the custom action to run the 32-bit PowerShell executable. If Is32Bit value is also “true” then runs the Operating System bitness PowerShell executable (32-bit on x86 operating systems, 64-bit on x64).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -191,24 +191,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-enhance-videos-on-vimeo-with-top-video-editors/"><u>[Updated] Enhance Videos on Vimeo with Top Video Editors</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-mastering-mac-screenshots-and-screen-recording-for-2024/"><u>[Updated] Mastering Mac Screenshots & Screen Recording for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1-seamless-ip-address-chain-integration-tool/"><u>1. Seamless IP Address Chain Integration Tool</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-meme-matrix-top-10-memes-on-social-media-platforms/"><u>2024 Approved Meme Matrix Top 10 Memes on Social Media Platforms</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/access-premium-music-without-spending-explore-safaris-leading-mp3-download-app/"><u>Access Premium Music Without Spending: Explore Safari's Leading MP3 Download App!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/assassins-creed-mirage-playback-problems-comprehensive-troubleshooting-tips-and-hacks-for-new-releases/"><u>Assassin's Creed: Mirage Playback Problems? Comprehensive Troubleshooting Tips & Hacks for New Releases</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/custom-action-with-attached-script-boosting-iattactivities/"><u>Custom Action with Attached Script: Boosting IATTACTIVITIES</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/discover-premiere-pro-essentials-free-and-high-quality/"><u>Discover Premiere Pro Essentials Free & High-Quality</u></a></li>
-<li><a href="https://techtrends.techidaily.com/free-image-converter-by-movavi-easily-convert-raf-files-to-jpgjpeg-online-now/"><u>Free Image Converter by Movavi: Easily Convert RAF Files to JPG/JPEG Online Now</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-nubia-red-magic-8s-proplus-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Nubia Red Magic 8S Pro+ Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-step-by-step-adding-snapchat-to-your-mac/"><u>In 2024, Step-by-Step Adding Snapchat to Your Mac</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/leading-screencast-tools-for-showcasing-world-of-tanks-strategies/"><u>Leading Screencast Tools for Showcasing World of Tanks Strategies</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-password-security-top-3-tactics-for-creating-unforgettable-robust-passphrases/"><u>Mastering Password Security: Top 3 Tactics for Creating Unforgettable, Robust Passphrases</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/navigating-through-key-microsoft-libraries-on-the-windows-platform/"><u>Navigating Through Key Microsoft Libraries on the Windows Platform</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-linking-your-android-device-with-an-lg-television/"><u>Step-by-Step Guide: Linking Your Android Device with an LG Television</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-instructions-to-upgrade-your-logitech-c920-cam-driver-on-windows-11108-systems/"><u>Step-by-Step Instructions to Upgrade Your Logitech C920 Cam Driver on Windows 11/10/8 Systems</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/switching-layouts-in-your-e-book-creation-a-step-by-step-guide-with-flipbuilder/"><u>Switching Layouts in Your E-Book Creation: A Step-by-Step Guide with FlipBuilder</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/ultimate-tutorial-on-capturing-your-google-meet-video-conference-with-minimal-hassle/"><u>Ultimate Tutorial on Capturing Your Google Meet Video Conference with Minimal Hassle</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/understanding-browserbrokerexe-safety-assessment-and-virus-risks/"><u>Understanding Browser_broker.exe: Safety Assessment & Virus Risks</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-explore-the-pinnacle-of-editing-android-edition/"><u>[Updated] In 2024, Explore the Pinnacle of Editing Android Edition</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-understanding-file-attributes-a-comprehensive-guide/"><u>1. Understanding File Attributes: A Comprehensive Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-motorola-razr-40-ultra-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Motorola Razr 40 Ultra Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/breaking-down-solution-strategies-for-troubleshooting-error-0xc19001e1-on-windows-10-machines/"><u>Breaking Down Solution Strategies for Troubleshooting Error 0Xc19001e1 on Windows 10 Machines</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/complete-how-to-mastering-the-art-of-screen-shots-on-toshiba-laptopstelevisions/"><u>Complete How-To: Mastering the Art of Screen Shots on Toshiba Laptops/Televisions</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/comprehensive-guide-to-utilizing-extension-attributes-in-software-development/"><u>Comprehensive Guide to Utilizing Extension Attributes in Software Development</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/data-saving-secrets-how-to-send-texts-without-eating-into-your-plan/"><u>Data-Saving Secrets: How to Send Texts Without Eating Into Your Plan</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-vivo-y36-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Vivo Y36 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/focus-recording-on-part-of-the-screen-in-windows-ultimate-how-to-tutorial/"><u>Focus Recording on Part of the Screen in Windows: Ultimate How-To Tutorial</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/ifolderswidget-integrating-seamless-folder-management-into-your-app/"><u>IFoldersWidget: Integrating Seamless Folder Management Into Your App</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-iphone-11-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 11 Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/leading-passport-photography-apps-ranked-for-ios-and-android-how-to-get-your-travel-document-photos-on-a-budget/"><u>Leading Passport Photography Apps Ranked for iOS & Android: How to Get Your Travel Document Photos on a Budget!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-setting-up-videoleap-on-macbook-download-install-and-start-editing/"><u>New In 2024, Setting Up Videoleap on MacBook Download, Install, and Start Editing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-printer-driver-not-found-error-in-windows-computers-a-step-by-step-guide/"><u>Resolving 'Printer Driver Not Found' Error in Windows Computers - A Step by Step Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/superior-hd-recording-systems/"><u>Superior HD Recording Systems</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-8-secure-password-tools-compatible-with-windows-11/"><u>Top 8 Secure Password Tools Compatible with Windows 11</u></a></li>
 </ul></div>
 

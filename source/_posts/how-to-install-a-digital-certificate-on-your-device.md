@@ -1,7 +1,7 @@
 ---
 title: How to Install a Digital Certificate on Your Device
-date: 2024-09-28T18:04:28.324Z
-updated: 2024-10-05T16:29:10.424Z
+date: 2024-10-05T21:37:04.271Z
+updated: 2024-10-10T16:12:25.739Z
 tags:
   - user-guide
 categories:
@@ -126,10 +126,10 @@ Table of Contents
 ## IInstallCertificate
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -137,10 +137,10 @@ Table of Contents
 IInstallCertificate : ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -148,10 +148,10 @@ IInstallCertificate : ICustomAction
 This interface facilitates editing custom action that installs a certificate included in the installer. It requires administrative privileges to run, so make sure you set "RunAsAdministrator" property to “true” from Install Parameters.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -163,10 +163,16 @@ This interface facilitates editing custom action that installs a certificate inc
 **String StoreName** \- Gets or sets the name of the certificate store.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -208,19 +214,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-prime-interactive-face-time-festivals/"><u>[New] In 2024, Prime Interactive Face Time Festivals</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-dismantling-the-economics-of-youtubes-ambitious-shorts-fund/"><u>[Updated] In 2024, Dismantling the Economics of YouTube's Ambitious Shorts Fund</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1-choose-your-final-assembly-location-a-comprehensive-guide/"><u>1. Choose Your Final Assembly Location - A Comprehensive Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-pinnacle-of-media-excellence-top-phones-videos/"><u>2024 Approved The Pinnacle of Media Excellence Top Phones Videos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-tricks-to-faster-and-smoother-instagram-media/"><u>2024 Approved Tricks to Faster and Smoother Instagram Media</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-honor-magic-6-pro-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Honor Magic 6 Pro to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/creating-a-customized-look-with-unique-ceramic-tiles-pages/"><u>Creating a Customized Look with Unique Ceramic Tiles Pages</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/custom-regional-chat-features-for-enhanced-engagement/"><u>Custom Regional Chat Features for Enhanced Engagement</u></a></li>
-<li><a href="https://win-forum.techidaily.com/essential-tips-to-resolve-windows-11-failure-to-launch-messages/"><u>Essential Tips to Resolve Windows 11 Failure to Launch Messages</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/exploring-the-com-objects-property-pane/"><u>Exploring the COM Objects Property Pane</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-efficiently-transfer-music-the-best-mp3-downloading-techniques-from-rhapsody-for-pc-users/"><u>How to Efficiently Transfer Music: The Best MP3 Downloading Techniques From Rhapsody for PC Users</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-ipad-or-iphone-6-plus-stuck-on-activation-lock-by-drfone-ios/"><u>In 2024, How to Fix iPad or iPhone 6 Plus Stuck On Activation Lock?</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/perfecting-your-school-id-picture-with-ios-and-android-cameras/"><u>Perfecting Your School ID Picture with iOS and Android Cameras</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unanswerable-inquiries-in-language-models/"><u>Unanswerable Inquiries in Language Models</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-navigating-the-art-of-live-stream-archiving-for-tv-series-for-2024/"><u>[New] Navigating the Art of Live Stream Archiving for TV Series for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-quick-guide-updating-and-replacing-texts-in-itext-best-practices/"><u>1. Quick Guide: Updating and Replacing Texts in Itext - Best Practices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-unlocking-the-potential-of-multi-stream-video-on-microsoft-edge/"><u>2024 Approved Unlocking the Potential of Multi-Stream Video on Microsoft Edge</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-from-apple-iphone-15-pro-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled From Apple iPhone 15 Pro? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-glitches-step-by-step-solutions-for-persistent-pc-gaming-crashes/"><u>Beat the Glitches: Step-by-Step Solutions for Persistent PC Gaming Crashes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-honor-x8b-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Honor X8b?</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/complete-guide-restoring-lost-files-on-your-samsung-galaxy-using-the-galaxy-data-recovery-app/"><u>Complete Guide: Restoring Lost Files on Your Samsung Galaxy Using the Galaxy Data Recovery App</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/frustrating-tips-and-tricks-to-watch-your-dvds-on-windows-8/"><u>Frustrating Tips and Tricks to Watch Your DVDs on Windows 8</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-itel-a05s-by-drfone-android/"><u>How to Bypass FRP on Itel A05s?</u></a></li>
+<li><a href="https://tools.techidaily.com/link-assistant/keyword-research/keyword-gap/"><u>Keyword Gap Analysis Tool</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/simple-methods-to-print-sms-from-your-android-device/"><u>Simple Methods to Print SMS From Your Android Device</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/streamline-your-event-planning-with-advanced-editing-tools-and-features/"><u>Streamline Your Event Planning with Advanced Editing Tools and Features</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-rated-windows-11-screen-recording-tools-a-comprehensive-guide/"><u>Top-Rated Windows 11 Screen Recording Tools: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-broadcasts-with-manycam-the-leading-choice-in-live-cam-and-editing-tools/"><u>Transform Your Broadcasts with ManyCam: The Leading Choice in Live Cam and Editing Tools</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/transform-your-photos-to-searchable-pdfs-on-iphone-utilizing-optical-character-recognition-ocr-in-finereader-app/"><u>Transform Your Photos to Searchable PDFs on iPhone: Utilizing Optical Character Recognition (OCR) in FINEREADER App</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/ultimate-tutorial-how-to-stream-and-watch-flv-videos-on-your-android-device/"><u>Ultimate Tutorial: How to Stream and Watch FLV Videos on Your Android Device</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/wireless-connection-guide-linking-your-google-pixel-smartphone-with-a-windowsmac-computer/"><u>Wireless Connection Guide: Linking Your Google Pixel Smartphone with a Windows/Mac Computer</u></a></li>
 </ul></div>
 

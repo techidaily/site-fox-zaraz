@@ -1,7 +1,7 @@
 ---
 title: How to Use Special Character Entities in XML Documents Effectively
-date: 2024-10-04T19:14:59.038Z
-updated: 2024-10-05T16:36:02.453Z
+date: 2024-10-07T20:13:48.639Z
+updated: 2024-10-10T19:27:51.993Z
 tags:
   - user-guide
 categories:
@@ -106,10 +106,10 @@ At build time, Advanced Installer will automatically perform the XML special cha
 For example, if you add an existing XML file or create a new one in your project and insert a special XML character in one of its elements, let's say < character, when you will build the project, Advanced Installer will automatically escape this character, replacing it with &lt;. The result is that the XML document installed by the built package will contain the escaped character making possible the correct interpretation of the XML code.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## XML special characters that get escaped at install time
@@ -123,10 +123,16 @@ For example, if you add an existing XML file or create a new one in your project
 | **Apostrophe**        | **&apos;**       | **'**                |
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Video tutorial
@@ -164,20 +170,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-chromium-connection-pixel-phone-rhythms/"><u>[New] The Chromium Connection Pixel Phone Rhythms</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-creating-captivating-thumbnails-for-youtube/"><u>[Updated] 2024 Approved Creating Captivating Thumbnails for YouTube</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-how-to-unearth-your-secret-snapshots/"><u>[Updated] 2024 Approved How to Unearth Your Secret Snapshots</u></a></li>
-<li><a href="https://video-capture.techidaily.com/addressing-disrupted-video-in-obs-studio-for-2024/"><u>Addressing Disrupted Video in OBS Studio for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/best-video-converter-applications-transforming-footage-into-gifs-successfully/"><u>Best Video Converter Applications: Transforming Footage Into GIFs Successfully</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/efficient-searching-techniques-with-xquery-language-elements/"><u>Efficient Searching Techniques with XQuery Language Elements</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-install-a-digital-certificate-on-your-device/"><u>How to Install a Digital Certificate on Your Device</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/improving-interaction-quality-through-effective-preferences-configuration-interface/"><u>Improving Interaction Quality Through Effective 'Preferences Configuration Interface'</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/launch-in-pc-no-fee-clone-of-chatgpt-on-windows/"><u>Launch In-PC, No-Fee Clone of ChatGPT on Windows.</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/optimize-your-privacy-with-stellar-secureerase-pro-setting-up-windows-regular-sweep-cycles/"><u>Optimize Your Privacy with Stellar SecureErase Pro - Setting Up Windows Regular Sweep Cycles</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-vivo-v29e-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Vivo V29e FRP Bypass</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/understanding-product-language-exploring-the-importance-of-localization/"><u>Understanding Product Language: Exploring the Importance of Localization</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/understanding-the-various-categories-of-programs-on-microsofts-windows-marketplace/"><u>Understanding the Various Categories of Programs on Microsoft's Windows Marketplace</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-step-by-step-approach-to-selecting-advanced-360-cameras/"><u>[New] A Step-by-Step Approach to Selecting Advanced 360 Cameras</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-soothing-soundscapes-recommended-voice-experts/"><u>[New] Soothing Soundscapes Recommended Voice Experts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-integrating-secure-recording-in-your-workflow/"><u>[Updated] 2024 Approved Integrating Secure Recording in Your Workflow</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-transforming-videos-into-stories-top-5-effective-tiktok-caption-strategies/"><u>[Updated] Transforming Videos Into Stories Top 5 Effective TikTok Caption Strategies</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/complete-guide-to-defeating-trojans-the-5-most-powerful-removal-solutions-of-2er-years/"><u>Complete Guide to Defeating Trojans: The 5 Most Powerful Removal Solutions of 2Er Years</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-combined-content-on-iphone-smoothly/"><u>Crafting Combined Content on iPhone Smoothly</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/customize-data-sources-in-property-editing-panel/"><u>Customize Data Sources in Property Editing Panel</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/easy-guide-on-how-to-record-songs-from-apple-music-streaming/"><u>Easy Guide on How to Record Songs From Apple Music Streaming</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/easy-methods-to-set-any-image-as-white-background-using-your-iphone/"><u>Easy Methods to Set Any Image as White Background Using Your iPhone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/easy-tutorial-on-reflecting-android-display-on-an-lg-smart-television/"><u>Easy Tutorial on Reflecting Android Display on an LG Smart Television</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-for-troubleshooting-pc-crashes-with-enshrouded/"><u>Effective Solutions for Troubleshooting PC Crashes with 'Enshrouded'</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/guide-mastering-the-game-of-honkai-impact-3-on-your-windows-machine/"><u>Guide: Mastering the Game of Honkai Impact 3 on Your Windows Machine</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/optimizing-playback-speed-with-professional-tactics/"><u>Optimizing Playback Speed with Professional Tactics</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-the-stutter-expert-solutions-to-state-of-decay-2-freezing-problems-gaming-pcs/"><u>Overcome the Stutter: Expert Solutions to State of Decay 2 Freezing Problems Gaming PCs</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/recover-lost-data-restore-deleted-photos-and-documents-from-your-android-phone-with-sd-card-recovery/"><u>Recover Lost Data: Restore Deleted Photos & Documents From Your Android Phone with SD Card Recovery</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-tips-for-downloading-and-playing-mp3-audio-on-an-ipad-device/"><u>Top Tips for Downloading and Playing MP3 Audio on an iPad Device</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-transforming-content-into-multilingual-masterpieces-a-filmora-based-approach-to-video-dubbing/"><u>Updated Transforming Content Into Multilingual Masterpieces A Filmora-Based Approach to Video Dubbing</u></a></li>
 </ul></div>
 

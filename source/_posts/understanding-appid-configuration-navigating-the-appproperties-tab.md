@@ -1,7 +1,7 @@
 ---
 title: "Understanding AppID Configuration: Navigating the AppProperties Tab"
-date: 2024-09-30T16:13:55.683Z
-updated: 2024-10-05T18:47:18.031Z
+date: 2024-10-09T19:04:04.781Z
+updated: 2024-10-10T19:23:22.726Z
 tags:
   - user-guide
 categories:
@@ -84,16 +84,16 @@ This view allows you to configure and register DCOM servers.
 
 ## General
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### AppId
 
 Specify the AppId value that will be written under the CLSID and creates the AppId GUID key under HKCR\\AppId.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Properties
 
@@ -102,21 +102,22 @@ Specify the AppId value that will be written under the CLSID and creates the App
 This value will be written under HKCR\\AppID\\{AppID}, "RemoteServerName"=xxxx. This field is of [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/). Use the \[... \] to insert reference to a file, folder or property.
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Local Service
 
 This value will be written under HKCR\\AppID\\{AppId}, "LocalService"=xxx.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Service Parameters
 
@@ -127,22 +128,15 @@ This value will be written under HKCR\\AppID\\{AppId}, "ServiceParameters"=xxx.
 This value will be written under HKCR\\AppId\\{AppId}, "DllSurrogate"=xxx. Usually this string is empty.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Active At Storage
 
  If the checkbox is enabled the value "ActivateAtStorage"="Y" will be written under HKCR\\AppID\\{AppId}.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Run As Interactive User
 
@@ -181,19 +175,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-insta-personality-showcase-100-crafted-caption-ideas/"><u>[New] 2024 Approved Insta Personality Showcase - 100 Crafted Caption Ideas</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-avoiding-grainy-zoom-videos-techniques-included/"><u>[New] Avoiding Grainy Zoom Videos – Techniques Included</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-how-to-easily-and-quickly-draw-on-photos-app-in-windows-10-for-2024/"><u>[Updated] How to Easily and Quickly Draw on Photos App in Windows 10 for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-powerful-tactics-leveraging-youtube-links-for-fb-exposure/"><u>2024 Approved Powerful Tactics Leveraging YouTube Links for FB Exposure</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/choosing-between-pandora-and-spotify-a-comprehensive-guide-to-determine-the-best-platform/"><u>Choosing Between Pandora and Spotify: A Comprehensive Guide to Determine the Best Platform</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/efficient-software-component-for-regular-updates-iupdatercomponent-explained/"><u>Efficient Software Component for Regular Updates: IUpdaterComponent Explained</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6-plus-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6 Plus To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-iphone-13-pro-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or iPhone 13 Pro?</u></a></li>
-<li><a href="https://win-dash.techidaily.com/instant-access-to-mediateks-usb-vcom-drivers-secure-download/"><u>Instant Access to MediaTek's USB VCOM Drivers – Secure Download</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-cross-platform-gaming-a-guide-to-playing-your-favorite-iphone-titles-on-a-computer-or-mac/"><u>Mastering Cross-Platform Gaming: A Guide to Playing Your Favorite iPhone Titles on a Computer or Mac</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/premium-gratis-image-cleaner-top-watermark-stripper-apps/"><u>Premium Gratis Image Cleaner: Top Watermark Stripper Apps</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/simple-techniques-for-watermark-removal-from-2021-videos/"><u>Simple Techniques for Watermark Removal From 2021 Videos</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-oppo-reno-8t-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Oppo Reno 8T</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/user-friendly-file-download-prompt-guide/"><u>User-Friendly File Download Prompt Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-conquer-the-social-networking-landscape-and-grow-your-followers/"><u>[New] In 2024, Conquer the Social Networking Landscape and Grow Your Followers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-background-video-recording-solutions-for-2024/"><u>[Updated] Background Video Recording Solutions for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-a-simple-yet-effective-guide-for-starting-a-skype-group-discussion-across-different-os-platforms/"><u>[Updated] In 2024, A Simple yet Effective Guide for Starting a Skype Group Discussion Across Different OS Platforms</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-embark-on-a-wanderlust-adventure-becoming-a-professional-travel-vlogger/"><u>[Updated] In 2024, Embark on a Wanderlust Adventure Becoming A Professional Travel Vlogger</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-seamless-ip-address-chain-integration-tool/"><u>1. Seamless IP Address Chain Integration Tool</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-deep-dive-into-the-transformative-shifts-from-gpt-35-to-gpt-4/"><u>A Deep Dive Into the Transformative Shifts From GPT-3.5 to GPT-4</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/access-premium-music-without-spending-explore-safaris-leading-mp3-download-app/"><u>Access Premium Music Without Spending: Explore Safari's Leading MP3 Download App!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-oppo-f25-pro-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Oppo F25 Pro 5G Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/how-to-record-console-gameplay-on-computer/"><u>How to Record Console Gameplay on Computer</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/leading-screencast-tools-for-showcasing-world-of-tanks-strategies/"><u>Leading Screencast Tools for Showcasing World of Tanks Strategies</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/navigating-through-key-microsoft-libraries-on-the-windows-platform/"><u>Navigating Through Key Microsoft Libraries on the Windows Platform</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-linking-your-android-device-with-an-lg-television/"><u>Step-by-Step Guide: Linking Your Android Device with an LG Television</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-authentication-issues-in-windows-os/"><u>Troubleshooting Authentication Issues in Windows OS</u></a></li>
 </ul></div>
 

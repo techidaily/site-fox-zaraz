@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Your Workflow: Understanding the 'AttachScript' Custom Action Feature"
-date: 2024-09-30T17:06:28.208Z
-updated: 2024-10-05T18:08:16.190Z
+date: 2024-10-04T01:24:00.017Z
+updated: 2024-10-10T18:00:43.230Z
 tags:
   - user-guide
 categories:
@@ -125,22 +125,15 @@ Table of Contents
 
 ## IAttachedScriptFileCustomAction
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Declaration
 
 IAttachedScriptFileCustomAction: ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -148,10 +141,10 @@ IAttachedScriptFileCustomAction: ICustomAction
 This interface facilitates editing custom action for launching attached script file.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -165,10 +158,10 @@ This interface facilitates editing custom action for launching attached script f
 **String ActionData** \- Gets or sets the value of the CustomActionData property. This property can be retrieved as a regular property inside Deferred custom actions and it is available only for DLL, JScript and VBScript custom actions. A common usage scenario is to use the CustomActionData property in Rollback Custom Actions since they are also deferred.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Examples
@@ -179,6 +172,13 @@ $custAct = $project.CustomActionsComponent.NewLaunchAttachedScriptFile("D:\my_sc
 $custAct.FunctionName = "MyFunction"
 
 Copy
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## See also
 
@@ -219,24 +219,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-more-views-with-the-best-youtube-thumbnail-ideas/"><u>[New] 2024 Approved Get More Views with the Best YouTube Thumbnail Ideas</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-full-guide-to-download-windows-movie-maker-60/"><u>[New] Full Guide to Download Windows Movie Maker 6.0</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-from-novice-to-pro-the-essentials-in-zooming-for-youtube-broadcasts/"><u>[New] In 2024, From Novice to Pro The Essentials in Zooming for YouTube Broadcasts</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-scholarly-selection-pinpointing-top-10-teaching-equipment-options-for-2024/"><u>[New] Scholarly Selection Pinpointing Top 10 Teaching Equipment Options for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-unleashing-screen-content-with-zdsofts-magic/"><u>[New] Unleashing Screen Content with ZDSoft's Magic</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-step-by-step-guide-to-dynamic-sports-filmmaking/"><u>[Updated] Step-by-Step Guide to Dynamic Sports Filmmaking</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/3-metodi-a-contea-per-la-trasformazione-di-video-mts-in-mp4-senza-costi-ingiustificati/"><u>3 Metodi a Contea per La Trasformazione Di Video MTS in MP4 Senza Costi Ingiustificati</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-vivo-t2-pro-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Vivo T2 Pro 5G</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/customizing-your-application-with-the-component-configuration-panel/"><u>Customizing Your Application with the Component Configuration Panel</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/efficient-property-selection-interface/"><u>Efficient Property Selection Interface</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/explore-whats-new-with-the-updated-itunes-software-version-121-unveiled/"><u>Explore What's New with the Updated iTunes Software - Version 12.1 Unveiled</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/installer-project-mastering-the-permissions-tab/"><u>Installer Project: Mastering the Permissions Tab</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/master-the-art-of-image-editing-discover-leading-background-replacement-software-for-flawless-visuals/"><u>Master the Art of Image Editing: Discover Leading Background Replacement Software for Flawless Visuals</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-troubleshooting-expert-tips-for-getting-your-samsung-kies-back-on-track/"><u>Mastering Troubleshooting: Expert Tips for Getting Your Samsung Kies Back on Track!</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/solving-chromes-excessive-cpu-drain-effective-strategies-for-reducing-memory-consumption/"><u>Solving Chrome's Excessive CPU Drain: Effective Strategies for Reducing Memory Consumption</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/top-free-artificial-intelligence-tools-for-creating-captions-enhance-your-videos-accessibility/"><u>Top Free Artificial Intelligence Tools for Creating Captions: Enhance Your Videos' Accessibility</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/top-rated-video-resume-creators-and-expert-advice/"><u>Top-Rated Video Resume Creators & Expert Advice</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-save-mysteries-how-to-identify-users-who-preserve-your-instagram-content/"><u>Unveiling Save Mysteries: How to Identify Users Who Preserve Your Instagram Content</u></a></li>
-<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-free-screen-recorder-for-androids-seamless-use-for-2024/"><u>[New] Free Screen Recorder for Android's Seamless Use for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-comprehensible-guide-to-dji-inspire-2/"><u>[New] The Comprehensible Guide to DJI Inspire 2</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-essential-guide-to-understanding-youtubes-earnings-mechanics-cpm/"><u>[New] The Essential Guide to Understanding YouTube's Earnings Mechanics (CPM)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-noble-nine-top-dvd-creation-tools-sierra-edition/"><u>[Updated] 2024 Approved Noble Nine Top DVD Creation Tools, Sierra Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-complete-guide-to-upgrading-mp4-with-premium-srt-sound/"><u>[Updated] The Complete Guide to Upgrading MP4 With Premium SRT Sound</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leading-8-tools-for-subtitle-srt-format-switching/"><u>2024 Approved Leading 8 Tools for Subtitle-SRT Format Switching</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/can-you-trust-pornhub-essential-tips-for-securely-exploring-adult-websites/"><u>Can You Trust Pornhub? Essential Tips for Securely Exploring Adult Websites</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/enhancing-visual-content-mastering-the-art-of-ipatchtarget-imagery/"><u>Enhancing Visual Content: Mastering the Art of IPatchTarget Imagery</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hidden-gems-in-the-world-of-google-podcasts-for-2024/"><u>Hidden Gems in the World of Google Podcasts for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-samsung-galaxy-a54-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Samsung Galaxy A54 5G to New Phone | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/intel-xeons-new-era-micron-launches-high-capacity-256gb-ddr5-8800-mrdimms/"><u>Intel Xeon's New Era: Micron Launches High-Capacity 256GB DDR5-8800 MRDIMMs</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/key-characteristics-of-components/"><u>Key Characteristics of Components</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-uncovering-stealthy-keylogging-threats-on-your-windows-machine-via-keylogger-scanning-software/"><u>Step-by-Step Guide: Uncovering Stealthy Keylogging Threats on Your Windows Machine via Keylogger Scanning Software</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/understanding-appid-configuration-navigating-the-appproperties-tab/"><u>Understanding AppID Configuration: Navigating the AppProperties Tab</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/user-defined-initialization-options-panel-for-custom-application-deployment/"><u>User-Defined Initialization Options Panel for Custom Application Deployment</u></a></li>
 </ul></div>
 

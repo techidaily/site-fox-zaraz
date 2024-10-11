@@ -1,7 +1,7 @@
 ---
 title: "Manage Your Profile: Detailed Guide to Navigating Account Preferences"
-date: 2024-09-29T18:47:45.033Z
-updated: 2024-10-05T18:36:20.857Z
+date: 2024-10-05T20:18:33.357Z
+updated: 2024-10-11T04:51:07.022Z
 tags:
   - user-guide
 categories:
@@ -78,6 +78,13 @@ Table of Contents
 
 ![Task Account](https://cdn.advancedinstaller.com/img/dialog/tasks-account.png "Task Account")  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## User Account
 
 There are two types of user accounts that can be chosen:
@@ -89,34 +96,33 @@ For "Property based user" type you can specify the**account** name or the SID of
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Groups or groups' SIDs are supported only for [scheduled tasks configured for](https://tools.techidaily.com/advancedinstaller/products/) Windows Vista or above.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Run only if user is logged in
 
 Sets the task to run only when the user is logged on. In this case you don't need to specify a password.
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Run with highest privileges
 
 Runs the task with the highest privileges the user has. For example if the user is administrator, the task can run with elevated privileges.
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Password
 
@@ -128,10 +134,10 @@ If the target account for the task is present on the target computer you must su
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)You can not schedule a task to run under user accounts that are not password protected. Also, if you want the task to run under the "System Account" leave the "User" and "Password" fields empty.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Did you find this page useful?
@@ -167,20 +173,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/pro-editors-insight-restore-true-colors-to-faded-iphone-hdr-in-adobe-premiere/"><u>[Pro Editor's Insight] Restore True Colors to Faded iPhone HDR in Adobe Premiere</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-comedic-counterpoints-funny-song-flips-for-2024/"><u>[Updated] Comedic Counterpoints Funny Song Flips for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-pinpointing-your-individual-playlist-hub-on-youtube-for-2024/"><u>[Updated] Pinpointing Your Individual Playlist Hub on YouTube for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/alexa-vs-siri-showdown-echo-dot-versus-homepod-mini-unveiled/"><u>Alexa vs Siri Showdown: Echo Dot versus HomePod Mini Unveiled</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-review-of-govee-glide-hexa-led-panels-transforming-walls-with-colorful-illumination/"><u>Comprehensive Review of Govee Glide Hexa LED Panels: Transforming Walls with Colorful Illumination</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/customize-data-sources-in-property-editing-panel/"><u>Customize Data Sources in Property Editing Panel</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/explore-whats-new-with-the-updated-itunes-software-version-121-unveiled/"><u>Explore What's New with the Updated iTunes Software - Version 12.1 Unveiled</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exposure-chatgpt-for-windowsunrelated-malware/"><u>Exposure: ChatGPT for Windows—Unrelated Malware</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-iphone-6-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with iPhone 6 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/installer-project-mastering-the-permissions-tab/"><u>Installer Project: Mastering the Permissions Tab</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/master-the-art-of-image-editing-discover-leading-background-replacement-software-for-flawless-visuals/"><u>Master the Art of Image Editing: Discover Leading Background Replacement Software for Flawless Visuals</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-troubleshooting-expert-tips-for-getting-your-samsung-kies-back-on-track/"><u>Mastering Troubleshooting: Expert Tips for Getting Your Samsung Kies Back on Track!</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/recover-lost-data-restore-deleted-photos-and-documents-from-your-android-phone-with-sd-card-recovery/"><u>Recover Lost Data: Restore Deleted Photos & Documents From Your Android Phone with SD Card Recovery</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/top-tips-for-downloading-and-playing-mp3-audio-on-an-ipad-device/"><u>Top Tips for Downloading and Playing MP3 Audio on an iPad Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-connection-issues-with-your-xbox-one-controller/"><u>Troubleshooting Guide: Fixing Connection Issues with Your Xbox One Controller</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitta-videos-new-audio-formats/"><u>[Updated] 2024 Approved Twitta Videos New Audio Formats</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/convert-heic-images-free-seamless-pdf-conversion-tools-and-tutorials/"><u>Convert HEIC Images Free: Seamless PDF Conversion Tools and Tutorials</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/discover-the-perfect-property-match-navigate-with-us-at-iproperty/"><u>Discover the Perfect Property Match – Navigate With Us at IProperty</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/efficiently-navigate-with-shortcut-options-in-property-mode/"><u>Efficiently Navigate with Shortcut Options in Property Mode</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratis-konverteren-van-mp3-naar-webm-professioneel-video-tools-bei-movavi/"><u>Gratis Konverteren Van MP3 Naar Webm: Professioneel Vidéo-Tools Bei Movavi</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-successfully-remove-unwanted-red-eyes-from-your-images-using-these-simple-methods/"><u>How To Successfully Remove Unwanted Red-Eyes From Your Images Using These Simple Methods</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-revolutionizing-video-quality-on-tiktok/"><u>In 2024, Revolutionizing Video Quality on TikTok</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-xiaomi-redmi-note-12-pro-4g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Xiaomi Redmi Note 12 Pro 4G Location | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/key-insights-into-optimizing-your-companys-web-presence/"><u>Key Insights Into Optimizing Your Company's Web Presence</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/make-your-device-sing-a-step-by-step-guide-to-personalized-ringtone-setup-on-android-for-2024/"><u>Make Your Device Sing A Step-by-Step Guide to Personalized Ringtone Setup on Android for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-persistent-game-launch-failures-praey-for-the-gods-on-pc/"><u>Overcoming Persistent Game Launch Failures: Praey for the Gods on PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-guide-updating-device-drivers-to-match-your-hardware-in-wow/"><u>Solution Guide: Updating Device Drivers to Match Your Hardware in WoW</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/step-by-step-instructions-for-casting-ipad-content-on-a-smart-lg-tv/"><u>Step-by-Step Instructions for Casting iPad Content on a Smart LG TV</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/streamlined-guide-transforming-youtube-media-to-audio-format-with-mp3-conversion-techniques/"><u>Streamlined Guide: Transforming YouTube Media to Audio Format with MP3 Conversion Techniques</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/tailor-your-summary-info-window/"><u>Tailor Your Summary Info Window</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/tips-to-develop-captivating-vlogs-a-scriptwriting-approach-for-2024/"><u>Tips to Develop Captivating Vlogs A Scriptwriting Approach for 2024</u></a></li>
 </ul></div>
 

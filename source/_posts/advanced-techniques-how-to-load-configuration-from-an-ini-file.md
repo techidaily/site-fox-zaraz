@@ -1,7 +1,7 @@
 ---
 title: "Advanced Techniques: How to Load Configuration From an INI File"
-date: 2024-10-01T20:35:00.820Z
-updated: 2024-10-05T20:45:35.578Z
+date: 2024-10-04T17:06:51.912Z
+updated: 2024-10-11T01:54:38.148Z
 tags:
   - user-guide
 categories:
@@ -92,10 +92,10 @@ The **Add INI files** dialog is used to import one or multiple INI files to your
 ![Import ini](https://cdn.advancedinstaller.com/img/dialog/import-ini.png "Import ini")  
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## INI Files
@@ -103,10 +103,10 @@ The **Add INI files** dialog is used to import one or multiple INI files to your
 Choose what INI files you want to import by using the**Add** and **Remove** buttons. Multiple files can be selected for both operations. If multiple files are added, they are merged into a single INI file.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Files Content
@@ -118,10 +118,10 @@ Displays the content of the INI files you added in the INI files section. The fi
 **Keep formatted references** \- Enable/disable the ability to escape formatted references.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Component
@@ -163,22 +163,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-maximizing-engagement-strategies-for-video-thumbnail-design/"><u>[New] In 2024, Maximizing Engagement Strategies for Video Thumbnail Design</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-quick-tips-efficiently-post-videos-on-igtv-for-2024/"><u>[New] Quick Tips Efficiently Post Videos on IGTV for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-best-8-youtube-editing-software-for-linux-for-2024/"><u>[Updated] Best 8 YouTube Editing Software for Linux for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-instaboomers-hook-your-audience-with-circular-content/"><u>[Updated] In 2024, InstaBoomers Hook Your Audience with Circular Content</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-top-applications-for-remote-team-connection-for-2024/"><u>[Updated] Top Applications for Remote Team Connection for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/9-essential-iphone-x-hacks-for-every-user-for-2024/"><u>9 Essential iPhone X Hacks for Every User for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/award-winning-cpu-coolers-your-definitive-guide-to-the-best-thermal-pastes-of-2024/"><u>Award-Winning CPU Coolers: Your Definitive Guide to the Best Thermal Pastes of 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/complete-guide-to-defeating-trojans-the-5-most-powerful-removal-solutions-of-2er-years/"><u>Complete Guide to Defeating Trojans: The 5 Most Powerful Removal Solutions of 2Er Years</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/customize-data-sources-in-property-editing-panel/"><u>Customize Data Sources in Property Editing Panel</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/easy-guide-on-how-to-record-songs-from-apple-music-streaming/"><u>Easy Guide on How to Record Songs From Apple Music Streaming</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/easy-methods-to-set-any-image-as-white-background-using-your-iphone/"><u>Easy Methods to Set Any Image as White Background Using Your iPhone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/easy-tutorial-on-reflecting-android-display-on-an-lg-smart-television/"><u>Easy Tutorial on Reflecting Android Display on an LG Smart Television</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/guide-mastering-the-game-of-honkai-impact-3-on-your-windows-machine/"><u>Guide: Mastering the Game of Honkai Impact 3 on Your Windows Machine</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-pixelated-palaces-6-basic-mc-homes-for-neophytes/"><u>In 2024, Pixelated Palaces 6 Basic MC Homes for Neophytes</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/recover-lost-data-restore-deleted-photos-and-documents-from-your-android-phone-with-sd-card-recovery/"><u>Recover Lost Data: Restore Deleted Photos & Documents From Your Android Phone with SD Card Recovery</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/top-tips-for-downloading-and-playing-mp3-audio-on-an-ipad-device/"><u>Top Tips for Downloading and Playing MP3 Audio on an iPad Device</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-master-screen-recording-on-windows-macos-and-android-devices/"><u>[New] 2024 Approved Master Screen Recording on Windows, macOS, and Android Devices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-the-animators-odyssey-crafting-your-own-fx-realm/"><u>2024 Approved The Animator's Odyssey Crafting Your Own FX Realm</u></a></li>
+<li><a href="https://games-able.techidaily.com/androids-legacy-classic-pokemon-experience/"><u>Android's Legacy: Classic Pokémon Experience</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/comprehensive-tutorial-switching-your-pdf-reader-preferences-in-windows-10/"><u>Comprehensive Tutorial: Switching Your PDF Reader Preferences in Windows 10</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/discover-the-perfect-property-match-navigate-with-us-at-iproperty/"><u>Discover the Perfect Property Match – Navigate With Us at IProperty</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/effective-techniques-to-amplify-audio-in-your-videos/"><u>Effective Techniques to Amplify Audio in Your Videos</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/efficiently-navigate-with-shortcut-options-in-property-mode/"><u>Efficiently Navigate with Shortcut Options in Property Mode</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/effortless-tech-tutorial-how-to-reflect-iphone-display-using-amazon-firestick/"><u>Effortless Tech Tutorial: How To Reflect iPhone Display Using Amazon FireStick</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/enhancing-your-workflow-understanding-the-attachscript-custom-action-feature/"><u>Enhancing Your Workflow: Understanding the 'AttachScript' Custom Action Feature</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-quick-guide-automating-mac-screenshot-via-shortcuts/"><u>In 2024, Quick Guide Automating Mac Screenshot via Shortcuts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-ultimate-guide-to-turning-memories-into-snaps/"><u>In 2024, The Ultimate Guide to Turning Memories Into Snaps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-unleash-your-creativity-best-video-dubbing-apps/"><u>In 2024, Unleash Your Creativity Best Video Dubbing Apps</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/streamlined-guide-transforming-youtube-media-to-audio-format-with-mp3-conversion-techniques/"><u>Streamlined Guide: Transforming YouTube Media to Audio Format with MP3 Conversion Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-secrets-to-hassle-free-background-hocus-pocus-on-zoom-for-2024/"><u>The Secrets to Hassle-Free Background Hocus Pocus on Zoom for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Key Components in Microsoft's Windows Suite
-date: 2024-09-28T18:42:48.259Z
-updated: 2024-10-05T17:51:52.903Z
+date: 2024-10-03T17:42:22.443Z
+updated: 2024-10-10T18:58:01.345Z
 tags:
   - user-guide
 categories:
@@ -82,43 +82,36 @@ Table of Contents
 ![Windows Features bundle](https://cdn.advancedinstaller.com/img/dialog/windows-features.png "Windows Features bundle")  
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Installation
 
 Specify the bundle's install/uninstall settings.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Condition
 
 The condition which determines if the bundle will be installed. Edit this field using [Smart Condition Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Feature unavailable policy
 
 Some features may be unavailable on certain Windows editions. In such a case you can choose to rollback the installation or to ignore error and continue the installation.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Uninstall policy
 
@@ -127,10 +120,10 @@ Choose whether to remove or keep the selected Windows Features on uninstall. If 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Uninstall policy doesn't apply on Windows Vista and Windows Server 2008.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Target Operating Systems
@@ -138,6 +131,13 @@ Choose whether to remove or keep the selected Windows Features on uninstall. If 
 Selecting several OS's will intersect each one's specific Features and Dependencies, displaying the resulting set in the**Available Windows Features** list.
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Some Windows Features are shown in the Control Panel only after a system restart.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Available Windows Features
 
@@ -178,24 +178,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-youtubes-highest-paying-content-creator/"><u>[New] In 2024, YouTube's Highest Paying Content Creator</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-budget-4k-cameras-for-beginners/"><u>[Updated] Budget 4K Cameras for Beginners</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-getting-comfy-with-video-chats-in-instagrams-ecosystem/"><u>[Updated] In 2024, Getting Comfy with Video Chats in Instagram's Ecosystem</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-fact-vs-fiction-decoding-the-world-of-instagram-reels/"><u>2024 Approved Fact vs Fiction Decoding the World of Instagram Reels</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/advanced-folder-management-mastering-the-control-panels-operations-section/"><u>Advanced Folder Management: Mastering the Control Panel's Operations Section</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/comprehensive-steps-to-fix-mysterious-speaker-setup-on-windows/"><u>Comprehensive Steps to Fix Mysterious Speaker Setup on Windows</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/comprehensive-user-manual-mastering-the-essentials-of-apowerrescue/"><u>Comprehensive User Manual: Mastering the Essentials of ApowerRescue</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/conversione-gratuita-online-da-png-a-jpeg-con-moveavi/"><u>Conversione Gratuita Online: Da PNG a JPEG Con MoveAVI</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/efficient-techniques-for-reducing-mp4-video-size-on-the-internet/"><u>Efficient Techniques for Reducing MP4 Video Size on the Internet</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-vivo-s17e-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Vivo S17e Is Unlocked</u></a></li>
-<li><a href="https://common-error.techidaily.com/keyboard-malfunction-in-windows-11-a-step-by-step-repair-manual-for-faulty-letters/"><u>Keyboard Malfunction in Windows 11 – A Step-by-Step Repair Manual for Faulty Letters</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/modern-tile-designs-innovative-patterns-for-your-home/"><u>Modern Tile Designs: Innovative Patterns for Your Home</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/secure-your-system-keep-unauthorized-individuals-out-using-pc-locker-technology/"><u>Secure Your System: Keep Unauthorized Individuals Out Using PC Locker Technology</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/top-tips-for-enhancing-sound-clarity-in-your-recordings/"><u>Top Tips for Enhancing Sound Clarity in Your Recordings</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/top-ranking-tools-for-effortless-text-removal-from-images/"><u>Top-Ranking Tools for Effortless Text Removal From Images</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/troubleshooting-the-issue-of-non-exportable-images-from-apowermanager-on-ios-devices/"><u>Troubleshooting the Issue of Non-Exportable Images From ApowerManager on iOS Devices</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/various-techniques-to-capture-your-desktop-on-pc-or-mac-systems/"><u>Various Techniques to Capture Your Desktop on PC or Mac Systems</u></a></li>
-<li><a href="https://techidaily.com/why-cant-i-play-mp4-files-on-my-xiaomi-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Xiaomi ?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-audio-recording-solutions-for-educators-using-apple-products/"><u>[New] Audio Recording Solutions for Educators Using Apple Products</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-premium-free-facebook-media-craftsman-suite/"><u>[Updated] In 2024, Premium Free Facebook Media Craftsman Suite</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-se-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock On Apple iPhone SE Online</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/best-video-converter-applications-transforming-footage-into-gifs-successfully/"><u>Best Video Converter Applications: Transforming Footage Into GIFs Successfully</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/efficient-searching-techniques-with-xquery-language-elements/"><u>Efficient Searching Techniques with XQuery Language Elements</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/exploring-how-viruses-differ-from-worms-in-computing-unveiled-through-a-side-by-side-breakdown/"><u>Exploring How Viruses Differ From Worms in Computing - Unveiled Through a Side-by-Side Breakdown</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-overwatch-startup-problem-how-to-tackle-the-black-screen-dilemma-successfully/"><u>Fixing Overwatch Startup Problem: How to Tackle the Black Screen Dilemma Successfully</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-install-a-digital-certificate-on-your-device/"><u>How to Install a Digital Certificate on Your Device</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/improving-interaction-quality-through-effective-preferences-configuration-interface/"><u>Improving Interaction Quality Through Effective 'Preferences Configuration Interface'</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/raphic-guide-effective-video-promotion-tools/"><u>Infographic Guide Effective Video Promotion Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-dvd-creation-how-to-include-subtitles-in-your-projects/"><u>Mastering DVD Creation: How to Include Subtitles in Your Projects</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-chrome-video-translators-top-5-video-translation-chrome-extensions/"><u>New 2024 Approved Chrome Video Translators Top 5 Video Translation Chrome Extensions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-honor-magic5-ultimate-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Honor Magic5 Ultimate Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/understanding-product-language-exploring-the-importance-of-localization/"><u>Understanding Product Language: Exploring the Importance of Localization</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/understanding-the-various-categories-of-programs-on-microsofts-windows-marketplace/"><u>Understanding the Various Categories of Programs on Microsoft's Windows Marketplace</u></a></li>
 </ul></div>
 

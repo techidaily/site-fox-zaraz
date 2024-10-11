@@ -1,7 +1,7 @@
 ---
 title: Exploring Multilingual Options and Features on Our Platform
-date: 2024-10-04T18:12:38.560Z
-updated: 2024-10-05T16:06:04.451Z
+date: 2024-10-08T01:57:08.015Z
+updated: 2024-10-10T20:39:36.240Z
 tags:
   - user-guide
 categories:
@@ -109,32 +109,26 @@ Table of Contents
 
 ## ILanguagesOptions
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Declaration
 
 ILanguagesOptions : IDispatch
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Overview
 
 This interface is meant to set translation options for the project.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -142,10 +136,10 @@ This interface is meant to set translation options for the project.
 **String PackageType** Gets the value of the language option. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Methods
@@ -171,10 +165,10 @@ This interface is meant to set translation options for the project.
 **SetNotDisplayCountryNameInDialog(IBuild Build, Bool Value)** \- Sets the value of the “Do not display country name in language selection combo” checkbox for the specified Build.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -216,18 +210,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-a-comprehensive-tutorial-changing-gender-in-social-media-images/"><u>[New] 2024 Approved A Comprehensive Tutorial Changing Gender in Social Media Images</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-ensuring-earning-potential-on-youtubers/"><u>[Updated] In 2024, Ensuring Earning Potential on YouTubers</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-how-to-archive-snaps-from-android-plus-mac-systems/"><u>[Updated] In 2024, How to Archive Snaps From Android + Mac Systems</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/exploring-how-viruses-differ-from-worms-in-computing-unveiled-through-a-side-by-side-breakdown/"><u>Exploring How Viruses Differ From Worms in Computing - Unveiled Through a Side-by-Side Breakdown</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/exploring-the-features-of-your-objects-settings-menu/"><u>Exploring the Features of Your Object's Settings Menu</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Xiaomi Redmi 12 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-spark-20-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Spark 20 to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/key-components-in-microsofts-windows-suite/"><u>Key Components in Microsoft's Windows Suite</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/keyboard-shortcuts-for-crafting-hearts-on-your-screen-easily/"><u>Keyboard Shortcuts for Crafting Hearts on Your Screen Easily</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/one-click-installation-effortless-android-app-setup-on-your-pc/"><u>One-Click Installation: Effortless Android App Setup on Your PC!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-how-to-fix-team-fortress-2-wont-start-up-issues/"><u>Resolved: How to Fix 'Team Fortress 2 Won't Start Up' Issues</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unlocking-fb-top-8-free-downloader-tools/"><u>[New] 2024 Approved Unlocking FB Top 8 Free Downloader Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-hobbies-for-hefty-helpings-on-digital-domains/"><u>[New] In 2024, Harnessing Hobbies for Hefty Helpings on Digital Domains</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-defining-your-digital-dna-a-guide-to-youtubing-personal-branding/"><u>[Updated] In 2024, Defining Your Digital DNA A Guide to YouTubing Personal Branding</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-custom-action-with-installed-script-file-a-comprehensive-guide/"><u>1. Custom Action with Installed Script File: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/configuring-environmental-settings-in-a-windows-store-app-prototype/"><u>Configuring Environmental Settings in a Windows Store App Prototype</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/discover-components-fast-and-easy-search-hub/"><u>Discover Components Fast and Easy Search Hub</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/efficient-techniques-for-reducing-mp4-video-size-on-the-internet/"><u>Efficient Techniques for Reducing MP4 Video Size on the Internet</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/effortless-online-conversion-transforming-mkv-files-into-mp4-format/"><u>Effortless Online Conversion: Transforming MKV Files Into MP4 Format</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-next-level-of-conversational-agents-10-upgrades-to-chatgpt/"><u>Exploring the Next Level of Conversational Agents - 10 Upgrades to ChatGPT</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-use-special-character-entities-in-xml-documents-effectively/"><u>How to Use Special Character Entities in XML Documents Effectively</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/make-your-own-metal-parts-easier-meet-the-new-micronics-compact-and-budget-friendly-sls-printer-2999/"><u>Make Your Own Metal Parts Easier: Meet the New Micronics' Compact and Budget-Friendly SLS Printer ($2,999)</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-photo-cleanup-discover-the-best-4-techniques-for-seamless-stamp-removal/"><u>Mastering Photo Cleanup: Discover the Best 4 Techniques for Seamless Stamp Removal</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-xiaomi-redmi-note-13-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-garmin-forerunner-265-features-benefits-and-reviews/"><u>The Ultimate Guide to the Garmin Forerunner 265: Features, Benefits & Reviews</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-for-call-of-duty-world-war-ii-overcoming-error-4220/"><u>Troubleshooting Guide for Call of Duty World War II - Overcoming Error 4220</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/unraveling-the-secrets-of-iprogid-functionality-for-developers/"><u>Unraveling the Secrets of IProgID Functionality for Developers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/44oe44or44ob44oh44oh44kj44ki44ov44kh44kk44or44gl44kj44gu44k144ow44k44kk44oi44or5oqc44gn5yplusw44kk5pa55rov/"><u>マルチメディアファイルからのサブタイトル抜き取り方法</u></a></li>
 </ul></div>
 

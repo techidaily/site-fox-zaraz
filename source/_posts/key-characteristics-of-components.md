@@ -1,7 +1,7 @@
 ---
 title: Key Characteristics of Components
-date: 2024-09-30T16:34:43.430Z
-updated: 2024-10-05T16:48:24.136Z
+date: 2024-10-09T04:15:13.196Z
+updated: 2024-10-11T04:34:22.963Z
 tags:
   - user-guide
 categories:
@@ -79,13 +79,6 @@ Table of Contents
 
 ![Component Properties](https://cdn.advancedinstaller.com/img/ui/component-properties.png "Component Properties")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## General Properties
 
 * GUID  
@@ -96,13 +89,6 @@ Table of Contents
  This is the directory where the component will install. You can change the directory of a component by using the \[... \] button, but it must only contain empty folders or registries.
 * Condition  
  A Windows Installer condition which is evaluated and the result determines the component's installation. If the condition is null or is evaluated to false, the component is not installed. Use the \[... \] button to [edit the conditional statement.](https://tools.techidaily.com/advancedinstaller/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Attributes
 
@@ -129,13 +115,6 @@ This option marks the component as shared among multiple packages. In doing so, 
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Shared components must have the same component GUID and the same key path resource. Also, their resources must be installed under the same location.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If registry reflection is disabled the changes are performed only in the targeted view.
 
 ## Additional space
@@ -143,10 +122,10 @@ This option marks the component as shared among multiple packages. In doing so, 
 This section allows you to reserve an amount of disk space in any directory that depends on the installation state of a component.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Folder
@@ -157,9 +136,22 @@ Specify the destination directory.
 
 The number of bytes of disk space to be reserved if the selected component is installed to run locally.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### From Source
 
 The number of bytes of disk space to be reserved if the selected component is installed to run from source.
+
+## Qualified Components Groups
+
+This section allows you to add the current component to a category of qualified components.
+
+For example, let's say you have several components that contain resource DLLs with the localized strings for your application. You can group these components into a single category, using the qualified components feature.
 
 <!-- affiliate ads begin -->
 <a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
@@ -168,19 +160,27 @@ The number of bytes of disk space to be reserved if the selected component is in
 <img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-## Qualified Components Groups
-
-This section allows you to add the current component to a category of qualified components.
-
-For example, let's say you have several components that contain resource DLLs with the localized strings for your application. You can group these components into a single category, using the qualified components feature.
-
 ### Adding the current component to a category.
 
 Use the \[New \] button, the “New” list context menu item or press the Insert key while the list control is focused. The[Edit Qualified Component And Group Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you qualify this component.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Editing the qualified properties
 
  Use the \[Edit \] button, the “Edit” list context menu item or press the Space key while the list control is focused. The[Edit Qualified Component And Group Dialog](https://tools.techidaily.com/advancedinstaller/products/) will be displayed allowing you to edit the qualified properties for the current component.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Removing the component from a category
 
@@ -204,10 +204,10 @@ Use the \[Add... \] button, the “Add...” list context menu item or press the
 Use the \[Remove \] button, the “Remove” list context menu item or press the Delete key while the list control is focused.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -250,24 +250,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-boosting-your-content-quality-essential-tips-for-youtube-users-for-2024/"><u>[New] Boosting Your Content Quality Essential Tips for YouTube Users for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-infusing-homes-with-suns-invisible-light/"><u>[New] Infusing Homes with Sun's Invisible Light</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-rise-to-fame-comprehensive-youtube-creators-series/"><u>[Updated] 2024 Approved Rise to Fame Comprehensive YouTube Creator's Series</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-playwriting-workshop/"><u>[Updated] Ultimate Playwriting Workshop</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-bring-out-the-splendor-in-your-iphone-reflections/"><u>2024 Approved Bring Out the Splendor in Your iPhone Reflections</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/comprehensive-guide-to-utilizing-extension-attributes-in-software-development/"><u>Comprehensive Guide to Utilizing Extension Attributes in Software Development</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/cookiebot-fueled-conversion-optimization-supercharge-your-sites-performance/"><u>Cookiebot-Fueled Conversion Optimization: Supercharge Your Site's Performance</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/focus-recording-on-part-of-the-screen-in-windows-ultimate-how-to-tutorial/"><u>Focus Recording on Part of the Screen in Windows: Ultimate How-To Tutorial</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-put-iphone-6-or-ipad-on-recovery-mode-step-by-step-tutorial-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Put iPhone 6 or iPad on Recovery mode? (Step by Step Tutorial) | Stellar</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/ifolderswidget-integrating-seamless-folder-management-into-your-app/"><u>IFoldersWidget: Integrating Seamless Folder Management Into Your App</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-savor-sweetness-on-the-go-the-ultimate-guide-to-cookies-for-travelers/"><u>In 2024, Savor Sweetness on the Go The Ultimate Guide to Cookies for Travelers</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/lost-your-iphone-password-learn-how-to-bypass-the-lock-screen-and-regain-access/"><u>Lost Your iPhone Password? Learn How to Bypass the Lock Screen and Regain Access!</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-odbc-connections-tips-and-strategies/"><u>Mastering ODBC Connections: Tips and Strategies</u></a></li>
-<li><a href="https://windows11.techidaily.com/method-rectifying-disks-not-available-on-windows-pcs/"><u>Method: Rectifying Disks Not Available on Windows PCs</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-documentaries-about-historic-events-space-or-any-other-topic-that-is-impossible-to-stage-rely-on-the-videos-that-entered-the-public-domain-for-one-reaso/"><u>New Documentaries About Historic Events, Space or Any Other Topic that Is Impossible to Stage Rely on the Videos that Entered the Public Domain for One Reason or the Other. Thats Why in This Article, We for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-capturing-your-lync-conference-calls-on-pc-and-mac/"><u>Step-by-Step Guide: Capturing Your Lync Conference Calls on PC & Mac</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-totmania-infection-cleanup-using-malwarefox-tool/"><u>Step-by-Step Totmania Infection Cleanup Using MalwareFox Tool</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/user-friendly-real-estate-modification-panel-simplify-your-property-changes/"><u>User-Friendly Real Estate Modification Panel: Simplify Your Property Changes</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/vivo-users-ultimate-selection-top-5-mobile-mirroring-applications/"><u>Vivo Users' Ultimate Selection: Top 5 Mobile Mirroring Applications</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/xpert-director-sound-and-picture-synthesis/"><u>[New] Expert Director Sound & Picture Synthesis</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-strategic-use-of-tags-a-guide-to-youtube-success/"><u>[New] The Strategic Use of Tags A Guide to YouTube Success</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-experience-the-old-school-games-anywhere-with-best-in-class-pc-gb-emulators/"><u>[Updated] 2024 Approved Experience the Old School Games Anywhere with Best-in-Class PC GB Emulators</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-ultimate-guide-to-ifolder-sync-mastering-your-filters/"><u>1. Ultimate Guide to iFolder Sync: Mastering Your Filters</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-laughterbox-easy-entry-endless-entertainment/"><u>2024 Approved LaughterBox Easy Entry, Endless Entertainment</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-top-social-networking-grounds-for-youtube-growth/"><u>2024 Approved Top Social Networking Grounds for YouTube Growth</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/best-5-free-and-easy-to-use-pdf-editor-software-beyond-adobe-acrobat-in-2020/"><u>Best 5 Free and Easy-to-Use PDF Editor Software, Beyond Adobe Acrobat in 2020</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/effective-strategies-for-managing-file-replicas-conversations/"><u>Effective Strategies for Managing File Replicas Conversations</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/essential-guide-to-customizing-uniform-interface-design-in-tab-settings/"><u>Essential Guide to Customizing Uniform Interface Design in Tab Settings</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-lava-yuva-2-pro-easily-by-drfone-android/"><u>In 2024, How To Unlock a Lava Yuva 2 Pro Easily?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/simple-techniques-for-mkv-video-subtitle-retrieval/"><u>Simple Techniques for MKV Video Subtitle Retrieval</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-dawn-of-voice-activated-chatgpt-in-cars/"><u>The Dawn of Voice-Activated ChatGPT in Cars</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/the-top-methods-for-seamless-music-transition-between-galaxy-s4-and-s6-edge-devices/"><u>The Top Methods for Seamless Music Transition Between Galaxy S4 and S6 Edge Devices</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-ranking-tools-for-effortless-text-removal-from-images/"><u>Top-Ranking Tools for Effortless Text Removal From Images</u></a></li>
 </ul></div>
 

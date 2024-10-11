@@ -1,7 +1,7 @@
 ---
 title: Exploring the Features of Your Object's Settings Menu
-date: 2024-10-04T16:51:52.617Z
-updated: 2024-10-05T17:07:50.649Z
+date: 2024-10-09T01:48:37.668Z
+updated: 2024-10-11T02:45:57.856Z
 tags:
   - user-guide
 categories:
@@ -78,10 +78,10 @@ Table of Contents
 ![Instance properties tab](https://cdn.advancedinstaller.com/img/ui/instance-properties-tab.png "Instance properties tab")  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Product Code
@@ -89,10 +89,10 @@ Table of Contents
 The **ProductCode** property is mandatory and it's added automatically when the instance is created. You can use\[Generate \] button to generate a new GUID.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Additional Properties
@@ -100,10 +100,16 @@ The **ProductCode** property is mandatory and it's added automatically when the 
 You can set additional properties for the selected instance. An example would be to set the **ProductName** property to a different value so the instances will be easily distinguished in the Control Panel->Add or Remove Programs applet. Use the \[New... \], \[Edit... \] and \[Remove \] buttons to select them.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -144,18 +150,18 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-free-visual-treasury-select-10-sites-included/"><u>[Updated] Free Visual Treasury – Select 10 Sites Included</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-become-an-expert-in-real-time-streaming-on-facebook-platform/"><u>[Updated] In 2024, Become an Expert in Real-Time Streaming on Facebook Platform</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-smartest-screens-top-11-general-knowledge-channels/"><u>[Updated] Smartest Screens Top 11 General Knowledge Channels</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1-custom-action-with-installed-script-file-a-comprehensive-guide/"><u>1. Custom Action with Installed Script File: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/crafting-your-future-in-the-art-of-visuals-for-2024/"><u>Crafting Your Future in the Art of Visuals for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/discover-components-fast-and-easy-search-hub/"><u>Discover Components Fast and Easy Search Hub</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-use-special-character-entities-in-xml-documents-effectively/"><u>How to Use Special Character Entities in XML Documents Effectively</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-examining-instagrams-per-video-content-restrictions/"><u>In 2024, Examining Instagram's Per-Video Content Restrictions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-photo-cleanup-discover-the-best-4-techniques-for-seamless-stamp-removal/"><u>Mastering Photo Cleanup: Discover the Best 4 Techniques for Seamless Stamp Removal</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/premium-accelerated-photo-browser-for-windows-for-2024/"><u>Premium Accelerated Photo Browser for Windows for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/unraveling-the-secrets-of-iprogid-functionality-for-developers/"><u>Unraveling the Secrets of IProgID Functionality for Developers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/utilizing-chatgpt-to-facilitate-engaging-and-efficient-virtual-team-conferences/"><u>Utilizing ChatGPT to Facilitate Engaging and Efficient Virtual Team Conferences</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-essential-list-6-diverse-websites-for-youtube-visuals/"><u>[New] The Essential List 6 Diverse Websites for YouTube Visuals</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-from-viewer-to-victor-step-by-step-windows-pc-guide-for-high-quality-live-recording/"><u>[Updated] 2024 Approved From Viewer to Victor Step-by-Step Windows PC Guide for High-Quality Live Recording</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-peering-into-tseries-earnings-processes-on-youtube-networks/"><u>[Updated] Peering Into TSeries' Earnings Processes on YouTube Networks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-tap-into-endless-creativity-our-compilation-of-over-50-free-advertising-masterpieces/"><u>[Updated] Tap Into Endless Creativity – Our Compilation of over 50 FREE Advertising Masterpieces</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/can-you-trust-pornhub-essential-tips-for-securely-exploring-adult-websites/"><u>Can You Trust Pornhub? Essential Tips for Securely Exploring Adult Websites</u></a></li>
+<li><a href="https://win-answers.techidaily.com/exciting-new-improvements-for-windows-11s-snipping-tool-and-paint-applications/"><u>Exciting New Improvements for Windows 11'S Snipping Tool and Paint Applications</u></a></li>
+<li><a href="https://article-posts.techidaily.com/from-footage-to-fortune-unveiling-the-secrets-of-sj-cam-s6/"><u>From Footage to Fortune Unveiling the Secrets of SJ-CAM S6</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-implement-a-batch-script-as-a-unique-system-alert/"><u>How to Implement a Batch Script as a Unique System Alert</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/key-characteristics-of-components/"><u>Key Characteristics of Components</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-uncovering-stealthy-keylogging-threats-on-your-windows-machine-via-keylogger-scanning-software/"><u>Step-by-Step Guide: Uncovering Stealthy Keylogging Threats on Your Windows Machine via Keylogger Scanning Software</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/strategic-initiative-string-division-project-overview/"><u>Strategic Initiative: String Division Project Overview</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/understanding-appid-configuration-navigating-the-appproperties-tab/"><u>Understanding AppID Configuration: Navigating the AppProperties Tab</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-against-the-dolby-home-theater-hurdles-in-windows-10-a-step-by-step-fix/"><u>Winning Against the Dolby Home Theater Hurdles in Windows 10 – A Step-by-Step Fix</u></a></li>
 </ul></div>
 

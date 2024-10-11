@@ -1,7 +1,7 @@
 ---
 title: Understanding the Various Categories of Programs on Microsoft's Windows Marketplace
-date: 2024-09-30T20:26:36.791Z
-updated: 2024-10-05T20:54:38.981Z
+date: 2024-10-05T04:53:56.737Z
+updated: 2024-10-11T01:54:27.975Z
 tags:
   - user-guide
 categories:
@@ -81,22 +81,35 @@ Table of Contents
 
 ## Package
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Windows Store App
 
 ![Windows Store App](https://cdn.advancedinstaller.com/img/project/appx.png "Windows Store App")This type of project gives you the possibility to create [AppX packages for Windows Store](https://tools.techidaily.com/advancedinstaller/products/). Note that this project type requires a Professional license.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Modification Package
@@ -108,24 +121,24 @@ Table of Contents
 ![Optional package](https://cdn.advancedinstaller.com/img/project/optional.png "Optional package")This type of project gives you the possibility to create an [Optional Package](https://tools.techidaily.com/advancedinstaller/products/). Note that this project type requires an Architect license.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Import
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Import Windows Store App
 
 ![Import appx](https://cdn.advancedinstaller.com/img/project/import-appx.png "Import appx") This type of project gives you the possibility to[import MSIX packages](https://tools.techidaily.com/advancedinstaller/products/) and edit them using the Advanced Installer GUI. Note that this project type requires a Professional license.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Import Modification Package
 
@@ -134,13 +147,6 @@ Table of Contents
 ### Import Optional Package
 
 ![Import optional](https://cdn.advancedinstaller.com/img/project/import-optional.png "Import optional") This type of project gives you the possibility to import optional packages and edit them using the Advanced Installer GUI. Note that this project type requires an Architect license.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -175,19 +181,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-haven.techidaily.com/6-criteria-preparing-chatgpt-as-a-mental-wellness-aid/"><u>6 Criteria: Preparing ChatGPT as a Mental Wellness Aid</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/breaking-barriers-one-word-at-a-time-mondlys-ukrainian-offerings/"><u>Breaking Barriers, One Word at a Time – Mondly's Ukrainian Offerings</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/can-you-trust-pornhub-essential-tips-for-securely-exploring-adult-websites/"><u>Can You Trust Pornhub? Essential Tips for Securely Exploring Adult Websites</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/from-raw-to-refined-tailoring-youtube-videos-with-premiere-pro-for-2024/"><u>From Raw to Refined Tailoring YouTube Videos with Premiere Pro for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-implement-a-batch-script-as-a-unique-system-alert/"><u>How to Implement a Batch Script as a Unique System Alert</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-lava-blaze-curve-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Lava Blaze Curve 5G</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-low-end-pc-visual-data-harvesters/"><u>In 2024, Low-End PC Visual Data Harvesters</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/key-characteristics-of-components/"><u>Key Characteristics of Components</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/step-by-step-guide-setting-up-atomic-matrix-addon-in-kodi-v19/"><u>Step-by-Step Guide: Setting Up Atomic Matrix Addon in Kodi V19</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-uncovering-stealthy-keylogging-threats-on-your-windows-machine-via-keylogger-scanning-software/"><u>Step-by-Step Guide: Uncovering Stealthy Keylogging Threats on Your Windows Machine via Keylogger Scanning Software</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/strategic-initiative-string-division-project-overview/"><u>Strategic Initiative: String Division Project Overview</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/understanding-appid-configuration-navigating-the-appproperties-tab/"><u>Understanding AppID Configuration: Navigating the AppProperties Tab</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-f25-pro-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Oppo F25 Pro 5G Users</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/windows-desktop-snapshot-learn-it-for-free-today/"><u>Windows Desktop Snapshot Learn It for Free Today</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-effortless-and-clean-grab-free-unmarked-tiktok-videos/"><u>[Updated] 2024 Approved Effortless and Clean Grab FREE Unmarked TikTok Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-complete-circular-camera-investigation/"><u>[Updated] Complete Circular Camera Investigation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-optimal-lens-selection-for-smooth-vlogging-experience/"><u>[Updated] Optimal Lens Selection for Smooth Vlogging Experience</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-earnings-update-navigating-youtube-monetization/"><u>2024 Approved Earnings Update Navigating YouTube Monetization</u></a></li>
+<li><a href="https://facebook.techidaily.com/awaiting-the-call-facebook-orders-ruling-on-prohibited-access/"><u>Awaiting the Call: Facebook Orders Ruling on Prohibited Access</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/customizing-your-application-with-the-component-configuration-panel/"><u>Customizing Your Application with the Component Configuration Panel</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/explore-whats-new-with-the-updated-itunes-software-version-121-unveiled/"><u>Explore What's New with the Updated iTunes Software - Version 12.1 Unveiled</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-90-gt-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-xperia-10-v-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Xperia 10 V</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-x-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone X Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/installer-project-mastering-the-permissions-tab/"><u>Installer Project: Mastering the Permissions Tab</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/master-the-art-of-image-editing-discover-leading-background-replacement-software-for-flawless-visuals/"><u>Master the Art of Image Editing: Discover Leading Background Replacement Software for Flawless Visuals</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-troubleshooting-expert-tips-for-getting-your-samsung-kies-back-on-track/"><u>Mastering Troubleshooting: Expert Tips for Getting Your Samsung Kies Back on Track!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/motion-mastery-top-free-afx-template-collection/"><u>Motion Mastery Top Free AFX Template Collection</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/solving-chromes-excessive-cpu-drain-effective-strategies-for-reducing-memory-consumption/"><u>Solving Chrome's Excessive CPU Drain: Effective Strategies for Reducing Memory Consumption</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-free-artificial-intelligence-tools-for-creating-captions-enhance-your-videos-accessibility/"><u>Top Free Artificial Intelligence Tools for Creating Captions: Enhance Your Videos' Accessibility</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-rated-video-resume-creators-and-expert-advice/"><u>Top-Rated Video Resume Creators & Expert Advice</u></a></li>
 </ul></div>
 

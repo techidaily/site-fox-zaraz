@@ -1,7 +1,7 @@
 ---
 title: "IFoldersWidget: Integrating Seamless Folder Management Into Your App"
-date: 2024-10-01T17:19:49.503Z
-updated: 2024-10-05T17:07:25.390Z
+date: 2024-10-07T20:00:21.510Z
+updated: 2024-10-10T21:04:32.859Z
 tags:
   - user-guide
 categories:
@@ -116,10 +116,10 @@ Table of Contents
 The interface allows you to access all the folders in the current project.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -127,15 +127,22 @@ The interface allows you to access all the folders in the current project.
 IFolderComponent : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
 
 **Array<IFolder> Folders** \- Gets all the folders in a project in an array with elements of type IFolder. Every element represents a folder added in the project. To access system defined folders use IPredefinedFolders interface.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Methods
 
@@ -144,29 +151,16 @@ IFolderComponent : IDispatch
 ![Ifolderscomponent](https://cdn.advancedinstaller.com/img/powershell-automation/ifolderscomponent.png "Ifolderscomponent")  
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -210,20 +204,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-fixing-the-quake-tips-for-steadying-gopro-videos/"><u>[New] Fixing the Quake Tips for Steadying GoPro Videos</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-best-8-online-hubs-for-downloading-free-3d-text-psdfiles/"><u>[New] The Best 8 Online Hubs for Downloading Free 3D Text PSDFiles</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1-understanding-file-attributes-a-comprehensive-guide/"><u>1. Understanding File Attributes: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/bring-snapchat-to-your-desktop-a-comprehensive-tutorial/"><u>Bring Snapchat to Your Desktop: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/complete-how-to-mastering-the-art-of-screen-shots-on-toshiba-laptopstelevisions/"><u>Complete How-To: Mastering the Art of Screen Shots on Toshiba Laptops/Televisions</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/flavorful-journeys-on-tiktoks-culinary-map/"><u>Flavorful Journeys on TikTok's Culinary Map</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-a-non-functional-microphone-on-skype/"><u>How to Fix a Non-Functional Microphone on Skype</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-achieve-financial-insight-the-simple-three-steps-to-assess-youtube-earning-potential/"><u>In 2024, Achieve Financial Insight The Simple Three Steps To Assess YouTube Earning Potential</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/leading-passport-photography-apps-ranked-for-ios-and-android-how-to-get-your-travel-document-photos-on-a-budget/"><u>Leading Passport Photography Apps Ranked for iOS & Android: How to Get Your Travel Document Photos on a Budget!</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/mastering-hibernate-a-comprehensive-guide-for-windows-8-users/"><u>Mastering Hibernate: A Comprehensive Guide for Windows 8 Users</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/proven-strategies-for-securing-your-iphones-information-through-efficient-backups/"><u>Proven Strategies for Securing Your iPhone's Information Through Efficient Backups</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/revealing-the-hidden-a-guide-to-displaying-windows-mouse-cursor-during-recordings/"><u>Revealing the Hidden: A Guide to Displaying Windows Mouse Cursor During Recordings</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/top-8-secure-password-tools-compatible-with-windows-11/"><u>Top 8 Secure Password Tools Compatible with Windows 11</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/vloggers-fears-decoded-combat-strategies-for-everyone/"><u>Vloggers' Fears Decoded Combat Strategies for Everyone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-swiftrecord-the-quick-windows-11-recorder/"><u>[New] SwiftRecord - The Quick Windows 11 Recorder</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-choosing-the-optimal-power-source-for-advanced-drones/"><u>2024 Approved Choosing the Optimal Power Source for Advanced Drones</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-detailed-look-at-pre-purchasing-your-smart-tv/"><u>A Detailed Look at Pre-Purchasing Your Smart TV</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-tips-to-use-zoom-on-chromebook/"><u>Best Tips to Use Zoom on Chromebook</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-safariblocks-fixes-and-tips-to-open-webpages-effortlessly/"><u>Bypassing Safariblocks: Fixes and Tips to Open Webpages Effortlessly</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/configuring-environmental-settings-in-a-windows-store-app-prototype/"><u>Configuring Environmental Settings in a Windows Store App Prototype</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/discover-components-fast-and-easy-search-hub/"><u>Discover Components Fast and Easy Search Hub</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/efficient-property-selection-interface/"><u>Efficient Property Selection Interface</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/effortless-online-conversion-transforming-mkv-files-into-mp4-format/"><u>Effortless Online Conversion: Transforming MKV Files Into MP4 Format</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-oneplus-nord-n30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-unlimited-fake-faces-at-your-fingertips-free-online-generators/"><u>In 2024, Unlimited Fake Faces at Your Fingertips Free Online Generators</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-photo-cleanup-discover-the-best-4-techniques-for-seamless-stamp-removal/"><u>Mastering Photo Cleanup: Discover the Best 4 Techniques for Seamless Stamp Removal</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-microsoft-teams-efficiently-with-copilot-integration-tips/"><u>Navigating Microsoft Teams Efficiently with Copilot Integration Tips</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-p55-5g-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from P55 5G</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/reclaiming-lost-messages-a-guide-to-restoring-emails-beyond-the-30-day-limit/"><u>Reclaiming Lost Messages: A Guide to Restoring Emails Beyond the 30-Day Limit</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-free-artificial-intelligence-tools-for-creating-captions-enhance-your-videos-accessibility/"><u>Top Free Artificial Intelligence Tools for Creating Captions: Enhance Your Videos' Accessibility</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-rated-backgrounds-enhancing-your-product-photos/"><u>Top-Rated Backgrounds Enhancing Your Product Photos</u></a></li>
 </ul></div>
 

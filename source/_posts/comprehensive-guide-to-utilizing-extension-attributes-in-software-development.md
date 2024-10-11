@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Utilizing Extension Attributes in Software Development
-date: 2024-10-02T19:22:06.361Z
-updated: 2024-10-05T18:40:37.788Z
+date: 2024-10-09T04:17:24.967Z
+updated: 2024-10-10T21:57:14.074Z
 tags:
   - user-guide
 categories:
@@ -78,13 +78,6 @@ Table of Contents
 
 ## Extension Properties
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## General
 
 ### Command
@@ -97,13 +90,27 @@ Defines the content type of the files with the selected extension. This content 
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Consult the IANA registry online for a list of assigned MIME Media Types.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Warning!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)During installation of a MIME type Windows Installer registers the MIME type under the Internet Explorer MIME Database too ("HKEY\_CLASSES\_ROOT\\MIME\\Database\\Content Type" registry key). Considering the method how [Internet Explorer handles MIME Types](https://learn.microsoft.com/en-us/previous-versions/windows/internet-explorer/ie-developer/platform-apis/ms775148%28v=vs.85%29?redirectedfrom=MSDN), it is not recommend to register the "application/octet-stream" MIME type with your application extension. This is because after registering the "application/octet-stream" MIME type with your application extension, Internet Explorer could associate all downloaded files of "application/octet-stream" MIME type with your application extension.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Feature
@@ -111,13 +118,6 @@ Defines the content type of the files with the selected extension. This content 
 The feature which controls the extension installation. If this feature is not installed, the file associations is not made.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)This combo box shows only features which contains the extension component.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Place extension in a separate feature
 
@@ -131,18 +131,18 @@ This group allows you to specify when the extension feature is installed:
 * _Not installed by default_ \- the extension feature is not installed by default, but the user can still select it for installation through "SetupTypeDlg" dialog
 * _Install based on custom condition_ \- installs the extension feature only if the specified condition is true
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Show in FileAssociationsDlg dialog
 
 Enabling this option will automatically create for the extension a checkbox on "FileAssociationsDlg" [predefined dialog](https://tools.techidaily.com/advancedinstaller/products/). It will also add the required control events so the checkbox controls the extension feature installation.
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Only one extension should be associated with each ProgID.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -177,19 +177,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-echoes-of-sound-how-to-enhance-tweeted-visuals/"><u>[New] Echoes of Sound How to Enhance Tweeted Visuals</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capturing-youtube-captions-3-easy-methods-of-srt-extraction-for-2024/"><u>Capturing YouTube Captions 3 Easy Methods of SRT Extraction for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/exploring-the-features-of-your-objects-settings-menu/"><u>Exploring the Features of Your Object's Settings Menu</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/guide-to-creating-and-testing-an-xml-file-best-practices/"><u>Guide to Creating and Testing an XML File: Best Practices</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-vivo-y78-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Vivo Y78 5G Phones with/without a PC</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oneplus-ace-2vwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on OnePlus Ace 2Vwith/without a PC</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-fully-remove-macs-apowerrec-and-virtual-sound-card-software-a-step-by-step-guide/"><u>How to Fully Remove Mac's ApowerREC and Virtual Sound Card Software: A Step-by-Step Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-v30-lite-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of V30 Lite 5G?</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/ifolderswidget-integrating-seamless-folder-management-into-your-app/"><u>IFoldersWidget: Integrating Seamless Folder Management Into Your App</u></a></li>
-<li><a href="https://article-files.techidaily.com/mastering-close-up-web-views-on-screen/"><u>Mastering Close-Up Web Views on Screen</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/speedy-setup-comprehensive-steps-for-obtaining-and-configuring-videomaker-elite-suite/"><u>Speedy Setup: Comprehensive Steps for Obtaining and Configuring Videomaker Elite Suite</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/top-ranking-free-tools-ultimate-alternatives-to-snagit/"><u>Top-Ranking Free Tools: Ultimate Alternatives to Snagit</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-and-fixing-oxygen-no-more-game-crashes/"><u>Troubleshooting and Fixing Oxygen: No More Game Crashes</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-the-ultimate-avs-video-editor-review-for-2024/"><u>Updated The Ultimate AVS Video Editor Review for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-triller-unveiled-the-non-tiktok-tiktok-alternatives-secrets/"><u>[New] In 2024, Triller Unveiled The Non-TikTok, TikTok Alternative's Secrets</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-all-access-fb-melodic-streaming/"><u>[Updated] All-Access FB Melodic Streaming</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-simplified-image-editing-getting-rid-of-background-in-one-click/"><u>[Updated] Simplified Image Editing Getting Rid of Background in One Click</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-xiaomi-redmi-13c-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Xiaomi Redmi 13C to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/complete-guide-troubleshooting-and-help-for-winx-dvd-rippingvideo-conversion-tool/"><u>Complete Guide: Troubleshooting & Help for WinX DVD Ripping/Video Conversion Tool</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/customizing-your-application-with-the-component-configuration-panel/"><u>Customizing Your Application with the Component Configuration Panel</u></a></li>
+<li><a href="https://games-able.techidaily.com/easy-ways-to-reset-and-reload-steam/"><u>Easy Ways to Reset and Reload Steam</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/explore-whats-new-with-the-updated-itunes-software-version-121-unveiled/"><u>Explore What's New with the Updated iTunes Software - Version 12.1 Unveiled</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-ballot-battlegrounds-prime-political-games-guide/"><u>In 2024, Ballot Battlegrounds Prime Political Games Guide</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/installer-project-mastering-the-permissions-tab/"><u>Installer Project: Mastering the Permissions Tab</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/master-the-art-of-image-editing-discover-leading-background-replacement-software-for-flawless-visuals/"><u>Master the Art of Image Editing: Discover Leading Background Replacement Software for Flawless Visuals</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-troubleshooting-expert-tips-for-getting-your-samsung-kies-back-on-track/"><u>Mastering Troubleshooting: Expert Tips for Getting Your Samsung Kies Back on Track!</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/solving-chromes-excessive-cpu-drain-effective-strategies-for-reducing-memory-consumption/"><u>Solving Chrome's Excessive CPU Drain: Effective Strategies for Reducing Memory Consumption</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/studio-masterclass-in-depth-xvideostudio-report/"><u>Studio Masterclass In-Depth XVideoStudio Report</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-tips-for-downloading-and-playing-mp3-audio-on-an-ipad-device/"><u>Top Tips for Downloading and Playing MP3 Audio on an iPad Device</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-rated-video-resume-creators-and-expert-advice/"><u>Top-Rated Video Resume Creators & Expert Advice</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-non-responsive-keys-on-windows-1011-a-step-by-step-guide/"><u>Troubleshooting Non-Responsive Keys on Windows 10/11 - A Step-by-Step Guide</u></a></li>
 </ul></div>
 

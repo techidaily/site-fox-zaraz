@@ -1,7 +1,7 @@
 ---
 title: Tailor Your Summary Info Window
-date: 2024-10-02T18:51:50.726Z
-updated: 2024-10-05T17:46:15.721Z
+date: 2024-10-09T22:11:42.074Z
+updated: 2024-10-10T17:09:01.474Z
 tags:
   - user-guide
 categories:
@@ -96,10 +96,10 @@ This dialog allows you to edit MSI summary information fields.
 After selecting an item in the list either double-click it, access its “Edit...” context menu(right-click) or press theEdit field link button on the bottom right corner to show the [Edit MSI Summary Information Field Dialog](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Topics
@@ -140,21 +140,19 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-easy-to-follow-guide-recording-non-root-android-sounds/"><u>[Updated] 2024 Approved Easy-to-Follow Guide Recording Non-Root Android Sounds</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-beyondbaselinecameras-whats-upnext-for-2024/"><u>[Updated] BeyondBaselineCameras What's UpNext for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1-choose-your-final-assembly-location-a-comprehensive-guide/"><u>1. Choose Your Final Assembly Location - A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1-mastering-pdf-text-extraction-a-comprehensive-guide/"><u>1. Mastering PDF Text Extraction: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/achieve-smooth-frame-rates-in-ark-scorched-earth-optimizing-pc-settings-for-the-ultimate-fps-boost/"><u>Achieve Smooth Frame Rates in ARK: Scorched Earth - Optimizing PC Settings for the Ultimate FPS Boost</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/awesome-unveil-apowerunlock-launches-revolutionary-functions/"><u>Awesome Unveil: ApowerUnlock Launches Revolutionary Functions</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/creating-a-customized-look-with-unique-ceramic-tiles-pages/"><u>Creating a Customized Look with Unique Ceramic Tiles Pages</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/exploring-the-com-objects-property-pane/"><u>Exploring the COM Objects Property Pane</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/is-your-google-drive-vulnerable-to-ransomware-insights-from-malwarefox/"><u>Is Your Google Drive Vulnerable to Ransomware: Insights From MalwareFox</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-drone-racing-insights-and-best-fpv-models/"><u>Mastering Drone Racing Insights & Best FPV Models</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ready-set-repair-comprehensive-solutions-for-a-nonfunctional-rust-microphone/"><u>Ready, Set, Repair! Comprehensive Solutions for a Nonfunctional Rust Microphone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-on-using-apowersoft-software-for-effective-watermark-removal/"><u>Step-by-Step Guide on Using Apowersoft Software for Effective Watermark Removal</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/subscribednomore-chatgpt-timeline-question/"><u>SubscribedNoMore: ChatGPT Timeline Question</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-tecno-spark-20-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Tecno Spark 20 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-digital-dollar-first-steps-in-youtubers-revenue/"><u>[New] 2024 Approved Digital Dollar First Steps in YouTubers' Revenue</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-youtube-paid-content-guide-mastering-membership-for-monetization/"><u>[New] In 2024, YouTube Paid Content Guide Mastering Membership for Monetization</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-choice-top-tier-webcam-mounts-and-grips/"><u>[Updated] Ultimate Choice Top-Tier Webcam Mounts & Grips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comment-transformer-votre-film-mov-en-version-compatibles-avec-les-telephones-portables-en-ligne-convertir-en-3g2-sans-frais-service-de-movavi/"><u>Comment Transformer Votre Film MOV en Version Compatibles Avec Les Téléphones Portables en Ligne, Convertir en 3G2 Sans Frais - Service De Movavi</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/efficient-software-component-for-regular-updates-iupdatercomponent-explained/"><u>Efficient Software Component for Regular Updates: IUpdaterComponent Explained</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortlessly-distribute-and-run-android-applications-across-various-devices-in-one-go/"><u>Effortlessly Distribute and Run Android Applications Across Various Devices in One Go!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-beyond-the-screen-jaunt-vrs-spectacular-world/"><u>In 2024, Beyond the Screen Jaunt VR's Spectacular World</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-join-the-giggle-roll-and-tearful-talks-on-instagram-memes/"><u>In 2024, Join the Giggle-Roll and Tearful Talks on Instagram Memes</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-cross-platform-gaming-a-guide-to-playing-your-favorite-iphone-titles-on-a-computer-or-mac/"><u>Mastering Cross-Platform Gaming: A Guide to Playing Your Favorite iPhone Titles on a Computer or Mac</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/premium-gratis-image-cleaner-top-watermark-stripper-apps/"><u>Premium Gratis Image Cleaner: Top Watermark Stripper Apps</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/simple-techniques-for-watermark-removal-from-2021-videos/"><u>Simple Techniques for Watermark Removal From 2021 Videos</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-complete-factory-reset-on-windows-11-using-revo-uninstaller-pro/"><u>Step-by-Step Guide: Complete Factory Reset on Windows 11 Using Revo Uninstaller Pro</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/user-friendly-file-download-prompt-guide/"><u>User-Friendly File Download Prompt Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-to-expect-from-the-galaxy-s25-ultra-a-compreh-ensive-guide-to-its-pricing-launch-timeframe-features-and-under-the-radar-speculations/"><u>What to Expect From the Galaxy S25 Ultra? A Compreh Ensive Guide to Its Pricing, Launch Timeframe, Features & Under-the-Radar Speculations</u></a></li>
 </ul></div>
 

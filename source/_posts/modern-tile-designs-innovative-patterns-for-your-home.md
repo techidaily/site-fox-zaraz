@@ -1,7 +1,7 @@
 ---
 title: "Modern Tile Designs: Innovative Patterns for Your Home"
-date: 2024-10-02T16:08:11.674Z
-updated: 2024-10-05T16:56:48.687Z
+date: 2024-10-06T01:02:43.834Z
+updated: 2024-10-10T17:48:59.014Z
 tags:
   - user-guide
 categories:
@@ -83,21 +83,7 @@ Ever since Windows 8.1 you can customize the look of your Win32 desktop applicat
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)This page uses the **Package Resource Index** tool (**MakePri.exe**) that comes with Windows SDK. You can change its path from [External Tools Options](https://tools.techidaily.com/advancedinstaller/products/) but the tiles functionality will only work on Windows versions higher or equal than the SDK version.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Tile
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Show on Start
 
@@ -110,19 +96,25 @@ Sets the background color for the tile. The default value is **System default** 
 Additional customizations described in the sections below are available only when selecting **Custom** or one of the predefined standard colors.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Tile Text
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Display application name
@@ -133,11 +125,31 @@ This option enables you to show the application's name on the medium tile or not
 
 Choose a white or black text for the application's name on the tile. Consider what looks best over your declared tile background color.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Tile Logo
 
 Use the icon of your desktop application's EXE or uncheck **Use application's icon** option and provide a full set of scaled images to replace the default icon and background.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)You must specify images for both small and medium logos. If you only specify images for one logo size, the entire custom styling will be ignored and the default styling (application icon and background) will be applied to the tile.
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Small Logo
 
@@ -163,16 +175,16 @@ The path on disk where the assets are created.
 
 Press the \[... \] to select what asset types are generated (Small Tile, Medium Tile).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Scales
 
 Press the \[... \] to select what are the scales of the generated assets.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Scaling Mode
 
@@ -183,10 +195,10 @@ The scaling used when creating the generated visual assets.
 * Nearest Neighbor (Smoother Edges)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Generate
@@ -226,16 +238,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-unlock-full-potential-of-your-zoom-sessions-with-obs/"><u>[New] 2024 Approved Unlock Full Potential of Your Zoom Sessions With OBS</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-swift-strategies-to-beat-instagrams-video-blues-for-2024/"><u>[New] Swift Strategies to Beat Instagram's Video Blues for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-mastering-the-art-of-making-an-effective-podcast-launch-video/"><u>[Updated] In 2024, Mastering the Art of Making an Effective Podcast Launch Video</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/convert-your-mkv-videos-to-play-on-xbox-360-with-our-easy-to-use-video-converter/"><u>Convert Your MKV Videos to Play on Xbox 360 with Our Easy-to-Use Video Converter</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/crafting-your-instagram-business-blueprint/"><u>Crafting Your Instagram Business Blueprint</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211471703-end-window-11s-non-stop-rebooting-cycle-easy-solutions-inside/"><u>End Window 11'S Non-Stop Rebooting Cycle - Easy Solutions Inside</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-effectively-capture-and-archive-online-meeting-footage/"><u>How to Effectively Capture and Archive Online Meeting Footage</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-your-application-settings-a-guide-to-the-appproperties-tab-features/"><u>Mastering Your Application Settings: A Guide to the AppProperties Tab Features</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/superior-setup-software-provider/"><u>Superior Setup Software Provider</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-journey-from-ad-revenue-to-bank-account-balance-for-2024/"><u>The Journey From Ad Revenue to Bank Account Balance for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/transform-your-pdf-bills-into-excel-essential-guide-for-accountants-and-bookkeepers/"><u>Transform Your PDF Bills Into Excel: Essential Guide for Accountants and Bookkeepers</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-select-macos-big-sur-11-apps-for-seamless-video-editing/"><u>[New] 2024 Approved Select MacOS Big Sur 11 Apps for Seamless Video Editing</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-unveiling-the-path-to-captivating-photographic-alliances-for-2024/"><u>[New] Unveiling the Path to Captivating Photographic Alliances for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-marketing-key-methods-for-attracting-viewers/"><u>[New] YouTube Marketing Key Methods for Attracting Viewers</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-understanding-file-attributes-a-comprehensive-guide/"><u>1. Understanding File Attributes: A Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/advanced-security-automating-passwords-in-windows-texts/"><u>Advanced Security: Automating Passwords in Windows Texts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/anticipating-the-launch-windows-11-2024-upgrade-coming-soon/"><u>Anticipating the Launch: Windows 11 2024 Upgrade Coming Soon</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/bring-snapchat-to-your-desktop-a-comprehensive-tutorial/"><u>Bring Snapchat to Your Desktop: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/complete-how-to-mastering-the-art-of-screen-shots-on-toshiba-laptopstelevisions/"><u>Complete How-To: Mastering the Art of Screen Shots on Toshiba Laptops/Televisions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/freezing-problem-in-rocket-league-game-now-patched/"><u>Freezing Problem in Rocket League Game Now Patched</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-fully-remove-macs-apowerrec-and-virtual-sound-card-software-a-step-by-step-guide/"><u>How to Fully Remove Mac's ApowerREC and Virtual Sound Card Software: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/painting-with-light-advanced-color-techniques-for-2024/"><u>Painting with Light Advanced Color Techniques for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/proven-strategies-for-securing-your-iphones-information-through-efficient-backups/"><u>Proven Strategies for Securing Your iPhone's Information Through Efficient Backups</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/revealing-the-hidden-a-guide-to-displaying-windows-mouse-cursor-during-recordings/"><u>Revealing the Hidden: A Guide to Displaying Windows Mouse Cursor During Recordings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-ultimate-guide-to-mac-based-sound-capture-in-audacity-for-2024/"><u>The Ultimate Guide to Mac-Based Sound Capture in Audacity for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-ios-pro-and-plus-free-film-apps-unveiled/"><u>Top iOS Pro & Plus-Free Film Apps - Unveiled</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-ranking-free-tools-ultimate-alternatives-to-snagit/"><u>Top-Ranking Free Tools: Ultimate Alternatives to Snagit</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Language Settings & Preferences: Customizing Your User Experience"
-date: 2024-10-03T19:05:59.041Z
-updated: 2024-10-05T16:06:51.921Z
+date: 2024-10-03T18:04:18.185Z
+updated: 2024-10-10T21:50:41.183Z
 tags:
   - user-guide
 categories:
@@ -110,16 +110,10 @@ Table of Contents
 ## ILanguagesOptions
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -127,10 +121,10 @@ Table of Contents
 ILanguagesOptions : IDispatch
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Overview
@@ -138,10 +132,10 @@ ILanguagesOptions : IDispatch
 This interface is meant to set translation options for the project.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Properties
@@ -171,16 +165,10 @@ This interface is meant to set translation options for the project.
 **SetNotDisplayCountryNameInDialog(IBuild Build, Bool Value)** \- Sets the value of the “Do not display country name in language selection combo” checkbox for the specified Build.
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## See also
@@ -222,20 +210,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-leading-sites-that-outshine-traditional-twitter-usage/"><u>[Updated] In 2024, Leading Sites That Outshine Traditional Twitter Usage</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-screencast-pro-efficient-recording-macpc-upload-to-youtube/"><u>[Updated] ScreenCast Pro Efficient Recording, Mac/PC Upload to YouTube</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1-choose-your-final-assembly-location-a-comprehensive-guide/"><u>1. Choose Your Final Assembly Location - A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1-mastering-pdf-text-extraction-a-comprehensive-guide/"><u>1. Mastering PDF Text Extraction: A Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/adding-command-tab-to-taskmanager-in-windows-11-pro/"><u>Adding Command Tab to TaskManager in Windows 11 Pro</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/awesome-unveil-apowerunlock-launches-revolutionary-functions/"><u>Awesome Unveil: ApowerUnlock Launches Revolutionary Functions</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/creating-a-customized-look-with-unique-ceramic-tiles-pages/"><u>Creating a Customized Look with Unique Ceramic Tiles Pages</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/custom-regional-chat-features-for-enhanced-engagement/"><u>Custom Regional Chat Features for Enhanced Engagement</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/exploring-the-com-objects-property-pane/"><u>Exploring the COM Objects Property Pane</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-11-pro-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 11 Pro</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/need-to-unrepeot-your-content-heres-how-you-can-do-it-on-tiktok-efficiently/"><u>Need to Unrepeot Your Content? Here's How You Can Do It on TikTok Efficiently.</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-on-using-apowersoft-software-for-effective-watermark-removal/"><u>Step-by-Step Guide on Using Apowersoft Software for Effective Watermark Removal</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/step-by-step-tutorial-for-streaming-pc-gaming-on-windows-via-obs-quick-and-straightforward-methods/"><u>Step-by-Step Tutorial for Streaming PC Gaming on Windows via OBS: Quick & Straightforward Methods</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-best-ispoofer-alternative-to-try-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-honor-magic-v2-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Honor Magic V2 Phone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-facebooks-2023-video-innovations-embracing-the-short-form-approach/"><u>[New] 2024 Approved Facebook’s 2023 Video Innovations Embracing the Short-Form Approach</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rom-watch-list-to-download-youtube-playlist-in-minutes-for-2024/"><u>[New] From Watch List to Download YouTube Playlist in Minutes for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-programs-to-edit-mp4-video-tags-for-2024/"><u>Best Programs to Edit MP4 Video Tags for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/complete-guide-restoring-lost-files-on-your-samsung-galaxy-using-the-galaxy-data-recovery-app/"><u>Complete Guide: Restoring Lost Files on Your Samsung Galaxy Using the Galaxy Data Recovery App</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/exploring-app-id-in-icomclass-a-deep-dive-into-systemic-code-recognition/"><u>Exploring App ID in iComClass: A Deep Dive Into Systemic Code Recognition</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/frustrating-tips-and-tricks-to-watch-your-dvds-on-windows-8/"><u>Frustrating Tips and Tricks to Watch Your DVDs on Windows 8</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-realme-c55-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Realme C55 Phones? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-aerial-vehicles-deciphered-how-they-fly-and-communicate/"><u>In 2024, Aerial Vehicles Deciphered How They Fly & Communicate</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-gadgets-a-look-into-toms-hardware-reviews/"><u>Inside the World of Gadgets - A Look Into Tom's Hardware Reviews</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-final-cut-pro-essentials-3-ways-to-create-smooth-transitions/"><u>New 2024 Approved Final Cut Pro Essentials 3 Ways to Create Smooth Transitions</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/ultimate-tutorial-how-to-stream-and-watch-flv-videos-on-your-android-device/"><u>Ultimate Tutorial: How to Stream and Watch FLV Videos on Your Android Device</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/wireless-connection-guide-linking-your-google-pixel-smartphone-with-a-windowsmac-computer/"><u>Wireless Connection Guide: Linking Your Google Pixel Smartphone with a Windows/Mac Computer</u></a></li>
 </ul></div>
 

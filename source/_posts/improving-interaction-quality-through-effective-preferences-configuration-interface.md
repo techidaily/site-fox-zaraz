@@ -1,7 +1,7 @@
 ---
 title: Improving Interaction Quality Through Effective 'Preferences Configuration Interface'
-date: 2024-09-29T17:56:10.882Z
-updated: 2024-10-05T20:02:00.201Z
+date: 2024-10-04T20:33:05.562Z
+updated: 2024-10-10T17:03:18.615Z
 tags:
   - user-guide
 categories:
@@ -97,29 +97,22 @@ Table of Contents
    * 3.3 [Sub-String/Bitwise Operators](https://tools.techidaily.com/advancedinstaller/products/)
 * 4\. [Predefined conditions](https://tools.techidaily.com/advancedinstaller/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Expression
 
 This field contains the resulted conditional statement and can also be edited using [Smart Condition Edit Control](https://tools.techidaily.com/advancedinstaller/products/). Use the \[Validate \] button to validate it.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If the condition is invalid, you will be prompted with an error message that will indicate the error's beginning.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Insert Operand
 
 This section allows you to insert operands in the statement.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2.1 Property
 
@@ -170,10 +163,10 @@ Insert reference to the action state of a feature (for example if a feature will
 Test if the correspondent feature will be reinstalled on the machine.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2.7 Feature State
@@ -185,10 +178,10 @@ Insert reference to the installed state of a feature (for example if a feature i
 This condition will be true only if the feature is already installed on the machine.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2.8 Constant
@@ -214,10 +207,10 @@ This condition will be true only if the feature "Feature" will be installed loca
 In this section you can insert operators in the conditional statement. Use the \[Insert \] button to add the selected one.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3.1 Logical operators:
@@ -228,6 +221,13 @@ In this section you can insert operators in the conditional statement. Use the \
 * OR - TRUE if either or both terms are TRUE.
 * AND - TRUE if both terms are TRUE.
 * NOT - Unary operator; inverts state of following term.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3.2 Comparative operators:
 
@@ -243,13 +243,6 @@ In this section you can insert operators in the conditional statement. Use the \
 * \~< - TRUE if left value is less than right value. The comparison is case insensitive.
 * <= - TRUE if left value is less than or equal to right value.
 * \~<= - TRUE if left value is less than or equal to right value. The comparison is case insensitive.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3.3 Sub-String/Bitwise Operators
 
@@ -271,6 +264,13 @@ Bitwise operators can be used between two integer values.
 ## 4\. Predefined conditions
 
 This section is described in the [Predefined Conditions](https://tools.techidaily.com/advancedinstaller/products/) article.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Topics
 
@@ -314,17 +314,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-ios-selection-showcase-premier-psp-emulators-ranked-1-5/"><u>[New] 2024 Approved IOS Selection Showcase Premier PSP Emulators Ranked #1-5</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-sony-a6400-the-unseen-movie-problem/"><u>[New] 2024 Approved Sony A6400 The Unseen Movie Problem</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-exploring-earning-potential-revenue-from-youtube-advertisements-in-2024/"><u>[New] Exploring Earning Potential Revenue From YouTube Advertisements, In 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-unmatched-portable-experience-with-top-gba-simulators-android/"><u>2024 Approved Unmatched Portable Experience with Top GBA Simulators, Android</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/advanced-techniques-how-to-load-configuration-from-an-ini-file/"><u>Advanced Techniques: How to Load Configuration From an INI File</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amd-vega-56-graphics-card-driver-installation-updates-and-downloads-for-windows/"><u>AMD Vega 56 Graphics Card Driver Installation: Updates and Downloads for Windows</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/comprehensive-tutorial-switching-your-pdf-reader-preferences-in-windows-10/"><u>Comprehensive Tutorial: Switching Your PDF Reader Preferences in Windows 10</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/enhancing-visual-content-mastering-the-art-of-ipatchtarget-imagery/"><u>Enhancing Visual Content: Mastering the Art of IPatchTarget Imagery</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/enhancing-your-workflow-understanding-the-attachscript-custom-action-feature/"><u>Enhancing Your Workflow: Understanding the 'AttachScript' Custom Action Feature</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Oppo Reno 10 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/troubleshooting-handbrake-errors-how-to-successfully-rip-your-dvd-without-any-hitches/"><u>Troubleshooting Handbrake Errors: How to Successfully Rip Your DVD Without Any Hitches</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/user-defined-initialization-options-panel-for-custom-application-deployment/"><u>User-Defined Initialization Options Panel for Custom Application Deployment</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-android-lightroom-a-complete-and-detailed-review-for-2024/"><u>[New] Android Lightroom A Complete and Detailed Review for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-panasonic-hx-a1-revolutionizing-wearable-cameras-for-the-outdoors-for-2024/"><u>[New] Panasonic HX-A1 Revolutionizing Wearable Cameras for the Outdoors for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-viewing-experience-adding-subtitles-on-windows-media-player/"><u>[New] Transform Viewing Experience Adding Subtitles on Windows Media Player</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-navigating-through-social-streams-securing-your-status-videos/"><u>[Updated] 2024 Approved Navigating Through Social Streams Securing Your Status Videos</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-enhance-tweet-management-the-most-effective-apps-for-tweets/"><u>[Updated] Enhance Tweet Management The Most Effective Apps for Tweets</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-nokia-c12-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Nokia C12 Pro FRP Bypass Instantly</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209146215-bypass-windows-update-trouble-clearing-code-8007000e-with-ease/"><u>Bypass Windows Update Trouble: Clearing Code 8007000E with Ease</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/customize-data-sources-in-property-editing-panel/"><u>Customize Data Sources in Property Editing Panel</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/easy-guide-on-how-to-record-songs-from-apple-music-streaming/"><u>Easy Guide on How to Record Songs From Apple Music Streaming</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/easy-methods-to-set-any-image-as-white-background-using-your-iphone/"><u>Easy Methods to Set Any Image as White Background Using Your iPhone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/easy-tutorial-on-reflecting-android-display-on-an-lg-smart-television/"><u>Easy Tutorial on Reflecting Android Display on an LG Smart Television</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/guide-mastering-the-game-of-honkai-impact-3-on-your-windows-machine/"><u>Guide: Mastering the Game of Honkai Impact 3 on Your Windows Machine</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/recover-lost-data-restore-deleted-photos-and-documents-from-your-android-phone-with-sd-card-recovery/"><u>Recover Lost Data: Restore Deleted Photos & Documents From Your Android Phone with SD Card Recovery</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/tips-for-a-full-screen-facebook-video-experience-for-2024/"><u>Tips for a Full-Screen Facebook Video Experience for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-tips-for-downloading-and-playing-mp3-audio-on-an-ipad-device/"><u>Top Tips for Downloading and Playing MP3 Audio on an iPad Device</u></a></li>
 </ul></div>
 

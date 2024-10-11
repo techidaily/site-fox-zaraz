@@ -1,7 +1,7 @@
 ---
 title: User-Friendly File Download Prompt Guide
-date: 2024-10-02T19:40:59.920Z
-updated: 2024-10-05T18:02:36.942Z
+date: 2024-10-07T21:24:32.595Z
+updated: 2024-10-10T18:37:54.491Z
 tags:
   - user-guide
 categories:
@@ -104,13 +104,6 @@ This is the exact file.extension name as it will appear after installation. The 
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)If the name of the file is different on the server, it will be renamed.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### URL
 
 The URL where the file will be downloaded from. This is a [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) field and you can edit it using [Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
@@ -121,10 +114,10 @@ The URL where the file will be downloaded from. This is a [Formatted Type](https
 Example : _https://username:password@example.com_
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Mirror URL
@@ -132,26 +125,26 @@ Example : _https://username:password@example.com_
 Specify a mirror URL.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Mirror URL
 
 A backup URL where the file will be downloaded from if the first URL fails. This is a [Formatted Type](https://tools.techidaily.com/advancedinstaller/products/) field and you can edit it using[Smart Edit Control](https://tools.techidaily.com/advancedinstaller/products/).
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Condition
 
 Specify a condition for the file download operation. Use the \[... \] button on the right to show the [Edit Condition Dialog](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Overwrite file if already exists
 
@@ -161,17 +154,31 @@ If a file with the same name exists in the download location, it will be replace
 
 Remove the downloaded file when the package is uninstalled.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Impersonate installing user
 
 Enable this option to impersonate the current user. You can check this option if you want to run the deployment as the user installing the application, not under the Local System account. 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Integrity Check
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Show error if the file is not downloaded correctly
@@ -186,13 +193,6 @@ In this field, you can specify the exact size of the downloaded file.
 
 This field contains the MD5 signature of the file. After the file is downloaded, its MD5 signature is calculated. If it coincides with the MD5 signature specified in this field then the file was downloaded correctly. If not, the user is notified.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Compute size and MD5 from local file
 
 You can edit these fields directly with the appropriate values or you could use the\[Browse...\] button to automatically complete size and MD5 fields.
@@ -200,16 +200,10 @@ You can edit these fields directly with the appropriate values or you could use 
 ## Error Policy
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### If an error occurs
@@ -252,24 +246,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-the-art-of-going-viral-with-instagram-stories-for-2024/"><u>[New] The Art of Going Viral with Instagram Stories for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-live-feed-perfection-top-free-screen-capture-apps-reviewed/"><u>[Updated] 2024 Approved Live Feed Perfection Top Free Screen Capture Apps Reviewed</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-iphone-hdr-photo-perfection/"><u>[Updated] The Art of iPhone HDR Photo Perfection</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1-seamless-ip-address-chain-integration-tool/"><u>1. Seamless IP Address Chain Integration Tool</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-the-compreeved-compendium-downloading-vimeo-content-pros-way/"><u>2024 Approved The Compreeved Compendium Downloading Vimeo Content Pro's Way</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/access-premium-music-without-spending-explore-safaris-leading-mp3-download-app/"><u>Access Premium Music Without Spending: Explore Safari's Leading MP3 Download App!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-vivo-y27-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Vivo Y27 5G via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Nokia G310? | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/custom-action-with-attached-script-boosting-iattactivities/"><u>Custom Action with Attached Script: Boosting IATTACTIVITIES</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/easy-update-process-for-zoom-desktop-client-across-windowsmacos/"><u>Easy Update Process for Zoom Desktop Client Across Windows/macOS</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/leading-screencast-tools-for-showcasing-world-of-tanks-strategies/"><u>Leading Screencast Tools for Showcasing World of Tanks Strategies</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/navigating-through-key-microsoft-libraries-on-the-windows-platform/"><u>Navigating Through Key Microsoft Libraries on the Windows Platform</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-are-you-aware-that-you-can-create-your-own-lower-thirds-for-video-read-this-article-for-a-tutorial-on-how-to-customize-one/"><u>New Are You Aware that You Can Create Your Own Lower Thirds for Video? Read This Article for a Tutorial on How to Customize One</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/resizing-your-content-seamlessly-a-cost-free-tutorial-on-fitting-videos-to-instagrams-requirements/"><u>Resizing Your Content Seamlessly: A Cost-Free Tutorial on Fitting Videos to Instagram's Requirements</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/simple-techniques-for-mkv-video-subtitle-retrieval/"><u>Simple Techniques for MKV Video Subtitle Retrieval</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-linking-your-android-device-with-an-lg-television/"><u>Step-by-Step Guide: Linking Your Android Device with an LG Television</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/the-top-methods-for-seamless-music-transition-between-galaxy-s4-and-s6-edge-devices/"><u>The Top Methods for Seamless Music Transition Between Galaxy S4 and S6 Edge Devices</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-wireless-mouse-picks-of-2024/"><u>Top-Rated Wireless Mouse Picks of 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/understanding-browserbrokerexe-safety-assessment-and-virus-risks/"><u>Understanding Browser_broker.exe: Safety Assessment & Virus Risks</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-exploring-object-oriented-programming-for-complex-applications/"><u>[New] Exploring Object-Oriented Programming for Complex Applications</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-discords-best-fixed-character-emoji-crafting-apps/"><u>[Updated] 2024 Approved Discord's Best Fixed Character Emoji Crafting Apps</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-exploring-toolwiz-photosapp-in-depth-review-2023/"><u>[Updated] Exploring Toolwiz PhotosApp In-Depth Review, 2023</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-assemble-a-personalized-youtube-music-list/"><u>[Updated] In 2024, How to Assemble a Personalized YouTube Music List</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-understanding-file-attributes-a-comprehensive-guide/"><u>1. Understanding File Attributes: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2023s-ultimate-toolwiz-photo-suite-analysis-for-2024/"><u>2023'S Ultimate Toolwiz Photo Suite Analysis for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-secrets-unveiled-the-ultimate-guide-to-recording-games/"><u>2024 Approved Secrets Unveiled The Ultimate Guide to Recording Games</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/complete-how-to-mastering-the-art-of-screen-shots-on-toshiba-laptopstelevisions/"><u>Complete How-To: Mastering the Art of Screen Shots on Toshiba Laptops/Televisions</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/ifolderswidget-integrating-seamless-folder-management-into-your-app/"><u>IFoldersWidget: Integrating Seamless Folder Management Into Your App</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-oneplus-11r-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On OnePlus 11R? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/leading-passport-photography-apps-ranked-for-ios-and-android-how-to-get-your-travel-document-photos-on-a-budget/"><u>Leading Passport Photography Apps Ranked for iOS & Android: How to Get Your Travel Document Photos on a Budget!</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-8-secure-password-tools-compatible-with-windows-11/"><u>Top 8 Secure Password Tools Compatible with Windows 11</u></a></li>
 </ul></div>
 

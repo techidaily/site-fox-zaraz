@@ -1,7 +1,7 @@
 ---
 title: "Dépanner Et Restaurer Des Photos Sur Un Vieux Disque Dur : Méthodes Éprouvées"
-date: 2024-10-18T01:32:43.369Z
-updated: 2024-10-23T01:24:29.802Z
+date: 2024-10-27T22:18:32.774Z
+updated: 2024-10-28T20:34:38.464Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/5b77fd5a0fde79a2c2eb70c6784e4159441548e492bf849faab165ff42ddbd19.jpg
@@ -70,6 +70,13 @@ Causes of "winload.efi missing or contains error after clone" issues:
 
 The "winload.efi missing" error happens when the OS can't find or access the winload.efi file. To fix this issue, 5 solutions are provided. You can directly navigate to the specific method you need or go through each solution sequentially.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  Option 1\. Use the Boot Repair Tool
 
 **[AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/)** stands out as a powerful and user-friendly tool. With the ability to create bootable devices, you can boot to your system when misfortunate happens and operate as normal, including executing backup and restore operations and repair your corrupted or missing winload efi files.
@@ -79,10 +86,10 @@ Furthermore, AOMEI Backupper proves invaluable in tackling various problems such
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Best free bootable media creation tool
@@ -104,13 +111,6 @@ Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click
 After creating bootable media (just a few minutes), boot your computer from this media, then AOMEI Backupper will run automatically, then go to **Tools** \-> **Windows Shell Command**. And you can restore system image or disk image created by AOMEI Backupper. 
 
 [![Windows Shell Command](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/windows-shell-command.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 2\. Disable Secure Boot
 
@@ -142,13 +142,6 @@ Step 3\. Select **Troubleshoot** and then **Command Prompt**.
 
 [![Command Prompt](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/windows-10-startup-repair/advanced-options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4\. Type or paste the following command and press **Enter**:
 
 **chkdsk c: /f** (This command checks and fixes errors on the system drive.)
@@ -158,10 +151,10 @@ Step 5\. Once the process is complete, unplug the USB and restart the computer.
 Check if the system boots normally after performing these steps.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 4\. Run SFC to Check System File Integrity
@@ -187,16 +180,10 @@ If the "sfc /scannow" command fails to repair the Winload.efi missing file, proc
 [![SFC Scannow](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/sfc-scannow.png "SFC Scannow")
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Exercise caution to avoid potential system errors when using this command.
@@ -251,14 +238,14 @@ You just need to download this software and install it. Open it and navigate to 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-20.svg) 100% Secure
 
-[![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+[![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
 
 ## Conclusion
 
@@ -272,22 +259,15 @@ Was the provided information useful? Your vote is important to us!
 
 ![Maggie](https://www.ubackup.com/assets/images/author/maggie.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Maggie](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Maggie is a technical editor from AOMEI and troubleshoots technical problems against data protection. She has received professional and systematic technical training. With a focus on user experience, security, and problem-solving, she always puts herself in the readers' shoes and provides them with valuable technical insights.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Related Articles
@@ -310,6 +290,13 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -319,6 +306,13 @@ Safeguard any data of your computer with backup, sync and clone.
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -335,20 +329,22 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-differentiate-with-style-on-snapchat-top-120plus-narratives-for-your-private-stories/"><u>[New] 2024 Approved Differentiate with Style on Snapchat Top 120+ Narratives for Your Private Stories</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-revive-missing-fb-watch-icon-solutions/"><u>[New] 2024 Approved Revive Missing FB Watch Icon - Solutions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-secret-to-stability-overcoming-handheld-videography-challenges/"><u>[New] The Secret to Stability Overcoming Handheld Videography Challenges</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/aktivieren-sie-den-datenschutz-fur-dieses-laufwerk-jetzt/"><u>Aktivieren Sie Den Datenschutz Für Dieses Laufwerk Jetzt</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/aomei-datenwiederherstellungsfragen-haufig-gestellt-und-beantwortet/"><u>AOMEI-Datenwiederherstellungsfragen: Häufig Gestellt Und Beantwortet</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/complete-guide-restoring-data-and-repairing-an-asus-computer-using-windows-10-methods/"><u>Complete Guide: Restoring Data and Repairing an ASUS Computer Using Windows 10 Methods</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/erecovery-for-windows-7/"><u>ERecovery for Windows 7 - システムエラーを解消する代替ソフトウェア</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-a-non-responsive-usb-mouse-top-solutions-for-your-laptop-woes/"><u>Fixing a Non-Responsive USB Mouse: Top Solutions for Your Laptop Woes</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-move-your-entire-iphone-photo-library-onto-an-external-hdd-without-using-a-computer/"><u>How to Move Your Entire iPhone Photo Library Onto an External HDD without Using a Computer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-silence-the-speaking-guide-function-in-your-samsung-flat-panel-display/"><u>How to Silence the Speaking Guide Function in Your Samsung Flat Panel Display</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-stream-share-your-favorite-youtube-tunes-and-videos-a-step-by-step-guide-for-iphone-ipad-and-windows-pc-users/"><u>How to Stream Share Your Favorite Youtube Tunes and Videos: A Step-by-Step Guide for iPhone, iPad & Windows PC Users</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-find-x6-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo Find X6 Pro</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-infinix-note-30-vip-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Infinix Note 30 VIP and Browser | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/should-you-opt-for-an-llm-exploring-9-essential-points-to-consider/"><u>Should You Opt for an LLM? Exploring 9 Essential Points to Consider</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1728482242759-windows-11/"><u>Windows 11 裡創建起動時自動恢復的雷射卡重要因素</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-immediate-fixes-for-the-recurring-windows-10-photos-crashes/"><u>[New] 2024 Approved Immediate Fixes for the Recurring Windows 10 Photos Crashes</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-premier-options-to-play-sonys-ps1-games-on-pc/"><u>[New] 2024 Approved Premier Options to Play Sony's PS1 Games on PC</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-pros-playbook-revolutionizing-your-instagram-feed/"><u>[Updated] 2024 Approved The Pro's Playbook Revolutionizing Your Instagram Feed</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-crafting-yt-masterpieces-for-igtv-showcase-for-2024/"><u>[Updated] Crafting YT Masterpieces for IGTV Showcase for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-facing-copyright-challenges-on-youtube-know-your-rights-for-2024/"><u>[Updated] Facing Copyright Challenges on YouTube Know Your Rights for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/acasis-nvme-ssd/"><u>Acasis NVMe SSD クローニング手順: 最も効率的な安全なコピー方法</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/come-ripristinare-le-email-eliminate-per-sempre-da-icloud-guida-passo-passo/"><u>Come Ripristinare Le Email Eliminate per Sempre Da iCloud: Guida Passo-Passo</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/como-respaldar-tu-disco-duro-en-windows/"><u>Cómo Respaldar Tu Disco Duro en Windows</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gl-error-fixable-nvidia-gpu-update/"><u>GL ERROR: Fixable - Nvidia GPU Update</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-recover-without-a-system-restore-point-on-windows/"><u>How to Recover Without a System Restore Point on Windows</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-unleash-call-record-potential-essential-free-and-paid-tactics-for-skype-on-computers/"><u>In 2024, Unleash Call Record Potential - Essential Free & Paid Tactics for Skype on Computers</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/kompaktes-tutorial-installierte-windows-11-direkt-von-usb-laden/"><u>Kompaktes Tutorial: Installierte Windows 11 Direkt Von USB Laden</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/losungsansatze-fur-das-problem-onedrive-synchronisation-ist-ausstehend-entdecken-sie-drei-effektive-strategien/"><u>Lösungsansätze Für Das Problem: OneDrive-Synchronisation Ist Ausstehend - Entdecken Sie Drei Effektive Strategien</u></a></li>
+<li><a href="https://app-tips.techidaily.com/move-it-like-that-a-guide-for-shifting-itunes-lists-onto-usb-drives-across-windows-and-mac-systems/"><u>Move It Like That: A Guide for Shifting iTunes Lists Onto USB Drives Across Windows and Mac Systems</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/sicherstellen-sie-ihre-e-mail-gesundheit-zwei-methoden-zum-exportieren-von-outlook-postfachern-auf-externe-hdds/"><u>Sicherstellen Sie Ihre E-Mail-Gesundheit: Zwei Methoden Zum Exportieren Von Outlook-Postfächern Auf Externe HDDs</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-to-safely-transferring-the-system-partition-onto-an-ssd-in-windows-11-10-8-and-7/"><u>Step-by-Step Guide to Safely Transferring the System Partition Onto an SSD in Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1728502991901-sd/"><u>ファイル移行ガイド:ノートパソコンへの簡単なマイクロSDカードからのデータ移動方法</u></a></li>
 </ul></div>
 

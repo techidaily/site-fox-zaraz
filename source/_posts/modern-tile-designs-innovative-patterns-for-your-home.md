@@ -1,7 +1,7 @@
 ---
 title: "Modern Tile Designs: Innovative Patterns for Your Home"
-date: 2024-10-06T01:02:43.834Z
-updated: 2024-10-10T17:48:59.014Z
+date: 2024-11-18T18:44:58.336Z
+updated: 2024-11-22T09:08:10.400Z
 tags:
   - user-guide
 categories:
@@ -79,15 +79,31 @@ Ever since Windows 8.1 you can customize the look of your Win32 desktop applicat
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Advanced Installer can import start screen tiles settings when [importing MSIs](https://tools.techidaily.com/advancedinstaller/products/) built with other tools.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)Don't confuse desktop application tiles with [AppX tiles](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Caution!](https://cdn.advancedinstaller.com/svg/common/IconMessageWarning.svg)This page uses the **Package Resource Index** tool (**MakePri.exe**) that comes with Windows SDK. You can change its path from [External Tools Options](https://tools.techidaily.com/advancedinstaller/products/) but the tiles functionality will only work on Windows versions higher or equal than the SDK version.
 
 ## Tile
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Show on Start
 
  See the [Pin Program to Start Menu Automatically in Windows (App Packaging)](https://www.advancedinstaller.com/user-guide/tiles-show-start.html "Pin Program to Start Menu Automatically in Windows (App Packaging)") article for the required configuration.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Color
 
@@ -95,27 +111,7 @@ Sets the background color for the tile. The default value is **System default** 
 
 Additional customizations described in the sections below are available only when selecting **Custom** or one of the predefined standard colors.
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Tile Text
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Display application name
 
@@ -126,10 +122,7 @@ This option enables you to show the application's name on the medium tile or not
 Choose a white or black text for the application's name on the tile. Consider what looks best over your declared tile background color.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tile Logo
@@ -137,19 +130,6 @@ Choose a white or black text for the application's name on the tile. Consider wh
 Use the icon of your desktop application's EXE or uncheck **Use application's icon** option and provide a full set of scaled images to replace the default icon and background.
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)You must specify images for both small and medium logos. If you only specify images for one logo size, the entire custom styling will be ignored and the default styling (application icon and background) will be applied to the tile.
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Small Logo
 
@@ -159,9 +139,17 @@ Supply a set of full-bleed images to replace the 70x70 small logo.
 
 Supply a set of full-bleed images to replace the 150x150 medium logo.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Asset Generator
 
 Create the assets for your tile
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Source
 
@@ -171,6 +159,10 @@ The source image used to create all the other visual assets.
 
 The path on disk where the assets are created.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Assets
 
 Press the \[... \] to select what asset types are generated (Small Tile, Medium Tile).
@@ -179,13 +171,6 @@ Press the \[... \] to select what asset types are generated (Small Tile, Medium 
 
 Press the \[... \] to select what are the scales of the generated assets.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Scaling Mode
 
 The scaling used when creating the generated visual assets. 
@@ -193,13 +178,6 @@ The scaling used when creating the generated visual assets.
 * Bicubic (Sharper Edges, Highest Quality)
 * Bilinear (Sharper Edges)
 * Nearest Neighbor (Smoother Edges)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Generate
 
@@ -238,21 +216,15 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-select-macos-big-sur-11-apps-for-seamless-video-editing/"><u>[New] 2024 Approved Select MacOS Big Sur 11 Apps for Seamless Video Editing</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-unveiling-the-path-to-captivating-photographic-alliances-for-2024/"><u>[New] Unveiling the Path to Captivating Photographic Alliances for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-marketing-key-methods-for-attracting-viewers/"><u>[New] YouTube Marketing Key Methods for Attracting Viewers</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1-understanding-file-attributes-a-comprehensive-guide/"><u>1. Understanding File Attributes: A Comprehensive Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/advanced-security-automating-passwords-in-windows-texts/"><u>Advanced Security: Automating Passwords in Windows Texts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/anticipating-the-launch-windows-11-2024-upgrade-coming-soon/"><u>Anticipating the Launch: Windows 11 2024 Upgrade Coming Soon</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/bring-snapchat-to-your-desktop-a-comprehensive-tutorial/"><u>Bring Snapchat to Your Desktop: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/complete-how-to-mastering-the-art-of-screen-shots-on-toshiba-laptopstelevisions/"><u>Complete How-To: Mastering the Art of Screen Shots on Toshiba Laptops/Televisions</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/freezing-problem-in-rocket-league-game-now-patched/"><u>Freezing Problem in Rocket League Game Now Patched</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-fully-remove-macs-apowerrec-and-virtual-sound-card-software-a-step-by-step-guide/"><u>How to Fully Remove Mac's ApowerREC and Virtual Sound Card Software: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/painting-with-light-advanced-color-techniques-for-2024/"><u>Painting with Light Advanced Color Techniques for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/proven-strategies-for-securing-your-iphones-information-through-efficient-backups/"><u>Proven Strategies for Securing Your iPhone's Information Through Efficient Backups</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/revealing-the-hidden-a-guide-to-displaying-windows-mouse-cursor-during-recordings/"><u>Revealing the Hidden: A Guide to Displaying Windows Mouse Cursor During Recordings</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-ultimate-guide-to-mac-based-sound-capture-in-audacity-for-2024/"><u>The Ultimate Guide to Mac-Based Sound Capture in Audacity for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-ios-pro-and-plus-free-film-apps-unveiled/"><u>Top iOS Pro & Plus-Free Film Apps - Unveiled</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/top-ranking-free-tools-ultimate-alternatives-to-snagit/"><u>Top-Ranking Free Tools: Ultimate Alternatives to Snagit</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-accelerated-learning-quick-start-to-becoming-a-lut-expert/"><u>[New] Accelerated Learning Quick Start to Becoming a LUT Expert</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1728468951833-hdd/"><u>安心して使えるまで―外付けHDDが破損する前に気づくサイン</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/aomei-sql-data-recovery-comprehensive-guides-and-how-to-videos/"><u>AOMEI SQL Data Recovery: Comprehensive Guides and How-To Videos</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/como-recuperar-archivos-eliminados-de-un-disco-duro-externo-que-no-estan-en-la-papelera-de-reciclaje/"><u>Cómo Recuperar Archivos Eliminados De Un Disco Duro Externo Que No Están en La Papelera De Reciclaje</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-breaking-ground-in-editing-an-examination-of-the-vida-app/"><u>In 2024, Breaking Ground in Editing An Examination of the Vida App</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/real-time-recording-rivalry-obs-versus-shadowreplay/"><u>Real-Time Recording Rivalry OBS Versus ShadowReplay</u></a></li>
+<li><a href="https://some-tips.techidaily.com/streamline-your-cloud-strategy-expert-recommendations-for-top-20-free-providers-for-2024/"><u>Streamline Your Cloud Strategy Expert Recommendations for Top 20 Free Providers for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/strumenti-di-clonazione-gratis-per-unita-usb-avviabili-scopri-la-chiavetta-usb-ideale/"><u>Strumenti Di Clonazione Gratis per Unità USB Avviabili: Scopri La Chiavetta USB Ideale</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/ultimate-free-tutorial-on-retrieving-permanently-lost-images/"><u>Ultimate Free Tutorial on Retrieving Permanently Lost Images</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-free-up-space-superior-cloud-pickers-list-for-2024/"><u>Ultimate Free Up Space Superior Cloud Pickers' List for 2024</u></a></li>
 </ul></div>
 

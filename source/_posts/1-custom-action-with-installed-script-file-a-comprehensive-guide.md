@@ -1,7 +1,7 @@
 ---
 title: "1. Custom Action with Installed Script File: A Comprehensive Guide"
-date: 2024-10-06T22:35:25.211Z
-updated: 2024-10-10T19:21:27.836Z
+date: 2024-11-14T19:37:19.097Z
+updated: 2024-11-22T02:16:32.707Z
 tags:
   - user-guide
 categories:
@@ -123,13 +123,14 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## IInstalledScriptFileCustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -137,10 +138,7 @@ Table of Contents
 IInstalledScriptFileCustomAction : ICustomAction
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Overview
@@ -148,10 +146,7 @@ IInstalledScriptFileCustomAction : ICustomAction
 This interface facilitates editing custom action that allows the launching of a script file into execution, but it must be scheduled after the files have been deployed on the target computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Properties
@@ -165,10 +160,7 @@ This interface facilitates editing custom action that allows the launching of a 
 **String ActionData** \- Gets or sets the value of the CustomActionData property. This property can be retrieved as a regular property inside Deferred custom actions and it is available only for DLL, JScript and VBScript custom actions. A common usage scenario is to use the CustomActionData property in Rollback Custom Actions since they are also deferred.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## See also
@@ -210,24 +202,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-diving-deep-into-your-twitter-archive/"><u>[New] 2024 Approved Diving Deep Into Your Twitter Archive</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-mastering-desktop-and-mobile-the-best-ways-to-download-fb-story/"><u>[New] Mastering Desktop & Mobile The Best Ways to Download FB Story</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boost-anthem-responsiveness/"><u>Boost Anthem Responsiveness</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/evolve-workflow-strategies-with-varied-project-formats/"><u>Evolve Workflow Strategies with Varied Project Formats</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/exploring-app-id-in-icomclass-a-deep-dive-into-systemic-code-recognition/"><u>Exploring App ID in iComClass: A Deep Dive Into Systemic Code Recognition</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/guida-passo-passo-alla-conversione-efficiente-da-mkv-a-mp4-garantendo-lalta-qualita-dei-contenuti-video/"><u>Guida Passo-Passo Alla Conversione Efficiente Da MKV a MP4, Garantendo L'Alta Qualità Dei Contenuti Video</u></a></li>
-<li><a href="https://win-data.techidaily.com/guide-converting-awaan-video-files-into-multiple-formats-mp4-mov-avi-for-pc-and-mac/"><u>Guide: Converting Awaan Video Files Into Multiple Formats (MP4, MOV, AVI) for PC & Mac</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-s18-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo S18</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-nubia-red-magic-8s-proplus-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Nubia Red Magic 8S Pro+</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-tecno-spark-10-4g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Tecno Spark 10 4G Location | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/language-settings-and-preferences-customizing-your-user-experience/"><u>Language Settings & Preferences: Customizing Your User Experience</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-jabra-elite-and-talk-series-production-complete-for-cutting-edge-wireless-earbuds/"><u>Latest Jabra Elite and Talk Series: Production Complete for Cutting-Edge Wireless Earbuds</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-mobile-game-live-streams-on-youtube-top-strategies-revealed/"><u>Mastering Mobile Game Live Streams on YouTube - Top Strategies Revealed!</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/maximizing-efficiency-with-microsoft-application-virtualization-app-v-version-4/"><u>Maximizing Efficiency with Microsoft Application Virtualization App-V Version 4</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/simple-steps-for-retrieving-erased-pictures-from-an-iphone-4s-or-ipod-touch-5th-generation/"><u>Simple Steps for Retrieving Erased Pictures From an iPhone 4S or iPod Touch 5Th Generation</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/understanding-property-attributes-in-application-maps/"><u>Understanding Property Attributes in Application Maps</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/understanding-the-risk-can-malware-lurk-in-bios-files-essential-steps-for-defending-your-pc-from-cyber-threats/"><u>Understanding the Risk: Can Malware Lurk in BIOS Files? Essential Steps for Defending Your PC From Cyber Threats</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-best-video-collage-apps-for-iphone-and-ipad-for-2024/"><u>Updated Best Video Collage Apps for iPhone and iPad for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/whats-new-discover-our-latest-features-and-improvements/"><u>What's New? Discover Our Latest Features and Improvements!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-slidecasting-simplified-a-modern-webcam-approach/"><u>[New] In 2024, Slidecasting Simplified A Modern, Webcam Approach</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-the-algorithm-boosting-instagram-engagement-for-2024/"><u>[New] Mastering the Algorithm Boosting Instagram Engagement for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-top-techniques-succeeding-in-spotify-advertising-for-2024/"><u>[New] Top Techniques Succeeding in Spotify Advertising for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-reviving-lost-files-expert-guide-on-using-acer-erecovery-for-data-restoration/"><u>1. Reviving Lost Files: Expert Guide on Using Acer eRecovery for Data Restoration</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-demystifying-the-publics-vllo-interpretation/"><u>2024 Approved Demystifying the Public's VLLO Interpretation</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1728483152609-windows-11-usb/"><u>两种键入Windows 11 USB引导步骤与小技巧</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/best-15-action-cam-footage-editors-for-2024/"><u>Best 15 Action Cam Footage Editors for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/comprehensive-guide-resolving-code-6ba-error-during-windows-system-updates/"><u>Comprehensive Guide: Resolving Code 6BA Error During Windows System Updates</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/guide-facile-et-efficient-a-la-fabrication-dun-cd-sauvegarde-sur-windows-1187/"><u>Guide Facile Et Efficient À La Fabrication D'un CD Sauvegarde Sur Windows 11/8/7</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-retrieve-your-files-a-step-by-step-guide-on-restoring-a-mistakenly-formatted-disk/"><u>How to Retrieve Your Files: A Step-by-Step Guide on Restoring a Mistakenly Formatted Disk</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-ballad-barren-builder-create-personal-accompaniment-music/"><u>New 2024 Approved Ballad Barren Builder Create Personal Accompaniment Music</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/recover-deleted-items-following-a-clean-start-with-windows-11-efficient-recovery-techniques-explained/"><u>Recover Deleted Items Following a Clean Start with Windows 11 | Efficient Recovery Techniques Explained</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-iphoness-gif-apps-unveiled/"><u>Top iPhones's GIF Apps Unveiled</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-xs-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone XS Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/xfx-driver-recovery-ensures-display-integrity/"><u>XFX Driver Recovery Ensures Display Integrity</u></a></li>
 </ul></div>
 

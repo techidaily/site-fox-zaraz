@@ -1,7 +1,7 @@
 ---
 title: Customizing Your Application with the Component Configuration Panel
-date: 2024-10-09T03:57:45.277Z
-updated: 2024-10-10T16:29:09.503Z
+date: 2024-11-18T19:15:01.224Z
+updated: 2024-11-21T17:56:31.361Z
 tags:
   - user-guide
 categories:
@@ -72,15 +72,20 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Instance Components Tab
 
 ![Instance components tab](https://cdn.advancedinstaller.com/img/ui/instance-components-tab.png "Instance components tab")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Overwrite Components
@@ -124,22 +129,20 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-essential-tips-for-producing-engaging-educational-content-for-youtube/"><u>[New] 2024 Approved Essential Tips for Producing Engaging Educational Content for YouTube</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harness-the-potential-of-obs-studio-by-mastering-lut-application-techniques/"><u>[New] Harness the Potential of OBS Studio by Mastering LUT Application Techniques</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-master-guide-implementing-chapters-in-vimeo/"><u>[Updated] 2024 Approved Master Guide Implementing Chapters in Vimeo</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-archivists-edge-cutting-edge-strategies-for-social-downloads/"><u>[Updated] The Archivist's Edge Cutting-Edge Strategies for Social Downloads</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/convert-heic-images-free-seamless-pdf-conversion-tools-and-tutorials/"><u>Convert HEIC Images Free: Seamless PDF Conversion Tools and Tutorials</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/enrich-video-narrative-with-slow-motion-on-iphone-for-2024/"><u>Enrich Video Narrative with Slow Motion on iPhone for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/explaining-unpredictable-playback-in-instagram-videos/"><u>Explaining Unpredictable Playback in Instagram Videos</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/exploring-multilingual-options-and-features-on-our-platform/"><u>Exploring Multilingual Options and Features on Our Platform</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-honor-magic-6-lite-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Honor Magic 6 Lite.</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-successfully-remove-unwanted-red-eyes-from-your-images-using-these-simple-methods/"><u>How To Successfully Remove Unwanted Red-Eyes From Your Images Using These Simple Methods</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-fast-track-to-1000-subscribers-in-youtube-landscape/"><u>In 2024, Fast-Track To 1,000 Subscribers in Youtube Landscape</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-folder-synchronization-step-by-step-tips-for-a-harmonized-digital-experience/"><u>Mastering Folder Synchronization: Step-by-Step Tips for a Harmonized Digital Experience</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/optimizing-system-startup-requirements/"><u>Optimizing System Startup Requirements</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/perfecting-your-school-id-picture-with-ios-and-android-cameras/"><u>Perfecting Your School ID Picture with iOS and Android Cameras</u></a></li>
-<li><a href="https://driver-download.techidaily.com/simple-steps-installing-the-latest-epson-printer-driver-on-your-windows-pc/"><u>Simple Steps: Installing the Latest Epson Printer Driver on Your Windows PC</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-instructions-for-casting-ipad-content-on-a-smart-lg-tv/"><u>Step-by-Step Instructions for Casting iPad Content on a Smart LG TV</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/ultimate-guide-perfecting-the-art-of-live-meeting-recordings/"><u>Ultimate Guide: Perfecting the Art of Live Meeting Recordings</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-art-of-crafting-excellent-zoom-conferences/"><u>[Updated] 2024 Approved The Art of Crafting Excellent Zoom Conferences</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-leaders-in-conversion-6-best-no-cost-tiktok-to-mp3-online-tools/"><u>[Updated] Leaders in Conversion - 6 Best No-Cost TikTok to MP3 Online Tools</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/bright-ideas-navigating-through-premium-no-cost-disk-hygiene-solutions/"><u>Bright Ideas: Navigating Through Premium No-Cost Disk Hygiene Solutions</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/fuhrende-kostenlose-mirror-backup-programme-fur-windows-entdecken-sie-ihre-ideale-software-fur-win11-win10-win8-und-win7/"><u>Führende Kostenlose Mirror-Backup-Programme Für Windows: Entdecken Sie Ihre Ideale Software Für Win11, Win10, Win8 Und Win7</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/guida-passo-passo-al-duplicare-ogni-partizione-su-una-ssd-protetta-da-biosuefi-nel-sistema-operativo-windows/"><u>Guida Passo-Passo Al Duplicare Ogni Partizione Su Una SSD Protetta Da BIOS/UEFI Nel Sistema Operativo Windows</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/guida-semplice-per-linizio-come-avviare-con-successo-il-tuo-progetto/"><u>Guida Semplice per L'inizio: Come Avviare Con Successo Il Tuo Progetto</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-to-livecasting-google-meet-on-youtube/"><u>Guide to Livecasting Google Meet on YouTube</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-itel-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Itel</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-infinix-smart-8-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Infinix Smart 8 to iPod | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-itel-a70-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Itel A70 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-apple-iphone-se-2022-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From Apple iPhone SE (2022) without Password?</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/umwandlung-eines-realen-pcs-in-eine-virtual-machine-unter-windows-10-8-oder-7-schritt-fur-schritt-anleitung/"><u>Umwandlung Eines Realen PCs in Eine Virtual Machine Unter Windows 10, 8 Oder 7 - Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-error-code-0xa00f4289-for-webcams-on-w1011/"><u>Unraveling Error Code 0xA00F4289 for Webcams on W10/11</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/warum-wird-meine-exe-datei-automatisch-geloscht-und-wie-kann-ich-das-unter-windows-11-beheben/"><u>Warum Wird Meine EXE-Datei Automatisch Gelöscht Und Wie Kann Ich Das Unter Windows 11 Beheben?</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1728483355614-windows-1011/"><u>Windows 10/11におけるセーフモード下のディスクバックアップ手順ガイド</u></a></li>
 </ul></div>
 

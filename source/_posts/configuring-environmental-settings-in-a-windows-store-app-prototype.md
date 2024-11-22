@@ -1,7 +1,7 @@
 ---
 title: Configuring Environmental Settings in a Windows Store App Prototype
-date: 2024-10-03T18:17:21.808Z
-updated: 2024-10-10T21:41:11.629Z
+date: 2024-11-16T05:15:24.879Z
+updated: 2024-11-22T10:20:42.937Z
 tags:
   - user-guide
 categories:
@@ -72,10 +72,7 @@ In this page you can add environment variables to the MSIX package. These variab
 ![Uwp environment variable](https://cdn.advancedinstaller.com/img/ui/uwp-environment-variable.png "Uwp environment variable")
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Creating new environment variables
@@ -83,32 +80,27 @@ In this page you can add environment variables to the MSIX package. These variab
 ![New Environment Variable](https://cdn.advancedinstaller.com/img/toolbar/environment-variables-new.png "New Environment Variable") Use the \[New Variable... \] toolbar button, the “New Variable...” context menu item or press the Insert key while the list is focused. In the [Edit Environment Variable Dialog](https://tools.techidaily.com/advancedinstaller/products/) you can set the variable's properties. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Editing an environment variable
 
 ![Properties](https://cdn.advancedinstaller.com/img/toolbar/properties.png "Properties") Use the\[Properties... \] toolbar button, the “Properties...” context menu item or press theEnter key to activate the [Edit Environment Variable Dialog](https://tools.techidaily.com/advancedinstaller/products/), where you can set the variable's properties. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Removing environment variables
 
 ![Remove](https://cdn.advancedinstaller.com/img/toolbar/remove.png "Remove") Use the \[Delete \] toolbar button, the “Delete” context menu item or press theDelete key while an element is selected.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Topics
@@ -149,22 +141,21 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-unveiling-the-hidden-meanings-behind-facebooks-messenger-icon/"><u>[New] Unveiling the Hidden Meanings Behind Facebook's Messenger Icon</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-effortless-youtube-income-computations/"><u>[Updated] Effortless YouTube Income Computations</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-transitioning-timeless-images-a-tech-savvy-approach/"><u>[Updated] Transitioning Timeless Images A Tech-Savvy Approach</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1-ultimate-guide-to-ifolder-sync-mastering-your-filters/"><u>1. Ultimate Guide to iFolder Sync: Mastering Your Filters</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-from-cluttered-to-cleared-a-beginners-guide-to-freeing-up-space-for-fcpx/"><u>2024 Approved From Cluttered to Cleared A Beginners Guide to Freeing Up Space for FCPX</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/advanced-folder-management-mastering-the-control-panels-operations-section/"><u>Advanced Folder Management: Mastering the Control Panel's Operations Section</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-blur-ultimate-6-step-guide-to-smooth-play-of-hogwarts-legacy/"><u>Beat the Blur: Ultimate 6-Step Guide to Smooth Play of Hogwarts Legacy</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/best-5-free-and-easy-to-use-pdf-editor-software-beyond-adobe-acrobat-in-2020/"><u>Best 5 Free and Easy-to-Use PDF Editor Software, Beyond Adobe Acrobat in 2020</u></a></li>
-<li><a href="https://article-files.techidaily.com/detailed-blueprint-for-expert-use-of-adobe-cloud-storage-and-review-of-best-exits/"><u>Detailed Blueprint for Expert Use of Adobe Cloud Storage & Review of Best Exits</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/effective-strategies-for-managing-file-replicas-conversations/"><u>Effective Strategies for Managing File Replicas Conversations</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/essential-guide-to-customizing-uniform-interface-design-in-tab-settings/"><u>Essential Guide to Customizing Uniform Interface Design in Tab Settings</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-nokia-c22-frp-by-drfone-android/"><u>How Can We Bypass Nokia C22 FRP?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-14-pro-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone 14 Pro</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolving-unexpected-website-appearances-in-iphones-screen-time/"><u>Resolving Unexpected Website Appearances in iPhone's Screen Time</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/the-top-methods-for-seamless-music-transition-between-galaxy-s4-and-s6-edge-devices/"><u>The Top Methods for Seamless Music Transition Between Galaxy S4 and S6 Edge Devices</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/top-tips-for-enhancing-sound-clarity-in-your-recordings/"><u>Top Tips for Enhancing Sound Clarity in Your Recordings</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/top-ranking-tools-for-effortless-text-removal-from-images/"><u>Top-Ranking Tools for Effortless Text Removal From Images</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/etting-up-success-crafting-your-first-youtube-channel/"><u>[New] Setting Up Success Crafting Your First YouTube Channel</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-essential-guide-to-vr-gear-and-technology/"><u>[Updated] In 2024, Essential Guide to VR Gear and Technology</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-overcome-dimness-with-easy-iphone-editing/"><u>[Updated] Overcome Dimness with Easy iPhone Editing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-art-of-kinemaster-made-memes/"><u>2024 Approved The Art of KineMaster-Made Memes</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/57ay6lev5lik5lia6yed6kal6kga55qe6lo86lk35yplusk5pu05paw5yplusn5oej44cb5b6p5y6f6iih6ksh6ko96luf5lu2/"><u>網路上一針見血的購買及更新反應、復原與複製軟件</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/creating-a-cross-platform-shared-album-tips-for-iphone-and-android-users/"><u>Creating a Cross-Platform Shared Album: Tips for iPhone & Android Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-your-windows-pdf-viewers/"><u>Customizing Your Window's PDF Viewers</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-email-export-from-outlook-365-discover-two-effective-strategies/"><u>Mastering Email Export From Outlook 365: Discover Two Effective Strategies</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/offnen-einer-sql-server-bak-datenbankdatei-4-effektive-losungen-erklart/"><u>Öffnen Einer SQL Server BAK-Datenbankdatei: 4 Effektive Lösungen Erklärt</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/page-unavailable-http-404-error-encountered/"><u>Page Unavailable: HTTP 404 Error Encountered</u></a></li>
+<li><a href="https://games-able.techidaily.com/psp-into-virtual-game-boy-transition-tips/"><u>PSP Into Virtual Game Boy Transition Tips</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/step-by-step-cloning-of-windows-server-2019-on-hdd-or-ssd-a-comprehensive-tutorial/"><u>Step-by-Step Cloning of Windows Server 2019 on HDD or SSD - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/transferencia-de-gpt-desde-disco-duro-hdd-a-un-solid-state-drive-ssd-para-windows-11-y-10-guia-detallada/"><u>Transferencia De GPT Desde Disco Duro HDD a Un Solid State Drive SSD Para Windows 11 Y 10: Guía Detallada</u></a></li>
+<li><a href="https://article-files.techidaily.com/uncover-5-powerful-speech-recognition-tools-for-your-mac-for-2024/"><u>Uncover 5 Powerful Speech Recognition Tools for Your Mac for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-the-full-potential-of-vlc-media-player-on-mac/"><u>Unlocking the Full Potential of VLC Media Player on Mac</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Efficient Property Selection Interface
-date: 2024-10-09T05:06:11.055Z
-updated: 2024-10-11T03:27:36.077Z
+date: 2024-11-14T22:32:12.037Z
+updated: 2024-11-21T20:26:48.671Z
 tags:
   - user-guide
 categories:
@@ -68,6 +68,10 @@ Table of Contents
 * [Advanced Installer Blog](https://tools.techidaily.com/advancedinstaller/products/)
 * [Table of Contents](https://tools.techidaily.com/advancedinstaller/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Property Picker Dialog
 
 In this dialog, you can select one of the default Windows Installer [Properties](https://tools.techidaily.com/advancedinstaller/products/) or one you created yourself.
@@ -76,7 +80,15 @@ In this dialog, you can select one of the default Windows Installer [Properties]
 
 ![Property Picker Dialog](https://cdn.advancedinstaller.com/img/dialog/property-picker.png "Property Picker Dialog")  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)The property picker shows the properties available for the field in which you are adding the property; therefore it may contain more or fewer properties depending on the field.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Did you find this page useful?
 
@@ -111,28 +123,17 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-cut-costs-boost-creativity-learn-the-secrets-of-green-screen-artistry-from-4-leading-educators/"><u>[New] Cut Costs, Boost Creativity Learn the Secrets of Green Screen Artistry From 4 Leading Educators</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-essential-facts-about-choosing-youtube-premium/"><u>[New] The Essential Facts About Choosing YouTube Premium</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-the-ultimate-comparison-best-microphones-for-podcasters/"><u>[New] The Ultimate Comparison Best Microphones for Podcasters</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-dimensions-demystified-a-complete-aspect-ratio-handbook/"><u>[New] YouTube Dimensions Demystified A Complete Aspect Ratio Handbook</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-zoom-mastery-maximizing-your-podcast-recording-quality/"><u>[Updated] 2024 Approved Zoom Mastery Maximizing Your Podcast Recording Quality</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-how-to-effortlessly-record-movies-on-win10/"><u>[Updated] How to Effortlessly Record Movies on Win10</u></a></li>
-<li><a href="https://article-files.techidaily.com/best-translation-devices-to-subtitle-videos/"><u>Best Translation Devices to Subtitle Videos</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/complete-guide-to-retrieving-irreversibly-removed-files-via-the-recycle-bin-in-windows/"><u>Complete Guide to Retrieving Irreversibly Removed Files via the Recycle Bin in Windows</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/convert-your-mkv-videos-to-play-on-xbox-360-with-our-easy-to-use-video-converter/"><u>Convert Your MKV Videos to Play on Xbox 360 with Our Easy-to-Use Video Converter</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-effectively-capture-and-archive-online-meeting-footage/"><u>How to Effectively Capture and Archive Online Meeting Footage</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-investment-selecting-the-top-5-pro-drones/"><u>In 2024, Best Investment - Selecting the Top 5 Pro Drones</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-m34-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Samsung Galaxy M34 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/is-your-google-drive-vulnerable-to-ransomware-insights-from-malwarefox/"><u>Is Your Google Drive Vulnerable to Ransomware: Insights From MalwareFox</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-your-application-settings-a-guide-to-the-appproperties-tab-features/"><u>Mastering Your Application Settings: A Guide to the AppProperties Tab Features</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-on-using-apowersoft-software-for-effective-watermark-removal/"><u>Step-by-Step Guide on Using Apowersoft Software for Effective Watermark Removal</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/transform-your-pdf-bills-into-excel-essential-guide-for-accountants-and-bookkeepers/"><u>Transform Your PDF Bills Into Excel: Essential Guide for Accountants and Bookkeepers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-foundations-of-virtual-storytelling/"><u>[New] Unveiling the Foundations of Virtual Storytelling</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-video-edits-is-inshot-top-choice/"><u>[Updated] Exploring Video Edits Is InShot Top Choice?</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/clonazione-industriale-per-segmento-o-in-totale-scopri-le-risposte-preferite-qui/"><u>Clonazione Industriale: Per Segmento O in Totale? Scopri Le Risposte Preferite Qui!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-top-6-downloads-unlocked-with-free-online-and-global-viewing/"><u>In 2024, Top 6 Downloads – Unlocked with Free Online & Global Viewing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-unlocking-the-best-vr-experience-in-drone-aerial-sports/"><u>In 2024, Unlocking the Best VR Experience in Drone Aerial Sports</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-gta-5-stutter-and-crashes-a-comprehensive-guide/"><u>Resolving GTA 5 Stutter and Crashes: A Comprehensive Guide</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revolutionary-image-recovery-and-mending-application-debuts-from-stellar-latest-tech-update/"><u>Revolutionary Image Recovery & Mending Application Debuts From Stellar – Latest Tech Update</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/step-by-step-solutions-for-resolving-boot-issues-on-your-pc-a-complete-guide/"><u>Step-by-Step Solutions for Resolving Boot Issues on Your PC: A Complete Guide</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/step-by-step-tutorial-for-effective-installation-of-windows-11-with-two-scenarios-explained/"><u>Step-by-Step Tutorial for Effective Installation of Windows 11 with Two Scenarios Explained</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/techniques-de-sauvegarde-sures-et-performantes-pour-microsoft-outlook-office-365/"><u>Techniques De Sauvegarde Sûres Et Performantes Pour Microsoft Outlook Office 365</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/transferring-your-tunes-top-4-methods-to-move-music-from-a-windows-10-computer-to-an-iphone/"><u>Transferring Your Tunes: Top 4 Methods to Move Music From a Windows 10 Computer to an iPhone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/wonderfox-mobile-dvd-ripping-software-free-download-for-smartphone-users/"><u>WonderFox Mobile DVD Ripping Software - FREE Download for Smartphone Users</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

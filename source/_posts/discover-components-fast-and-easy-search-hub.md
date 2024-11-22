@@ -1,7 +1,7 @@
 ---
 title: Discover Components Fast and Easy Search Hub
-date: 2024-10-10T00:09:03.889Z
-updated: 2024-10-10T16:24:48.140Z
+date: 2024-11-21T07:03:18.870Z
+updated: 2024-11-21T18:05:06.417Z
 tags:
   - user-guide
 categories:
@@ -122,13 +122,14 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## IComponentSearch
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Declaration
@@ -136,10 +137,7 @@ Table of Contents
 IComponentSearch: IBaseSearch
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Overview
@@ -148,10 +146,7 @@ This interface is meant to search for an installed component.
 The search operation is performed on the target machine only if the specified property is not set (other searches didn't set that property). In case of success, the property will be set.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Properties
@@ -159,10 +154,7 @@ The search operation is performed on the target machine only if the specified pr
 **String GUID** \- Gets or sets the GUID of the component which will be searched. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## See also
@@ -204,19 +196,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-proven-picks-leading-capture-cards-for-enthusiast-streamers/"><u>[New] 2024 Approved Proven Picks Leading Capture Cards for Enthusiast Streamers</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-top-10-download-snapchat-ringtones-websites/"><u>[New] In 2024, Top 10 Download Snapchat Ringtones Websites</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-audiophiles-guide-to-the-finest-window-based-podcast-tools-8/"><u>2024 Approved Audiophile's Guide to the Finest Window-Based Podcast Tools (#8)</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/customizing-your-application-with-the-component-configuration-panel/"><u>Customizing Your Application with the Component Configuration Panel</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/efficient-property-selection-interface/"><u>Efficient Property Selection Interface</u></a></li>
-<li><a href="https://facebook.techidaily.com/effortless-integration-of-new-users-in-fb-chat/"><u>Effortless Integration of New Users in FB Chat</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/googles-advanced-upload-techniques-for-podcasters-for-2024/"><u>Google's Advanced Upload Techniques for Podcasters for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-essentials-of-narrowing-virtual-room-spaces/"><u>In 2024, The Essentials of Narrowing Virtual Room Spaces</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-photo-cleanup-discover-the-best-4-techniques-for-seamless-stamp-removal/"><u>Mastering Photo Cleanup: Discover the Best 4 Techniques for Seamless Stamp Removal</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-samsung-galaxy-f54-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Samsung Galaxy F54 5G FRP</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/top-free-artificial-intelligence-tools-for-creating-captions-enhance-your-videos-accessibility/"><u>Top Free Artificial Intelligence Tools for Creating Captions: Enhance Your Videos' Accessibility</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/top-rated-backgrounds-enhancing-your-product-photos/"><u>Top-Rated Backgrounds Enhancing Your Product Photos</u></a></li>
-<li><a href="https://windows11.techidaily.com/tricks-for-efficient-memory-management-in-windows/"><u>Tricks for Efficient Memory Management in Windows</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-ios-image-files-conversion-to-pdfs/"><u>[New] The Ultimate Guide IOS Image Files Conversion to PDFs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-leveraging-facebook-for-shared-twitter-content/"><u>[Updated] 2024 Approved Leveraging Facebook for Shared Twitter Content</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-sculpt-striking-signs-with-stock-designs-at-no-cost-for-2024/"><u>[Updated] Sculpt Striking Signs with Stock Designs at No Cost for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1728493111083-asus/"><u>安全にASUSパソコンから完全消去！おすすめの最先端データクリーニングツール</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/como-cambiar-tu-contrasena-de-reserva-segura-y-efectiva/"><u>Cómo Cambiar Tu Contraseña De Reserva Segura Y Efectiva</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-honor-x50iplus-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Honor X50i+</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-unresponsive-corsair-keyboards-a-step-by-step-guide/"><u>Effective Fixes for Unresponsive Corsair Keyboards: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/erfolgreiches-backup-mit-wd-my-cloud-nas-kostenlose-tutorials-fur-den-pc-einstieg/"><u>Erfolgreiches Backup Mit WD My Cloud NAS - Kostenlose Tutorials Für Den PC-Einstieg</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/exploring-the-budget-needs-of-making-a-melody-on-screen-for-2024/"><u>Exploring the Budget Needs of Making a Melody on Screen for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-download-microsoft-bluetooth-driver-compatible-with-windows-11-and-10/"><u>Free Download: Microsoft Bluetooth Driver Compatible with Windows 11 & 10</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/guida-completa-i-5-software-di-sincronizzazione-files-e-cartelle-piu-efficienti-su-windows/"><u>Guida Completa: I 5 Software Di Sincronizzazione Files E Cartelle Più Efficienti Su Windows</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-restore-irretrievably-lost-documents-on-windows-1011-a-step-by-step-guide/"><u>How to Restore Irretrievably Lost Documents on Windows 10/11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/metodos-efectivos-para-restaurar-datos-perdidos-en-tu-toshiba-canvio-portatil/"><u>Métodos Efectivos Para Restaurar Datos Perdidos en Tu Toshiba Canvio Portátil</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-obs-mic-malfunctions-with-these-6-revolutionary-fixes/"><u>Overcoming OBS Mic Malfunctions with These 6 Revolutionary Fixes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/schritt-fur-schritt-anleitung-zum-ubertragen-eines-benutzerkontos-von-windows-11-zu-einem-anderen-datentrager/"><u>Schritt-Für-Schritt-Anleitung Zum Übertragen Eines Benutzerkontos Von Windows 11 Zu Einem Anderen Datenträger</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/vergeten-hoe-je-bestandjes-en-mapkes-op-het-bureaubord-veilig-opbewaarden-moeten-worden-afsluiting-vs-open/"><u>Vergeten Hoe Je Bestandjes en Mapkes Op Het Bureaubord Veilig Opbewaarden Moeten Worden: Afsluiting Vs. Open!</u></a></li>
 </ul></div>
 

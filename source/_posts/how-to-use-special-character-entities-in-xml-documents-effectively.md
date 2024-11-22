@@ -1,7 +1,7 @@
 ---
 title: How to Use Special Character Entities in XML Documents Effectively
-date: 2024-10-07T20:13:48.639Z
-updated: 2024-10-10T19:27:51.993Z
+date: 2024-11-14T22:07:16.876Z
+updated: 2024-11-21T16:11:04.467Z
 tags:
   - user-guide
 categories:
@@ -93,6 +93,10 @@ Table of Contents
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## XML escaped characters
 
 The Extensible Markup Language (XML) has a set of special characters that are used in its syntax.
@@ -106,10 +110,7 @@ At build time, Advanced Installer will automatically perform the XML special cha
 For example, if you add an existing XML file or create a new one in your project and insert a special XML character in one of its elements, let's say < character, when you will build the project, Advanced Installer will automatically escape this character, replacing it with &lt;. The result is that the XML document installed by the built package will contain the escaped character making possible the correct interpretation of the XML code.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## XML special characters that get escaped at install time
@@ -123,16 +124,7 @@ For example, if you add an existing XML file or create a new one in your project
 | **Apostrophe**        | **&apos;**       | **'**                |
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Video tutorial
@@ -170,22 +162,22 @@ Send message
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-a-step-by-step-approach-to-selecting-advanced-360-cameras/"><u>[New] A Step-by-Step Approach to Selecting Advanced 360 Cameras</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-soothing-soundscapes-recommended-voice-experts/"><u>[New] Soothing Soundscapes Recommended Voice Experts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-integrating-secure-recording-in-your-workflow/"><u>[Updated] 2024 Approved Integrating Secure Recording in Your Workflow</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-transforming-videos-into-stories-top-5-effective-tiktok-caption-strategies/"><u>[Updated] Transforming Videos Into Stories Top 5 Effective TikTok Caption Strategies</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/complete-guide-to-defeating-trojans-the-5-most-powerful-removal-solutions-of-2er-years/"><u>Complete Guide to Defeating Trojans: The 5 Most Powerful Removal Solutions of 2Er Years</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/crafting-combined-content-on-iphone-smoothly/"><u>Crafting Combined Content on iPhone Smoothly</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/customize-data-sources-in-property-editing-panel/"><u>Customize Data Sources in Property Editing Panel</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/easy-guide-on-how-to-record-songs-from-apple-music-streaming/"><u>Easy Guide on How to Record Songs From Apple Music Streaming</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/easy-methods-to-set-any-image-as-white-background-using-your-iphone/"><u>Easy Methods to Set Any Image as White Background Using Your iPhone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/easy-tutorial-on-reflecting-android-display-on-an-lg-smart-television/"><u>Easy Tutorial on Reflecting Android Display on an LG Smart Television</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-solutions-for-troubleshooting-pc-crashes-with-enshrouded/"><u>Effective Solutions for Troubleshooting PC Crashes with 'Enshrouded'</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/guide-mastering-the-game-of-honkai-impact-3-on-your-windows-machine/"><u>Guide: Mastering the Game of Honkai Impact 3 on Your Windows Machine</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/optimizing-playback-speed-with-professional-tactics/"><u>Optimizing Playback Speed with Professional Tactics</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcome-the-stutter-expert-solutions-to-state-of-decay-2-freezing-problems-gaming-pcs/"><u>Overcome the Stutter: Expert Solutions to State of Decay 2 Freezing Problems Gaming PCs</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/recover-lost-data-restore-deleted-photos-and-documents-from-your-android-phone-with-sd-card-recovery/"><u>Recover Lost Data: Restore Deleted Photos & Documents From Your Android Phone with SD Card Recovery</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/top-tips-for-downloading-and-playing-mp3-audio-on-an-ipad-device/"><u>Top Tips for Downloading and Playing MP3 Audio on an iPad Device</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-transforming-content-into-multilingual-masterpieces-a-filmora-based-approach-to-video-dubbing/"><u>Updated Transforming Content Into Multilingual Masterpieces A Filmora-Based Approach to Video Dubbing</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/windows-11-64-bit-win32-disk-imager/"><u>簡單指南: 如何在 Windows 11 64-Bit系統下使用 Win32 Disk Imager 及其替代品</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/win-10/"><u>用經過驗證的方法修復無法在Win 10工作站中尋獲的桌面分割</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/comment-configurer-correctement-les-parametres-dexportation-du-compte-dans-outlook-2010-un-guide-pratique/"><u>Comment Configurer Correctement Les Paramètres D'exportation Du Compte Dans Outlook 2010 : Un Guide Pratique</u></a></li>
+<li><a href="https://techtrends.techidaily.com/creating-a-multi-speaker-bluetooth-network-with-just-one-gadget/"><u>Creating a Multi-Speaker Bluetooth Network with Just One Gadget</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/effective-techniques-to-upgrade-your-os-migrating-to-a-crucial-ssd-in-windows-environments-win11win10win8win7/"><u>Effective Techniques to Upgrade Your OS: Migrating to a Crucial SSD in Windows Environments (Win11/Win10/Win8/Win7)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-lava-blaze-2-pro-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Lava Blaze 2 Pro Devices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-s23-ultra-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy S23 Ultra Phone with Broken Screen</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/logitech-g403-driver-and-software-upgrade-for-pc-get-it-here/"><u>Logitech G403 Driver & Software Upgrade for PC – Get It Here</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-top-8-stop-motion-animation-software-for-mac-and-pc/"><u>New Top 8 Stop Motion Animation Software for Mac and PC</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/schnell-und-schutz-vor-dem-simulierten-update-viren-microsofts/"><u>Schnell Und Schutz Vor Dem Simulierten Update-Viren Microsofts</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/sichere-und-kostengunstige-windows-systemsicherungswerkzeuge-die-besten-backup-programme-fur-ihren-desktop/"><u>Sichere Und Kostengünstige Windows-Systemsicherungswerkzeuge – Die Besten Backup-Programme Für Ihren Desktop</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/step-by-step-tutorial-rescuing-files-from-a-non-detectable-micro-sd-card/"><u>Step-by-Step Tutorial: Rescuing Files From a Non-Detectable Micro SD Card</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/toutes-les-solutions-gratuites-de-restauration-pour-samsung-sous-windows-11-un-guide-complet/"><u>Toutes Les Solutions Gratuites De Restauration Pour Samsung Sous Windows 11: Un Guide Complet</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/ultimate-guide-to-top-ranking-backup-solutions-aomei-backupper-pro-for-windows-11-10-8-and-pcs/"><u>Ultimate Guide to Top-Ranking Backup Solutions: AOMEI Backupper Pro for Windows 11, 10, 8 & #! PCs</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-the-best-of-the-rest-10-adobe-premiere-elements-alternatives-for-video-production/"><u>Updated In 2024, The Best of the Rest 10 Adobe Premiere Elements Alternatives for Video Production</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/zooming-in-on-clarity-an-essential-guide-to-professional-quality-audio-recordings/"><u>Zooming In On Clarity An Essential Guide to Professional-Quality Audio Recordings</u></a></li>
 </ul></div>
 

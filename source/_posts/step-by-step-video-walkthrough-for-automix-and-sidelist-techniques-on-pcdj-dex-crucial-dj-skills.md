@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Video Walkthrough for Automix and Sidelist Techniques on PCDJ DEX ˈCrucial DJ Skills
-date: 2024-11-27T16:48:38.637Z
-updated: 2024-11-30T19:48:00.399Z
+date: 2024-12-04T22:18:22.937Z
+updated: 2024-12-08T22:15:15.815Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ Being able to see your search results, or tracks in any opened directory or user
 ##### Using the Sidelist and Automix-Shuffle in PCDJ DEX 3 DJ Mixing Software
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,19 +44,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/coverimage-sidelist-automi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-expert-studio-walkthrough-xstudio-reviewed/"><u>[New] 2024 Approved Expert Studio Walkthrough XStudio Reviewed</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-enhance-trust-secure-your-tiktok-age-details/"><u>[New] In 2024, Enhance Trust Secure Your TikTok Age Details</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-decoding-aspect-ratios-for-effective-youtube-videos/"><u>[Updated] Decoding Aspect Ratios for Effective YouTube Videos</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-comprehensive-walkthrough-creating-channel-banners/"><u>[Updated] In 2024, A Comprehensive Walkthrough Creating Channel Banners</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-browsing-boredom-away-15-chuckle-inducing-youtubers/"><u>[Updated] In 2024, Browsing Boredom Away 15 Chuckle-Inducing YouTubers</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/best-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>Best 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/comment-construire-un-concept-dimage-de-systeme-sur-votre-appareil/"><u>Comment Construire Un Concept D'Image De Système Sur Votre Appareil ?</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/complete-guide-performing-a-full-system-restore-on-your-hp-laptop-with-windows-11/"><u>Complete Guide: Performing a Full System Restore on Your HP Laptop with Windows 11</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/dependable-no-cost-windows-system-backup-programs/"><u>Dependable No-Cost Windows System Backup Programs</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/holistic-photo-tale-architect-platform-for-2024/"><u>Holistic Photo Tale Architect Platform for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-samsung-galaxy-s23-fe-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Samsung Galaxy S23 FE is off? | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/scambio-dei-file-tra-dispositivi-come-trasferire-il-contenuto-del-tuo-hard-disk-esterno-al-tuo-nuovo-computer/"><u>Scambio Dei File Tra Dispositivi: Come Trasferire Il Contenuto Del Tuo Hard Disk Esterno Al Tuo Nuovo Computer</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-retrieving-lost-data-from-your-hard-disk-on-pcs-and-macs/"><u>Step-by-Step Guide: Retrieving Lost Data From Your Hard Disk on PCs and Macs</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/top-free-ransomware-recovery-tools-to-safeguard-your-data/"><u>Top Free Ransomware Recovery Tools to Safeguard Your Data</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-acoustic-alerts-on-whatsapp-status/"><u>[New] In 2024, Acoustic Alerts on WhatsApp Status</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-navigating-tiktok-profile-updates-with-linktree-integration/"><u>[Updated] Navigating TikTok Profile Updates with Linktree Integration</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1732517183236-yl-computing/"><u>探索历久弥新的盛世：中国历史上统治时间最长的皇帝分析 - YL Computing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/banish-audio-stutter-and-warping-in-your-windows-107-system-ultimate-fixes-for-smooth-sounds/"><u>Banish Audio Stutter & Warping in Your Windows 10/7 System – Ultimate Fixes for Smooth Sounds</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/decoding-the-sino-japanese-conflicts-why-they-matter-in-world-history-a-comprehensive-analysis-from-yl-software/"><u>Decoding the Sino-Japanese Conflicts: Why They Matter in World History – A Comprehensive Analysis From YL Software</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/digital-currency-compliance-understanding-legal-frameworks-yl-computing/"><u>Digital Currency Compliance: Understanding Legal Frameworks - YL Computing</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/discover-jade-chynoweths-exquisite-background-designs-unique-wallpaper-collection-by-yl-computing/"><u>Discover Jade Chynoweth's Exquisite Background Designs: Unique Wallpaper Collection by YL Computing</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/fixing-laptop-screen-damage-with-yl-software-solutions-a-comprehvew-by-yl-computing/"><u>Fixing Laptop Screen Damage with YL Software Solutions: A Comprehvew by YL Computing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-tecno-spark-10-5g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Tecno Spark 10 5G</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-vivo-y78t-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Vivo Y78t Phones</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/microsoft-targets-clarity-resolving-chromes-fuzzy-font-issue-on-windows/"><u>Microsoft Targets Clarity: Resolving Chrome's Fuzzy Font Issue on Windows</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/safeguarding-your-video-cards-expert-advice-on-preventing-corruption-by-yl-software-experts/"><u>Safeguarding Your Video Cards: Expert Advice on Preventing Corruption by YL Software Experts</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/soundtrack-streamlining-top-websites-for-skype-ringtones-for-2024/"><u>Soundtrack Streamlining Top Websites for Skype Ringtones for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/ultimate-dragon-ball-hd-desktop-scenes-and-backdrop-graphics-full-static-set-from-yl-computing-created-with-yl-software/"><u>Ultimate Dragon Ball HD Desktop Scenes and Backdrop Graphics – Full Static Set From YL Computing, Created with YL Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleashing-potential-a-thorough-look-at-sj-cam-s6/"><u>Unleashing Potential A Thorough Look at SJ-CAM S6</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/yl-techs-spectacular-wallpaper-collection-for-sun-kissed-holiday-scenes-and-vibes/"><u>YL Tech's Spectacular Wallpaper Collection for Sun-Kissed Holiday Scenes and Vibes</u></a></li>
 </ul></div>
 

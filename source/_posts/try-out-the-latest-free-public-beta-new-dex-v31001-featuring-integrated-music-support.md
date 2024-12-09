@@ -1,7 +1,7 @@
 ---
 title: Try Out The Latest Free Public Beta - NEW DEX v3.10.0.1 Featuring Integrated Music Support
-date: 2024-11-24T18:02:33.701Z
-updated: 2024-11-30T19:30:34.106Z
+date: 2024-12-08T02:41:09.870Z
+updated: 2024-12-08T18:59:08.668Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ As last weeks update was, the new DEX 3 Pro version 3.10.0.1 is a [public beta](
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Updated in DEX 3 Pro Version 3.10.0.1 (Since 3.10)
@@ -64,7 +64,7 @@ _**IMPORTANT NOTES:** With your existing version of DEX 3 Pro closed, download a
 _Have questions about the **new version of DEX 3 Pro** or the new **karaoke features**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -86,15 +86,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/03/DEX31001DOWNLOAD-template.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-prime-video-cameras-the-leading-list-2024-edition/"><u>[New] Prime Video Cameras The Leading List, 2024 Edition</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-call-preserve-the-audio-diary-of-iphone-2024/"><u>[Updated] Call Preserve The Audio Diary of iPhone 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-elite-mac-audio-enhanced-screen-recorder/"><u>[Updated] In 2024, Elite Mac Audio-Enhanced Screen Recorder</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/como-respaldar-tu-disco-duro-en-windows/"><u>Cómo Respaldar Tu Disco Duro en Windows</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/how-to-change-name-in-google-meet-on-laptop-and-mobile-devices-for-2024/"><u>How to Change Name in Google Meet on Laptop and Mobile Devices for 2024</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/in-depth-comparison-test-of-top-dvd-tools-wonderfox-vs-winx-which-wins/"><u>In-Depth Comparison Test of Top DVD Tools: WonderFox VS WinX - Which Wins?</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/losungsansatze-fur-das-problem-onedrive-synchronisation-ist-ausstehend-entdecken-sie-drei-effektive-strategien/"><u>Lösungsansätze Für Das Problem: OneDrive-Synchronisation Ist Ausstehend - Entdecken Sie Drei Effektive Strategien</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/sicherstellen-sie-ihre-e-mail-gesundheit-zwei-methoden-zum-exportieren-von-outlook-postfachern-auf-externe-hdds/"><u>Sicherstellen Sie Ihre E-Mail-Gesundheit: Zwei Methoden Zum Exportieren Von Outlook-Postfächern Auf Externe HDDs</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oneplus-ace-2-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to OnePlus Ace 2 Pro FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1728502991901-sd/"><u>ファイル移行ガイド:ノートパソコンへの簡単なマイクロSDカードからのデータ移動方法</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-keyboard-moguls-choices-leading-16-youtube-intros-for-more-watchers/"><u>[Updated] In 2024, Keyboard Moguls' Choices Leading 16 YouTube Intros for More Watchers</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-expert-insights-enhancing-your-computers-speed-and-efficiency-with-simple-hacks-dive-into-our-guide-from-yl-computing/"><u>1. Expert Insights: Enhancing Your Computer's Speed & Efficiency with Simple Hacks - Dive Into Our Guide From YL Computing</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/amplify-your-beats-elevate-your-tracks-using-droptrack-the-djs-choice/"><u>Amplify Your Beats: Elevate Your Tracks Using DropTrack - The DJ's Choice</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/er-youtubes-copy-paste-loop-mastery-essentials/"><u>Conquer YouTube's Copy-Paste Loop Mastery Essentials</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-techniques-for-repairing-non-responsive-voice-chats-and-error-alerts/"><u>Effective Techniques for Repairing Non-Responsive Voice Chats and Error Alerts</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/evaluating-the-effectiveness-of-windows-defender-in-thwarting-malware-and-virus-attacks-insights-by-yl-computing/"><u>Evaluating the Effectiveness of Windows Defender in Thwarting Malware & Virus Attacks - Insights by YL Computing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/hidden-to-highlighted-your-2-ways-to-see-yts-past-videos-for-2024/"><u>From Hidden to Highlighted Your 2 Ways to See YT's Past Videos for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 14 Pro Max</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/new-age-yuletide-beats-the-top-selection-for-todays-best-dance-music-hosts/"><u>New Age Yuletide Beats: The Top Selection for Today's Best Dance Music Hosts</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/sound-card-setup-success-confirm-proper-installation-tips-from-yl-software-experts/"><u>Sound Card Setup Success: Confirm Proper Installation Tips From YL Software Experts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-ranked-wireless-keyboard-picks-for-2e24-a-comprehensive-guide/"><u>Top-Ranked Wireless Keyboard Picks for 2E24: A Comprehensive Guide</u></a></li>
 </ul></div>
 

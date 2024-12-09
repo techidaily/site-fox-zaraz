@@ -1,7 +1,7 @@
 ---
 title: Beta Release of DEX 3.15.0.3 for Mac with Optimized Support for macOS Catalina | PCDJ Software
-date: 2024-11-23T16:51:32.813Z
-updated: 2024-11-30T16:37:42.466Z
+date: 2024-12-08T00:12:25.816Z
+updated: 2024-12-09T01:27:47.134Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in the DEX 3.15.0.3 macOS Public Beta
@@ -45,7 +45,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 **IMPORTANT NOTE:** If you receive this warning _“setup\_dex3\_3.15.0.3\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,19 +67,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/11/dex315macos-1.jpg?fit=1374
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-harmony-in-frames-selecting-music-for-social-media-videos/"><u>[Updated] In 2024, Harmony in Frames Selecting Music for Social Media Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/accelerate-engagement-quick-instagram-likes-and-videos-strategy-for-2024/"><u>Accelerate Engagement Quick Instagram Likes and Videos Strategy for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/convertidor-gratuito-on-line-de-arquivos-ogv-e-wmv-pelo-movavi-sem-custos-simples-de-uso/"><u>Convertidor Gratuito On-Line De Arquivos OGV E WMV Pelo Movavi – Sem Custos, Simples De Uso</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/die-fuhrende-losung-fur-ein-nahtloses-hhd-migrationstool-im-jahr-2024/"><u>Die Führende Lösung Für Ein Nahtloses HHD-Migrationstool Im Jahr 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/digital-content-upgrade-changing-numbers-on-tiktok-quickly-for-2024/"><u>Digital Content Upgrade Changing Numbers on TikTok Quickly for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/easy-peasy-guide-to-crafting-and-tweaking-multiple-snaps-in-snapchat-for-2024/"><u>Easy-Peasy Guide to Crafting and Tweaking Multiple Snaps in Snapchat for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/effortless-steps-to-restore-lost-files-from-your-sd-card/"><u>Effortless Steps to Restore Lost Files From Your SD Card</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-recording-to-broadcast-masterful-podcast-editing-with-garageband-for-2024/"><u>From Recording to Broadcast Masterful Podcast Editing with GarageBand for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-interpret-document-is-deleted-or-unavailable-warnings-on-the-web/"><u>How to Interpret Document Is Deleted or Unavailable Warnings on the Web.</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-recover-deleted-photos-from-iphone-without-backup/"><u>How to Recover Deleted Photos From iPhone Without Backup</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-tecno-pova-5-pro-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-interactive-instagram-flipbook-feature/"><u>In 2024, Interactive Instagram Flipbook Feature</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-prime-pictures-visuals-for-livestream-excellence/"><u>In 2024, Prime Pictures Visuals for Livestream Excellence</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/structure/"><u>Structure</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-boosting-skype-engagement-best-zoom-utilization-techniques/"><u>[New] Boosting Skype Engagement Best Zoom Utilization Techniques</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-full-disclosure-unveiling-all-about-google-podcasts-app-for-2024/"><u>[New] Full Disclosure Unveiling All About Google Podcasts App for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-stay-in-the-limelight-how-to-keep-youtube-cc-and-boost-views/"><u>[Updated] Stay in the Limelight How to Keep YouTube CC and Boost Views</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-ultimate-win10-strategy-for-successful-zoom-sessions/"><u>[Updated] The Ultimate Win10 Strategy for Successful Zoom Sessions</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/diagnosing-and-resolving-ram-troubles-in-your-pc-a-comprehensive-guide-by-yl-software-experts/"><u>Diagnosing and Resolving RAM Troubles in Your PC: A Comprehensive Guide by YL Software Experts</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/effective-malware-protection-best-av-tools-reviewed-by-yl-software-experts/"><u>Effective Malware Protection: Best AV Tools Reviewed by YL Software Experts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/examining-vllos-user-driven-feedback-for-2024/"><u>Examining VLLO's User-Driven Feedback for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/exploring-monetary-evolution-the-unique-traits-of-cryptocurrency-vs-conventional-fiat-money-software-solutions-with-yl/"><u>Exploring Monetary Evolution: The Unique Traits of Cryptocurrency Vs. Conventional Fiat Money | Software Solutions with YL</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/foray-into-video-fidelity-an-initialists-perspective/"><u>Foray Into Video Fidelity An Initialist's Perspective</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/latest-sound-card-drivers-available-update-guide-yl-computing-solutions/"><u>Latest Sound Card Drivers Available: Update Guide - YL Computing Solutions</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/locating-and-tweaking-your-pcs-energy-configuration-insights-from-yl-tech-solutions/"><u>Locating and Tweaking Your PC's Energy Configuration - Insights From YL Tech Solutions</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/solving-issues-with-non-functional-network-cards-in-windows-tips-from-yl-computing/"><u>Solving Issues with Non-Functional Network Cards in Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/er-tycoon-ryan-kaji-and-the-wealthy-web-world/"><u>Toddler Tycoon Ryan Kaji and the Wealthy Web World</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/yl-software-solutions-for-restoring-corrupt-data-and-files/"><u>YL Software Solutions for Restoring Corrupt Data and Files</u></a></li>
 </ul></div>
 

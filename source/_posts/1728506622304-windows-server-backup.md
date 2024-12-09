@@ -1,7 +1,7 @@
 ---
 title: Windows Server Backup 使用命令行線上完成 - 揭開兩種有效技巧
-date: 2024-11-29T16:08:41.071Z
-updated: 2024-11-30T16:21:00.005Z
+date: 2024-12-01T22:50:12.004Z
+updated: 2024-12-08T22:50:16.412Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb501fab4eb3e1c0ad873052e.jpg
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/214adb491c46e660f7414c50c0b43fa707653a1bb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
@@ -29,7 +33,7 @@ Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Table des matières** 
@@ -47,11 +51,11 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -69,9 +73,17 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
@@ -81,10 +93,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -92,10 +100,6 @@ Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partitio
 Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur la page principale de sauvegarde de fichiers.
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
@@ -108,10 +112,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
@@ -142,12 +142,16 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -177,10 +181,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -198,16 +198,24 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-zoom-screen-recorders/"><u>[New] 2024 Approved The Ultimate Guide to Zoom Screen Recorders</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-ensuring-security-in-converting-youtube-tracks-to-mp3-format/"><u>[Updated] In 2024, Ensuring Security in Converting YouTube Tracks to MP3 Format</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-liberate-content-consumption-with-these-leading-free-and-on-demand-tools/"><u>2024 Approved Liberate Content Consumption with These Leading Free & On-Demand Tools</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/complete-list-of-top-rated-no-cost-substitutes-for-microsoft-excel/"><u>Complete List of Top-Rated, No-Cost Substitutes for Microsoft Excel</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/enhancing-business-efficiency-through-abbyy-signatures-strategic-collaborations-in-process-intelligence/"><u>Enhancing Business Efficiency Through ABBYY Signature's Strategic Collaborations in Process Intelligence</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mijn-gebruikte-minecraft-screenshots-zonder-kans-helemaal-te-voorbij-hoe-herstellen/"><u>Mijn Gebruikte Minecraft Screenshots Zonder Kans, Helemaal Te Voorbij! Hoe Herstellen?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/pioneer-dj-enthusiast-grab-your-ddjs-x2-software-today-for-seamless-experience/"><u>Pioneer DJ Enthusiast? Grab Your DDJS-X2 Software Today for Seamless Experience!</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/resolved-discrepancy-between-icloud-settings-and-imessage-identification/"><u>Resolved: Discrepancy Between iCloud Settings and iMessage Identification</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/restorasi-data-sketchup-tutorial-jelajah-untuk-mengembalikan-file-yang-hilang/"><u>Restorasi Data SketchUp: Tutorial Jelajah Untuk Mengembalikan File Yang Hilang</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/start-mit-windows-11-von-externem-speichermedium-anleitung-zu-zwei-verfahren/"><u>Start Mit Windows 11 Von Externem Speichermedium: Anleitung Zu Zwei Verfahren</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-trending-hashtags-on-instagram-boost-your-visibility-now/"><u>Top Trending Hashtags on Instagram: Boost Your Visibility Now</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-ai-enhanced-naming-mastery-for-podcast-creatives/"><u>[Updated] 2024 Approved AI-Enhanced Naming Mastery for Podcast Creatives</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-million-visioners-dissecting-the-money-behind-the-numbers-for-2024/"><u>[Updated] Million Visioners Dissecting the Money Behind the Numbers for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-step-by-step-guide-to-changing-photo-genders-from-theory-to-practice-for-2024/"><u>[Updated] Step-by-Step Guide to Changing Photo Genders From Theory to Practice for 2024</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/3lenovo/"><u>「トップ3のLenovoリカバリーメディア作成ツール：優秀な選択肢を紹介」</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-how-to-upload-shorts-video-on-youtube/"><u>2024 Approved How to Upload Shorts Video on YouTube?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-video-sharing-showdown-comparing-streamers-strengths-vimeo-youtube-and-dailymotion/"><u>2024 Approved Video Sharing Showdown Comparing Streamers' Strengths Vimeo, YouTube & Dailymotion</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/buying-cryptocurrencies-using-traditional-money-a-guide-by-yl-computing/"><u>Buying Cryptocurrencies Using Traditional Money: A Guide by YL Computing</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/can-updating-hardware-drivers-resolve-common-tech-problems-find-out-with-yl-computings-guide/"><u>Can Updating Hardware Drivers Resolve Common Tech Problems? Find Out with YL Computing's Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/discover-intels-latest-leap-the-14th-generation-cpu-collection-commences-with-nine-models-and-a-distinctive-i9-14901ke-for-the-overclocking-enthusiast/"><u>Discover Intel's Latest Leap: The 14Th Generation CPU Collection Commences with Nine Models and a Distinctive I9-14901KE for the Overclocking Enthusiast</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/elevate-your-digital-workspace-with-uplifting-pixels-premium-solitude-themes-from-yl-softwares-portfolio/"><u>Elevate Your Digital Workspace with Uplifting Pixels: Premium Solitude Themes From YL Software's Portfolio</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/ensuring-no-loss-of-data-with-superior-backup-solutions-by-yl-software-experts/"><u>Ensuring No Loss of Data with Superior Backup Solutions by YL Software Experts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exemplary-episodes-for-auditory-drama-for-2024/"><u>Exemplary Episodes for Auditory Drama for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/gpu-not-functional-expert-tips-and-solutions-by-yl-software-experts/"><u>GPU Not Functional? Expert Tips and Solutions by YL Software Experts</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-14-pro-max-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 14 Pro Max Data Completely | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-oppo-reno-11f-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Oppo Reno 11F 5G</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/improving-system-speed-is-it-time-to-boost-your-pcs-ram/"><u>Improving System Speed: Is It Time to Boost Your PC's RAM?</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/premium-collection-of-alfa-romeo-rival-concept-cars-backgrounds-and-photos-in-ultra-hd-yl-computing/"><u>Premium Collection of Alfa Romeo Rival Concept Cars Backgrounds and Photos in Ultra HD – YL Computing</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/understanding-indicators-of-excessive-heat-in-graphics-cards-tips-by-yl-tech-team/"><u>Understanding Indicators of Excessive Heat in Graphics Cards - Tips by YL Tech Team</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/understanding-the-frequent-triggers-of-component-overheat-issues-expert-insights-from-yl-computing/"><u>Understanding the Frequent Triggers of Component Overheat Issues - Expert Insights From YL Computing</u></a></li>
 </ul></div>
 

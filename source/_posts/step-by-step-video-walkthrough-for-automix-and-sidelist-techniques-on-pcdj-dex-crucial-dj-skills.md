@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Video Walkthrough for Automix and Sidelist Techniques on PCDJ DEX ˈCrucial DJ Skills
-date: 2024-12-04T22:18:22.937Z
-updated: 2024-12-08T22:15:15.815Z
+date: 2024-12-13T16:10:24.576Z
+updated: 2024-12-15T00:19:07.534Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ Being able to see your search results, or tracks in any opened directory or user
 ##### Using the Sidelist and Automix-Shuffle in PCDJ DEX 3 DJ Mixing Software
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,22 +44,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/coverimage-sidelist-automi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-acoustic-alerts-on-whatsapp-status/"><u>[New] In 2024, Acoustic Alerts on WhatsApp Status</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-navigating-tiktok-profile-updates-with-linktree-integration/"><u>[Updated] Navigating TikTok Profile Updates with Linktree Integration</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1732517183236-yl-computing/"><u>探索历久弥新的盛世：中国历史上统治时间最长的皇帝分析 - YL Computing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/banish-audio-stutter-and-warping-in-your-windows-107-system-ultimate-fixes-for-smooth-sounds/"><u>Banish Audio Stutter & Warping in Your Windows 10/7 System – Ultimate Fixes for Smooth Sounds</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/decoding-the-sino-japanese-conflicts-why-they-matter-in-world-history-a-comprehensive-analysis-from-yl-software/"><u>Decoding the Sino-Japanese Conflicts: Why They Matter in World History – A Comprehensive Analysis From YL Software</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/digital-currency-compliance-understanding-legal-frameworks-yl-computing/"><u>Digital Currency Compliance: Understanding Legal Frameworks - YL Computing</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/discover-jade-chynoweths-exquisite-background-designs-unique-wallpaper-collection-by-yl-computing/"><u>Discover Jade Chynoweth's Exquisite Background Designs: Unique Wallpaper Collection by YL Computing</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/fixing-laptop-screen-damage-with-yl-software-solutions-a-comprehvew-by-yl-computing/"><u>Fixing Laptop Screen Damage with YL Software Solutions: A Comprehvew by YL Computing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-tecno-spark-10-5g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Tecno Spark 10 5G</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-vivo-y78t-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Vivo Y78t Phones</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/microsoft-targets-clarity-resolving-chromes-fuzzy-font-issue-on-windows/"><u>Microsoft Targets Clarity: Resolving Chrome's Fuzzy Font Issue on Windows</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/safeguarding-your-video-cards-expert-advice-on-preventing-corruption-by-yl-software-experts/"><u>Safeguarding Your Video Cards: Expert Advice on Preventing Corruption by YL Software Experts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/soundtrack-streamlining-top-websites-for-skype-ringtones-for-2024/"><u>Soundtrack Streamlining Top Websites for Skype Ringtones for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/ultimate-dragon-ball-hd-desktop-scenes-and-backdrop-graphics-full-static-set-from-yl-computing-created-with-yl-software/"><u>Ultimate Dragon Ball HD Desktop Scenes and Backdrop Graphics – Full Static Set From YL Computing, Created with YL Software</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unleashing-potential-a-thorough-look-at-sj-cam-s6/"><u>Unleashing Potential A Thorough Look at SJ-CAM S6</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/yl-techs-spectacular-wallpaper-collection-for-sun-kissed-holiday-scenes-and-vibes/"><u>YL Tech's Spectacular Wallpaper Collection for Sun-Kissed Holiday Scenes and Vibes</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-cutting-edge-techniques-for-captivating-readership-on-subreddits-for-2024/"><u>[New] Cutting-Edge Techniques for Captivating Readership on Subreddits for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopro-hero5-pro-vs-gopro-hero4-platinum/"><u>[New] GoPro Hero5 Pro Vs GoPro Hero4 Platinum</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlocking-the-secrets-to-increasing-video-engagement-on-youtube/"><u>[Updated] Unlocking the Secrets to Increasing Video Engagement on YouTube</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-ultimate-insights-assessing-lgs-widescreen-monitor-capabilities/"><u>2024 Approved Ultimate Insights Assessing LG's Widescreen Monitor Capabilities</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/a-step-by-step-guide-on-checking-network-card-functionality-with-tips-from-yl-software-experts/"><u>A Step-by-Step Guide on Checking Network Card Functionality with Tips From YL Software Experts</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/disabling-popups-and-banners-master-the-art-of-silencing-windows-10-notifications-with-yl-computings-advice/"><u>Disabling Popups & Banners: Master the Art of Silencing Windows 10 Notifications with YL Computing's Advice</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/discover-the-updated-pcdj-karaoki-software-a-fresh-take-on-your-karaoke-sessions/"><u>Discover the Updated PCDJ Karaoki Software - A Fresh Take on Your Karaoke Sessions!</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/dvd-query/"><u>DVDコピーを使わずに「鬼� # Query</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nting-viewers-the-art-of-crafting-engaging-youtube-description-templates/"><u>Enchanting Viewers The Art of Crafting Engaging YouTube Description Templates</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/high-definition-space-themes-and-wallsavers-premium-astro-pixel-art-from-yl-computing/"><u>High-Definition Space Themes & Wallsavers: Premium Astro Pixel Art From YL Computing</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/latest-podcast-question-bank-for-engaging-audiences-for-2024/"><u>Latest Podcast Question Bank for Engaging Audiences for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/resolve-your-gpu-woes-a-step-by-step-fix-for-common-graphics-card-troubles-with-yl-software-insights/"><u>Resolve Your GPU Woes: A Step-by-Step Fix for Common Graphics Card Troubles with YL Software Insights</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/athway-to-profitability-navigating-youtube-adsense-for-2024/"><u>The Pathway to Profitability Navigating YouTube AdSense for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/unlock-full-power-essential-tips-for-perfectly-tuned-graphics-cards-from-experts-at-yl-software/"><u>Unlock Full Power: Essential Tips for Perfectly Tuned Graphics Cards From Experts at YL Software</u></a></li>
 </ul></div>
 

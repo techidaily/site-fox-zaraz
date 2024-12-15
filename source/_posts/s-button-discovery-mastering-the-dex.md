@@ -1,7 +1,7 @@
 ---
 title: "S Button Discovery: Mastering the DEX"
-date: 2024-12-06T16:08:28.978Z
-updated: 2024-12-08T16:28:38.194Z
+date: 2024-12-11T18:27:19.800Z
+updated: 2024-12-14T19:05:06.952Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ We hope the addition of the “S” button and singer search helps make your kar
 [Click Here](https://www.youtube.com/playlist?list=PLYCb1%5Fl2bbb5tcLGCnrssLM9cf%5FRxGIQD) for a playlist of video tutorials all about using DEX 3 specifically for hosting karaoke events.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,20 +44,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/dexsinger.jpg?fit=1920%2C1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-gaming-chronicles-capturing-every-play-in-overwatch-for-2024/"><u>[Updated] Gaming Chronicles Capturing Every Play in Overwatch for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-ig-reel-secrets-pausing-time-for-creative-impact/"><u>2024 Approved IG Reel Secrets Pausing Time for Creative Impact</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/checking-your-printers-compatibility-with-windows-a-guide-by-yl-computing/"><u>Checking Your Printer's Compatibility with Windows - A Guide by YL Computing</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/effective-strategies-for-resolving-dns-lookup-issues-insights-from-yl-computings-experts/"><u>Effective Strategies for Resolving DNS Lookup Issues: Insights From YL Computing's Experts</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/how-to-recover-permanently-deleted-data-from-your-usb-drive-in-windows-10-and-windows-11-tips-and-tricks-for-easy-file-restoration/"><u>How to Recover Permanently Deleted Data From Your USB Drive in Windows 10 and Windows 11: Tips & Tricks for Easy File Restoration</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/immediate-video-capture-and-audio-guide-app/"><u>Immediate Video Capture & Audio Guide App</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-gps-location-on-vivo-s18e-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Vivo S18e Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-apple-iphone-13-mini-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On Apple iPhone 13 mini in the Best Ways</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-ps4-live-broadcasting-101-with-obs-recording-tips/"><u>In 2024, PS4 Live Broadcasting 101 with OBS Recording Tips</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/navigate-the-btc-realm-with-confidence-secure-your-scoop-on-bitcoin-trends-through-yls-tech-wisdom/"><u>Navigate the BTC Realm with Confidence: Secure Your Scoop on Bitcoin Trends Through YL's Tech Wisdom</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/premium-jaguar-e-type-digital-backgrounds-by-yl-computings-yl-software/"><u>Premium Jaguar E-Type Digital Backgrounds by YL Computing's YL Software</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/revolutionizing-beats-the-impact-of-online-streaming-on-the-art-of-disc-jockeys-djs-with-pcdj-tech/"><u>Revolutionizing Beats: The Impact of Online Streaming on the Art of Disc Jockeys (DJs) with PCDJ Tech</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-printing-pdf-files-on-your-windows-pc-tips-from-yl-computing/"><u>Step-by-Step Guide: Printing PDF Files on Your Windows PC - Tips From YL Computing</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-revolutionize-your-classroom-10-best-animation-software/"><u>Updated In 2024, Revolutionize Your Classroom 10 Best Animation Software</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/yl-softwares-guide-streamlining-your-system-by-removing-unnecessary-bloatware-for-better-performance/"><u>YL Software's Guide: Streamlining Your System by Removing Unnecessary Bloatware for Better Performance</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-from-verbal-to-written-an-intensive-guide-to-google-document-voice-functionality/"><u>[New] From Verbal to Written An Intensive Guide to Google Document Voice Functionality</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-frozen-frustrations-addressing-stutter-in-photobooth-videos-for-2024/"><u>[New] Frozen Frustrations Addressing Stutter in Photobooth Videos for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-initiating-a-thriving-youtube-channel-avoid-these-8-essential-blunders/"><u>[New] In 2024, Initiating a Thriving YouTube Channel? Avoid These 8 Essential Blunders!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-maximize-style-with-premium-border-options-for-ig-posts/"><u>2024 Approved Maximize Style with Premium Border Options for IG Posts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-navigate-the-1080p-landscape-for-better-fb-broadcasts/"><u>2024 Approved Navigate the 1080P Landscape for Better FB Broadcasts</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-unleashing-potential-sharing-youtube-content-within-instagram-stories/"><u>2024 Approved Unleashing Potential Sharing YouTube Content Within Instagram Stories</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/7-leading-budget-4k-mirrorless-cameras-(1k-for-2024/"><u>7 Leading Budget 4K Mirrorless Cameras (<$1K) for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/begin-your-journey-in-crypto-trading-with-ease-a-guide-from-yl-computing/"><u>Begin Your Journey in Crypto-Trading with Ease - A Guide From YL Computing</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/diagnosing-random-shutdowns-expert-tips-by-yl-software-for-stable-computing/"><u>Diagnosing Random Shutdowns: Expert Tips by YL Software for Stable Computing</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/exploring-key-milestnents-in-chinese-history-under-the-ming-dynasty-yl-digital-solutions/"><u>Exploring Key Milestnents in Chinese History Under the Ming Dynasty – YL Digital Solutions</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/hd-vintage-film-wallpaper-with-dark-blue-backdrop-and-infinite-loop-yl-computing/"><u>HD Vintage Film Wallpaper with Dark Blue Backdrop & Infinite Loop - YL Computing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-leveraging-frameworks-like-bootstrap-for-rapid-prototyping/"><u>In 2024, Leveraging Frameworks Like Bootstrap for Rapid Prototyping</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-tweaking-mouse-preferences-in-yl-computings-platform/"><u>Step-by-Step Guide: Tweaking Mouse Preferences in YL Computing's Platform</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/the-downfall-of-itunes-why-pro-djs-need-a-better-solution-for-managing-their-music-libraries/"><u>The Downfall of iTunes: Why Pro DJs Need a Better Solution for Managing Their Music Libraries</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/the-enduring-impact-of-the-song-dynasty-on-chinese-culture-insights-from-yl-computing/"><u>The Enduring Impact of the Song Dynasty on Chinese Culture: Insights From YL Computing</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-oppo-f23-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Oppo F23 5G Bricked Devices | Dr.fone</u></a></li>
 </ul></div>
 

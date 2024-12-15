@@ -1,7 +1,7 @@
 ---
 title: Beta Release of DEX 3.15.0.3 for Mac with Optimized Support for macOS Catalina | PCDJ Software
-date: 2024-12-08T00:12:25.816Z
-updated: 2024-12-09T01:27:47.134Z
+date: 2024-12-14T03:09:34.559Z
+updated: 2024-12-15T00:58:19.362Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in the DEX 3.15.0.3 macOS Public Beta
@@ -45,7 +45,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 **IMPORTANT NOTE:** If you receive this warning _“setup\_dex3\_3.15.0.3\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,20 +67,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/11/dex315macos-1.jpg?fit=1374
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-boosting-skype-engagement-best-zoom-utilization-techniques/"><u>[New] Boosting Skype Engagement Best Zoom Utilization Techniques</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-full-disclosure-unveiling-all-about-google-podcasts-app-for-2024/"><u>[New] Full Disclosure Unveiling All About Google Podcasts App for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-stay-in-the-limelight-how-to-keep-youtube-cc-and-boost-views/"><u>[Updated] Stay in the Limelight How to Keep YouTube CC and Boost Views</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-the-ultimate-win10-strategy-for-successful-zoom-sessions/"><u>[Updated] The Ultimate Win10 Strategy for Successful Zoom Sessions</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/diagnosing-and-resolving-ram-troubles-in-your-pc-a-comprehensive-guide-by-yl-software-experts/"><u>Diagnosing and Resolving RAM Troubles in Your PC: A Comprehensive Guide by YL Software Experts</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/effective-malware-protection-best-av-tools-reviewed-by-yl-software-experts/"><u>Effective Malware Protection: Best AV Tools Reviewed by YL Software Experts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/examining-vllos-user-driven-feedback-for-2024/"><u>Examining VLLO's User-Driven Feedback for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/exploring-monetary-evolution-the-unique-traits-of-cryptocurrency-vs-conventional-fiat-money-software-solutions-with-yl/"><u>Exploring Monetary Evolution: The Unique Traits of Cryptocurrency Vs. Conventional Fiat Money | Software Solutions with YL</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/foray-into-video-fidelity-an-initialists-perspective/"><u>Foray Into Video Fidelity An Initialist's Perspective</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/latest-sound-card-drivers-available-update-guide-yl-computing-solutions/"><u>Latest Sound Card Drivers Available: Update Guide - YL Computing Solutions</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/locating-and-tweaking-your-pcs-energy-configuration-insights-from-yl-tech-solutions/"><u>Locating and Tweaking Your PC's Energy Configuration - Insights From YL Tech Solutions</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/solving-issues-with-non-functional-network-cards-in-windows-tips-from-yl-computing/"><u>Solving Issues with Non-Functional Network Cards in Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/er-tycoon-ryan-kaji-and-the-wealthy-web-world/"><u>Toddler Tycoon Ryan Kaji and the Wealthy Web World</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/yl-software-solutions-for-restoring-corrupt-data-and-files/"><u>YL Software Solutions for Restoring Corrupt Data and Files</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-facebook-video-presentation-boost-adding-bb-and-lc-frameworks/"><u>[Updated] In 2024, Facebook Video Presentation Boost Adding BB and LC Frameworks</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-zipped-texts-to-subtitles-converting-files-in-a-flash/"><u>[Updated] In 2024, Zipped Texts to Subtitles Converting Files in a Flash</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-unlimited-access-premium-karaoke-tracks-with-karaoke-cloud-pro-membership/"><u>1. Unlimited Access: Premium Karaoke Tracks with Karaoke Cloud Pro Membership</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/beyond-basics-advanced-techniques-for-boosting-pc-speed-with-insights-from-yl-software-experts/"><u>Beyond Basics: Advanced Techniques for Boosting PC Speed with Insights From YL Software Experts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/efficient-file-transformation-in-vlc-from-mp4-to-various-formats/"><u>Efficient File Transformation in VLC From MP4 to Various Formats</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-10-visionary-beauty-experts-leading-online-trends/"><u>In 2024, 10 Visionary Beauty Experts Leading Online Trends</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-the-art-of-mouse-troubleshooting-solutions-for-optimal-performance/"><u>Mastering the Art of Mouse Troubleshooting: Solutions for Optimal Performance</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/maximizing-performance-in-depth-apple-iphone-12-pro-max-evaluation-why-more-is-often-merrier/"><u>Maximizing Performance: In-Depth Apple iPhone 12 Pro Max Evaluation - Why More Is Often Merrier</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/navigating-the-print-process-advanced-photoshop-tips-and-tricks/"><u>Navigating the Print Process: Advanced Photoshop Tips and Tricks</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/ultimate-guide-to-avoid-computer-system-freeze-ups-with-tips-from-yl-software-experts/"><u>Ultimate Guide to Avoid Computer System Freeze-Ups with Tips From YL Software Experts</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/unraveling-historical-milestones-the-impactful-era-of-qin-dynasty-in-chinese-history-explored-by-yl-computing-and-software/"><u>Unraveling Historical Milestones: The Impactful Era of Qin Dynasty in Chinese History - Explored by YL Computing & Software</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-free-online-dailymotion-converter-no-registration-required/"><u>Updated In 2024, Free Online Dailymotion Converter No Registration Required</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: New DJ Tools Unveiled! Get Your Hands on Upgraded Dex 3 LE & Re Edition Version 3.8 Now!
-date: 2024-12-02T02:20:35.343Z
-updated: 2024-12-08T19:06:56.939Z
+date: 2024-12-09T20:49:15.340Z
+updated: 2024-12-14T18:02:43.792Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ Version 3.8 0f DEX 3 RE (Red Edition) and DEX 3 LE (Free DJ software) is foundat
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed And Fixed In Version 3.8
@@ -65,7 +65,7 @@ For controller scripts (mappings) we have added the following:
 _Updating from a previous release? Install Version 3.8 of DEX 3 RE from [this page](https://tools.techidaily.com/pcdj/products/) with your existing version closed for a seamless upgrade_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,18 +87,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/v38dex3rele-cover.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-visual-templates-to-upgrade-your-profile/"><u>[New] 2024 Approved Free Visual Templates to Upgrade Your Profile</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ashtags-that-elevate-your-channels-visibility-and-value-for-2024/"><u>[New] Hashtags that Elevate Your Channels' Visibility & Value for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-download-youtube-playlist-step-by-step/"><u>[Updated] 2024 Approved How to Download YouTube Playlist-Step by Step</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-swiftly-remove-live-videos-on-social-platforms-for-2024/"><u>[Updated] Swiftly Remove Live Videos on Social Platforms for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-essential-list-5-leading-youtube-shortened-url-services/"><u>2024 Approved Essential List 5 Leading YouTube Shortened URL Services</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/adjusting-your-screen-preferences-via-windows-control-panel-a-step-by-step-guide-by-yl-computing/"><u>Adjusting Your Screen Preferences via Windows Control Panel - A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://win-dash.techidaily.com/approach-understand-that-specific-heat-capacity-is-an-intrinsic-property-related-to-the-amount-of-energy-needed-to-change-a-substances-temperature-which-can339/"><u>Approach: Understand that Specific Heat Capacity Is an Intrinsic Property Related to the Amount of Energy Needed to Change a Substance's Temperature, Which Can Be Influenced by Mass per Volume.</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/do-you-require-specific-device-drivers-for-optimal-computer-performance-find-out-here-insights-by-yl-computing/"><u>Do You Require Specific Device Drivers for Optimal Computer Performance? Find Out Here! - Insights by YL Computing</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-oppo-a79-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Oppo A79 5G to iPod | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-motorola-g24-power-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Motorola G24 Power Phone without Any Data Loss</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-modifying-power-options-via-control-panel-by-yl-computing-the-definitive-source-for-user-friendly-solutions/"><u>Step-by-Step Guide: Modifying Power Options via Control Panel by YL Computing - The Definitive Source for User-Friendly Solutions</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/yl-softwares-exquisite-krishna-image-series-for-desktop-backgrounds-and-decorations/"><u>YL Software's Exquisite Krishna Image Series for Desktop Backgrounds and Decorations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/your-first-steps-in-windows-accessibility-features/"><u>Your First Steps in Windows Accessibility Features</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-saving-parts-of-youtube-a-comprehensive-tutorial/"><u>[New] In 2024, Saving Parts of YouTube A Comprehensive Tutorial</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-setting-up-your-own-mac-based-sports-chat-space/"><u>[Updated] 2024 Approved Setting Up Your Own Mac-Based Sports Chat Space</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-revealed-top-windows-11-gems-that-could-boost-your-user-performance/"><u>[Updated] Revealed Top Windows 11 Gems That Could Boost Your User Performance</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-overcome-distorted-voice-in-virtual-meetings/"><u>2024 Approved Overcome Distorted Voice in Virtual Meetings</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/audio-anomalies-explored-troubleshooting-quiet-sound-cards-by-yl-tech-insights/"><u>Audio Anomalies Explored: Troubleshooting Quiet Sound Cards by YL Tech Insights</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/hand-painted-pastel-wallpapers-and-backgrounds-by-yl-computing-unique-digital-art/"><u>Hand-Painted Pastel Wallpapers & Backgrounds by YL Computing: Unique Digital Art</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Vivo X Fold 2? | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-spot-a-malfunctioning-power-supply-unit-tips-and-clues-by-yl-software-experts/"><u>How to Spot a Malfunctioning Power Supply Unit: Tips and Clues by YL Software Experts</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-reno-10-pro-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Oppo Reno 10 Pro 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/immerse-yourself-in-the-world-of-rui-kamishiro-with-unique-background-graphics-powered-by-yl-software/"><u>Immerse Yourself in the World of Rui Kamishiro with Unique Background Graphics – Powered by YL Software</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/immortalize-the-power-of-love-captivating-background-images-by-yl-software-yl-computing-collection/"><u>Immortalize the Power of Love: Captivating Background Images by YL Software – YL Computing Collection</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Poco X5? | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/rectifying-graphics-card-issues-a-comprehensive-guide-by-yl-computing/"><u>Rectifying Graphics Card Issues: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-ultimate-guide-to-ipad-time-lapse-filmmaking/"><u>The Ultimate Guide to iPad Time-Lapse Filmmaking</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-redgfxerror-in-red-dead-redemption-2/"><u>Troubleshooting the RED_GFX_ERROR in Red Dead Redemption 2</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/understanding-the-impact-of-deleting-temp-files-is-it-risk-free-insights-from-yl-computing-expertise/"><u>Understanding the Impact of Deleting Temp Files: Is It Risk-Free? Insights From YL Computing Expertise</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/windows-10-handwriting-recognition-setup-step-by-step-instructions-by-yl-software-experts/"><u>Windows 10 Handwriting Recognition Setup: Step-by-Step Instructions by YL Software Experts</u></a></li>
 </ul></div>
 

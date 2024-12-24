@@ -1,7 +1,7 @@
 ---
 title: "S Button Discovery: Mastering the DEX"
-date: 2024-12-11T18:27:19.800Z
-updated: 2024-12-14T19:05:06.952Z
+date: 2024-12-22T19:39:24.101Z
+updated: 2024-12-24T01:13:00.886Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ We hope the addition of the “S” button and singer search helps make your kar
 [Click Here](https://www.youtube.com/playlist?list=PLYCb1%5Fl2bbb5tcLGCnrssLM9cf%5FRxGIQD) for a playlist of video tutorials all about using DEX 3 specifically for hosting karaoke events.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,21 +44,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/dexsinger.jpg?fit=1920%2C1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-from-verbal-to-written-an-intensive-guide-to-google-document-voice-functionality/"><u>[New] From Verbal to Written An Intensive Guide to Google Document Voice Functionality</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-frozen-frustrations-addressing-stutter-in-photobooth-videos-for-2024/"><u>[New] Frozen Frustrations Addressing Stutter in Photobooth Videos for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-initiating-a-thriving-youtube-channel-avoid-these-8-essential-blunders/"><u>[New] In 2024, Initiating a Thriving YouTube Channel? Avoid These 8 Essential Blunders!</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-maximize-style-with-premium-border-options-for-ig-posts/"><u>2024 Approved Maximize Style with Premium Border Options for IG Posts</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-navigate-the-1080p-landscape-for-better-fb-broadcasts/"><u>2024 Approved Navigate the 1080P Landscape for Better FB Broadcasts</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-unleashing-potential-sharing-youtube-content-within-instagram-stories/"><u>2024 Approved Unleashing Potential Sharing YouTube Content Within Instagram Stories</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/7-leading-budget-4k-mirrorless-cameras-(1k-for-2024/"><u>7 Leading Budget 4K Mirrorless Cameras (<$1K) for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/begin-your-journey-in-crypto-trading-with-ease-a-guide-from-yl-computing/"><u>Begin Your Journey in Crypto-Trading with Ease - A Guide From YL Computing</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/diagnosing-random-shutdowns-expert-tips-by-yl-software-for-stable-computing/"><u>Diagnosing Random Shutdowns: Expert Tips by YL Software for Stable Computing</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/exploring-key-milestnents-in-chinese-history-under-the-ming-dynasty-yl-digital-solutions/"><u>Exploring Key Milestnents in Chinese History Under the Ming Dynasty – YL Digital Solutions</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/hd-vintage-film-wallpaper-with-dark-blue-backdrop-and-infinite-loop-yl-computing/"><u>HD Vintage Film Wallpaper with Dark Blue Backdrop & Infinite Loop - YL Computing</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-leveraging-frameworks-like-bootstrap-for-rapid-prototyping/"><u>In 2024, Leveraging Frameworks Like Bootstrap for Rapid Prototyping</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-tweaking-mouse-preferences-in-yl-computings-platform/"><u>Step-by-Step Guide: Tweaking Mouse Preferences in YL Computing's Platform</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/the-downfall-of-itunes-why-pro-djs-need-a-better-solution-for-managing-their-music-libraries/"><u>The Downfall of iTunes: Why Pro DJs Need a Better Solution for Managing Their Music Libraries</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/the-enduring-impact-of-the-song-dynasty-on-chinese-culture-insights-from-yl-computing/"><u>The Enduring Impact of the Song Dynasty on Chinese Culture: Insights From YL Computing</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-oppo-f23-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Oppo F23 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-mastering-the-art-of-growth-in-a-saturated-tiktok-market/"><u>[New] In 2024, Mastering the Art of Growth in a Saturated TikTok Market</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-preserving-your-online-reputation-amidst-faux-endorsements/"><u>[Updated] 2024 Approved Preserving Your Online Reputation Amidst Faux Endorsements</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1732517768292-yl-computing/"><u>秦始皇如何创新治国 - YL Computing解析</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-sony-xperia-1-v-frp-bypass-by-drfone-android/"><u>About Sony Xperia 1 V FRP Bypass</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/access-pre-release-apple-vision-pro-features-with-testflight-a-step-by-step-guide/"><u>Access Pre-Release Apple Vision Pro Features with TestFlight – A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capturing-sound-in-windows-11-explained-for-2024/"><u>Capturing Sound in Windows 11 Explained for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-the-unprecedented-performance-of-the-2020-apple-macbook-air-with-m1-chip/"><u>Expert Analysis: The Unprecedented Performance of the 2020 Apple MacBook Air with M1 Chip</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/foremost-companies-pioneering-vr-technology-for-2024/"><u>Foremost Companies Pioneering VR Technology for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/high-definition-star-wars-themed-wallpapers-and-backgrounds-quality-images-from-yl-computing/"><u>High-Definition Star Wars Themed Wallpapers & Backgrounds - Quality Images From YL Computing</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/interstellar-visuals-for-desktop-environments-ultra-hd-cosmos-wallpaper-collection-by-yl-software/"><u>Interstellar Visuals for Desktop Environments - Ultra HD Cosmos Wallpaper Collection by YL Software</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-windows-network-card-management-tips-for-enablingdisabling-connections/"><u>Mastering Windows Network Card Management: Tips for Enabling/Disabling Connections</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/naming-your-podcast-to-perfection-stepwise-guidance-plus-top-ideas-list-for-2024/"><u>Naming Your Podcast to Perfection Stepwise Guidance + Top Ideas List for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/pc-continuously-crashes-find-out-why-and-solve-the-issue-with-our-comprehhavioral-checklist-from-yl-computing-experts/"><u>PC Continuously Crashes? Find Out Why and Solve the Issue with Our Comprehhavioral Checklist From YL Computing Experts!</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/reinstallation-guide-how-to-update-your-sound-cards-device-driver-tips-from-yl-computing/"><u>Reinstallation Guide: How To Update Your Sound Card's Device Driver - Tips From YL Computing</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-media-titans-a-deep-dive-into-facebook-twitter-instagram-and-youtube-usage/"><u>Social Media Titans: A Deep Dive Into Facebook, Twitter, Instagram & YouTube Usage</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/stunning-hd-wallpaper-collection-for-google-pixel-4-high-quality-hd-images-and-inspiring-landscapes/"><u>Stunning HD Wallpaper Collection for Google Pixel 4 - High-Quality HD Images & Inspiring Landscapes</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/understanding-common-reasons-behind-your-pcs-error-messages-a-guide-by-yl-computing/"><u>Understanding Common Reasons Behind Your PC's Error Messages - A Guide by YL Computing</u></a></li>
 </ul></div>
 

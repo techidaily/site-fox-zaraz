@@ -1,7 +1,7 @@
 ---
 title: "Fast Track Guide: How to Transfer Your PCDJ's DEX N3 Data Into an Excel Spreadsheet"
-date: 2024-12-09T17:22:35.134Z
-updated: 2024-12-14T19:51:34.580Z
+date: 2024-12-20T23:37:18.831Z
+updated: 2024-12-23T20:59:22.192Z
 tags:
   - product
 categories:
@@ -24,7 +24,7 @@ In this quick-tip video demonstration we show you how to open up the DEX 3 datab
 #### DJ Software Quick Tip Video – Importing The DEX 3 Database File Into Excel 2013
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -46,24 +46,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/08/importintoexcel-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-strategies-for-enhancing-your-apple-podcast-visibility/"><u>[New] Strategies for Enhancing Your Apple Podcast Visibility</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-the-art-of-hashtagging-strategies-for-maximum-impact-on-facebook-for-2024/"><u>[New] The Art of Hashtagging Strategies for Maximum Impact on Facebook for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/96-universal-dashboard-and-rearview-backup-cam-kit-enhance-your-cars-safety-with-ease-zdnet/"><u>$96 Universal Dashboard & Rearview Backup Cam Kit: Enhance Your Car's Safety with Ease - ZDNet</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-crafting-professional-focus-mastering-teamblend-background-artistry/"><u>2024 Approved Crafting Professional Focus Mastering Teamblend Background Artistry</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/adjusting-screen-resolution-on-your-windows-pc-a-simple-guide-techtips-by-your-name/"><u>Adjusting Screen Resolution on Your Windows PC: A Simple Guide - TechTips by [Your Name]</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/enhancing-pc-speed-and-efficiency-a-guide-to-managing-startup-programs-with-yl-computings-expert-advice/"><u>Enhancing PC Speed and Efficiency: A Guide to Managing Startup Programs with YL Computing’s Expert Advice</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gpts-application-safe-or-unsafe-in-cybersecurity/"><u>GPT's Application: Safe or Unsafe? In Cybersecurity</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Vivo S17t? | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/pc-maintenance-mastery-essential-tips-for-clean-and-efficient-system-management-by-yl-software-experts/"><u>PC Maintenance Mastery: Essential Tips for Clean and Efficient System Management by YL Software Experts</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-vivo-y78plus-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Vivo Y78+ Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/restoring-your-gpu-explore-effective-strategies-with-yl-computing-and-yl-software-solutions/"><u>Restoring Your GPU: Explore Effective Strategies with YL Computing and YL Software Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamless-teamwork-on-apple-pages-using-icloud-a-comprehensive-guide/"><u>Seamless Teamwork on Apple Pages Using iCloud: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/solving-image-clarity-issues-in-scanning-expert-advice-from-yl-computings-software-guide/"><u>Solving Image Clarity Issues in Scanning: Expert Advice From YL Computing's Software Guide</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/solving-pc-hardware-issues-under-windows-a-comprehve-guide-by-yl-software-team/"><u>Solving PC Hardware Issues Under Windows: A Comprehve Guide by YL Software Team</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1727790890271-top-rated-mac-maintenance-tools-of-2022-expert-picks/"><u>Top-Rated Mac Maintenance Tools of 2022: Expert Picks</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/understanding-the-nuances-editing-versus-deleting-versus-establishing-windows-registry-keys-using-yl-computing-tools/"><u>Understanding the Nuances: Editing Versus Deleting versus Establishing Windows Registry Keys Using YL Computing Tools</u></a></li>
-<li><a href="https://win-web.techidaily.com/wiederherstellen-von-windows-nativen-einstellungen-erfolgreiche-ansatze-zur-systemwiederherstellung-uber-den-rechnerstart/"><u>Wiederherstellen Von Windows Nativen Einstellungen: Erfolgreiche Ansätze Zur Systemwiederherstellung Über Den Rechnerstart</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/wireless-woes-be-gone-expert-troubleshooting-steps-for-windows-connectivity-problems-by-yl-software/"><u>Wireless Woes Be Gone: Expert Troubleshooting Steps for Windows Connectivity Problems by YL Software</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/yl-software-reviews-how-to-boost-your-computers-speed-like-never-before/"><u>YL Software Reviews: How To Boost Your Computer’s Speed Like Never Before!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-ingenious-wavework-wisdom-casters-companion/"><u>[New] Ingenious Wavework Wisdom Caster's Companion</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-revolutionizing-gameplay-a-curated-list-of-stardew-valleys-top-7-mods/"><u>[New] Revolutionizing Gameplay A Curated List of Stardew Valley's Top 7 Mods</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-no-rush-realms-top-12-serene-titles/"><u>[Updated] 2024 Approved No-Rush Realms Top 12 Serene Titles</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-proven-tactics-to-amplify-your-youtube-popularity/"><u>[Updated] In 2024, Proven Tactics to Amplify Your YouTube Popularity</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/alexa-or-google-assistant-which-voice-ai-is-right-for-you/"><u>Alexa or Google Assistant: Which Voice AI Is Right for You?</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/boost-your-system-speed-essential-tips-for-optimal-performance-from-yl-tech-gurus/"><u>Boost Your System Speed: Essential Tips for Optimal Performance From YL Tech Gurus</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/crafting-rhythms-triumph-who-took-first-place-in-pcdjs-music-video-challenge/"><u>Crafting Rhythms Triumph: Who Took First Place in PCDJ's Music Video Challenge?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/echo-archives-digital-sound-recording-for-2024/"><u>Echo Archives Digital Sound Recording for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/effective-strategies-prevent-your-printers-rapid-ink-drainage-tips-from-yl-computing/"><u>Effective Strategies: Prevent Your Printer's Rapid Ink Drainage - Tips From YL Computing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-on-correcting-and-preventing-error-43-in-your-electronics/"><u>Expert Advice on Correcting and Preventing Error 43 in Your Electronics</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-poco-m6-pro-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Poco M6 Pro 5G Phone that is Locked?</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/overcoming-challenges-in-hardware-installation-insights-by-yl-software-professionals/"><u>Overcoming Challenges in Hardware Installation: Insights by YL Software Professionals</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/setting-up-user-profiles-and-enabling-parental-controls-on-windows-via-control-panel-tips-from-yl-computing/"><u>Setting Up User Profiles & Enabling Parental Controls on Windows via Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/troubleshooting-your-scanning-hardwares-disconnection-woes-with-insights-by-yl-software/"><u>Troubleshooting Your Scanning Hardware's Disconnection Woes with Insights by YL Software</u></a></li>
 </ul></div>
 

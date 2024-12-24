@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Video Walkthrough for Automix and Sidelist Techniques on PCDJ DEX ˈCrucial DJ Skills
-date: 2024-12-13T16:10:24.576Z
-updated: 2024-12-15T00:19:07.534Z
+date: 2024-12-19T22:57:07.977Z
+updated: 2024-12-24T03:45:31.360Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ Being able to see your search results, or tracks in any opened directory or user
 ##### Using the Sidelist and Automix-Shuffle in PCDJ DEX 3 DJ Mixing Software
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,20 +44,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/coverimage-sidelist-automi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-cutting-edge-techniques-for-captivating-readership-on-subreddits-for-2024/"><u>[New] Cutting-Edge Techniques for Captivating Readership on Subreddits for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gopro-hero5-pro-vs-gopro-hero4-platinum/"><u>[New] GoPro Hero5 Pro Vs GoPro Hero4 Platinum</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unlocking-the-secrets-to-increasing-video-engagement-on-youtube/"><u>[Updated] Unlocking the Secrets to Increasing Video Engagement on YouTube</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-ultimate-insights-assessing-lgs-widescreen-monitor-capabilities/"><u>2024 Approved Ultimate Insights Assessing LG's Widescreen Monitor Capabilities</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/a-step-by-step-guide-on-checking-network-card-functionality-with-tips-from-yl-software-experts/"><u>A Step-by-Step Guide on Checking Network Card Functionality with Tips From YL Software Experts</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/disabling-popups-and-banners-master-the-art-of-silencing-windows-10-notifications-with-yl-computings-advice/"><u>Disabling Popups & Banners: Master the Art of Silencing Windows 10 Notifications with YL Computing's Advice</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/discover-the-updated-pcdj-karaoki-software-a-fresh-take-on-your-karaoke-sessions/"><u>Discover the Updated PCDJ Karaoki Software - A Fresh Take on Your Karaoke Sessions!</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/dvd-query/"><u>DVDコピーを使わずに「鬼� # Query</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/nting-viewers-the-art-of-crafting-engaging-youtube-description-templates/"><u>Enchanting Viewers The Art of Crafting Engaging YouTube Description Templates</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/high-definition-space-themes-and-wallsavers-premium-astro-pixel-art-from-yl-computing/"><u>High-Definition Space Themes & Wallsavers: Premium Astro Pixel Art From YL Computing</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/latest-podcast-question-bank-for-engaging-audiences-for-2024/"><u>Latest Podcast Question Bank for Engaging Audiences for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/resolve-your-gpu-woes-a-step-by-step-fix-for-common-graphics-card-troubles-with-yl-software-insights/"><u>Resolve Your GPU Woes: A Step-by-Step Fix for Common Graphics Card Troubles with YL Software Insights</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/athway-to-profitability-navigating-youtube-adsense-for-2024/"><u>The Pathway to Profitability Navigating YouTube AdSense for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/unlock-full-power-essential-tips-for-perfectly-tuned-graphics-cards-from-experts-at-yl-software/"><u>Unlock Full Power: Essential Tips for Perfectly Tuned Graphics Cards From Experts at YL Software</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-capturing-iphone-7-screen-a-step-by-step-guide/"><u>[New] 2024 Approved Capturing iPhone 7 Screen A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-fixing-the-obs-fullscreen-hurdle-for-2024/"><u>[New] Fixing the OBS Fullscreen Hurdle for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-direct-data-delivery-master-5-techniques-for-uploading-files/"><u>[New] In 2024, Direct Data Delivery Master 5 Techniques for Uploading Files</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-navigating-daily-life-on-facebook-a-step-by-step-guide-for-2024/"><u>[Updated] Navigating Daily Life on Facebook A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-precision-and-proficiency-youtube-edits-in-adobe-premiere/"><u>[Updated] Precision & Proficiency YouTube Edits in Adobe Premiere</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/audio-anomalies-explored-troubleshooting-quiet-sound-cards-by-yl-tech-insights/"><u>Audio Anomalies Explored: Troubleshooting Quiet Sound Cards by YL Tech Insights</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/hand-painted-pastel-wallpapers-and-backgrounds-by-yl-computing-unique-digital-art/"><u>Hand-Painted Pastel Wallpapers & Backgrounds by YL Computing: Unique Digital Art</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-vivo-y02t-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Vivo Y02T Phones with/without a PC</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-tech-professionals-can-overcome-burnout-with-positive-developments-discoveries-by-zdnet/"><u>How Tech Professionals Can Overcome Burnout with Positive Developments - Discoveries by ZDNET</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-set-up-an-automatic-scan-using-windows-defender-tips-from-yl-computings-expert-software-team/"><u>How to Set Up an Automatic Scan Using Windows Defender - Tips From YL Computing's Expert Software Team</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/immerse-yourself-in-the-world-of-rui-kamishiro-with-unique-background-graphics-powered-by-yl-software/"><u>Immerse Yourself in the World of Rui Kamishiro with Unique Background Graphics – Powered by YL Software</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/immortalize-the-power-of-love-captivating-background-images-by-yl-software-yl-computing-collection/"><u>Immortalize the Power of Love: Captivating Background Images by YL Software – YL Computing Collection</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/master-your-beat-60-second-dj-secrets-from-jay-brannan-pcdj-expert/"><u>Master Your Beat: 60-Second DJ Secrets From Jay Brannan, PCDJ Expert</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/rectifying-graphics-card-issues-a-comprehensive-guide-by-yl-computing/"><u>Rectifying Graphics Card Issues: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-top.techidaily.com/two-cost-free-methods-for-synchronizing-folders-on-your-mac/"><u>Two Cost-Free Methods for Synchronizing Folders on Your Mac</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/understanding-the-impact-of-deleting-temp-files-is-it-risk-free-insights-from-yl-computing-expertise/"><u>Understanding the Impact of Deleting Temp Files: Is It Risk-Free? Insights From YL Computing Expertise</u></a></li>
 </ul></div>
 

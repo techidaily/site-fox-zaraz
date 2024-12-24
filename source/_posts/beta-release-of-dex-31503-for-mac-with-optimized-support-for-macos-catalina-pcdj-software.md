@@ -1,7 +1,7 @@
 ---
 title: Beta Release of DEX 3.15.0.3 for Mac with Optimized Support for macOS Catalina | PCDJ Software
-date: 2024-12-14T03:09:34.559Z
-updated: 2024-12-15T00:58:19.362Z
+date: 2024-12-23T00:20:25.342Z
+updated: 2024-12-23T18:57:06.695Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in the DEX 3.15.0.3 macOS Public Beta
@@ -45,7 +45,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 **IMPORTANT NOTE:** If you receive this warning _“setup\_dex3\_3.15.0.3\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,17 +67,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/11/dex315macos-1.jpg?fit=1374
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-facebook-video-presentation-boost-adding-bb-and-lc-frameworks/"><u>[Updated] In 2024, Facebook Video Presentation Boost Adding BB and LC Frameworks</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-zipped-texts-to-subtitles-converting-files-in-a-flash/"><u>[Updated] In 2024, Zipped Texts to Subtitles Converting Files in a Flash</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1-unlimited-access-premium-karaoke-tracks-with-karaoke-cloud-pro-membership/"><u>1. Unlimited Access: Premium Karaoke Tracks with Karaoke Cloud Pro Membership</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/beyond-basics-advanced-techniques-for-boosting-pc-speed-with-insights-from-yl-software-experts/"><u>Beyond Basics: Advanced Techniques for Boosting PC Speed with Insights From YL Software Experts</u></a></li>
-<li><a href="https://extra-information.techidaily.com/efficient-file-transformation-in-vlc-from-mp4-to-various-formats/"><u>Efficient File Transformation in VLC From MP4 to Various Formats</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-10-visionary-beauty-experts-leading-online-trends/"><u>In 2024, 10 Visionary Beauty Experts Leading Online Trends</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-the-art-of-mouse-troubleshooting-solutions-for-optimal-performance/"><u>Mastering the Art of Mouse Troubleshooting: Solutions for Optimal Performance</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/maximizing-performance-in-depth-apple-iphone-12-pro-max-evaluation-why-more-is-often-merrier/"><u>Maximizing Performance: In-Depth Apple iPhone 12 Pro Max Evaluation - Why More Is Often Merrier</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/navigating-the-print-process-advanced-photoshop-tips-and-tricks/"><u>Navigating the Print Process: Advanced Photoshop Tips and Tricks</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/ultimate-guide-to-avoid-computer-system-freeze-ups-with-tips-from-yl-software-experts/"><u>Ultimate Guide to Avoid Computer System Freeze-Ups with Tips From YL Software Experts</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/unraveling-historical-milestones-the-impactful-era-of-qin-dynasty-in-chinese-history-explored-by-yl-computing-and-software/"><u>Unraveling Historical Milestones: The Impactful Era of Qin Dynasty in Chinese History - Explored by YL Computing & Software</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-free-online-dailymotion-converter-no-registration-required/"><u>Updated In 2024, Free Online Dailymotion Converter No Registration Required</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-10-must-see-vr-videos-on-youtube-for-deep-immersion/"><u>[New] 2024 Approved 10 Must-See VR Videos on YouTube for Deep Immersion</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-transform-your-mac-with-the-latest-macos-11-big-sur-overview/"><u>[New] 2024 Approved Transform Your Mac with the Latest MacOS 11 Big Sur Overview</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-from-past-to-present-using-camera-roll-in-snapchats-for-2024/"><u>[New] From Past To Present Using Camera Roll in Snapchats for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-to-modify-comment-accessibility-on-youtube/"><u>[Updated] 2024 Approved Guide to Modify Comment Accessibility on YouTube</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-zero-dollars-to-end-every-movie-right/"><u>[Updated] 2024 Approved Zero Dollars to End Every Movie Right</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/checking-your-printers-compatibility-with-windows-a-guide-by-yl-computing/"><u>Checking Your Printer's Compatibility with Windows - A Guide by YL Computing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/diydvddvd/"><u>DIY方法：鬆綁DVD版权限制，完成快速DVD复制</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/effective-strategies-for-resolving-dns-lookup-issues-insights-from-yl-computings-experts/"><u>Effective Strategies for Resolving DNS Lookup Issues: Insights From YL Computing's Experts</u></a></li>
+<li><a href="https://win11.techidaily.com/fine-tuning-visual-delight-windows-wallpapers-guidebook/"><u>Fine-Tuning Visual Delight: Windows Wallpapers Guidebook</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/karaoke-tool-tips-masterful-techniques-for-adding-songs-for-artists-in-pcdj-software/"><u>Karaoke Tool Tips: Masterful Techniques for Adding Songs for Artists in PCDJ Software</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/navigate-the-btc-realm-with-confidence-secure-your-scoop-on-bitcoin-trends-through-yls-tech-wisdom/"><u>Navigate the BTC Realm with Confidence: Secure Your Scoop on Bitcoin Trends Through YL's Tech Wisdom</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/premium-jaguar-e-type-digital-backgrounds-by-yl-computings-yl-software/"><u>Premium Jaguar E-Type Digital Backgrounds by YL Computing's YL Software</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/revolutionizing-beats-the-impact-of-online-streaming-on-the-art-of-disc-jockeys-djs-with-pcdj-tech/"><u>Revolutionizing Beats: The Impact of Online Streaming on the Art of Disc Jockeys (DJs) with PCDJ Tech</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-solutions-for-usbasp-driver-conflicts/"><u>Streamlined Solutions for USBasp Driver Conflicts</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/yl-softwares-guide-streamlining-your-system-by-removing-unnecessary-bloatware-for-better-performance/"><u>YL Software's Guide: Streamlining Your System by Removing Unnecessary Bloatware for Better Performance</u></a></li>
 </ul></div>
 

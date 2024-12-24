@@ -1,7 +1,7 @@
 ---
 title: Try Out The Latest Free Public Beta - NEW DEX v3.10.0.1 Featuring Integrated Music Support
-date: 2024-12-12T18:25:27.300Z
-updated: 2024-12-15T01:43:27.419Z
+date: 2024-12-19T23:49:10.256Z
+updated: 2024-12-24T04:09:56.883Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ As last weeks update was, the new DEX 3 Pro version 3.10.0.1 is a [public beta](
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Updated in DEX 3 Pro Version 3.10.0.1 (Since 3.10)
@@ -64,7 +64,7 @@ _**IMPORTANT NOTES:** With your existing version of DEX 3 Pro closed, download a
 _Have questions about the **new version of DEX 3 Pro** or the new **karaoke features**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -86,22 +86,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/03/DEX31001DOWNLOAD-template.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-2024s-cheapest-cloud-a-detailed-comparison/"><u>[New] 2024'S Cheapest Cloud A Detailed Comparison</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-a-comprehensive-guide-to-incorporating-photo-capabilities-in-meet/"><u>[New] A Comprehensive Guide to Incorporating Photo Capabilities in Meet</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-crafting-animation-dynamic-bouncy-text-techniques/"><u>[New] Crafting Animation Dynamic, Bouncy Text Techniques</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-vloggers-guide-top-5-audio-excellence-headphones/"><u>[Updated] Vloggers’ Guide Top 5 Audio Excellence Headphones</u></a></li>
-<li><a href="https://win-online.techidaily.com/hdd6/"><u>「遅い外付けHDD転送問題解決！6秒法で高速化する方法」</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1-navigating-windows-control-panel-a-step-by-step-guide-to-finding-and-using-power-settings/"><u>1. Navigating Windows Control Panel: A Step-by-Step Guide to Finding and Using Power Settings</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/connect-and-print-effortlessly-how-to-link-your-printer-to-a-windows-device-tips-by-yl-software-expertise/"><u>Connect and Print Effortlessly: How to Link Your Printer to a Windows Device – Tips by YL Software Expertise</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/easy-guide-setting-up-parental-controls-with-yl-software-tips-from-yl-computing/"><u>Easy Guide: Setting Up Parental Controls with YL Software - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/effortless-printer-integration-into-windows-pertinacious-10-expert-advice-by-yl-computing/"><u>Effortless Printer Integration Into Windows Pertinacious 10: Expert Advice by YL Computing</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/enhancing-your-gpus-efficiency-expert-tips-from-yl-computing/"><u>Enhancing Your GPU's Efficiency: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/high-resolution-lady-sylvanas-windrunner-desktop-wallpapers-and-backgrounds-download-premium-quality-images/"><u>High-Resolution Lady Sylvanas Windrunner Desktop Wallpapers & Backgrounds - Download Premium Quality Images</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/improving-system-speed-is-it-time-to-boost-your-pcs-ram/"><u>Improving System Speed: Is It Time to Boost Your PC's RAM?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pinnacle-srt-upgrades-elevating-your-tech-game/"><u>In 2024, Pinnacle SRT Upgrades Elevating Your Tech Game</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/merging-your-favorite-tunes-a-step-by-step-guide-to-combining-spotify-playlists/"><u>Merging Your Favorite Tunes: A Step-by-Step Guide to Combining Spotify Playlists</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/mobile-mastery-recording-your-snapchat-stories/"><u>Mobile Mastery Recording Your Snapchat Stories</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/pioneer-dj-ddj-sb3-with-latest-dex-3-and-dex-3-re-compatibility-official-support-for-pcdj-software/"><u>Pioneer DJ DDJ-SB3 with Latest DEX 3 & DEX 3 RE Compatibility | Official Support for PCDJ Software</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/step-by-step-guide-uploading-imovie-videos-to-vimeo-platform-for-2024/"><u>Step-by-Step Guide Uploading iMovie Videos to Vimeo Platform for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-dictate-your-destiny-free-logo-creation-from-template-files/"><u>[Updated] In 2024, Dictate Your Destiny - Free Logo Creation From Template Files</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-vida-journey-from-raw-footage-to-cinematic-scene/"><u>[Updated] The Vida Journey From Raw Footage to Cinematic Scene</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/alter-the-primary-web-search-tool-for-windows-11-with-simple-tips-by-yl-software-experts/"><u>Alter the Primary Web Search Tool for Windows 11 with Simple Tips by YL Software Experts</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/dealing-with-false-alarms-why-your-scanner-may-conflict-with-antivirus-insights-from-yl-computing/"><u>Dealing with False Alarms: Why Your Scanner May Conflict With Antivirus - Insights From YL Computing</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/detecting-and-diagnosing-memory-integrity-faults-in-windows-operating-systems-by-yl-technologies/"><u>Detecting and Diagnosing Memory Integrity Faults in Windows Operating Systems by YL Technologies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dive-into-ai-deployment-auto-gpt-step-by-step/"><u>Dive Into AI Deployment (Auto-GPT) Step-by-Step</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/easy-tips-for-modifying-display-configurations-in-windows-settings-with-help-from-yl-software/"><u>Easy Tips for Modifying Display Configurations in Windows Settings with Help From YL Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pro-photographys-selections-the-creme-de-la-4k-dslrs/"><u>Pro Photography's Selections The Crème De La 4K DSLRs</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-accessing-and-viewing-ms-office-word-files-on-your-windows-pc-expert-tips-from-yl-computing/"><u>Step-by-Step Guide: Accessing and Viewing MS Office Word Files on Your Windows PC - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ltimate-guide-to-8-mirrorless-cameras-for-vloggers-for-2024/"><u>The Ultimate Guide to 8 Mirrorless Cameras for Vloggers for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/the-xml-file-bible-for-fcpx-creators-for-2024/"><u>The XML File Bible for FCPX Creators for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/troubleshooting-display-faults-in-windows-10-systems-with-step-by-step-solutions-by-yl-computing/"><u>Troubleshooting Display Faults in Windows 10 Systems with Step-by-Step Solutions by YL Computing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-impact-how-chatgpt-using-latest-info-benefits-us-all/"><u>Understanding the Impact: How ChatGPT Using Latest Info Benefits Us All</u></a></li>
 </ul></div>
 

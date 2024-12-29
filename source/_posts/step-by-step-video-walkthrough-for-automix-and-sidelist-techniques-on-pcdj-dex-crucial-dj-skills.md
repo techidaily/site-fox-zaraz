@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Video Walkthrough for Automix and Sidelist Techniques on PCDJ DEX ˈCrucial DJ Skills
-date: 2024-12-19T22:57:07.977Z
-updated: 2024-12-24T03:45:31.360Z
+date: 2024-12-25T17:12:49.441Z
+updated: 2024-12-29T18:16:55.640Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ Being able to see your search results, or tracks in any opened directory or user
 ##### Using the Sidelist and Automix-Shuffle in PCDJ DEX 3 DJ Mixing Software
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,22 +44,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/coverimage-sidelist-automi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-capturing-iphone-7-screen-a-step-by-step-guide/"><u>[New] 2024 Approved Capturing iPhone 7 Screen A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-fixing-the-obs-fullscreen-hurdle-for-2024/"><u>[New] Fixing the OBS Fullscreen Hurdle for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-direct-data-delivery-master-5-techniques-for-uploading-files/"><u>[New] In 2024, Direct Data Delivery Master 5 Techniques for Uploading Files</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-navigating-daily-life-on-facebook-a-step-by-step-guide-for-2024/"><u>[Updated] Navigating Daily Life on Facebook A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-precision-and-proficiency-youtube-edits-in-adobe-premiere/"><u>[Updated] Precision & Proficiency YouTube Edits in Adobe Premiere</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/audio-anomalies-explored-troubleshooting-quiet-sound-cards-by-yl-tech-insights/"><u>Audio Anomalies Explored: Troubleshooting Quiet Sound Cards by YL Tech Insights</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/hand-painted-pastel-wallpapers-and-backgrounds-by-yl-computing-unique-digital-art/"><u>Hand-Painted Pastel Wallpapers & Backgrounds by YL Computing: Unique Digital Art</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-vivo-y02t-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Vivo Y02T Phones with/without a PC</u></a></li>
-<li><a href="https://app-tips.techidaily.com/how-tech-professionals-can-overcome-burnout-with-positive-developments-discoveries-by-zdnet/"><u>How Tech Professionals Can Overcome Burnout with Positive Developments - Discoveries by ZDNET</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-set-up-an-automatic-scan-using-windows-defender-tips-from-yl-computings-expert-software-team/"><u>How to Set Up an Automatic Scan Using Windows Defender - Tips From YL Computing's Expert Software Team</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/immerse-yourself-in-the-world-of-rui-kamishiro-with-unique-background-graphics-powered-by-yl-software/"><u>Immerse Yourself in the World of Rui Kamishiro with Unique Background Graphics – Powered by YL Software</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/immortalize-the-power-of-love-captivating-background-images-by-yl-software-yl-computing-collection/"><u>Immortalize the Power of Love: Captivating Background Images by YL Software – YL Computing Collection</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/master-your-beat-60-second-dj-secrets-from-jay-brannan-pcdj-expert/"><u>Master Your Beat: 60-Second DJ Secrets From Jay Brannan, PCDJ Expert</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/rectifying-graphics-card-issues-a-comprehensive-guide-by-yl-computing/"><u>Rectifying Graphics Card Issues: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-top.techidaily.com/two-cost-free-methods-for-synchronizing-folders-on-your-mac/"><u>Two Cost-Free Methods for Synchronizing Folders on Your Mac</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/understanding-the-impact-of-deleting-temp-files-is-it-risk-free-insights-from-yl-computing-expertise/"><u>Understanding the Impact of Deleting Temp Files: Is It Risk-Free? Insights From YL Computing Expertise</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-recorded-speech-retrieval-and-evaluation/"><u>[New] In 2024, Recorded Speech Retrieval & Evaluation</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-tailoring-your-playstation-experience-with-sounds-for-2024/"><u>[New] Tailoring Your PlayStation Experience with Sounds for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-inside-out-comprehensive-understanding-of-stardews-fascinating-ginger-island/"><u>[Updated] 2024 Approved Inside Out Comprehensive Understanding of Stardew’s Fascinating Ginger Island</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-essential-audio-archives-where-to-find-copyright-free-tunes/"><u>[Updated] Essential Audio Archives Where to Find Copyright-Free Tunes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quick-cut-screenplay-snippet/"><u>[Updated] Quick-Cut Screenplay Snippet</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-cheap-yet-good-quality-cameras-reviewed-here/"><u>2024 Approved Cheap Yet Good Quality Cameras Reviewed Here</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/alter-the-primary-web-search-tool-for-windows-11-with-simple-tips-by-yl-software-experts/"><u>Alter the Primary Web Search Tool for Windows 11 with Simple Tips by YL Software Experts</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/dealing-with-false-alarms-why-your-scanner-may-conflict-with-antivirus-insights-from-yl-computing/"><u>Dealing with False Alarms: Why Your Scanner May Conflict With Antivirus - Insights From YL Computing</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/detecting-and-diagnosing-memory-integrity-faults-in-windows-operating-systems-by-yl-technologies/"><u>Detecting and Diagnosing Memory Integrity Faults in Windows Operating Systems by YL Technologies</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/easy-tips-for-modifying-display-configurations-in-windows-settings-with-help-from-yl-software/"><u>Easy Tips for Modifying Display Configurations in Windows Settings with Help From YL Software</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1715860208213-in-2024-a-user-friendly-guide-to-seamless-collaboration-across-different-operating-systems-via-skype-group-chats/"><u>In 2024, A User-Friendly Guide to Seamless Collaboration Across Different Operating Systems via Skype Group Chats.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Vivo S18e? | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/june-donation-match-beat-saber-rhymes-and-relief-benefit-from-pcdj-software-profits/"><u>June Donation Match: Beat Saber, Rhymes & Relief Benefit From PCDJ Software Profits</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-accessing-and-viewing-ms-office-word-files-on-your-windows-pc-expert-tips-from-yl-computing/"><u>Step-by-Step Guide: Accessing and Viewing MS Office Word Files on Your Windows PC - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/stunning-4k-wallpapers-and-visual-motifs-for-bmw-m3-enthusiasts-professional-designs-from-yl-softwares-gallery-collection/"><u>Stunning 4K Wallpapers and Visual Motifs for BMW M3 Enthusiasts – Professional Designs From YL Software's Gallery Collection</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/troubleshooting-display-faults-in-windows-10-systems-with-step-by-step-solutions-by-yl-computing/"><u>Troubleshooting Display Faults in Windows 10 Systems with Step-by-Step Solutions by YL Computing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/uncovering-old-facebook-stories-with-ease/"><u>Uncovering Old Facebook Stories with Ease</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Try Out The Latest Free Public Beta - NEW DEX v3.10.0.1 Featuring Integrated Music Support
-date: 2024-12-19T23:49:10.256Z
-updated: 2024-12-24T04:09:56.883Z
+date: 2024-12-23T19:39:30.657Z
+updated: 2024-12-29T19:38:40.961Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ As last weeks update was, the new DEX 3 Pro version 3.10.0.1 is a [public beta](
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Updated in DEX 3 Pro Version 3.10.0.1 (Since 3.10)
@@ -64,7 +64,7 @@ _**IMPORTANT NOTES:** With your existing version of DEX 3 Pro closed, download a
 _Have questions about the **new version of DEX 3 Pro** or the new **karaoke features**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -86,18 +86,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/03/DEX31001DOWNLOAD-template.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-dictate-your-destiny-free-logo-creation-from-template-files/"><u>[Updated] In 2024, Dictate Your Destiny - Free Logo Creation From Template Files</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-vida-journey-from-raw-footage-to-cinematic-scene/"><u>[Updated] The Vida Journey From Raw Footage to Cinematic Scene</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/alter-the-primary-web-search-tool-for-windows-11-with-simple-tips-by-yl-software-experts/"><u>Alter the Primary Web Search Tool for Windows 11 with Simple Tips by YL Software Experts</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/dealing-with-false-alarms-why-your-scanner-may-conflict-with-antivirus-insights-from-yl-computing/"><u>Dealing with False Alarms: Why Your Scanner May Conflict With Antivirus - Insights From YL Computing</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/detecting-and-diagnosing-memory-integrity-faults-in-windows-operating-systems-by-yl-technologies/"><u>Detecting and Diagnosing Memory Integrity Faults in Windows Operating Systems by YL Technologies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dive-into-ai-deployment-auto-gpt-step-by-step/"><u>Dive Into AI Deployment (Auto-GPT) Step-by-Step</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/easy-tips-for-modifying-display-configurations-in-windows-settings-with-help-from-yl-software/"><u>Easy Tips for Modifying Display Configurations in Windows Settings with Help From YL Software</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pro-photographys-selections-the-creme-de-la-4k-dslrs/"><u>Pro Photography's Selections The Crème De La 4K DSLRs</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-accessing-and-viewing-ms-office-word-files-on-your-windows-pc-expert-tips-from-yl-computing/"><u>Step-by-Step Guide: Accessing and Viewing MS Office Word Files on Your Windows PC - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ltimate-guide-to-8-mirrorless-cameras-for-vloggers-for-2024/"><u>The Ultimate Guide to 8 Mirrorless Cameras for Vloggers for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/the-xml-file-bible-for-fcpx-creators-for-2024/"><u>The XML File Bible for FCPX Creators for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/troubleshooting-display-faults-in-windows-10-systems-with-step-by-step-solutions-by-yl-computing/"><u>Troubleshooting Display Faults in Windows 10 Systems with Step-by-Step Solutions by YL Computing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-the-impact-how-chatgpt-using-latest-info-benefits-us-all/"><u>Understanding the Impact: How ChatGPT Using Latest Info Benefits Us All</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-guide-to-speaking-and-visualizing-in-powerpoint-for-2024/"><u>[New] The Ultimate Guide to Speaking & Visualizing in PowerPoint for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unveiling-the-hidden-gems-that-challenge-vlc/"><u>[New] Unveiling the Hidden Gems That Challenge VLC</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-navigating-windows-control-panel-a-step-by-step-guide-to-finding-and-using-power-settings/"><u>1. Navigating Windows Control Panel: A Step-by-Step Guide to Finding and Using Power Settings</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/connect-and-print-effortlessly-how-to-link-your-printer-to-a-windows-device-tips-by-yl-software-expertise/"><u>Connect and Print Effortlessly: How to Link Your Printer to a Windows Device – Tips by YL Software Expertise</u></a></li>
+<li><a href="https://techtrends.techidaily.com/cutting-college-costs-with-tidals-scholarly-discount-offers/"><u>Cutting College Costs with Tidal's Scholarly Discount Offers</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/easy-guide-setting-up-parental-controls-with-yl-software-tips-from-yl-computing/"><u>Easy Guide: Setting Up Parental Controls with YL Software - Tips From YL Computing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevating-visuals-the-shift-from-sdr-to-hdr-in-editing/"><u>Elevating Visuals The Shift From SDR to HDR in Editing</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/enhancing-your-gpus-efficiency-expert-tips-from-yl-computing/"><u>Enhancing Your GPU's Efficiency: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-7-plus-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 7 Plus?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Motorola G54 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/pioneer-dj-ddj-sb3-with-latest-dex-3-and-dex-3-re-compatibility-official-support-for-pcdj-software/"><u>Pioneer DJ DDJ-SB3 with Latest DEX 3 & DEX 3 RE Compatibility | Official Support for PCDJ Software</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-zte-nubia-flip-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for ZTE Nubia Flip 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
 </ul></div>
 

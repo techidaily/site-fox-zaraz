@@ -1,7 +1,7 @@
 ---
 title: Beta Release of DEX 3.15.0.3 for Mac with Optimized Support for macOS Catalina | PCDJ Software
-date: 2024-12-23T00:20:25.342Z
-updated: 2024-12-23T18:57:06.695Z
+date: 2024-12-27T18:45:50.976Z
+updated: 2024-12-29T17:55:08.635Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in the DEX 3.15.0.3 macOS Public Beta
@@ -45,7 +45,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 **IMPORTANT NOTE:** If you receive this warning _“setup\_dex3\_3.15.0.3\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,20 +67,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/11/dex315macos-1.jpg?fit=1374
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-10-must-see-vr-videos-on-youtube-for-deep-immersion/"><u>[New] 2024 Approved 10 Must-See VR Videos on YouTube for Deep Immersion</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-transform-your-mac-with-the-latest-macos-11-big-sur-overview/"><u>[New] 2024 Approved Transform Your Mac with the Latest MacOS 11 Big Sur Overview</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-from-past-to-present-using-camera-roll-in-snapchats-for-2024/"><u>[New] From Past To Present Using Camera Roll in Snapchats for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-to-modify-comment-accessibility-on-youtube/"><u>[Updated] 2024 Approved Guide to Modify Comment Accessibility on YouTube</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-zero-dollars-to-end-every-movie-right/"><u>[Updated] 2024 Approved Zero Dollars to End Every Movie Right</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/checking-your-printers-compatibility-with-windows-a-guide-by-yl-computing/"><u>Checking Your Printer's Compatibility with Windows - A Guide by YL Computing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/diydvddvd/"><u>DIY方法：鬆綁DVD版权限制，完成快速DVD复制</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/effective-strategies-for-resolving-dns-lookup-issues-insights-from-yl-computings-experts/"><u>Effective Strategies for Resolving DNS Lookup Issues: Insights From YL Computing's Experts</u></a></li>
-<li><a href="https://win11.techidaily.com/fine-tuning-visual-delight-windows-wallpapers-guidebook/"><u>Fine-Tuning Visual Delight: Windows Wallpapers Guidebook</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/karaoke-tool-tips-masterful-techniques-for-adding-songs-for-artists-in-pcdj-software/"><u>Karaoke Tool Tips: Masterful Techniques for Adding Songs for Artists in PCDJ Software</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/navigate-the-btc-realm-with-confidence-secure-your-scoop-on-bitcoin-trends-through-yls-tech-wisdom/"><u>Navigate the BTC Realm with Confidence: Secure Your Scoop on Bitcoin Trends Through YL's Tech Wisdom</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/premium-jaguar-e-type-digital-backgrounds-by-yl-computings-yl-software/"><u>Premium Jaguar E-Type Digital Backgrounds by YL Computing's YL Software</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/revolutionizing-beats-the-impact-of-online-streaming-on-the-art-of-disc-jockeys-djs-with-pcdj-tech/"><u>Revolutionizing Beats: The Impact of Online Streaming on the Art of Disc Jockeys (DJs) with PCDJ Tech</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-solutions-for-usbasp-driver-conflicts/"><u>Streamlined Solutions for USBasp Driver Conflicts</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/yl-softwares-guide-streamlining-your-system-by-removing-unnecessary-bloatware-for-better-performance/"><u>YL Software's Guide: Streamlining Your System by Removing Unnecessary Bloatware for Better Performance</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-unlocking-potential-in-5-second-videos/"><u>[New] 2024 Approved Unlocking Potential in 5-Second Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-budget-saving-stratospheric-storage-for-heavy-dumps-for-2024/"><u>[New] Budget-Saving Stratospheric Storage for Heavy Dumps for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-bargain-ball-games-free-recording-and-editing-techniques/"><u>[Updated] Bargain Ball Games Free Recording & Editing Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-sweeping-sonic-narratives-with-expert-crossfade-techniques-audacity/"><u>2024 Approved Crafting Sweeping Sonic Narratives with Expert Crossfade Techniques (Audacity)</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/bringing-classrooms-to-the-future-with-mondly-and-apple/"><u>Bringing Classrooms to the Future with Mondly & Apple</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/diagnosing-hard-disk-issues-a-comprehensive-guide-by-yl-computing-experts/"><u>Diagnosing Hard Disk Issues: A Comprehensive Guide by YL Computing Experts</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/evaluating-the-user-experience-key-elements-of-intuitive-crypto-wallet-balance-trackers-yl-computing-solutions/"><u>Evaluating the User Experience: Key Elements of Intuitive Crypto Wallet Balance Trackers - YL Computing Solutions</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/guide-to-updating-sound-card-drivers-on-your-pc-using-windows-features-yl-tech-solutions/"><u>Guide to Updating Sound Card Drivers on Your PC Using Windows Features - YL Tech Solutions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-achieving-fame-on-instagram-the-top-9-habits-of-stars-and-influencers/"><u>In 2024, Achieving Fame on Instagram The Top 9 Habits of Stars and Influencers</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/is-it-beneficial-to-have-windows-defender-active-expert-insights-from-yl-computings-software-analysis/"><u>Is It Beneficial to Have Windows Defender Active? Expert Insights From YL Computing's Software Analysis</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/step-by-step-video-walkthrough-for-automix-and-sidelist-techniques-on-pcdj-dex-crucial-dj-skills/"><u>Step-by-Step Video Walkthrough for Automix and Sidelist Techniques on PCDJ DEX ˈCrucial DJ Skills</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-13-aplicaciones-de-edicion-de-video-para-iphone-comparativas-y-criticas-por-parte-de-movavi/"><u>Top 13 Aplicaciones De Edición De Video Para iPhone - Comparativas Y Críticas Por Parte De Movavi</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-strategies-for-efficient-file-backup-on-windows-insights-from-yl-computing/"><u>Top Strategies for Efficient File Backup on Windows: Insights From YL Computing</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-vlog-like-a-pro-14-essential-video-editing-software-for-popular-platforms/"><u>Updated 2024 Approved Vlog Like a Pro 14 Essential Video Editing Software for Popular Platforms</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/yl-creations-stunning-detective-pikachu-hd-desktop-pictures-and-dynamic-backgrounds-for-fans-of-pokemon/"><u>YL Creations: Stunning Detective Pikachu HD Desktop Pictures and Dynamic Backgrounds for Fans of Pokémon</u></a></li>
 </ul></div>
 

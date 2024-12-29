@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Shared Secrets of Elite DJs & Captivating Orators by Jordan River | PCDJ
-date: 2024-12-22T03:07:59.501Z
-updated: 2024-12-24T01:39:27.544Z
+date: 2024-12-27T19:39:26.399Z
+updated: 2024-12-29T16:34:27.997Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ It’s no surprise that we are currently living in an attention-deficit culture.
 _DJ Jordan River has entertained thousands of special events over the last two decades. He will be public speaking to other national and international professional DJs at the American DJ convention September 2014, as well as the Mobile Beat Convention in February 2015\. He has studied public speaking from Professor James Wagstaff, Civil Attorney at Stanford University._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,17 +60,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/06/djspeakers-1.jpg?fit=530%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/updated-enhance-viewing-experience-best-youtube-converters-to-avi/"><u>[Updated] Enhance Viewing Experience Best YouTube Converters to AVI</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/discovering-style-and-strength-an-in-depth-look-at-the-apple-imac-21-inquiry-which-answer-best-describes-how-to-combine-two-sentences-containing-the-words-w16/"><u>Discovering Style and Strength: An In-Depth Look at the Apple iMac (21. [Inquiry]: Which Answer Best Describes How to Combine Two Sentences Containing the Words Who or Which?</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/1724313335936-dx/"><u>DXによるビジネスプロセス改革: 白板時代を超えた可視化戦略</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effortless-steps-for-showinghiding-the-on-screen-keyboard-on-a-windows-10-computer/"><u>Effortless Steps for Showing/Hiding the On-Screen Keyboard on a Windows 10 Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/evaluating-the-value-of-a-wi-fi-mesh-network-is-it-right-for-you/"><u>Evaluating the Value of a Wi-Fi Mesh Network: Is It Right for You?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/experts-guide-to-best-terria-mods/"><u>Expert's Guide to Best Terria Mods</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/identifying-signs-of-motherboard-malfunction-expert-tips-from-yl-computings-guide/"><u>Identifying Signs of Motherboard Malfunction: Expert Tips From YL Computing's Guide</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/maximize-your-marketing-impact-embedding-logos-via-image-overlays-in-pcdj-mixes-using-the-dex-3-expert-strategy/"><u>Maximize Your Marketing Impact: Embedding Logos via Image Overlays in PCDJ Mixes Using the DEX 3 Expert Strategy</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/resolving-laptop-screen-fuzziness-a-comprehensive-guide-from-yl-software-experts/"><u>Resolving Laptop Screen Fuzziness: A Comprehensive Guide From YL Software Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-installing-the-newest-amd-vega-64-drivers-on-windows-problem-solved-solved/"><u>Step-by-Step Tutorial: Installing the Newest AMD Vega 64 Drivers on Windows - Problem Solved [SOLVED]</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/understanding-the-risks-is-your-rams-performance-boost-worth-it/"><u>Understanding the Risks: Is Your RAM's Performance Boost Worth It?</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/yl-software-solutions-for-restoring-corrupt-data-and-files/"><u>YL Software Solutions for Restoring Corrupt Data and Files</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-essential-mac-streaming-apps-uncovering-the-best-5/"><u>[New] 2024 Approved Essential Mac Streaming Apps Uncovering the Best 5</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-maximizing-earnings-on-instagram-strategies-for-sponsorship-attraction-for-2024/"><u>[Updated] Maximizing Earnings on Instagram Strategies for Sponsorship Attraction for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/alter-the-primary-web-search-tool-for-windows-11-with-simple-tips-by-yl-software-experts/"><u>Alter the Primary Web Search Tool for Windows 11 with Simple Tips by YL Software Experts</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-infinix-note-30-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Infinix Note 30 5G Quickly | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/fly-high-with-flying-lotus-the-innovative-battery-powered-aio-workstation-blending-laptop-chassis-and-3d-print-tech/"><u>Fly High with Flying Lotus: The Innovative Battery-Powered AIO Workstation Blending Laptop Chassis & 3D Print Tech</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-can-i-fix-a-problem-with-my-graphics-card-drivers-learn-tips-from-yl-computings-expert-guide/"><u>How Can I Fix a Problem with My Graphics Card Drivers? Learn Tips From YL Computing's Expert Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-iphone-15-pro-max-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On iPhone 15 Pro Max in the Best Ways</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/june-donation-match-beat-saber-rhymes-and-relief-benefit-from-pcdj-software-profits/"><u>June Donation Match: Beat Saber, Rhymes & Relief Benefit From PCDJ Software Profits</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/macbook-essentials-decoding-the-disparities-between-air-and-pro-versions/"><u>MacBook Essentials: Decoding the Disparities Between Air and Pro Versions</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/troubleshooting-your-video-card-woes-with-insightful-strategies-by-yl-software-experts/"><u>Troubleshooting Your Video Card Woes with Insightful Strategies by YL Software Experts</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/unveiling-reasons-behind-blurred-and-distorted-images-in-scans-expert-insights-from-yl-computing/"><u>Unveiling Reasons Behind Blurred & Distorted Images in Scans - Expert Insights From YL Computing</u></a></li>
 </ul></div>
 

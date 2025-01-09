@@ -1,7 +1,7 @@
 ---
 title: "Fast Track Guide: How to Transfer Your PCDJ's DEX N3 Data Into an Excel Spreadsheet"
-date: 2024-12-27T16:12:33.529Z
-updated: 2024-12-29T16:18:32.589Z
+date: 2025-01-05T01:37:30.888Z
+updated: 2025-01-08T19:46:12.680Z
 tags:
   - product
 categories:
@@ -24,7 +24,7 @@ In this quick-tip video demonstration we show you how to open up the DEX 3 datab
 #### DJ Software Quick Tip Video – Importing The DEX 3 Database File Into Excel 2013
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -46,24 +46,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/08/importintoexcel-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-banner-bliss-savor-your-complimentary-set-of-designs/"><u>[New] 2024 Approved Banner Bliss Savor Your Complimentary Set of Designs</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-sync-your-screen-time-concurrent-youtube-content-consumption/"><u>[New] 2024 Approved Sync Your Screen Time Concurrent YouTube Content Consumption</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-professional-tips-for-ios-screen-capture-techniques/"><u>[New] Professional Tips for iOS Screen Capture Techniques</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-guide-to-scrolling-through-youtube-comment-threads/"><u>[Updated] 2024 Approved Guide to Scrolling Through YouTube Comment Threads</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-aerial-stability-made-simple-selecting-the-right-drone-gimbals/"><u>2024 Approved Aerial Stability Made Simple Selecting the Right Drone Gimbals</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/a-step-by-step-guide-on-checking-network-card-functionality-with-tips-from-yl-software-experts/"><u>A Step-by-Step Guide on Checking Network Card Functionality with Tips From YL Software Experts</u></a></li>
-<li><a href="https://article-posts.techidaily.com/craft-your-own-cinematic-magic-making-slow-motion-video-from-photo-apps-for-2024/"><u>Craft Your Own Cinematic Magic Making Slow Motion Video From Photo Apps for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/disabling-popups-and-banners-master-the-art-of-silencing-windows-10-notifications-with-yl-computings-advice/"><u>Disabling Popups & Banners: Master the Art of Silencing Windows 10 Notifications with YL Computing's Advice</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/discover-the-updated-pcdj-karaoki-software-a-fresh-take-on-your-karaoke-sessions/"><u>Discover the Updated PCDJ Karaoki Software - A Fresh Take on Your Karaoke Sessions!</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/high-definition-space-themes-and-wallsavers-premium-astro-pixel-art-from-yl-computing/"><u>High-Definition Space Themes & Wallsavers: Premium Astro Pixel Art From YL Computing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-choose-a-game-ready-desktop-or-laptop-top-specifications-checklist/"><u>How To Choose A Game-Ready Desktop or Laptop – Top Specifications Checklist</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/identifying-early-warning-signs-of-memory-issues-with-expertise-from-yl-software/"><u>Identifying Early Warning Signs of Memory Issues with Expertise From YL Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/m-audio-fast-track-driver-software-downloads-for-multiple-windows-platforms-11-7-8-and-81/"><u>M-Audio Fast Track Driver Software: Downloads for Multiple Windows Platforms (11, 7, 8 & 8.1)</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-fix-guide-to-resolving-computer-mute-problems-and-reconnecting-speakers/"><u>Quick-Fix Guide to Resolving Computer Mute Problems and Reconnecting Speakers</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/resolve-your-gpu-woes-a-step-by-step-fix-for-common-graphics-card-troubles-with-yl-software-insights/"><u>Resolve Your GPU Woes: A Step-by-Step Fix for Common Graphics Card Troubles with YL Software Insights</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-xiaomi-redmi-note-12-4g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Xiaomi Redmi Note 12 4G Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-setting-up-your-taskbar-and-notification-preferences-in-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Setting Up Your Taskbar & Notification Preferences in Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/unidentified-gpu-in-windows-troubleshooting-steps-provided-by-yl-computing-experts/"><u>Unidentified GPU in Windows? Troubleshooting Steps Provided by YL Computing Experts</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/unlock-full-power-essential-tips-for-perfectly-tuned-graphics-cards-from-experts-at-yl-software/"><u>Unlock Full Power: Essential Tips for Perfectly Tuned Graphics Cards From Experts at YL Software</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-optimal-introduction-editor-software-apps/"><u>[New] 2024 Approved Optimal Introduction Editor Software (Apps)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-no-fuss-guide-to-recording-virtual-classes-on-windowsmacos/"><u>[New] In 2024, No-Fuss Guide to Recording Virtual Classes on Windows/macOS</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-unlimited-access-premium-karaoke-tracks-with-karaoke-cloud-pro-membership/"><u>1. Unlimited Access: Premium Karaoke Tracks with Karaoke Cloud Pro Membership</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-the-art-of-inserting-descriptive-commentary-in-youtube-videos/"><u>2024 Approved The Art of Inserting Descriptive Commentary in YouTube Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-youtube-studio-audit-earnings-review/"><u>2024 Approved YouTube Studio Audit Earnings Review</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/beyond-basics-advanced-techniques-for-boosting-pc-speed-with-insights-from-yl-software-experts/"><u>Beyond Basics: Advanced Techniques for Boosting PC Speed with Insights From YL Software Experts</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723012425098-gta-e-fixing-tips-eliminate-game-lags-and-halt-the-freezes-now/"><u>GTA E Fixing Tips: Eliminate Game Lags and Halt the Freezes Now</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-the-art-of-mouse-troubleshooting-solutions-for-optimal-performance/"><u>Mastering the Art of Mouse Troubleshooting: Solutions for Optimal Performance</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/reinstallation-guide-how-to-update-your-sound-cards-device-driver-tips-from-yl-computing/"><u>Reinstallation Guide: How To Update Your Sound Card's Device Driver - Tips From YL Computing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-impact-of-freesync-on-lgs-ultra-hd-monitors-27uhd68/"><u>The Impact of FreeSync on LG's Ultra HD Monitors (27UHD68)</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/tout-sur-la-sauvegarderestauration-de-vos-donnees-avec-des-etapes-simples-en-un-seul-clic/"><u>Tout Sur La Sauvegarde/Restauration De Vos Données Avec Des Étapes Simples en Un Seul Clic !</u></a></li>
+<li><a href="https://solve-news.techidaily.com/transform-your-broadcasts-using-manycam-the-ultimate-virtual-camera-solution-for-seamless-livestreams/"><u>Transform Your Broadcasts Using ManyCam - The Ultimate Virtual Camera Solution for Seamless Livestreams</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/ultimate-guide-to-avoid-computer-system-freeze-ups-with-tips-from-yl-software-experts/"><u>Ultimate Guide to Avoid Computer System Freeze-Ups with Tips From YL Software Experts</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/unraveling-historical-milestones-the-impactful-era-of-qin-dynasty-in-chinese-history-explored-by-yl-computing-and-software/"><u>Unraveling Historical Milestones: The Impactful Era of Qin Dynasty in Chinese History - Explored by YL Computing & Software</u></a></li>
 </ul></div>
 

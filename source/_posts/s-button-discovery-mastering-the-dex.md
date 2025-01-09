@@ -1,7 +1,7 @@
 ---
 title: "S Button Discovery: Mastering the DEX"
-date: 2024-12-24T16:08:56.531Z
-updated: 2024-12-29T18:10:10.051Z
+date: 2025-01-07T02:43:15.022Z
+updated: 2025-01-08T19:12:06.173Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ We hope the addition of the “S” button and singer search helps make your kar
 [Click Here](https://www.youtube.com/playlist?list=PLYCb1%5Fl2bbb5tcLGCnrssLM9cf%5FRxGIQD) for a playlist of video tutorials all about using DEX 3 specifically for hosting karaoke events.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,24 +44,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/dexsinger.jpg?fit=1920%2C1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-perfecting-gopro-cinematography-with-these-15-luts/"><u>[Updated] Perfecting GoPro Cinematography with These 15 LUTs</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-premier-8k-capture-the-ultimate-camera-guide/"><u>[Updated] Premier 8K Capture The Ultimate Camera Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-zooms-best-practices-for-organizing-online-meetings/"><u>[Updated] Zoom's Best Practices for Organizing Online Meetings</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/begin-your-journey-in-crypto-trading-with-ease-a-guide-from-yl-computing/"><u>Begin Your Journey in Crypto-Trading with Ease - A Guide From YL Computing</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/diagnosing-random-shutdowns-expert-tips-by-yl-software-for-stable-computing/"><u>Diagnosing Random Shutdowns: Expert Tips by YL Software for Stable Computing</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/elevate-your-profile-seamless-integration-of-facebook-linkedin-and-youtube-for-greater-impact/"><u>Elevate Your Profile: Seamless Integration of Facebook, LinkedIn and YouTube for Greater Impact</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/evaluating-the-effectiveness-of-windows-defender-in-thwarting-malware-and-virus-attacks-insights-by-yl-computing/"><u>Evaluating the Effectiveness of Windows Defender in Thwarting Malware & Virus Attacks - Insights by YL Computing</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/hd-vintage-film-wallpaper-with-dark-blue-backdrop-and-infinite-loop-yl-computing/"><u>HD Vintage Film Wallpaper with Dark Blue Backdrop & Infinite Loop - YL Computing</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-fb-chronicles-the-hidden-viewer/"><u>In 2024, FB Chronicles The Hidden Viewer</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-premier-webcam-selections-for-dynamic-twitch-sessions/"><u>In 2024, Premier Webcam Selections for Dynamic Twitch Sessions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-steps-to-join-start-and-manage-a-zoom-call-with-your-android-device/"><u>In 2024, Quick Steps to Join, Start & Manage a Zoom Call with Your Android Device</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/new-age-yuletide-beats-the-top-selection-for-todays-best-dance-music-hosts/"><u>New Age Yuletide Beats: The Top Selection for Today's Best Dance Music Hosts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/professional-techniques-for-drone-assisted-films/"><u>Professional Techniques for Drone-Assisted Films</u></a></li>
-<li><a href="https://win-bits.techidaily.com/revive-your-aging-pc-top-5-cost-free-methods-for-extending-its-life-insights-from-zdnet/"><u>Revive Your Aging PC: Top 5 Cost-Free Methods for Extending Its Life - Insights From ZDNet</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solve-your-airpods-charging-woes-top-9-methods/"><u>Solve Your AirPods Charging Woes: Top 9 Methods</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/sound-card-setup-success-confirm-proper-installation-tips-from-yl-software-experts/"><u>Sound Card Setup Success: Confirm Proper Installation Tips From YL Software Experts</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-tweaking-mouse-preferences-in-yl-computings-platform/"><u>Step-by-Step Guide: Tweaking Mouse Preferences in YL Computing's Platform</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/the-downfall-of-itunes-why-pro-djs-need-a-better-solution-for-managing-their-music-libraries/"><u>The Downfall of iTunes: Why Pro DJs Need a Better Solution for Managing Their Music Libraries</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/the-enduring-impact-of-the-song-dynasty-on-chinese-culture-insights-from-yl-computing/"><u>The Enduring Impact of the Song Dynasty on Chinese Culture: Insights From YL Computing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-depth-review-of-manycams-game-changing-recorder-tech/"><u>[New] In-Depth Review of ManyCam's Game-Changing Recorder Tech</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nline-havens-for-sponsorship-initiatives-on-youtube/"><u>[New] Online Havens for Sponsorship Initiatives on YouTube</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-innovative-methods-for-shuffling-yt-playlists-for-2024/"><u>[Updated] Innovative Methods for Shuffling YT Playlists for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-professional-setup-for-screen-capture-during-games-for-2024/"><u>[Updated] Professional Setup for Screen Capture During Games for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-profit-potential-unlocked-how-to-enroll-in-youtubes-membership/"><u>[Updated] Profit Potential Unlocked How to Enroll in YouTube's Membership</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/5asx5y676kiy5oa25y2h5b2x54mh77yf5lin6kab5owm5by177ym6kal6kej5pa55rov5l65yip77yb/"><u>失去記憶卡影片？不要慌張，見解方法便利！</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/ssdwindows-111087/"><u>優秀免費SSD硬碟封存軟件：Windows 11/10/8/7下使用指南</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/celebratory-closures-from-bare-bones-to-full-featured/"><u>Celebratory Closures From Bare-Bones to Full-Featured</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/quick-fixes-a-guide-to-restoring-corrupted-boot-partition-information/"><u>Quick Fixes: A Guide to Restoring Corrupted Boot Partition Information</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/reset-your-asus-pc-with-the-onekey-recovery-feature-back-to-factory-settings/"><u>Reset Your Asus PC with the OneKey Recovery Feature - Back to Factory Settings</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/schritt-fur-schritt-guide-zur-sicherung-ihres-windows-servers-2019/"><u>Schritt-Für-Schritt-Guide Zur Sicherung Ihres Windows Servers 2019</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/wie-sie-ihr-tiktok-profil-wiederherstellen-konnen-ohne-dass-ein-benutzername-und-eine-e-mail-erforderlich-sind/"><u>Wie Sie Ihr TikTok Profil Wiederherstellen Können, Ohne Dass Ein Benutzername Und Eine E-Mail Erforderlich Sind?</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/1728476272113-windows-11-pc/"><u>Windows 11 PC復元ガイド: バックアップからの安全復元手順</u></a></li>
 </ul></div>
 

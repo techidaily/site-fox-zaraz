@@ -1,7 +1,7 @@
 ---
 title: Beta Release of DEX 3.15.0.3 for Mac with Optimized Support for macOS Catalina | PCDJ Software
-date: 2024-12-27T18:45:50.976Z
-updated: 2024-12-29T17:55:08.635Z
+date: 2025-01-04T02:12:00.712Z
+updated: 2025-01-08T21:21:05.463Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in the DEX 3.15.0.3 macOS Public Beta
@@ -45,7 +45,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 **IMPORTANT NOTE:** If you receive this warning _“setup\_dex3\_3.15.0.3\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,20 +67,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/11/dex315macos-1.jpg?fit=1374
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-unlocking-potential-in-5-second-videos/"><u>[New] 2024 Approved Unlocking Potential in 5-Second Videos</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-budget-saving-stratospheric-storage-for-heavy-dumps-for-2024/"><u>[New] Budget-Saving Stratospheric Storage for Heavy Dumps for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-bargain-ball-games-free-recording-and-editing-techniques/"><u>[Updated] Bargain Ball Games Free Recording & Editing Techniques</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-sweeping-sonic-narratives-with-expert-crossfade-techniques-audacity/"><u>2024 Approved Crafting Sweeping Sonic Narratives with Expert Crossfade Techniques (Audacity)</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/bringing-classrooms-to-the-future-with-mondly-and-apple/"><u>Bringing Classrooms to the Future with Mondly & Apple</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/diagnosing-hard-disk-issues-a-comprehensive-guide-by-yl-computing-experts/"><u>Diagnosing Hard Disk Issues: A Comprehensive Guide by YL Computing Experts</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/evaluating-the-user-experience-key-elements-of-intuitive-crypto-wallet-balance-trackers-yl-computing-solutions/"><u>Evaluating the User Experience: Key Elements of Intuitive Crypto Wallet Balance Trackers - YL Computing Solutions</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/guide-to-updating-sound-card-drivers-on-your-pc-using-windows-features-yl-tech-solutions/"><u>Guide to Updating Sound Card Drivers on Your PC Using Windows Features - YL Tech Solutions</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-achieving-fame-on-instagram-the-top-9-habits-of-stars-and-influencers/"><u>In 2024, Achieving Fame on Instagram The Top 9 Habits of Stars and Influencers</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/is-it-beneficial-to-have-windows-defender-active-expert-insights-from-yl-computings-software-analysis/"><u>Is It Beneficial to Have Windows Defender Active? Expert Insights From YL Computing's Software Analysis</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-video-walkthrough-for-automix-and-sidelist-techniques-on-pcdj-dex-crucial-dj-skills/"><u>Step-by-Step Video Walkthrough for Automix and Sidelist Techniques on PCDJ DEX ˈCrucial DJ Skills</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-13-aplicaciones-de-edicion-de-video-para-iphone-comparativas-y-criticas-por-parte-de-movavi/"><u>Top 13 Aplicaciones De Edición De Video Para iPhone - Comparativas Y Críticas Por Parte De Movavi</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/top-strategies-for-efficient-file-backup-on-windows-insights-from-yl-computing/"><u>Top Strategies for Efficient File Backup on Windows: Insights From YL Computing</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-vlog-like-a-pro-14-essential-video-editing-software-for-popular-platforms/"><u>Updated 2024 Approved Vlog Like a Pro 14 Essential Video Editing Software for Popular Platforms</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/yl-creations-stunning-detective-pikachu-hd-desktop-pictures-and-dynamic-backgrounds-for-fans-of-pokemon/"><u>YL Creations: Stunning Detective Pikachu HD Desktop Pictures and Dynamic Backgrounds for Fans of Pokémon</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-a-quick-dive-into-obs-zoom-fusion-steps-for-2024/"><u>[New] A Quick Dive Into OBS-Zoom Fusion Steps for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-animators-artistry-archives/"><u>[New] Animator's Artistry Archives</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-say-it-see-it-speech-recognition-techniques-with-word/"><u>[Updated] Say It, See It Speech Recognition Techniques with Word</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exciting-vr-technologies-shaping-gaming/"><u>2024 Approved Exciting VR Technologies Shaping Gaming</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-lava-blaze-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/effizientes-ubertragen-von-backups-unter-windows-11-zu-einem-neu-gekauften-pc-schritt-fur-schritt-anleitung/"><u>Effizientes Übertragen Von Backups Unter Windows 11 Zu Einem Neu Gekauften PC - Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/expert-assistance-with-aomei-cyberbackup-solutions-get-help-now/"><u>Expert Assistance with AOMEI CyberBackup Solutions: Get Help Now!</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-restore-data-flow-between-your-pc-and-network-drive-on-windows-ebox-a-comprehensive-guide/"><u>How to Restore Data Flow Between Your PC and Network Drive on Windows Ebox - A Comprehensive Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-update-or-download-geforce-gtx-770-drivers-on-a-windows-system/"><u>How to Update or Download GeForce GTX 770 Drivers on a Windows System</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/is-it-possible-to-duplicate-my-pcs-windows-os-on-an-exterior-hard-disk/"><u>Is It Possible to Duplicate My PC's Windows OS on an Exterior Hard Disk?</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-bi-directional-data-exchange-insights-and-effective-techniques/"><u>Mastering Bi-Directional Data Exchange: Insights & Effective Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-network-woes-getting-your-surface-pro-online-again/"><u>Resolving Network Woes: Getting Your Surface Pro Online Again</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/sd-kartenfehlfunktion-aufgedeckt-grunde-und-schnelle-abhilfen-fur-spontanen-ausfall-der-funktion/"><u>SD-Kartenfehlfunktion Aufgedeckt: Gründe Und Schnelle Abhilfen Für Spontanen Ausfall Der Funktion</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-definitive-guide-to-correcting-sound-problems-in-dying-light-steps-and-tips/"><u>The Definitive Guide to Correcting Sound Problems in Dying Light - Steps and Tips</u></a></li>
 </ul></div>
 

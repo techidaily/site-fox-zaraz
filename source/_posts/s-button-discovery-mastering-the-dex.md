@@ -1,7 +1,7 @@
 ---
 title: "S Button Discovery: Mastering the DEX"
-date: 2025-01-07T02:43:15.022Z
-updated: 2025-01-08T19:12:06.173Z
+date: 2025-01-10T18:29:12.890Z
+updated: 2025-01-14T17:13:36.181Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ We hope the addition of the “S” button and singer search helps make your kar
 [Click Here](https://www.youtube.com/playlist?list=PLYCb1%5Fl2bbb5tcLGCnrssLM9cf%5FRxGIQD) for a playlist of video tutorials all about using DEX 3 specifically for hosting karaoke events.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,18 +44,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/dexsinger.jpg?fit=1920%2C1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-depth-review-of-manycams-game-changing-recorder-tech/"><u>[New] In-Depth Review of ManyCam's Game-Changing Recorder Tech</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/nline-havens-for-sponsorship-initiatives-on-youtube/"><u>[New] Online Havens for Sponsorship Initiatives on YouTube</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-innovative-methods-for-shuffling-yt-playlists-for-2024/"><u>[Updated] Innovative Methods for Shuffling YT Playlists for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-professional-setup-for-screen-capture-during-games-for-2024/"><u>[Updated] Professional Setup for Screen Capture During Games for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-profit-potential-unlocked-how-to-enroll-in-youtubes-membership/"><u>[Updated] Profit Potential Unlocked How to Enroll in YouTube's Membership</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/5asx5y676kiy5oa25y2h5b2x54mh77yf5lin6kab5owm5by177ym6kal6kej5pa55rov5l65yip77yb/"><u>失去記憶卡影片？不要慌張，見解方法便利！</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/ssdwindows-111087/"><u>優秀免費SSD硬碟封存軟件：Windows 11/10/8/7下使用指南</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/celebratory-closures-from-bare-bones-to-full-featured/"><u>Celebratory Closures From Bare-Bones to Full-Featured</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/quick-fixes-a-guide-to-restoring-corrupted-boot-partition-information/"><u>Quick Fixes: A Guide to Restoring Corrupted Boot Partition Information</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/reset-your-asus-pc-with-the-onekey-recovery-feature-back-to-factory-settings/"><u>Reset Your Asus PC with the OneKey Recovery Feature - Back to Factory Settings</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/schritt-fur-schritt-guide-zur-sicherung-ihres-windows-servers-2019/"><u>Schritt-Für-Schritt-Guide Zur Sicherung Ihres Windows Servers 2019</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/wie-sie-ihr-tiktok-profil-wiederherstellen-konnen-ohne-dass-ein-benutzername-und-eine-e-mail-erforderlich-sind/"><u>Wie Sie Ihr TikTok Profil Wiederherstellen Können, Ohne Dass Ein Benutzername Und Eine E-Mail Erforderlich Sind?</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/1728476272113-windows-11-pc/"><u>Windows 11 PC復元ガイド: バックアップからの安全復元手順</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovative-approaches-in-micro-cinematography/"><u>[New] Innovative Approaches in Micro Cinematography</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-music-lovers-unite-how-to-add-sounds-in-inshot/"><u>[New] Music Lovers Unite How to Add Sounds in InShot</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-snapping-the-screen-top-8-compact-and-complimentary-android-recorder-software/"><u>[Updated] 2024 Approved Snapping the Screen - Top 8 Compact and Complimentary Android Recorder Software</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-ultimate-list-for-first-time-film-makers-35mm-to-pands/"><u>[Updated] 2024 Approved The Ultimate List for First-Time Film Makers (35Mm to P&S)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-prime-practices-for-streaming-live-cricket-events/"><u>2024 Approved Prime Practices for Streaming Live Cricket Events</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/die-fuhrende-losung-fur-ein-nahtloses-hhd-migrationstool-im-jahr-2024/"><u>Die Führende Lösung Für Ein Nahtloses HHD-Migrationstool Im Jahr 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/effiziente-methode-zum-auffinden-vergangener-nachrichten-auf-ihrem-iphone-ohne-das-scrollen-zu-benutzen/"><u>Effiziente Methode Zum Auffinden Vergangener Nachrichten Auf Ihrem iPhone Ohne Das Scrollen Zu Benutzen</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/effortless-steps-to-restore-lost-files-from-your-sd-card/"><u>Effortless Steps to Restore Lost Files From Your SD Card</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-recover-deleted-photos-from-iphone-without-backup/"><u>How to Recover Deleted Photos From iPhone Without Backup</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-10t-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Realme 10T 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-youtubes-secret-to-success-a-compre-ffive-essential-keyword-tools/"><u>In 2024, YouTube's Secret to Success A Compre FFive Essential Keyword Tools</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/prevent-data-loss-during-hdd-replacement-on-windows-10-a-guide-to-two-reliable-backup-strategies/"><u>Prevent Data Loss During HDD Replacement on Windows 10: A Guide to Two Reliable Backup Strategies</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/six-effective-methods-for-retrieving-items-from-the-recycle-bin/"><u>Six Effective Methods for Retrieving Items From the Recycle Bin</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-for-microsoft-wireless-adapter-connectivity-error-in-windows-10-environments/"><u>Step-by-Step Solutions for Microsoft Wireless Adapter Connectivity Error in Windows 10 Environments</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/structure/"><u>Structure</u></a></li>
 </ul></div>
 

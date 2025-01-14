@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Video Walkthrough for Automix and Sidelist Techniques on PCDJ DEX ˈCrucial DJ Skills
-date: 2025-01-07T02:34:08.908Z
-updated: 2025-01-08T23:16:33.378Z
+date: 2025-01-08T21:16:35.559Z
+updated: 2025-01-14T16:40:33.643Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ Being able to see your search results, or tracks in any opened directory or user
 ##### Using the Sidelist and Automix-Shuffle in PCDJ DEX 3 DJ Mixing Software
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,24 +44,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/coverimage-sidelist-automi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/nhancing-social-reach-youtube-videos-on-facebook-sites/"><u>[New] Enhancing Social Reach YouTube Videos on Facebook Sites</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-mastering-youtube-pace-control-top-tips-for-slower-views-48-chars/"><u>[New] In 2024, Mastering YouTube Pace Control Top Tips for Slower Views (48 Chars)</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/boost-your-laptops-speed-and-efficiency-with-expert-settings-adjustments-by-yl-software/"><u>Boost Your Laptop's Speed and Efficiency with Expert Settings Adjustments by YL Software</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/dji-phantom-4-pro-v-20-review-a-few-feet-from-perfection/"><u>DJI Phantom 4 Pro V. 2.0 Review: A Few Feet From Perfection</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-user-experience-the-future-of-chatgpt-add-ons-shop/"><u>Enhancing User Experience: The Future of ChatGPT Add-Ons Shop</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/high-definition-book-themed-wallpapers-and-visuals-premium-digital-art-by-yl-computing/"><u>High-Definition Book Themed Wallpapers and Visuals - Premium Digital Art by YL Computing</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-successfully-resolve-bsod-issues-expert-advice-from-yl-software-team/"><u>How to Successfully Resolve BSOD Issues: Expert Advice From YL Software Team</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-honor-magic-5-lite-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Honor Magic 5 Lite</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/leading-free-communication-tools-better-than-skype-top-picks/"><u>Leading Free Communication Tools (Better Than Skype) - Top Picks</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/pcdj-downloads-updated-karaoke-app-v097510-for-windows-11-compatibility/"><u>PCDJ Downloads - Updated Karaoke App v0.9.7510 for Windows 11 Compatibility</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/solving-pc-hardware-issues-under-windows-a-comprehve-guide-by-yl-software-team/"><u>Solving PC Hardware Issues Under Windows: A Comprehve Guide by YL Software Team</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-activating-and-setting-up-windows-security-by-microsoft/"><u>Step-by-Step Guide: Activating & Setting Up Windows Security by Microsoft</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-modifying-microsoft-excel-files-on-your-pc-tips-from-yl-computing/"><u>Step-by-Step Guide: Modifying Microsoft Excel Files on Your PC - Tips From YL Computing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-process-how-to-upgrade-your-storage-with-windows-10/"><u>Step-by-Step Process: How to Upgrade Your Storage with Windows 10</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-nubia-z50s-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Nubia Z50S Pro FRP Bypass</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/uncovering-the-root-identifying-pc-hardware-faults-leading-to-memory-issues-in-windows-expert-insights-by-yl-computing/"><u>Uncovering the Root: Identifying PC Hardware Faults Leading to Memory Issues in Windows - Expert Insights by YL Computing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/winx-dvd-copy-pro-a-comprehensive-guide-to-creating-dvd-backups-in-iso-format/"><u>WinX DVD Copy Pro: A Comprehensive Guide to Creating DVD Backups in ISO Format</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/yl-software-reviews-how-to-boost-your-computers-speed-like-never-before/"><u>YL Software Reviews: How To Boost Your Computer’s Speed Like Never Before!</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-unearthing-past-pixels-with-3-methods-on-social-media-fb/"><u>[New] 2024 Approved Unearthing Past Pixels with 3 Methods on Social Media (FB)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-directdownload-studio-fb-for-2024/"><u>[New] DirectDownload Studio FB for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/all-in-one-file-reconstruction-software-effective-and-dependable-system-to-recover-any-kind-of-data/"><u>All-in-One File Reconstruction Software: Effective and Dependable System to Recover Any Kind of Data</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/alter-the-primary-web-search-tool-for-windows-11-with-simple-tips-by-yl-software-experts/"><u>Alter the Primary Web Search Tool for Windows 11 with Simple Tips by YL Software Experts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-visual-transcript-maker-for-2024/"><u>Audio Visual Transcript Maker for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-value-3d-printers-of-2-2024-premium-performance-at-wallet-friendly-prices/"><u>Best Value 3D Printers of 2지갈리 2024: Premium Performance at Wallet-Friendly Prices</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-barriers-a-look-at-four-game-changing-paint-additions/"><u>Breaking Barriers: A Look at Four Game-Changing Paint Additions</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/dealing-with-false-alarms-why-your-scanner-may-conflict-with-antivirus-insights-from-yl-computing/"><u>Dealing with False Alarms: Why Your Scanner May Conflict With Antivirus - Insights From YL Computing</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/detecting-and-diagnosing-memory-integrity-faults-in-windows-operating-systems-by-yl-technologies/"><u>Detecting and Diagnosing Memory Integrity Faults in Windows Operating Systems by YL Technologies</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/easy-tips-for-modifying-display-configurations-in-windows-settings-with-help-from-yl-software/"><u>Easy Tips for Modifying Display Configurations in Windows Settings with Help From YL Software</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/june-donation-match-beat-saber-rhymes-and-relief-benefit-from-pcdj-software-profits/"><u>June Donation Match: Beat Saber, Rhymes & Relief Benefit From PCDJ Software Profits</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-nvidia-quadro-driver-update-for-windows-11-get-your-dch-files-now/"><u>Latest NVIDIA Quadro Driver Update for Windows 11: Get Your DCH Files Now!</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/navigating-digital-asset-markets-a-comprehensive-guide-to-using-crypto-exchanges-with-tips-from-yl-experts/"><u>Navigating Digital Asset Markets: A Comprehensive Guide to Using Crypto Exchanges with Tips From YL Experts</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-accessing-and-viewing-ms-office-word-files-on-your-windows-pc-expert-tips-from-yl-computing/"><u>Step-by-Step Guide: Accessing and Viewing MS Office Word Files on Your Windows PC - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/stunning-4k-wallpapers-and-visual-motifs-for-bmw-m3-enthusiasts-professional-designs-from-yl-softwares-gallery-collection/"><u>Stunning 4K Wallpapers and Visual Motifs for BMW M3 Enthusiasts – Professional Designs From YL Software's Gallery Collection</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-lava-blaze-2-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Lava Blaze 2 5G</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/troubleshooting-display-faults-in-windows-10-systems-with-step-by-step-solutions-by-yl-computing/"><u>Troubleshooting Display Faults in Windows 10 Systems with Step-by-Step Solutions by YL Computing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-baldurs-gate-iii-stop-crashing-on-windows-computers/"><u>Troubleshooting Guide: Baldur's Gate III Stop Crashing on Windows Computers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-steps-for-saving-messages-with-chatgpt-a-comprehensive-overview/"><u>Troubleshooting Steps for Saving Messages with ChatGPT - A Comprehensive Overview</u></a></li>
 </ul></div>
 

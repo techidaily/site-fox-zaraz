@@ -1,7 +1,7 @@
 ---
 title: New DJ Tools Unveiled! Get Your Hands on Upgraded Dex 3 LE & Re Edition Version 3.8 Now!
-date: 2025-01-16T20:57:12.912Z
-updated: 2025-01-20T22:59:51.469Z
+date: 2025-01-21T21:39:03.951Z
+updated: 2025-01-26T19:14:48.520Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ Version 3.8 0f DEX 3 RE (Red Edition) and DEX 3 LE (Free DJ software) is foundat
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed And Fixed In Version 3.8
@@ -65,7 +65,7 @@ For controller scripts (mappings) we have added the following:
 _Updating from a previous release? Install Version 3.8 of DEX 3 RE from [this page](https://tools.techidaily.com/pcdj/products/) with your existing version closed for a seamless upgrade_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,14 +87,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/v38dex3rele-cover.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-mastering-video-cuts-for-instagram-feed/"><u>[New] 2024 Approved Mastering Video Cuts for Instagram Feed</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-scripters-toolbox/"><u>[New] 2024 Approved Scripter's Toolbox</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-reimagine-video-narratives-with-windows-10s-story-remix-tool/"><u>[Updated] Reimagine Video Narratives with Windows 10'S Story Remix Tool</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-tecno-pova-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/guide-to-creating-and-testing-an-xml-file-best-practices/"><u>Guide to Creating and Testing an XML File: Best Practices</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-fully-remove-macs-apowerrec-and-virtual-sound-card-software-a-step-by-step-guide/"><u>How to Fully Remove Mac's ApowerREC and Virtual Sound Card Software: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/speedy-setup-comprehensive-steps-for-obtaining-and-configuring-videomaker-elite-suite/"><u>Speedy Setup: Comprehensive Steps for Obtaining and Configuring Videomaker Elite Suite</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/top-ranking-free-tools-ultimate-alternatives-to-snagit/"><u>Top-Ranking Free Tools: Ultimate Alternatives to Snagit</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/twitch-and-youtube-a-comprehensive-streamers-guide-for-2024/"><u>Twitch and YouTube A Comprehensive Streamer's Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-visibility-features-mastering-snapchats-star/"><u>[New] High-Visibility Features Mastering Snapchat's Star</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-professionals-insights-into-ios-recording/"><u>[Updated] In 2024, Professionals' Insights Into iOS Recording</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1728486884652-mac/"><u>如何在 Mac上移动邮件？彻底指南！- 每个步骤解说</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/complete-hp-17-cn053la-ssd-upgrade-manual-with-expert-advice/"><u>Complete HP 17-CN053LA SSD Upgrade Manual with Expert Advice</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/countdown-creation-in-obs-step-by-step-guide/"><u>Countdown Creation in OBS Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/effizientes-migrationswissen-wie-man-daten-von-windows-7-auf-windows-11-ubertragen/"><u>Effizientes Migrationswissen: Wie Man Daten Von Windows 7 Auf Windows 11 Übertragen</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/fast-remedy-for-resolving-issues-with-exchange-servers-work-folder-synchronization/"><u>Fast Remedy for Resolving Issues with Exchange Server's Work Folder Synchronization</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-infinix-hot-30-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Infinix Hot 30 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-audio-harmony-mastering-the-cut-and-switch/"><u>In 2024, Audio Harmony Mastering the Cut and Switch</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/step-by-step-guide-to-creating-an-efi-partition-in-windows-11-with-tips-for-secure-backups/"><u>Step-by-Step Guide to Creating an EFI Partition in Windows 11 with Tips for Secure Backups</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-keyboard-issues-in-pathfinder-wrath-of-the-righteous/"><u>Troubleshooting Guide: Resolving Keyboard Issues in Pathfinder - Wrath of the Righteous</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/troubleshooting-persistent-crashes-of-valorant-in-windows-11-understanding-the-root-problems/"><u>Troubleshooting Persistent Crashes of Valorant in Windows 11: Understanding the Root Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unmute-the-problems-expert-tips-on-fixing-discords-microphone-malfunctions/"><u>Unmute the Problems: Expert Tips on Fixing Discord's Microphone Malfunctions</u></a></li>
 </ul></div>
 

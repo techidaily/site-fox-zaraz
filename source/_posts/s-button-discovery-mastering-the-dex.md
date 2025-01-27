@@ -1,7 +1,7 @@
 ---
 title: "S Button Discovery: Mastering the DEX"
-date: 2025-01-18T23:14:47.524Z
-updated: 2025-01-20T22:45:07.562Z
+date: 2025-01-19T20:30:22.832Z
+updated: 2025-01-26T20:38:09.507Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ We hope the addition of the “S” button and singer search helps make your kar
 [Click Here](https://www.youtube.com/playlist?list=PLYCb1%5Fl2bbb5tcLGCnrssLM9cf%5FRxGIQD) for a playlist of video tutorials all about using DEX 3 specifically for hosting karaoke events.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,18 +44,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/dexsinger.jpg?fit=1920%2C1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-a-close-look-at-t-series-revenue-from-online-channels/"><u>[New] In 2024, A Close Look at T-Series Revenue From Online Channels</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-recharge-and-reflect-top-ideas-for-combining-podcast-listening-and-tasks/"><u>[New] Recharge and Reflect Top Ideas for Combining Podcast Listening & Tasks</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/advanced-techniques-how-to-load-configuration-from-an-ini-file/"><u>Advanced Techniques: How to Load Configuration From an INI File</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/comprehensive-tutorial-switching-your-pdf-reader-preferences-in-windows-10/"><u>Comprehensive Tutorial: Switching Your PDF Reader Preferences in Windows 10</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-xiaomi-redmi-note-12-pro-4g-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Xiaomi Redmi Note 12 Pro 4G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-ways-to-resolve-osetupdll-error-not-found-or-missing/"><u>Effective Ways to Resolve osetup.dll Error: Not Found or Missing</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/enhancing-visual-content-mastering-the-art-of-ipatchtarget-imagery/"><u>Enhancing Visual Content: Mastering the Art of IPatchTarget Imagery</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/enhancing-your-workflow-understanding-the-attachscript-custom-action-feature/"><u>Enhancing Your Workflow: Understanding the 'AttachScript' Custom Action Feature</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-amplifying-your-content-free-techniques-to-boost-youtube-views/"><u>In 2024, Amplifying Your Content Free Techniques to Boost YouTube Views</u></a></li>
-<li><a href="https://win-top.techidaily.com/samsung-bitlocker/"><u>Samsung 数据传输故障：尝试 BitLocker 解决方案失败</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-uncovering-stealthy-keylogging-threats-on-your-windows-machine-via-keylogger-scanning-software/"><u>Step-by-Step Guide: Uncovering Stealthy Keylogging Threats on Your Windows Machine via Keylogger Scanning Software</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-file-disposal-on-windows-11-with-built-in-desktop-trash-feature/"><u>Streamlining File Disposal on Windows 11 with Built-In Desktop Trash Feature</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/user-defined-initialization-options-panel-for-custom-application-deployment/"><u>User-Defined Initialization Options Panel for Custom Application Deployment</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-enhancing-zooms-visual-clarity-tips-and-tricks/"><u>[New] 2024 Approved Enhancing Zoom's Visual Clarity Tips and Tricks</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-optimizing-video-content-with-powerful-hashtags-on-youtube/"><u>[New] Optimizing Video Content with Powerful Hashtags on YouTube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-2023-update-facebooks-new-landscape-explained-for-2024/"><u>[New] The 2023 Update Facebook's New Landscape Explained for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleash-creativity-the-premier-apps-for-picture-framing/"><u>[Updated] Unleash Creativity The Premier Apps for Picture Framing</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/effiziente-moglichkeiten-zum-datentransfer-von-oneplus-zu-iphone-drei-praktische-losungen-erklart/"><u>Effiziente Möglichkeiten Zum Datentransfer Von OnePlus Zu iPhone - Drei Praktische Lösungen Erklärt</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-code-41-in-windows-kernel-overcome/"><u>Error Code 41 in Windows Kernel Overcome</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/exclusive-step-by-step-manual-for-properly-configuring-usb-storage-with-advanced-cmd-techniques-and-effective-data-rescue-strategies/"><u>Exclusive Step-by-Step Manual for Properly Configuring USB Storage with Advanced CMD Techniques and Effective Data Rescue Strategies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/high-performance-drones-sold-here/"><u>High-Performance Drones Sold Here</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6s-plus-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 6s Plus Passcode without Computer?</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-data-restoration-essential-techniques-for-reviving-your-gpt-disk-sectors/"><u>Mastering Data Restoration: Essential Techniques for Reviving Your GPT Disk Sectors</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/scopri-il-potere-del-recupero-dei-dati-nascosti-nel-sistema-operativo-windows-con-questi-5-trucchi-semplici/"><u>Scopri Il Potere Del Recupero Dei Dati Nascosti Nel Sistema Operativo Windows Con Questi 5 Trucchi Semplici</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/secure-file-system-auditing-software/"><u>Secure File System Auditing Software</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-reviving-your-system-with-aomei-backupper/"><u>Step-by-Step Guide: Reviving Your System with AOMEI Backupper</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/topi-tecnologie-di-sincronizzazione-il-programma-per-scambi-dati-direttivi-piu-efficiente/"><u>Topi Tecnologie Di Sincronizzazione: Il Programma Per Scambi Dati Direttivi Più Efficiente</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1728488762229-e/"><u>ヤフーメール検索戦略 :消えゆく過去のEメールを取り戻すために</u></a></li>
 </ul></div>
 

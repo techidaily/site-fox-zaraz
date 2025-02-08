@@ -1,7 +1,7 @@
 ---
 title: Windows 11へのアップデート準備 - UEFI Secure Boot設定方法ガイド
-date: 2025-01-19T17:13:46.754Z
-updated: 2025-01-21T00:27:35.645Z
+date: 2025-02-02T18:59:15.677Z
+updated: 2025-02-08T20:38:42.440Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b547450d519d5355d85d7de7a.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/e5055c3da2f210571c617d420a7c156f394da05b5
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Solved: Winload. efi Missing in Windows 11 | 2024
 
@@ -51,7 +47,7 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 5. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## User case: Windows 11 winload.efi missing, F8 button not working
@@ -91,7 +87,7 @@ Furthermore, AOMEI Backupper proves invaluable in tackling various problems such
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Best free bootable media creation tool
@@ -101,6 +97,10 @@ Best free bootable media creation tool
 Step 1\. Download this software and open it. Click **Tools** and then choose **Create Bootable Media**.
 
 [![Create Bootable Meida](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/create-bootable-meida.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2\. Select a type of bootable media you want to create and click **Next** to continue. For better performance, the **Windows PE bootable disc** is recommended.
 
@@ -113,6 +113,10 @@ Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click
 After creating bootable media (just a few minutes), boot your computer from this media, then AOMEI Backupper will run automatically, then go to **Tools** \-> **Windows Shell Command**. And you can restore system image or disk image created by AOMEI Backupper. 
 
 [![Windows Shell Command](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/windows-shell-command.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2\. Disable Secure Boot
 
@@ -129,12 +133,16 @@ Step 3\. In the **Secure Boot** interface, change it from **Enabled** to **Disab
 [![Disable Secure Boot](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/articles/images/winload-efi-missing-after-clone-5740/secure-boot.jpg "Disable Secure Boot")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4\. Save the changes and exit the UEFI settings.
 
 Step 5\. Restart the system and check if it boots normally. If the issue persists, proceed to the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 3\. Run CHKDSK to Check for Drive Errors
 
@@ -155,10 +163,6 @@ Step 4\. Type or paste the following command and press **Enter**:
 Step 5\. Once the process is complete, unplug the USB and restart the computer.
 
 Check if the system boots normally after performing these steps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 4\. Run SFC to Check System File Integrity
 
@@ -237,7 +241,7 @@ You just need to download this software and install it. Open it and navigate to 
 [![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -253,7 +257,7 @@ Was the provided information useful? Your vote is important to us!
 ![Maggie](https://www.ubackup.com/assets/images/author/maggie.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Maggie](https://tools.techidaily.com/ubackup/products/) · Editor
@@ -280,10 +284,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -295,7 +295,7 @@ Safeguard any data of your computer with backup, sync and clone.
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -313,20 +313,22 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-power-of-pause-effectively-responding-to-comments/"><u>[New] 2024 Approved The Power of Pause Effectively Responding to Comments</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-elevate-your-storytelling-with-instagram-and-youtube-vids-for-2024/"><u>[New] Elevate Your Storytelling with Instagram & YouTube Vids for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-effective-tactics-for-customizing-song-tempo-in-spotify-for-2024/"><u>[Updated] Effective Tactics for Customizing Song Tempo in Spotify for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-expert-techniques-to-masterboard-use-during-remote-collaborations-across-various-operating-systems/"><u>2024 Approved Expert Techniques to Masterboard Use During Remote Collaborations Across Various Operating Systems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Tecno Phantom V Fold | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/avoid-sound-quality-problems-understanding-and-solving-sound-card-distortions-tips-from-yl-software-experts/"><u>Avoid Sound Quality Problems: Understanding and Solving Sound Card Distortions – Tips From YL Software Experts</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Huawei Nova Y71 | Dr.fone</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/elevate-safety-on-your-pc-with-essential-security-enhancements-for-windows-11-yl-software-advice/"><u>Elevate Safety on Your PC with Essential Security Enhancements for Windows 11 – YL Software Advice</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-2022-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE (2022) to the Previous iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-enhance-cooling-efficiency-in-your-personal-computer-expert-advice-from-yl-computing/"><u>How to Enhance Cooling Efficiency in Your Personal Computer - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlining-keyboard-commands-add-wordpad-shortcuts-to-windows-context-menus/"><u>Streamlining Keyboard Commands: Add Wordpad Shortcuts to Window's Context Menus</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/streamlining-your-pc-expert-techniques-for-optimal-startup-program-control-by-yl-software-professionals/"><u>Streamlining Your PC: Expert Techniques for Optimal Startup Program Control by YL Software Professionals</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/troubleshooting-document-scanning-issues-common-reasons-your-scanner-isnt-working-insights-by-yl-computing/"><u>Troubleshooting Document Scanning Issues: Common Reasons Your Scanner Isn't Working - Insights by YL Computing</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/unveiling-the-shared-secrets-of-elite-djs-and-captivating-orators-by-jordan-river-pcdj/"><u>Unveiling the Shared Secrets of Elite DJs & Captivating Orators by Jordan River | PCDJ</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/validating-crypto-payments-made-simple-with-yl-computings-guide/"><u>Validating Crypto Payments Made Simple with YL Computing's Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-analyzing-social-media-reach-for-igtv-videos-for-2024/"><u>[New] Analyzing Social Media Reach for IGTV Videos for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-demystifying-how-to-access-youtube-via-facebook-for-2024/"><u>[New] Demystifying How to Access YouTube via Facebook for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-direct-route-watching-popular-reactions-in-a-flash-on-youtube/"><u>[Updated] 2024 Approved Direct Route Watching Popular Reactions in a Flash on YouTube</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/10-avec-un-backup-bare-metal-pour-le-depannage/"><u>10 Avec Un Backup Bare Metal Pour Le Dépannage</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/windows-781011-lenovo-onekey-recovery/"><u>步骤指南：在不同版本的 Windows (7、8、10、11) 上利用 Lenovo OneKey Recovery</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/windows-11-efi-efi/"><u>如何在 Windows 11上轻松设置 EFI 分区及进行 EFI 数据备份步骤</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/can-i-use-sabrent-ssds-with-pre-installed-disk-cloning-tools/"><u>Can I Use Sabrent SSDs with Pre-Installed Disk Cloning Tools?</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/depanner-et-restaurer-des-photos-sur-un-vieux-disque-dur-methodes-eprouvees/"><u>Dépanner Et Restaurer Des Photos Sur Un Vieux Disque Dur : Méthodes Éprouvées</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/enhance-your-audio-experience-msi-drivers-for-windows-computers/"><u>Enhance Your Audio Experience: MSI Drivers for Windows Computers</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/enhancing-data-security-how-to-transition-from-basic-to-advanced-editions-of-aomei-backupper/"><u>Enhancing Data Security: How to Transition From Basic to Advanced Editions of AOMEI Backupper</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-your-fallout-3-game-running-smoothly-again-pro-tips-from-2024/"><u>Get Your Fallout ^3 Game Running Smoothly Again - Pro Tips From 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-k11x-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Oppo K11x</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-10c-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 10C PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/is-it-possible-for-a-windows-server-to-backup-more-than-2tb-of-data-in-one-go/"><u>Is It Possible for a Windows Server to Backup More than 2TB of Data in One Go?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mimicking-your-penmanship-adapting-chatgpt-for-authentic-self-expressive-writing/"><u>Mimicking Your Penmanship: Adapting ChatGPT for Authentic Self-Expressive Writing</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/sta-druk-op-de-winfr-easy-modus-het-uitleggen-van-herstelprocedures-voor-bestand-verwijderingen-in-windows-versieen/"><u>Sta Druk Op De Winfr Easy Modus: Het Uitleggen Van Herstelprocedures Voor Bestand Verwijderingen in Windows Versieën</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streamline-email-writing-using-gmail-snippets-for-reduced-errors-and-faster-communication-a-must-read-guide-zdnet/"><u>Streamline Email Writing Using Gmail Snippets for Reduced Errors & Faster Communication: A Must-Read Guide | ZDNET.</u></a></li>
 </ul></div>
 

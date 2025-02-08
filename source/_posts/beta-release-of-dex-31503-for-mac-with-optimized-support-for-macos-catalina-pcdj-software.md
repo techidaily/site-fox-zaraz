@@ -1,7 +1,7 @@
 ---
 title: Beta Release of DEX 3.15.0.3 for Mac with Optimized Support for macOS Catalina | PCDJ Software
-date: 2025-01-15T01:35:56.765Z
-updated: 2025-01-20T23:47:48.014Z
+date: 2025-02-07T21:40:05.144Z
+updated: 2025-02-08T17:05:35.417Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in the DEX 3.15.0.3 macOS Public Beta
@@ -45,7 +45,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 **IMPORTANT NOTE:** If you receive this warning _“setup\_dex3\_3.15.0.3\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,21 +67,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/11/dex315macos-1.jpg?fit=1374
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-blend-voice-recordings-into-ppt-framework/"><u>[New] Blend Voice Recordings Into PPT Framework</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-livestream-audiovideo-creators-hub/"><u>[New] LiveStream Audio/Video Creators Hub</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-nailing-instagram-aesthetics-tips-for-video-dimensions-for-2024/"><u>[Updated] Nailing Instagram Aesthetics Tips for Video Dimensions for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/apples-portable-powerhouse-unveiled-in-depth-review-of-the-ipad-mini-5/"><u>Apple's Portable Powerhouse Unveiled: In-Depth Review of the iPad Mini 5</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/capture-360-degree-scenes-on-iphone-share-with-fb/"><u>Capture 360-Degree Scenes on iPhone, Share with FB</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/discover-the-most-effective-2-software-solutions-for-seamless-samsung-ssd-transfers/"><u>Discover the Most Effective 2 Software Solutions for Seamless Samsung SSD Transfers</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/easy-tutorial-for-creating-complete-backups-of-your-dell-laptops-windows-1/"><u>Easy Tutorial for Creating Complete Backups of Your Dell Laptop's Windows 1</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/fixing-initialization-function-bug-on-western-digital-disks-now-solved/"><u>Fixing Initialization Function Bug on Western Digital Disks Now Solved</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-your-guide-to-flawless-solo-livestreaming-operations/"><u>In 2024, Your Guide to Flawless, Solo Livestreaming Operations</u></a></li>
-<li><a href="https://extra-information.techidaily.com/instantaneously-combine-photos-into-facebook-stories/"><u>Instantaneously Combine Photos Into Facebook Stories</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-timely-db-protection-effortless-sql-server-2ns-backup-strategies-for-2012-edition/"><u>Mastering Timely DB Protection: Effortless SQL Server 2N's Backup Strategies for 2012 Edition</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-guide-to-cutting-avi-videos-top-tools-for-windows-mac-and-android-for-2024/"><u>New The Ultimate Guide to Cutting AVI Videos Top Tools for Windows, MAC, and Android for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/schritt-fur-schritt-anleitung-zur-wiederherstellung-einer-totgeglaubten-festplatte/"><u>Schritt-Für-Schritt-Anleitung Zur Wiederherstellung Einer Totgeglaubten Festplatte</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/scopri-i-migliori-software-di-sincronizzazione-file-gratuiti-del-2amo-il-tuo-elenco-definitivo-per-il-2024/"><u>Scopri I Migliori Software Di Sincronizzazione File Gratuiti Del 2Amo: Il Tuo Elenco Definitivo per Il 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1728493404136-sdusb/"><u>SDカードとUSBメモリの優位性:決定的な比較と適切な選択手法</u></a></li>
-<li><a href="https://fox-links.techidaily.com/unleashing-creative-naming-top-10-ai-podcast-names/"><u>Unleashing Creative Naming Top 10 AI Podcast Names</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-essential-ios-slideshow-software-for-latest-models/"><u>[New] 2024 Approved Essential iOS Slideshow Software for Latest Models</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/beginners-guide-to-building-a-flutter-application-for-the-web-using-material-ui-and-code-samples-from-creativetim/"><u>Beginner's Guide to Building a Flutter Application for the Web Using Material-UI and Code Samples From CreativeTim</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/complete-paper-dashboard-pro-the-ultimate-premium-admin-interface-for-laravel-applications-with-customizable-crud-features-by-creative-tim/"><u>Complete Paper Dashboard Pro: The Ultimate Premium Admin Interface for Laravel Applications with Customizable CRUD Features by Creative Tim</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/creative-tims-argon-ui-framework-a-complimentary-react-and-bootstrap-compatible-design-toolkit/"><u>Creative Tim's Argon UI Framework: A Complimentary React & Bootstrap-Compatible Design Toolkit</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/creative-tims-elite-ghost-elementor-themes-and-plugins-for-powerful-wordpress-sites/"><u>Creative Tim's Elite Ghost Elementor Themes & Plugins for Powerful WordPress Sites</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/creative-tims-no-cost-flutter-prototype-with-material-theme-for-easy-development/"><u>Creative Tim's No-Cost Flutter Prototype with Material Theme for Easy Development</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/creative-tims-ultimate-admin-template-reactive-paper-dashboard-powered-by-bootstrap-cuatro/"><u>Creative Tim's Ultimate Admin Template: Reactive Paper Dashboard Powered by Bootstrap Cuatro</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/fifa-19-unveiled-leading-the-charge-as-a-top-contender-in-sports-video-game-arena/"><u>FIFA 19 Unveiled: Leading the Charge as a Top Contender in Sports Video Game Arena</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/flipped-frames-understanding-instagram-video-orientation/"><u>Flipped Frames Understanding Instagram Video Orientation</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-apple-iphone-11-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From Apple iPhone 11?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/limited-time-only-exceptional-prime-day-savings-on-new-and-refurbished-samsung-electronics/"><u>Limited Time Only: Exceptional Prime Day Savings on New & Refurbished Samsung Electronics</u></a></li>
+<li><a href="https://games-able.techidaily.com/perfect-sitters-top-choices-for-heightened-gamers/"><u>Perfect Sitters: Top Choices for Heightened Gamers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reboot-and-brighten-top-5-tricks-for-fixed-backlit-keys-in-win/"><u>Reboot and Brighten: Top 5 Tricks for Fixed Backlit Keys in Win</u></a></li>
 </ul></div>
 

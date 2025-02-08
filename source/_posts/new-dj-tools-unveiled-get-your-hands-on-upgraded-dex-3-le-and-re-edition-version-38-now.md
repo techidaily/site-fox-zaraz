@@ -1,7 +1,7 @@
 ---
 title: New DJ Tools Unveiled! Get Your Hands on Upgraded Dex 3 LE & Re Edition Version 3.8 Now!
-date: 2025-01-21T21:39:03.951Z
-updated: 2025-01-26T19:14:48.520Z
+date: 2025-02-04T19:53:56.356Z
+updated: 2025-02-08T20:02:41.502Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ Version 3.8 0f DEX 3 RE (Red Edition) and DEX 3 LE (Free DJ software) is foundat
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed And Fixed In Version 3.8
@@ -65,7 +65,7 @@ For controller scripts (mappings) we have added the following:
 _Updating from a previous release? Install Version 3.8 of DEX 3 RE from [this page](https://tools.techidaily.com/pcdj/products/) with your existing version closed for a seamless upgrade_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -87,18 +87,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/v38dex3rele-cover.jpg?fit=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-high-visibility-features-mastering-snapchats-star/"><u>[New] High-Visibility Features Mastering Snapchat's Star</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-professionals-insights-into-ios-recording/"><u>[Updated] In 2024, Professionals' Insights Into iOS Recording</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1728486884652-mac/"><u>如何在 Mac上移动邮件？彻底指南！- 每个步骤解说</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/complete-hp-17-cn053la-ssd-upgrade-manual-with-expert-advice/"><u>Complete HP 17-CN053LA SSD Upgrade Manual with Expert Advice</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/countdown-creation-in-obs-step-by-step-guide/"><u>Countdown Creation in OBS Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/effizientes-migrationswissen-wie-man-daten-von-windows-7-auf-windows-11-ubertragen/"><u>Effizientes Migrationswissen: Wie Man Daten Von Windows 7 Auf Windows 11 Übertragen</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/fast-remedy-for-resolving-issues-with-exchange-servers-work-folder-synchronization/"><u>Fast Remedy for Resolving Issues with Exchange Server's Work Folder Synchronization</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-infinix-hot-30-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Infinix Hot 30 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-audio-harmony-mastering-the-cut-and-switch/"><u>In 2024, Audio Harmony Mastering the Cut and Switch</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/step-by-step-guide-to-creating-an-efi-partition-in-windows-11-with-tips-for-secure-backups/"><u>Step-by-Step Guide to Creating an EFI Partition in Windows 11 with Tips for Secure Backups</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-keyboard-issues-in-pathfinder-wrath-of-the-righteous/"><u>Troubleshooting Guide: Resolving Keyboard Issues in Pathfinder - Wrath of the Righteous</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/troubleshooting-persistent-crashes-of-valorant-in-windows-11-understanding-the-root-problems/"><u>Troubleshooting Persistent Crashes of Valorant in Windows 11: Understanding the Root Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unmute-the-problems-expert-tips-on-fixing-discords-microphone-malfunctions/"><u>Unmute the Problems: Expert Tips on Fixing Discord's Microphone Malfunctions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-social-laughter-downloaded-iphoneandroid-tutorial-for-gifs/"><u>[Updated] 2024 Approved Social Laughter Downloaded IPhone/Android Tutorial for GIFS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-camera-cuts-quality-is-splitcam-best-for-2024/"><u>[Updated] Camera Cuts Quality Is SplitCam Best for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-your-life-your-legacy-youtube-videos-that-matter/"><u>[Updated] Your Life, Your Legacy YouTube Videos That Matter</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-update-your-shorts-are-visible-again/"><u>[Updated] YouTube Update - Your Shorts Are Visible Again</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/202n46ios/"><u>未來關鍵技術: 202N4年最好的6種卡通化影像編製器，適用於線上、安卓及IOS平台</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-the-ultimate-study-tool-for-note-taking-pros/"><u>ChatGPT: The Ultimate Study Tool for Note Taking Pros</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/evaluating-the-efficacy-of-magix-picture-tool/"><u>Evaluating the Efficacy of MAGIX Picture Tool</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/guia-paso-a-paso-migracion-de-windows-11-desde-su-antiguo-pc-hacia-uno-nuevo/"><u>Guía Paso a Paso: Migración De Windows 11 Desde Su Antiguo PC Hacia Uno Nuevo</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/master-the-art-of-high-quality-photos-a-guide-to-proraw-features-on-new-iphones/"><u>Master the Art of High-Quality Photos: A Guide to ProRAW Features on New iPhones</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/passaggio-facile-dei-contatti-da-iphone-a-pc-con-laiuto-di-itunes/"><u>Passaggio Facile Dei Contatti: Da iPhone a PC Con L'Aiuto Di iTunes</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/recuperation-facile-des-fichiers-fh3-supprimes-le-manuel-de-desespoir-pour-tous/"><u>Récupération Facile Des Fichiers FH3 Supprimés : Le Manuel De Désespoir Pour Tous</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/ricostruzione-dei-dati-persi-strategie-per-il-riparo-di-informazioni-su-una-periferica-cancelata/"><u>Ricostruzione Dei Dati Persi: Strategie per Il Riparo Di Informazioni Su Una Periferica Cancelata</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/solution-simple-graver-avec-succes-votre-image-systeme-sur-un-support-usb-pour-les-versions-de-windows/"><u>Solution Simple : Graver Avec Succès Votre Image Système Sur Un Support USB Pour Les Versions De Windows</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/streamline-your-music-switch-top-two-strategies-for-transferring-from-apple-to-spotify/"><u>Streamline Your Music Switch: Top Two Strategies for Transferring From Apple to Spotify</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-10-solutions-for-restoring-functionality-of-your-laptop-webcam-in-windows-11/"><u>Top 10 Solutions for Restoring Functionality of Your Laptop Webcam in Windows 11</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/tout-sur-la-sauvegarderestauration-de-vos-donnees-avec-des-etapes-simples-en-un-seul-clic/"><u>Tout Sur La Sauvegarde/Restauration De Vos Données Avec Des Étapes Simples en Un Seul Clic !</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/where-can-i-find-cricket-sound-effect-in-2024/"><u>Where Can I Find Cricket Sound Effect, In 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/wissen-sie-wie-man-den-stillstand-des-ntfs-file-systems-unter-windows-10-behebt-erkunde-unsere-effektivsten-losungsmethoden-nr-1-3/"><u>Wissen Sie, Wie Man Den Stillstand Des NTFS-File Systems Unter Windows 10 Behebt? Erkunde Unsere Effektivsten Lösungsmethoden Nr. 1-3.</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-journey-discovering-top-online-practitioners-for-2024/"><u>Yogic Journey Discovering Top Online Practitioners for 2024</u></a></li>
 </ul></div>
 

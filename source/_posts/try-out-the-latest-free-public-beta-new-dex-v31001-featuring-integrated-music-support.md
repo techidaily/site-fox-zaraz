@@ -1,7 +1,7 @@
 ---
 title: Try Out The Latest Free Public Beta - NEW DEX v3.10.0.1 Featuring Integrated Music Support
-date: 2025-01-23T16:12:55.160Z
-updated: 2025-01-26T20:26:45.103Z
+date: 2025-02-06T17:21:23.066Z
+updated: 2025-02-08T22:05:44.960Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ As last weeks update was, the new DEX 3 Pro version 3.10.0.1 is a [public beta](
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Updated in DEX 3 Pro Version 3.10.0.1 (Since 3.10)
@@ -64,7 +64,7 @@ _**IMPORTANT NOTES:** With your existing version of DEX 3 Pro closed, download a
 _Have questions about the **new version of DEX 3 Pro** or the new **karaoke features**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -86,20 +86,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/03/DEX31001DOWNLOAD-template.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-streamlining-your-podcast-for-apple-platform-access-for-2024/"><u>[New] Streamlining Your Podcast for Apple Platform Access for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-ultimate-guide-to-effective-instagram-tagging-with-these-top-25-hashes-for-2024/"><u>[New] The Ultimate Guide to Effective Instagram Tagging with These Top 25 Hashes for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-podcasting-success-a-complete-seo-guide-for-peak-discoverability/"><u>[Updated] 2024 Approved Podcasting Success A Complete SEO Guide for Peak Discoverability</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-digital-revival-improving-computerized-vhs-visuals/"><u>2024 Approved Digital Revival Improving Computerized VHS Visuals</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/complete-guide-restoring-lost-files-on-your-samsung-galaxy-using-the-galaxy-data-recovery-app/"><u>Complete Guide: Restoring Lost Files on Your Samsung Galaxy Using the Galaxy Data Recovery App</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/filmcrafters-compendium-unpacked-qanda/"><u>FilmCrafters' Compendium Unpacked Q&A</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/frustrating-tips-and-tricks-to-watch-your-dvds-on-windows-8/"><u>Frustrating Tips and Tricks to Watch Your DVDs on Windows 8</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-honor-x8b-screen-sharing-drfone-by-drfone-android/"><u>How To Do Honor X8b Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-the-ultimate-guide-to-choosing-stunning-thumbnail-fonts/"><u>In 2024, The Ultimate Guide to Choosing Stunning Thumbnail Fonts</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/manage-your-profile-detailed-guide-to-navigating-account-preferences/"><u>Manage Your Profile: Detailed Guide to Navigating Account Preferences</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/stream-control-duo-deciding-between-xsplit-and-obs-tech/"><u>Stream Control Duo Deciding Between XSplit and OBS Tech</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/streamline-your-event-planning-with-advanced-editing-tools-and-features/"><u>Streamline Your Event Planning with Advanced Editing Tools and Features</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/ultimate-tutorial-how-to-stream-and-watch-flv-videos-on-your-android-device/"><u>Ultimate Tutorial: How to Stream and Watch FLV Videos on Your Android Device</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/wireless-connection-guide-linking-your-google-pixel-smartphone-with-a-windowsmac-computer/"><u>Wireless Connection Guide: Linking Your Google Pixel Smartphone with a Windows/Mac Computer</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ultimate-roadmap-for-optimal-youtube-video-resolution-width-and-height/"><u>Your Ultimate Roadmap for Optimal YouTube Video Resolution, Width & Height</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-a-compreranly-curated-list-best-free-srt-translators-online/"><u>[New] In 2024, A Compreranly Curated List Best Free SRT Translators Online</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-insights-into-crafting-responses-to-youtube-comments/"><u>[New] Insights Into Crafting Responses to YouTube Comments</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-ultimate-guide-superior-ios-melody-creators/"><u>[Updated] Ultimate Guide Superior iOS Melody Creators</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-instantaneous-fb-video-updates-leading-extensions-and-app-analysis/"><u>2024 Approved Instantaneous FB Video Updates - Leading Extensions & App Analysis</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mastering-instagram-analytics-audience-insight-crusade/"><u>2024 Approved Mastering Instagram Analytics Audience Insight Crusade</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-realme-c51-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Realme C51 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/comprehensive-tutorial-overcoming-autorecover-troubles-in-microsoft-excel/"><u>Comprehensive Tutorial: Overcoming AutoRecover Troubles in Microsoft Excel</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ic-discussions-for-regular-streaming/"><u>Dynamic Discussions for Regular Streaming</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/expert-recommendations-leading-samsung-compatible-portable-applications-for-smooth-data-migration/"><u>Expert Recommendations: Leading Samsung-Compatible Portable Applications for Smooth Data Migration</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/guida-completa-i-5-software-di-sincronizzazione-files-e-cartelle-piu-efficienti-su-windows/"><u>Guida Completa: I 5 Software Di Sincronizzazione Files E Cartelle Più Efficienti Su Windows</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-restore-irretrievably-lost-documents-on-windows-1011-a-step-by-step-guide/"><u>How to Restore Irretrievably Lost Documents on Windows 10/11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/schritt-fur-schritt-anleitung-zum-ubertragen-eines-benutzerkontos-von-windows-11-zu-einem-anderen-datentrager/"><u>Schritt-Für-Schritt-Anleitung Zum Übertragen Eines Benutzerkontos Von Windows 11 Zu Einem Anderen Datenträger</u></a></li>
+<li><a href="https://article-posts.techidaily.com/storage-space-used-daily-extended-video-size/"><u>Storage Space Used Daily Extended Video Size</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/vergeten-hoe-je-bestandjes-en-mapkes-op-het-bureaubord-veilig-opbewaarden-moeten-worden-afsluiting-vs-open/"><u>Vergeten Hoe Je Bestandjes en Mapkes Op Het Bureaubord Veilig Opbewaarden Moeten Worden: Afsluiting Vs. Open!</u></a></li>
 </ul></div>
 

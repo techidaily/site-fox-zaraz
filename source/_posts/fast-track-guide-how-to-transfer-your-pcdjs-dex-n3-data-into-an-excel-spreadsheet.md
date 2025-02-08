@@ -1,7 +1,7 @@
 ---
 title: "Fast Track Guide: How to Transfer Your PCDJ's DEX N3 Data Into an Excel Spreadsheet"
-date: 2025-01-15T18:14:37.081Z
-updated: 2025-01-21T01:17:05.606Z
+date: 2025-02-01T21:58:54.191Z
+updated: 2025-02-08T20:44:34.882Z
 tags:
   - product
 categories:
@@ -24,7 +24,7 @@ In this quick-tip video demonstration we show you how to open up the DEX 3 datab
 #### DJ Software Quick Tip Video – Importing The DEX 3 Database File Into Excel 2013
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -46,16 +46,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/08/importintoexcel-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-advanced-filmmaking-techniques-selecting-top-notch-lenses/"><u>[Updated] 2024 Approved Advanced Filmmaking Techniques Selecting Top-Notch Lenses</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-high-end-4k-recording-devices-ranked-15-for-2024/"><u>[Updated] High-End 4K Recording Devices Ranked #15 for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-finding-yt-comments-tips-for-desktop-iphone-android-users/"><u>2024 Approved Finding YT Comments Tips for Desktop, iPhone, Android Users</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210356915-9781736640791-beauty-becomes-thee/"><u>Beauty Becomes Thee | Free Book</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/come-ripristinare-le-email-eliminate-per-sempre-da-icloud-guida-passo-passo/"><u>Come Ripristinare Le Email Eliminate per Sempre Da iCloud: Guida Passo-Passo</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/como-respaldar-tu-disco-duro-en-windows/"><u>Cómo Respaldar Tu Disco Duro en Windows</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/losungsansatze-fur-das-problem-onedrive-synchronisation-ist-ausstehend-entdecken-sie-drei-effektive-strategien/"><u>Lösungsansätze Für Das Problem: OneDrive-Synchronisation Ist Ausstehend - Entdecken Sie Drei Effektive Strategien</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/real-time-content-creation-on-facebook-2023-insights/"><u>Real-Time Content Creation on Facebook, 2023 Insights</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/sicherstellen-sie-ihre-e-mail-gesundheit-zwei-methoden-zum-exportieren-von-outlook-postfachern-auf-externe-hdds/"><u>Sicherstellen Sie Ihre E-Mail-Gesundheit: Zwei Methoden Zum Exportieren Von Outlook-Postfächern Auf Externe HDDs</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unfreeze-your-battle-royale-fixes-for-cold-war-freezes-on-cod-bo/"><u>Unfreeze Your Battle Royale: Fixes for Cold War Freezes on COD BO</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1728502991901-sd/"><u>ファイル移行ガイド:ノートパソコンへの簡単なマイクロSDカードからのデータ移動方法</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-choosing-platforms-youtube-shorts-vs-tiktok-best-for-minis/"><u>[Updated] 2024 Approved Choosing Platforms YouTube Shorts Vs. TikTok – Best for Minis</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-channel-ascension-mastering-the-art-of-youtube-backlink-acquisition/"><u>[Updated] Channel Ascension Mastering the Art of YouTube Backlink Acquisition</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-optimal-gameplayers-for-your-androids-gb-games/"><u>[Updated] In 2024, Optimal GamePlayers for Your Android's GB Games</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-navigate-the-maze-of-macos-for-streamlined-video-resizing-to-instagram/"><u>[Updated] Navigate the Maze of MacOS for Streamlined Video Resizing to Instagram</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/converting-sportys-flight-lessons-steps-to-save-as-mp4mp3-files/"><u>Converting Sporty's Flight Lessons: Steps to Save as MP4/MP3 Files</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/discover-how-easy-it-is-to-watch-or-save-the-latest-movies-and-tv-episodes-from-tunes-extensive-libraryyour-perfect-entertainment-solution/"><u>Discover How Easy It Is to Watch or Save the Latest Movies and TV Episodes From Tune's Extensive Library—Your Perfect Entertainment Solution!</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/download-anytime-convert-and-save-your-favorite-videos-from-zaq1-in-high-quality-mp4-mov-or-avi-using-zaq1-downloader/"><u>Download Anytime: Convert and Save Your Favorite Videos From ZAQ1 in High-Quality MP4, MOV or AVI Using ZAQ1 Downloader.</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/download-content-from-1upcom-in-high-quality-formats-like-mp4-and-avi-with-our-simple-guide/"><u>Download Content From 1UP.com in High-Quality Formats Like MP4 and AVI with Our Simple Guide!</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/download-free-learnsmart-system-video-tutorials-for-pc-and-mac/"><u>Download Free LearnSmart System Video Tutorials for PC & Mac</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/download-full-quality-kudda-video-collection-choose-from-multiple-file-types-such-as-mp4-avi-or-wmv/"><u>Download Full-Quality Kudda Video Collection: Choose From Multiple File Types Such as MP4, AVI, or WMV</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-vivo-y100i-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Vivo Y100i</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-academic-writing-leveraging-chatgpts-power/"><u>Mastering Academic Writing: Leveraging ChatGPT's Power</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-meizu-21-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-in-depth-reviews-and-guides/"><u>Tom's Tech Hub: In-Depth Reviews and Guides</u></a></li>
 </ul></div>
 

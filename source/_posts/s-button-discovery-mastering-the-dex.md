@@ -1,7 +1,7 @@
 ---
 title: "S Button Discovery: Mastering the DEX"
-date: 2025-01-19T20:30:22.832Z
-updated: 2025-01-26T20:38:09.507Z
+date: 2025-02-06T16:53:34.591Z
+updated: 2025-02-08T17:39:07.973Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ We hope the addition of the “S” button and singer search helps make your kar
 [Click Here](https://www.youtube.com/playlist?list=PLYCb1%5Fl2bbb5tcLGCnrssLM9cf%5FRxGIQD) for a playlist of video tutorials all about using DEX 3 specifically for hosting karaoke events.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,20 +44,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/dexsinger.jpg?fit=1920%2C1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-enhancing-zooms-visual-clarity-tips-and-tricks/"><u>[New] 2024 Approved Enhancing Zoom's Visual Clarity Tips and Tricks</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-optimizing-video-content-with-powerful-hashtags-on-youtube/"><u>[New] Optimizing Video Content with Powerful Hashtags on YouTube</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-the-2023-update-facebooks-new-landscape-explained-for-2024/"><u>[New] The 2023 Update Facebook's New Landscape Explained for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unleash-creativity-the-premier-apps-for-picture-framing/"><u>[Updated] Unleash Creativity The Premier Apps for Picture Framing</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/effiziente-moglichkeiten-zum-datentransfer-von-oneplus-zu-iphone-drei-praktische-losungen-erklart/"><u>Effiziente Möglichkeiten Zum Datentransfer Von OnePlus Zu iPhone - Drei Praktische Lösungen Erklärt</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-code-41-in-windows-kernel-overcome/"><u>Error Code 41 in Windows Kernel Overcome</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/exclusive-step-by-step-manual-for-properly-configuring-usb-storage-with-advanced-cmd-techniques-and-effective-data-rescue-strategies/"><u>Exclusive Step-by-Step Manual for Properly Configuring USB Storage with Advanced CMD Techniques and Effective Data Rescue Strategies</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/high-performance-drones-sold-here/"><u>High-Performance Drones Sold Here</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-6s-plus-passcode-without-computer-by-drfone-ios/"><u>How to Unlock iPhone 6s Plus Passcode without Computer?</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-data-restoration-essential-techniques-for-reviving-your-gpt-disk-sectors/"><u>Mastering Data Restoration: Essential Techniques for Reviving Your GPT Disk Sectors</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/scopri-il-potere-del-recupero-dei-dati-nascosti-nel-sistema-operativo-windows-con-questi-5-trucchi-semplici/"><u>Scopri Il Potere Del Recupero Dei Dati Nascosti Nel Sistema Operativo Windows Con Questi 5 Trucchi Semplici</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/secure-file-system-auditing-software/"><u>Secure File System Auditing Software</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-reviving-your-system-with-aomei-backupper/"><u>Step-by-Step Guide: Reviving Your System with AOMEI Backupper</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/topi-tecnologie-di-sincronizzazione-il-programma-per-scambi-dati-direttivi-piu-efficiente/"><u>Topi Tecnologie Di Sincronizzazione: Il Programma Per Scambi Dati Direttivi Più Efficiente</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1728488762229-e/"><u>ヤフーメール検索戦略 :消えゆく過去のEメールを取り戻すために</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-pioneering-storytelling-with-insta-and-youtube-fusion/"><u>[New] Pioneering Storytelling with Insta & YouTube Fusion</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unmatched-budget-friendly-camera-challenges/"><u>[Updated] In 2024, Unmatched Budget-Friendly Camera Challenges</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/get-the-latest-dex-software-version-31601-maintenance-release-ready-for-immediate-download/"><u>Get the Latest DEX Software Version 3.16.0.1 - Maintenance Release Ready for Immediate Download!</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/identifying-and-resolving-ram-issues-a-step-by-step-guide-by-yl-computing/"><u>Identifying & Resolving RAM Issues: A Step-by-Step Guide - By YL Computing</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/identifying-a-faulty-sound-card-expert-tips-from-yl-computing/"><u>Identifying a Faulty Sound Card: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamline-your-writing-process-transcribing-with-microsoft-word/"><u>In 2024, Streamline Your Writing Process Transcribing with Microsoft Word</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/key-figures-of-the-taiping-rebellion-a-chronological-overview-yl-computing/"><u>Key Figures of the Taiping Rebellion: A Chronological Overview - YL Computing</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-social-marketing-for-djs-how-to-win-over-patrons-with-facebooks-powerful-audience-tools-tutorial/"><u>Mastering Social Marketing for DJs: How to Win Over Patrons with Facebook's Powerful Audience Tools (Tutorial)</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-8-best-timecode-calculator-to-use-onlineiphoneandroid-for-2024/"><u>New 8 Best Timecode Calculator to Use (Online/iPhone/Android) for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/reappearance-magic-for-your-missing-airpods-the-ultimate-guide-to-fixes-on-find-my-iphone/"><u>Reappearance Magic for Your Missing AirPods: The Ultimate Guide to Fixes on Find My iPhone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/step-by-step-wiping-out-youtube-video-downloads/"><u>Step by Step Wiping Out YouTube Video Downloads</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/troubleshooting-and-replacing-faulty-hard-drives-quickly-insights-by-yl-software-professionals/"><u>Troubleshooting & Replacing Faulty Hard Drives Quickly - Insights by YL Software Professionals</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/ultimate-guide-to-mastering-sidelists-and-auto-mix-shuffle-features-in-pcdj-dex-3-learn-with-our-expert-tutorial/"><u>Ultimate Guide to Mastering Sidelists & Auto Mix Shuffle Features in PCDJ DEX 3 – Learn with Our Expert Tutorial</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-cash-flow-8-simple-money-making-tips-for-2024/"><u>YouTube Cash Flow 8 Simple Money-Making Tips for 2024</u></a></li>
 </ul></div>
 

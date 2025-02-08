@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Shared Secrets of Elite DJs & Captivating Orators by Jordan River | PCDJ
-date: 2025-01-20T18:06:58.253Z
-updated: 2025-01-26T19:41:49.598Z
+date: 2025-02-04T17:22:07.236Z
+updated: 2025-02-08T17:55:16.267Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ It’s no surprise that we are currently living in an attention-deficit culture.
 _DJ Jordan River has entertained thousands of special events over the last two decades. He will be public speaking to other national and international professional DJs at the American DJ convention September 2014, as well as the Mobile Beat Convention in February 2015\. He has studied public speaking from Professor James Wagstaff, Civil Attorney at Stanford University._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,18 +60,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/06/djspeakers-1.jpg?fit=530%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-mend-error-non-playing-vids-in-chrome/"><u>[New] In 2024, Mend Error Non-Playing Vids in Chrome</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-phantasm-captures-action-tech-diary/"><u>[New] Phantasm Captures Action Tech Diary</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-youth-voices-channeling-lifes-milestinasubscriber-channel-for-impactful-personal-storytelling/"><u>[Updated] In 2024, Youth Voices Channeling Life's Milestinasubscriber Channel for Impactful Personal Storytelling.</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/expert-tips-for-fixing-glitches-in-your-windows-control-panel-yl-software-solutions/"><u>Expert Tips for Fixing Glitches in Your Windows Control Panel - YL Software Solutions</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-8-plus-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 8 Plus To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/identifying-your-video-graphics-unit-a-comprehensive-guide-insights-by-yl-computing/"><u>Identifying Your Video Graphics Unit: A Comprehensive Guide - Insights by YL Computing</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-honor-x8b-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Honor X8b FRP</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-lava-blaze-2-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Lava Blaze 2? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/maximizing-system-speed-and-lifespan-by-routinely-defragmenting-the-hard-disk-expert-tips-by-yl-software/"><u>Maximizing System Speed & Lifespan by Routinely Defragmenting the Hard Disk - Expert Tips by YL Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/optimize-your-gaming-setup-logitech-driving-force-pro-driver-for-windows-operating-systems/"><u>Optimize Your Gaming Setup: Logitech Driving Force Pro Driver for Windows Operating Systems</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/solving-your-sluggish-laptop-woes-expert-tips-from-yl-computing-and-software/"><u>Solving Your Sluggish Laptop Woes: Expert Tips From YL Computing & Software</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-code-partner-github-copilot-vs-gpt/"><u>The Ultimate Code Partner? GitHub Copilot Vs. GPT</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/yl-softwares-ultimate-tutorial-on-crafting-an-app-password-for-your-gmail-account/"><u>YL Software's Ultimate Tutorial on Crafting an App Password for Your Gmail Account</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-elevate-your-conversations-pro-level-whatsapp-tips/"><u>[New] Elevate Your Conversations Pro-Level WhatsApp Tips</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-basic-screen-capture-windows-10-version/"><u>[Updated] 2024 Approved Basic Screen Capture, Windows 10 Version</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-best-free-subtitles-and-downloader-guide/"><u>[Updated] 2024 Approved Best Free Subtitles & Downloader Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-income-comparison-exercise-monetizing-videos-on-dailymovement-and-youtube/"><u>[Updated] 2024 Approved Income Comparison Exercise Monetizing Videos on DailyMovement & YouTube</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-british-tv-programs-available-on-netflix-at-moment/"><u>Best British TV Programs Available on Netflix at Moment</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-effectively-capture-and-archive-online-meeting-footage/"><u>How to Effectively Capture and Archive Online Meeting Footage</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-xiaomi-redmi-12-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Xiaomi Redmi 12 5G Phone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-iservice-control-operations-a-comprehensive-guide/"><u>Mastering IService Control Operations: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-password-security-top-3-tactics-for-creating-unforgettable-robust-passphrases/"><u>Mastering Password Security: Top 3 Tactics for Creating Unforgettable, Robust Passphrases</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-your-application-settings-a-guide-to-the-appproperties-tab-features/"><u>Mastering Your Application Settings: A Guide to the AppProperties Tab Features</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/superior-setup-software-provider/"><u>Superior Setup Software Provider</u></a></li>
+<li><a href="https://network-issues.techidaily.com/swift-graphics-upgrade-intel-g3000-ws11-style/"><u>Swift Graphics Upgrade: Intel G3000, WS11 Style!</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/ultimate-guide-to-restoring-samsung-drives-using-windows-10-professional-solutions-and-free-options/"><u>Ultimate Guide to Restoring Samsung Drives Using Windows 10 - Professional Solutions and Free Options</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/ultimate-tutorial-on-capturing-your-google-meet-video-conference-with-minimal-hassle/"><u>Ultimate Tutorial on Capturing Your Google Meet Video Conference with Minimal Hassle</u></a></li>
 </ul></div>
 

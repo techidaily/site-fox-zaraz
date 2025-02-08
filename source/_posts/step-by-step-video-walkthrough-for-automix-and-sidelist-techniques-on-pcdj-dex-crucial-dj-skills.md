@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Video Walkthrough for Automix and Sidelist Techniques on PCDJ DEX ˈCrucial DJ Skills
-date: 2025-01-18T22:12:39.947Z
-updated: 2025-01-20T17:29:10.562Z
+date: 2025-02-01T19:33:05.132Z
+updated: 2025-02-08T17:39:19.039Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ Being able to see your search results, or tracks in any opened directory or user
 ##### Using the Sidelist and Automix-Shuffle in PCDJ DEX 3 DJ Mixing Software
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,24 +44,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/coverimage-sidelist-automi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-comprehensive-guide-to-top-uhd-video-players-free-download-for-2024/"><u>[New] Comprehensive Guide to Top UHD Video Players, Free Download for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-how-to-activate-auto-hdr-setting-in-windows-11/"><u>[New] In 2024, How to Activate Auto HDR Setting in Windows 11</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-step-by-step-excellence-optimal-software-use-and-no-software-strategies-for-vimeo/"><u>[New] In 2024, Step-by-Step Excellence Optimal Software Use & No-Software Strategies for Vimeo</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/hot-selection-mastery-making-every-frame-count-on-youtube-for-2024/"><u>[New] Shot Selection Mastery Making Every Frame Count on YouTube for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-windows-high-dynamic-range-potential/"><u>[New] Unlocking Windows' High Dynamic Range Potential</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-learn-to-leverage-kinemasters-features-for-maximum-gaming-fun-then-compare/"><u>[Updated] In 2024, Learn to Leverage KineMaster's Features for Maximum Gaming Fun, Then Compare</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-superior-viewing-experience-essentials-of-4k-downloading/"><u>2024 Approved Superior Viewing Experience Essentials of 4K Downloading</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/windows-11-64-bit-win32-disk-imager/"><u>簡單指南: 如何在 Windows 11 64-Bit系統下使用 Win32 Disk Imager 及其替代品</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/win-10/"><u>用經過驗證的方法修復無法在Win 10工作站中尋獲的桌面分割</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/burgerlijke-verkoppelingen-in-actie-de-vier-keuzestoeveslopende-strategieen-van-vaste-onder-bureaublad/"><u>Burgerlijke Verkoppelingen in Actie: De VIER Keuzestoeveslopende Strategieën Van Vaste Onder Bureaublad</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/comment-configurer-correctement-les-parametres-dexportation-du-compte-dans-outlook-2010-un-guide-pratique/"><u>Comment Configurer Correctement Les Paramètres D'exportation Du Compte Dans Outlook 2010 : Un Guide Pratique</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-15-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 15 Plus Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/letztes-speichern-wiederherstellen-effiziente-methoden-von-myrecover-erkunden/"><u>Letztes Speichern Wiederherstellen! Effiziente Methoden Von MyRecover Erkunden</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-kinemasters-gs-complete-guide-for-2024/"><u>Mastering KineMaster's GS Complete Guide for 2024</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/schnell-und-schutz-vor-dem-simulierten-update-viren-microsofts/"><u>Schnell Und Schutz Vor Dem Simulierten Update-Viren Microsofts</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/schritt-fur-schritt-anleitung-wie-kann-man-fehlerhafte-datentrager-retten/"><u>Schritt-Für-Schritt-Anleitung: Wie Kann Man Fehlerhafte Datenträger Retten?</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/sichere-und-kostengunstige-windows-systemsicherungswerkzeuge-die-besten-backup-programme-fur-ihren-desktop/"><u>Sichere Und Kostengünstige Windows-Systemsicherungswerkzeuge – Die Besten Backup-Programme Für Ihren Desktop</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/toutes-les-solutions-gratuites-de-restauration-pour-samsung-sous-windows-11-un-guide-complet/"><u>Toutes Les Solutions Gratuites De Restauration Pour Samsung Sous Windows 11: Un Guide Complet</u></a></li>
-<li><a href="https://win11.techidaily.com/traversing-through-system-failsafe-files-after-blue-screen/"><u>Traversing Through System Failsafe Files After Blue Screen</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-audio-artisans-crafting-a-personal-library-with-6-best-free-youtube-apps/"><u>[New] 2024 Approved Audio Artisans Crafting a Personal Library with 6 Best Free YouTube Apps</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-create-unique-ringtone-from-social-media-music-tracks/"><u>2024 Approved How To Create Unique Ringtone From Social Media Music Tracks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/capture-professional-quality-with-complimentary-and-subscription-luts-for-2024/"><u>Capture Professional Quality with Complimentary & Subscription LUTs for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/customize-data-sources-in-property-editing-panel/"><u>Customize Data Sources in Property Editing Panel</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/easy-guide-on-how-to-record-songs-from-apple-music-streaming/"><u>Easy Guide on How to Record Songs From Apple Music Streaming</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/easy-methods-to-set-any-image-as-white-background-using-your-iphone/"><u>Easy Methods to Set Any Image as White Background Using Your iPhone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/easy-tutorial-on-reflecting-android-display-on-an-lg-smart-television/"><u>Easy Tutorial on Reflecting Android Display on an LG Smart Television</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/explore-whats-new-with-the-updated-itunes-software-version-121-unveiled/"><u>Explore What's New with the Updated iTunes Software - Version 12.1 Unveiled</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-low-memory-warning-in-vmware-hosted-windows-environments/"><u>Fixing Low Memory Warning in VmWare-Hosted Windows Environments</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/guide-mastering-the-game-of-honkai-impact-3-on-your-windows-machine/"><u>Guide: Mastering the Game of Honkai Impact 3 on Your Windows Machine</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-infinix-smart-8-hd-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Infinix Smart 8 HD</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/interpreting-tags-an-insightful-look-at-what-it-represents-when-you-tag-someone/"><u>Interpreting Tags: An Insightful Look at What It Represents When You Tag Someone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ipad-air-4-vs-ipad-air-5-showdown-is-it-worth-the-upgrade-techadvice/"><u>IPad Air 4 vs iPad Air 5 Showdown: Is It Worth the Upgrade? | TechAdvice</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-troubleshooting-expert-tips-for-getting-your-samsung-kies-back-on-track/"><u>Mastering Troubleshooting: Expert Tips for Getting Your Samsung Kies Back on Track!</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/recover-lost-data-restore-deleted-photos-and-documents-from-your-android-phone-with-sd-card-recovery/"><u>Recover Lost Data: Restore Deleted Photos & Documents From Your Android Phone with SD Card Recovery</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-tips-for-downloading-and-playing-mp3-audio-on-an-ipad-device/"><u>Top Tips for Downloading and Playing MP3 Audio on an iPad Device</u></a></li>
 </ul></div>
 

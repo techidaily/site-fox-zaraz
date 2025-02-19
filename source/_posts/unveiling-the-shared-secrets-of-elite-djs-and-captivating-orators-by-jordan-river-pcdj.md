@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Shared Secrets of Elite DJs & Captivating Orators by Jordan River | PCDJ
-date: 2025-02-04T17:22:07.236Z
-updated: 2025-02-08T17:55:16.267Z
+date: 2025-02-14T00:41:29.791Z
+updated: 2025-02-18T22:03:06.516Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ It’s no surprise that we are currently living in an attention-deficit culture.
 _DJ Jordan River has entertained thousands of special events over the last two decades. He will be public speaking to other national and international professional DJs at the American DJ convention September 2014, as well as the Mobile Beat Convention in February 2015\. He has studied public speaking from Professor James Wagstaff, Civil Attorney at Stanford University._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,19 +60,16 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2014/06/djspeakers-1.jpg?fit=530%2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-elevate-your-conversations-pro-level-whatsapp-tips/"><u>[New] Elevate Your Conversations Pro-Level WhatsApp Tips</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-basic-screen-capture-windows-10-version/"><u>[Updated] 2024 Approved Basic Screen Capture, Windows 10 Version</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-best-free-subtitles-and-downloader-guide/"><u>[Updated] 2024 Approved Best Free Subtitles & Downloader Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-income-comparison-exercise-monetizing-videos-on-dailymovement-and-youtube/"><u>[Updated] 2024 Approved Income Comparison Exercise Monetizing Videos on DailyMovement & YouTube</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-british-tv-programs-available-on-netflix-at-moment/"><u>Best British TV Programs Available on Netflix at Moment</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/how-to-effectively-capture-and-archive-online-meeting-footage/"><u>How to Effectively Capture and Archive Online Meeting Footage</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-xiaomi-redmi-12-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Xiaomi Redmi 12 5G Phone</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-iservice-control-operations-a-comprehensive-guide/"><u>Mastering IService Control Operations: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-password-security-top-3-tactics-for-creating-unforgettable-robust-passphrases/"><u>Mastering Password Security: Top 3 Tactics for Creating Unforgettable, Robust Passphrases</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-your-application-settings-a-guide-to-the-appproperties-tab-features/"><u>Mastering Your Application Settings: A Guide to the AppProperties Tab Features</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/superior-setup-software-provider/"><u>Superior Setup Software Provider</u></a></li>
-<li><a href="https://network-issues.techidaily.com/swift-graphics-upgrade-intel-g3000-ws11-style/"><u>Swift Graphics Upgrade: Intel G3000, WS11 Style!</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/ultimate-guide-to-restoring-samsung-drives-using-windows-10-professional-solutions-and-free-options/"><u>Ultimate Guide to Restoring Samsung Drives Using Windows 10 - Professional Solutions and Free Options</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/ultimate-tutorial-on-capturing-your-google-meet-video-conference-with-minimal-hassle/"><u>Ultimate Tutorial on Capturing Your Google Meet Video Conference with Minimal Hassle</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-integrating-sounds-and-music-into-your-instagram-videos/"><u>[Updated] 2024 Approved Integrating Sounds and Music Into Your Instagram Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-analytics-mastery-measuring-success-on-your-instagram-videos/"><u>[Updated] Analytics Mastery Measuring Success on Your Instagram Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-expert-hacks-for-improved-tiktok-visuals/"><u>2024 Approved Expert Hacks for Improved TikTok Visuals</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-success-a-compre-pointed-guide-to-reddit-content-creation/"><u>2024 Approved Unlocking Success A Compre Pointed Guide to Reddit Content Creation</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/comment-senregistrer-avec-confiance-sauvegarde-de-windows-1011-using-une-cle-usb-ou-un-disque-dur-externe-en-une-demie-journee/"><u>Comment S'enregistrer Avec Confiance : Sauvegarde De Windows 10/11 Using Une Clé USB Ou Un Disque Dur Externe en Une Demie-Journée</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-recover-without-a-system-restore-point-on-windows/"><u>How to Recover Without a System Restore Point on Windows</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/kompaktes-tutorial-installierte-windows-11-direkt-von-usb-laden/"><u>Kompaktes Tutorial: Installierte Windows 11 Direkt Von USB Laden</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1728507703738-ssd-windows-11/"><u>SSD 硬碟上直接使用 Windows 11 :不必再次設定</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/step-by-step-cloning-of-windows-server-2019-on-hdd-or-ssd-a-comprehensive-tutorial/"><u>Step-by-Step Cloning of Windows Server 2019 on HDD or SSD - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/swiftcapture-solutions-w-audio-walkthrough-support-for-2024/"><u>SwiftCapture Solutions W/ Audio Walkthrough Support for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unclogging-a-stuck-windows-11-settings-bar-the-search-solution/"><u>Unclogging a Stuck Windows 11 Settings Bar - The Search Solution</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "S Button Discovery: Mastering the DEX"
-date: 2025-02-06T16:53:34.591Z
-updated: 2025-02-08T17:39:07.973Z
+date: 2025-02-11T17:00:40.933Z
+updated: 2025-02-18T23:00:47.725Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ We hope the addition of the “S” button and singer search helps make your kar
 [Click Here](https://www.youtube.com/playlist?list=PLYCb1%5Fl2bbb5tcLGCnrssLM9cf%5FRxGIQD) for a playlist of video tutorials all about using DEX 3 specifically for hosting karaoke events.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,19 +44,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/dexsinger.jpg?fit=1920%2C1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-pioneering-storytelling-with-insta-and-youtube-fusion/"><u>[New] Pioneering Storytelling with Insta & YouTube Fusion</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unmatched-budget-friendly-camera-challenges/"><u>[Updated] In 2024, Unmatched Budget-Friendly Camera Challenges</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/get-the-latest-dex-software-version-31601-maintenance-release-ready-for-immediate-download/"><u>Get the Latest DEX Software Version 3.16.0.1 - Maintenance Release Ready for Immediate Download!</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/identifying-and-resolving-ram-issues-a-step-by-step-guide-by-yl-computing/"><u>Identifying & Resolving RAM Issues: A Step-by-Step Guide - By YL Computing</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/identifying-a-faulty-sound-card-expert-tips-from-yl-computing/"><u>Identifying a Faulty Sound Card: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-streamline-your-writing-process-transcribing-with-microsoft-word/"><u>In 2024, Streamline Your Writing Process Transcribing with Microsoft Word</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/key-figures-of-the-taiping-rebellion-a-chronological-overview-yl-computing/"><u>Key Figures of the Taiping Rebellion: A Chronological Overview - YL Computing</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-social-marketing-for-djs-how-to-win-over-patrons-with-facebooks-powerful-audience-tools-tutorial/"><u>Mastering Social Marketing for DJs: How to Win Over Patrons with Facebook's Powerful Audience Tools (Tutorial)</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-8-best-timecode-calculator-to-use-onlineiphoneandroid-for-2024/"><u>New 8 Best Timecode Calculator to Use (Online/iPhone/Android) for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/reappearance-magic-for-your-missing-airpods-the-ultimate-guide-to-fixes-on-find-my-iphone/"><u>Reappearance Magic for Your Missing AirPods: The Ultimate Guide to Fixes on Find My iPhone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/step-by-step-wiping-out-youtube-video-downloads/"><u>Step by Step Wiping Out YouTube Video Downloads</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/troubleshooting-and-replacing-faulty-hard-drives-quickly-insights-by-yl-software-professionals/"><u>Troubleshooting & Replacing Faulty Hard Drives Quickly - Insights by YL Software Professionals</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/ultimate-guide-to-mastering-sidelists-and-auto-mix-shuffle-features-in-pcdj-dex-3-learn-with-our-expert-tutorial/"><u>Ultimate Guide to Mastering Sidelists & Auto Mix Shuffle Features in PCDJ DEX 3 – Learn with Our Expert Tutorial</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/be-cash-flow-8-simple-money-making-tips-for-2024/"><u>YouTube Cash Flow 8 Simple Money-Making Tips for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-enhancing-digital-presence-with-vimeo-sharing-for-2024/"><u>[New] Enhancing Digital Presence with Vimeo Sharing for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-ideal-obs-preset-for-economical-machines/"><u>[New] Ideal OBS Preset for Economical Machines</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-integrate-twitter-and-snapchat-posting-tweets-as-snaps/"><u>[Updated] 2024 Approved Integrate Twitter & Snapchat Posting Tweets as Snaps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-tinyshot-critique-of-small-scale-recording-app/"><u>[Updated] TinyShot Critique of Small-Scale Recording App</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-ultimate-angular-ui-toolkit-pro-advanced-bootstrap-compatible-frontend-framework-by-creative-tim/"><u>1. Ultimate Angular UI Toolkit Pro: Advanced Bootstrap-Compatible Frontend Framework by Creative Tim</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/advanced-black-dashboard-for-professionals-reactive-crm-platform-using-reactstrap-and-bootstrap-v4-created-by-creative-tim/"><u>Advanced Black Dashboard for Professionals: Reactive CRM Platform Using Reactstrap and Bootstrap v4 - Created by Creative Tim</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/advanced-pro-level-nextjs-material-dashboard-by-creative-tim-exclusive-admin-templates/"><u>Advanced Pro-Level NextJS Material Dashboard by Creative Tim: Exclusive Admin Templates</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/advanced-react-native-framework-bundle-from-creative-tim-exclusive-app-development-solution/"><u>Advanced React Native Framework Bundle From Creative Tim - Exclusive App Development Solution</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/advanced-vuejs-3-and-bootstrap-5-admin-dashboard-with-vue-soft-ui-dashboard-pro-exclusive-pre-built-templates/"><u>Advanced VueJS 3 & Bootstrap 5 Admin Dashboard with Vue Soft UI Dashboard Pro - Exclusive Pre-Built Templates</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/beginners-guide-to-building-a-flutter-application-for-the-web-using-material-ui-and-code-samples-from-creativetim/"><u>Beginner's Guide to Building a Flutter Application for the Web Using Material-UI and Code Samples From CreativeTim</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/can-instagrams-video-selfies-be-trusted/"><u>Can Instagram's Video Selfies Be Trusted?</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/complete-paper-dashboard-pro-the-ultimate-premium-admin-interface-for-laravel-applications-with-customizable-crud-features-by-creative-tim/"><u>Complete Paper Dashboard Pro: The Ultimate Premium Admin Interface for Laravel Applications with Customizable CRUD Features by Creative Tim</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-incorporating-youtube-videos-in-google-slides/"><u>Guide Incorporating YouTube Videos in Google Slides</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-flush-dns-cache-on-a-mac/"><u>How to Flush DNS Cache on a Mac</u></a></li>
 </ul></div>
 

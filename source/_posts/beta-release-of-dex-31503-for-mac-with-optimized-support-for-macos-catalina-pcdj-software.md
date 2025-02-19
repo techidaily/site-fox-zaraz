@@ -1,7 +1,7 @@
 ---
 title: Beta Release of DEX 3.15.0.3 for Mac with Optimized Support for macOS Catalina | PCDJ Software
-date: 2025-02-07T21:40:05.144Z
-updated: 2025-02-08T17:05:35.417Z
+date: 2025-02-13T19:56:54.078Z
+updated: 2025-02-18T18:37:30.883Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What’s New, Changed, and Fixed in the DEX 3.15.0.3 macOS Public Beta
@@ -45,7 +45,7 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 **IMPORTANT NOTE:** If you receive this warning _“setup\_dex3\_3.15.0.3\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -67,18 +67,19 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/11/dex315macos-1.jpg?fit=1374
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-essential-ios-slideshow-software-for-latest-models/"><u>[New] 2024 Approved Essential iOS Slideshow Software for Latest Models</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/beginners-guide-to-building-a-flutter-application-for-the-web-using-material-ui-and-code-samples-from-creativetim/"><u>Beginner's Guide to Building a Flutter Application for the Web Using Material-UI and Code Samples From CreativeTim</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/complete-paper-dashboard-pro-the-ultimate-premium-admin-interface-for-laravel-applications-with-customizable-crud-features-by-creative-tim/"><u>Complete Paper Dashboard Pro: The Ultimate Premium Admin Interface for Laravel Applications with Customizable CRUD Features by Creative Tim</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/creative-tims-argon-ui-framework-a-complimentary-react-and-bootstrap-compatible-design-toolkit/"><u>Creative Tim's Argon UI Framework: A Complimentary React & Bootstrap-Compatible Design Toolkit</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/creative-tims-elite-ghost-elementor-themes-and-plugins-for-powerful-wordpress-sites/"><u>Creative Tim's Elite Ghost Elementor Themes & Plugins for Powerful WordPress Sites</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/creative-tims-no-cost-flutter-prototype-with-material-theme-for-easy-development/"><u>Creative Tim's No-Cost Flutter Prototype with Material Theme for Easy Development</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/creative-tims-ultimate-admin-template-reactive-paper-dashboard-powered-by-bootstrap-cuatro/"><u>Creative Tim's Ultimate Admin Template: Reactive Paper Dashboard Powered by Bootstrap Cuatro</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/fifa-19-unveiled-leading-the-charge-as-a-top-contender-in-sports-video-game-arena/"><u>FIFA 19 Unveiled: Leading the Charge as a Top Contender in Sports Video Game Arena</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/flipped-frames-understanding-instagram-video-orientation/"><u>Flipped Frames Understanding Instagram Video Orientation</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-apple-iphone-11-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From Apple iPhone 11?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/limited-time-only-exceptional-prime-day-savings-on-new-and-refurbished-samsung-electronics/"><u>Limited Time Only: Exceptional Prime Day Savings on New & Refurbished Samsung Electronics</u></a></li>
-<li><a href="https://games-able.techidaily.com/perfect-sitters-top-choices-for-heightened-gamers/"><u>Perfect Sitters: Top Choices for Heightened Gamers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reboot-and-brighten-top-5-tricks-for-fixed-backlit-keys-in-win/"><u>Reboot and Brighten: Top 5 Tricks for Fixed Backlit Keys in Win</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unraveling-zooms-secrets-mastery-of-screenshot-sharing/"><u>[New] Unraveling Zoom's Secrets Mastery of Screenshot Sharing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-archive-all-highlights-no-limit-savers-available/"><u>[Updated] Archive All Highlights No Limit Savers Available</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-restoring-information-from-a-non-functional-laptops-solid-state-drive-two-effective-approaches/"><u>1. Restoring Information From a Non-Functional Laptop's Solid State Drive: Two Effective Approaches</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/dropbox52024/"><u>次世代デジタル管理に最適！Dropboxより優れたオプショントップ5(2024年版)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/a-backward-glance-proven-strategies-for-pinpointing-picture-sources-on-instagram-for-2024/"><u>A Backward Glance Proven Strategies for Pinpointing Picture Sources on Instagram for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/battlefield-2042-stability-solutions-for-pc-users-experiencing-game-crashes/"><u>Battlefield 2042 Stability Solutions for PC Users Experiencing Game Crashes</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/how-can-you-identify-and-troubleshoot-a-defective-hard-drive-expert-insights-from-yl-computing/"><u>How Can You Identify and Troubleshoot a Defective Hard Drive? - Expert Insights From YL Computing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-unveiling-2023s-most-efficient-tools-for-fb-lite-videos-download/"><u>In 2024, Unveiling 2023'S Most Efficient Tools for FB Lite Videos Download</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-volume-shadow-copy-using-aomei-backupper-for-windows-11-10-8-and-aturdays/"><u>Mastering Volume Shadow Copy Using AOMEI Backupper for Windows 11, 10, 8 & Aturdays</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/paso-a-paso-transforma-tu-disco-duro-de-portatil-en-un-ssd-o-hdd-mas-pequenos-y-eficientes/"><u>Paso a Paso: Transforma Tu Disco Duro De Portátil en Un SSD O HDD Más Pequeños Y Eficientes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-streaming-connect-chromecast-with-your-fire-stick/"><u>Seamless Streaming: Connect Chromecast with Your Fire Stick</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-art-of-cozy-cinematography-top-5-winter-scenes/"><u>The Art of Cozy Cinematography Top 5 Winter Scenes</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/windows-11-cloudlocal/"><u>Windows 11: 最適なインストール方法 - CloudダウンロードかLocal再インストールかを決定する</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1728479005718-windows-home-server/"><u>Windows Home Server用の最適なバックアップツールを探している方へ：ベストリストとお勧め</u></a></li>
 </ul></div>
 

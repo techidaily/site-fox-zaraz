@@ -1,7 +1,7 @@
 ---
 title: Beta Release of DEX 3.15.0.3 for Mac with Optimized Support for macOS Catalina | PCDJ Software
-date: 2025-02-13T19:56:54.078Z
-updated: 2025-02-18T18:37:30.883Z
+date: 2025-03-03T02:57:23.398Z
+updated: 2025-03-07T12:37:53.012Z
 tags:
   - product
 categories:
@@ -32,10 +32,6 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What’s New, Changed, and Fixed in the DEX 3.15.0.3 macOS Public Beta
 
 * Considerable optimizations and performance improvements for macOS Catalina
@@ -43,10 +39,6 @@ For additional information about [Beatport LINK and Beatsource LINK](https://too
 [Download DEX 3.15.0.3 for macOS](https://tools.techidaily.com/pcdj/products/)
 
 **IMPORTANT NOTE:** If you receive this warning _“setup\_dex3\_3.15.0.3\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install DEX 3.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -67,19 +59,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/11/dex315macos-1.jpg?fit=1374
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-unraveling-zooms-secrets-mastery-of-screenshot-sharing/"><u>[New] Unraveling Zoom's Secrets Mastery of Screenshot Sharing</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-archive-all-highlights-no-limit-savers-available/"><u>[Updated] Archive All Highlights No Limit Savers Available</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1-restoring-information-from-a-non-functional-laptops-solid-state-drive-two-effective-approaches/"><u>1. Restoring Information From a Non-Functional Laptop's Solid State Drive: Two Effective Approaches</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/dropbox52024/"><u>次世代デジタル管理に最適！Dropboxより優れたオプショントップ5(2024年版)</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/a-backward-glance-proven-strategies-for-pinpointing-picture-sources-on-instagram-for-2024/"><u>A Backward Glance Proven Strategies for Pinpointing Picture Sources on Instagram for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/battlefield-2042-stability-solutions-for-pc-users-experiencing-game-crashes/"><u>Battlefield 2042 Stability Solutions for PC Users Experiencing Game Crashes</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/how-can-you-identify-and-troubleshoot-a-defective-hard-drive-expert-insights-from-yl-computing/"><u>How Can You Identify and Troubleshoot a Defective Hard Drive? - Expert Insights From YL Computing</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-unveiling-2023s-most-efficient-tools-for-fb-lite-videos-download/"><u>In 2024, Unveiling 2023'S Most Efficient Tools for FB Lite Videos Download</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/mastering-volume-shadow-copy-using-aomei-backupper-for-windows-11-10-8-and-aturdays/"><u>Mastering Volume Shadow Copy Using AOMEI Backupper for Windows 11, 10, 8 & Aturdays</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/paso-a-paso-transforma-tu-disco-duro-de-portatil-en-un-ssd-o-hdd-mas-pequenos-y-eficientes/"><u>Paso a Paso: Transforma Tu Disco Duro De Portátil en Un SSD O HDD Más Pequeños Y Eficientes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/seamless-streaming-connect-chromecast-with-your-fire-stick/"><u>Seamless Streaming: Connect Chromecast with Your Fire Stick</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/the-art-of-cozy-cinematography-top-5-winter-scenes/"><u>The Art of Cozy Cinematography Top 5 Winter Scenes</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/windows-11-cloudlocal/"><u>Windows 11: 最適なインストール方法 - CloudダウンロードかLocal再インストールかを決定する</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/1728479005718-windows-home-server/"><u>Windows Home Server用の最適なバックアップツールを探している方へ：ベストリストとお勧め</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-future-unfurled-an-insight-into-benq-sw320s-4k-display/"><u>[New] 2024 Approved The Future Unfurled An Insight Into BenQ SW320's 4K Display</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-audiences-choice-top-8-best-for-uhd-blu-ray/"><u>[New] Audience's Choice Top 8 Best for UHD Blu-Ray</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-mastering-stream-selection-a-top-10-tips-guide/"><u>[New] Mastering Stream Selection A Top 10 Tips Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-audio-upheavals-top-rhythmic-disruptors-for-devices-for-2024/"><u>[Updated] Audio Upheavals Top Rhythmic Disruptors for Devices for 2024</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/1-unlimited-access-premium-karaoke-tracks-with-karaoke-cloud-pro-membership/"><u>1. Unlimited Access: Premium Karaoke Tracks with Karaoke Cloud Pro Membership</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/beyond-basics-advanced-techniques-for-boosting-pc-speed-with-insights-from-yl-software-experts/"><u>Beyond Basics: Advanced Techniques for Boosting PC Speed with Insights From YL Software Experts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/innovative-android-camera-apps/"><u>Innovative Android Camera Apps</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/mastering-the-art-of-mouse-troubleshooting-solutions-for-optimal-performance/"><u>Mastering the Art of Mouse Troubleshooting: Solutions for Optimal Performance</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/reinstallation-guide-how-to-update-your-sound-cards-device-driver-tips-from-yl-computing/"><u>Reinstallation Guide: How To Update Your Sound Card's Device Driver - Tips From YL Computing</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/top-tips-for-setting-up-vsphere-replication-ensuring-virtual-machine-safety/"><u>Top Tips for Setting Up vSphere Replication: Ensuring Virtual Machine Safety</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/tout-sur-la-sauvegarderestauration-de-vos-donnees-avec-des-etapes-simples-en-un-seul-clic/"><u>Tout Sur La Sauvegarde/Restauration De Vos Données Avec Des Étapes Simples en Un Seul Clic !</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-guide-to-adding-text-on-images/"><u>Ultimate Guide to Adding Text on Images</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/ultimate-guide-to-avoid-computer-system-freeze-ups-with-tips-from-yl-software-experts/"><u>Ultimate Guide to Avoid Computer System Freeze-Ups with Tips From YL Software Experts</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/unraveling-historical-milestones-the-impactful-era-of-qin-dynasty-in-chinese-history-explored-by-yl-computing-and-software/"><u>Unraveling Historical Milestones: The Impactful Era of Qin Dynasty in Chinese History - Explored by YL Computing & Software</u></a></li>
 </ul></div>
 
